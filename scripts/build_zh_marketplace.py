@@ -70,6 +70,11 @@ def translate(text: str, cache: dict[str, str]) -> str:
 def chinese_label(description: str) -> str:
     """Make a compact Chinese purpose label for the marketplace list view."""
     text = description.removeprefix("（英文原文）").strip()
+    chinese_start = next(
+        (index for index, char in enumerate(text) if "\u4e00" <= char <= "\u9fff"), None
+    )
+    if chinese_start is not None:
+        text = text[chinese_start:]
     for separator in ("。", "；", "，", "：", "、", " "):
         text = text.split(separator, 1)[0]
     text = text.strip(" ，。；：、-—")

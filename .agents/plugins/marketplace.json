@@ -65,7 +65,7 @@
     },
     {
       "name": "agent-guard",
-      "displayName": "Agent Guard · AI编码代理（",
+      "displayName": "Agent Guard · 编码代理（",
       "source": {
         "source": "local",
         "path": "./plugins/JeongJaeSoon/agent-guard"
@@ -125,7 +125,7 @@
     },
     {
       "name": "agentops",
-      "displayName": "AgentOps · DevOps层",
+      "displayName": "AgentOps · 层",
       "source": {
         "source": "local",
         "path": "./plugins/boshu2/agentops"
@@ -273,7 +273,7 @@
     },
     {
       "name": "babok_analyst",
-      "displayName": "BABOK Analyst · BABOK",
+      "displayName": "BABOK Analyst · 业务分析代理",
       "source": {
         "source": "local",
         "path": "./plugins/GSkuza/BABOK_ANALYST"
@@ -288,7 +288,7 @@
     },
     {
       "name": "bgs-modding-superpowers",
-      "displayName": "BGS Modding Superpowers · Agentic",
+      "displayName": "BGS Modding Superpowers · 策展工具包",
       "source": {
         "source": "local",
         "path": "./plugins/BB-84C/bgs-modding-superpowers"
@@ -302,7 +302,7 @@
     },
     {
       "name": "boss",
-      "displayName": "Boss · BMAD管道插件",
+      "displayName": "Boss · 管道插件",
       "source": {
         "source": "local",
         "path": "./plugins/echoVic/boss-skill"
@@ -421,7 +421,7 @@
     },
     {
       "name": "claude-octopus",
-      "displayName": "Claude Octopus · Multi-LLM业务流程分派给8家…",
+      "displayName": "Claude Octopus · 业务流程分派给8家提供商（",
       "source": {
         "source": "local",
         "path": "./plugins/nyldn/claude-octopus"
@@ -569,7 +569,7 @@
     },
     {
       "name": "codex-rg-guard",
-      "displayName": "Codex rg Guard · Codex的预算“rg”/“grep…",
+      "displayName": "Codex rg Guard · 的预算“rg”/“grep”替代品",
       "source": {
         "source": "local",
         "path": "./plugins/Rycen7822/codex-rg-guard"
@@ -583,7 +583,7 @@
     },
     {
       "name": "codex-skin-pack-installer",
-      "displayName": "Codex Skin Pack Installer · Codex插件和Skill",
+      "displayName": "Codex Skin Pack Installer · 插件和Skill",
       "source": {
         "source": "local",
         "path": "./plugins/ChannelerH/codex-skin-packs"
@@ -702,7 +702,7 @@
     },
     {
       "name": "development-skills",
-      "displayName": "Development Skills · Codex和Claude",
+      "displayName": "Development Skills · 和Claude",
       "source": {
         "source": "local",
         "path": "./plugins/reidemeister94/development-skills"
@@ -732,7 +732,7 @@
     },
     {
       "name": "docflow",
-      "displayName": "Docflow · AI编码代理的轻量级文档内存",
+      "displayName": "Docflow · 编码代理的轻量级文档内存",
       "source": {
         "source": "local",
         "path": "./plugins/MedAdemBHA/docflow"
@@ -747,7 +747,7 @@
     },
     {
       "name": "ejentum",
-      "displayName": "ejentum-mcp · MCP服务器公开了Codex的推理",
+      "displayName": "ejentum-mcp · 服务器公开了Codex的推理",
       "source": {
         "source": "local",
         "path": "./plugins/ejentum/ejentum-mcp"
@@ -805,7 +805,7 @@
     },
     {
       "name": "frappe-agent",
-      "displayName": "Frappe Agent · Frappe和ERPNext为Cod…",
+      "displayName": "Frappe Agent · 和ERPNext为Codex提供编码",
       "source": {
         "source": "local",
         "path": "./plugins/Dkm0315/frappe-agent"
@@ -850,7 +850,7 @@
     },
     {
       "name": "graymatter",
-      "displayName": "GrayMatter · Codex和OpenClaw代理的持…",
+      "displayName": "GrayMatter · 和OpenClaw代理的持久内存和共…",
       "source": {
         "source": "local",
         "path": "./plugins/ValkyrLabs/GrayMatter"
@@ -999,7 +999,7 @@
     },
     {
       "name": "mailagent",
-      "displayName": "MailAgent · Codex的临时收件箱—一次性密码",
+      "displayName": "MailAgent · 的临时收件箱—一次性密码",
       "source": {
         "source": "local",
         "path": "./plugins/Alex0nder/MailAgent"
@@ -1028,7 +1028,7 @@
     },
     {
       "name": "ontoly",
-      "displayName": "Ontoly · Codex的确定性软件图形工作流程",
+      "displayName": "Ontoly · 的确定性软件图形工作流程",
       "source": {
         "source": "local",
         "path": "./plugins/0xsarwagya/ontoly-codex-plugin"
@@ -1102,7 +1102,7 @@
     },
     {
       "name": "quality-engineering-skills",
-      "displayName": "Quality Engineering Skills · 22项汽车和制造业结构化质量工程技能",
+      "displayName": "Quality Engineering Skills · 项汽车和制造业结构化质量工程技能",
       "source": {
         "source": "local",
         "path": "./plugins/RBraga01/Quality-Engineering-Skills"
@@ -1220,7 +1220,7 @@
     },
     {
       "name": "session-orchestrator",
-      "displayName": "Session Orchestrator · Claude",
+      "displayName": "Session Orchestrator · 和Cursor",
       "source": {
         "source": "local",
         "path": "./plugins/Kanevry/session-orchestrator"
@@ -1235,7 +1235,7 @@
     },
     {
       "name": "simple-man",
-      "displayName": "Simple Man · Codex代理的高压缩通信模式",
+      "displayName": "Simple Man · 代理的高压缩通信模式",
       "source": {
         "source": "local",
         "path": "./plugins/Maksim-Burtsev/simple-man"
@@ -1265,7 +1265,7 @@
     },
     {
       "name": "spec-driven",
-      "displayName": "Spec-Driven Development · Claude",
+      "displayName": "Spec-Driven Development · 和Codex的三阶段需求→设计→任务…",
       "source": {
         "source": "local",
         "path": "./plugins/Habib0x0/spec-driven-plugin"
@@ -1369,7 +1369,7 @@
     },
     {
       "name": "tailtest",
-      "displayName": "tailtest · Hook-powered测试生成…",
+      "displayName": "tailtest · 测试生成--检测代理转换过程中更改的…",
       "source": {
         "source": "local",
         "path": "./plugins/avansaber/tailtest-codex"
@@ -1399,7 +1399,7 @@
     },
     {
       "name": "tartinerlabs",
-      "displayName": "Tartiner Labs · Git工作流程",
+      "displayName": "Tartiner Labs · 工作流程",
       "source": {
         "source": "local",
         "path": "./plugins/tartinerlabs/skills"
@@ -1501,7 +1501,7 @@
     },
     {
       "name": "unity-agent-workflows",
-      "displayName": "Unity Agent Workflows · Unity",
+      "displayName": "Unity Agent Workflows · 代理的Codex插件和技能",
       "source": {
         "source": "local",
         "path": "./plugins/AUN-PN/unity-agent-workflows"
@@ -1530,7 +1530,7 @@
     },
     {
       "name": "velith",
-      "displayName": "Velith · AI原生发布系统",
+      "displayName": "Velith · 原生发布系统",
       "source": {
         "source": "local",
         "path": "./plugins/epicsagas/Velith"
@@ -1559,7 +1559,7 @@
     },
     {
       "name": "villagesql",
-      "displayName": "VillageSQL Skills · VillageSQL的技能",
+      "displayName": "VillageSQL Skills · 的技能",
       "source": {
         "source": "local",
         "path": "./plugins/villagesql/villagesql-skills"
@@ -1574,7 +1574,7 @@
     },
     {
       "name": "waggle",
-      "displayName": "Waggle · Codex的持久图形支持会话记忆",
+      "displayName": "Waggle · 的持久图形支持会话记忆",
       "source": {
         "source": "local",
         "path": "./plugins/Abhigyan-Shekhar/Waggle-mcp"
@@ -1766,7 +1766,7 @@
     },
     {
       "name": "axonflow",
-      "displayName": "AxonFlow · Codex的运行时治理",
+      "displayName": "AxonFlow · 的运行时治理",
       "source": {
         "source": "local",
         "path": "./plugins/getaxonflow/axonflow-codex-plugin"
@@ -1839,7 +1839,7 @@
     },
     {
       "name": "chrome-devtools",
-      "displayName": "Chrome DevTools · Chrome-devtools-mc…",
+      "displayName": "Chrome DevTools · 的一键Codex插件包装器",
       "source": {
         "source": "local",
         "path": "./plugins/win4r/chrome-devtools-codex-plugin"
@@ -2060,7 +2060,7 @@
     },
     {
       "name": "education-agent-skills",
-      "displayName": "Education Agent Skills · 131基于证据的教育技能",
+      "displayName": "Education Agent Skills · 基于证据的教育技能",
       "source": {
         "source": "local",
         "path": "./plugins/GarethManning/education-agent-skills"
@@ -2133,7 +2133,7 @@
     },
     {
       "name": "hermes-tweet",
-      "displayName": "Hermes Tweet · Hermes",
+      "displayName": "Hermes Tweet · 插件",
       "source": {
         "source": "local",
         "path": "./plugins/Xquik-dev/hermes-tweet"
@@ -2148,7 +2148,7 @@
     },
     {
       "name": "jk",
-      "displayName": "Jenkins CLI · Jenkins控制器的GitHub",
+      "displayName": "Jenkins CLI · 控制器的GitHub",
       "source": {
         "source": "local",
         "path": "./plugins/avivsinai/jenkins-cli"
@@ -2177,7 +2177,7 @@
     },
     {
       "name": "kicad-happy",
-      "displayName": "KiCad Happy · KiCad",
+      "displayName": "KiCad Happy · 技能",
       "source": {
         "source": "local",
         "path": "./plugins/aklofas/kicad-happy"
@@ -2191,7 +2191,7 @@
     },
     {
       "name": "crawlberg",
-      "displayName": "Kreuzberg · 91种以上格式的本地文档提取",
+      "displayName": "Kreuzberg · 种以上格式的本地文档提取",
       "source": {
         "source": "local",
         "path": "./plugins/kreuzberg-dev/plugins/plugins/crawlberg"
@@ -2296,7 +2296,7 @@
     },
     {
       "name": "costguard",
-      "displayName": "Maestro: Costguard · Codex的成本审计师通过只读提供程…",
+      "displayName": "Maestro: Costguard · 的成本审计师通过只读提供程序检查标记…",
       "source": {
         "source": "local",
         "path": "./plugins/mbanderas/costguard"
@@ -2384,7 +2384,7 @@
     },
     {
       "name": "openproject-codex",
-      "displayName": "OpenProject Codex · OpenProject",
+      "displayName": "OpenProject Codex · 与项目",
       "source": {
         "source": "local",
         "path": "./plugins/varaprasadreddy9676/openproject-codex-plugin"
@@ -2398,7 +2398,7 @@
     },
     {
       "name": "ophis",
-      "displayName": "Ophis · Onchain代币通过托管的Ophi…",
+      "displayName": "Ophis · 代币通过托管的Ophis",
       "source": {
         "source": "local",
         "path": "./plugins/ophis-fi/skills"
@@ -2634,7 +2634,7 @@
     },
     {
       "name": "sysknife",
-      "displayName": "SysKnife · Linux",
+      "displayName": "SysKnife · 作为Codex的MCP服务器",
       "source": {
         "source": "local",
         "path": "./plugins/lacs-project/sysknife"
@@ -2677,7 +2677,7 @@
     },
     {
       "name": "task-scheduler",
-      "displayName": "Task Scheduler · OpenAI",
+      "displayName": "Task Scheduler · 插件和本地MCP服务器",
       "source": {
         "source": "local",
         "path": "./plugins/6Delta9/task-scheduler-codex-plugin"
@@ -2837,7 +2837,7 @@
     },
     {
       "name": "x-twitter-scraper",
-      "displayName": "X Twitter Scraper · X/Twitter数据",
+      "displayName": "X Twitter Scraper · 数据",
       "source": {
         "source": "local",
         "path": "./plugins/Xquik-dev/x-twitter-scraper"
