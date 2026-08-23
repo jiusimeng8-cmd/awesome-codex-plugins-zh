@@ -51,7 +51,7 @@ def translate(text: str, cache: dict[str, str]) -> str:
         headers={"User-Agent": "awesome-codex-plugins-zh-sync/1.0"},
     )
     try:
-        with urllib.request.urlopen(request, timeout=30) as response:
+        with urllib.request.urlopen(request, timeout=8) as response:
             payload = json.load(response)
     except Exception as error:
         SERVICE_AVAILABLE = False
