@@ -1,4 +1,4 @@
 interface:
-  display_name: "Review Security"
-  short_description: "Review application changes for security risks"
-  default_prompt: "Use $review-security to inspect this change for exploitable risks and recommend verifiable fixes."
+  display_name: "Codex How To · 具有9项技能的工程第一Codex课程…"
+  short_description: "具有9项技能的工程第一Codex课程…"
+  default_prompt: "使用 Codex How To 帮我：具有9项技能的工程第一Codex课程…"

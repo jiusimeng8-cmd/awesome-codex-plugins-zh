@@ -1,4 +1,4 @@
 interface:
-  display_name: "Rust Concurrency Primitives"
-  short_description: "Choose and review Rust thread synchronization primitives"
-  default_prompt: "Review this Rust concurrent code for the right thread, lock, channel, and atomic patterns."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

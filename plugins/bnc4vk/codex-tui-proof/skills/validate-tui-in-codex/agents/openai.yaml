@@ -1,4 +1,4 @@
 interface:
-  display_name: "Validate TUI in Codex"
-  short_description: "Visual TUI proof without desktop takeover"
-  default_prompt: "Use $validate-tui-in-codex to interact with this TUI and attach visual validation evidence."
+  display_name: "Codex TUI Proof · 使用屏幕截图和会话证据"
+  short_description: "使用屏幕截图和会话证据"
+  default_prompt: "使用 Codex TUI Proof 帮我：使用屏幕截图和会话证据"

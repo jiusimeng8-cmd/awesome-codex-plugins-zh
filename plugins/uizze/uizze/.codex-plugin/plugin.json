@@ -31,7 +31,7 @@
     "composerIcon": "./integrations/mcp/assets/uizze-logo-400x400.png",
     "logo": "./integrations/mcp/assets/uizze-logo-400x400.png",
     "developerName": "UIZZE",
-    "category": "开发与工作流",
+    "category": "Developer Tools",
     "capabilities": [
       "适用场景：停止UI SLOP"
     ],

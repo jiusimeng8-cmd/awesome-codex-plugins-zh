@@ -27,7 +27,7 @@
     "shortDescription": "只读元技能",
     "longDescription": "只读元技能，可扫描您的MCP服务器、技能、插件和CLI工具，然后使用复制粘贴快速操作表建议最多三种排名方法（有条理/快速/深入）。",
     "developerName": "dragon1086",
-    "category": "开发与工作流",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：只读元技能"
     ],

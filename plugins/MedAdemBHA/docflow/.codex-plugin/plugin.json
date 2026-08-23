@@ -19,19 +19,19 @@
   ],
   "skills": "./skills",
   "interface": {
-    "displayName": "Docflow · AI编码代理的轻量级文档内存",
-    "shortDescription": "AI编码代理的轻量级文档内存",
+    "displayName": "Docflow · 编码代理的轻量级文档内存",
+    "shortDescription": "编码代理的轻量级文档内存",
     "longDescription": "AI编码代理的轻量级文档内存，用于构建7类文档树，运行就绪性检查，在完成前验证文档，并在Claude Code和Codex中保留每月更新日志。",
     "developerName": "Mohamed Adem Bel Hadj Amor",
-    "category": "开发与工作流",
+    "category": "Productivity",
     "capabilities": [
-      "适用场景：AI编码代理的轻量级文档内存"
+      "适用场景：编码代理的轻量级文档内存"
     ],
     "websiteURL": "https://github.com/MedAdemBHA/docflow",
     "brandColor": "#1F6FEB",
     "composerIcon": "./assets/icon.svg",
     "defaultPrompt": [
-      "使用 Docflow 帮我：AI编码代理的轻量级文档内存"
+      "使用 Docflow 帮我：编码代理的轻量级文档内存"
     ]
   }
 }

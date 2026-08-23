@@ -23,7 +23,7 @@
     "shortDescription": "只读审核",
     "longDescription": "只读审核，用于区分持久代理目标、状态、更正、重新启动证据、权限边界、调度程序声明和商业证明与自我报告的健康状况。",
     "developerName": "Revert Creations",
-    "category": "开发与工作流",
+    "category": "Productivity",
     "composerIcon": "./assets/icon.svg",
     "capabilities": [
       "适用场景：只读审核"

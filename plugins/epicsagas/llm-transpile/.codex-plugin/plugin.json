@@ -23,7 +23,7 @@
     "shortDescription": "通过PostToolUse钩子自动压…",
     "longDescription": "通过PostToolUse钩子自动压缩.md、.html和.txt文件，在没有工作流程更改的情况下，将上下文使用量减少高达40%。",
     "developerName": "epicsagas",
-    "category": "开发与工作流",
+    "category": "Performance",
     "capabilities": [
       "适用场景：通过PostToolUse钩子自动压…"
     ],

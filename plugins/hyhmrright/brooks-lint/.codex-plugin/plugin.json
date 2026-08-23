@@ -26,7 +26,7 @@
     "shortDescription": "基于六本经典工程书籍的人工智能代码审…",
     "longDescription": "基于六本经典工程书籍的人工智能代码审查—具有书籍引用的衰减风险诊断、严重性标签和四种分析模式（公关审查、架构审计、技术债务、测试质量）。",
     "developerName": "hyhmrright",
-    "category": "开发与工作流",
+    "category": "Coding",
     "capabilities": [
       "适用场景：基于六本经典工程书籍的人工智能代码审…"
     ],

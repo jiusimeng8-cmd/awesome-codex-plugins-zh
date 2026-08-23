@@ -25,7 +25,7 @@
     "shortDescription": "人工智能新闻跟踪技能",
     "longDescription": "人工智能新闻跟踪技能，可监控6个来源（ Reddit、HN、GitHub、Hugging Face、arXiv、X ）的80多个实体，并生成带有信息图表和消息摘要的评分日报。",
     "developerName": "octo-patch",
-    "category": "工具与集成",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：人工智能新闻跟踪技能"
     ],

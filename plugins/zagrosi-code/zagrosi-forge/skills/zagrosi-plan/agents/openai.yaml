@@ -1,5 +1,5 @@
 interface:
-  display_name: "Zagrosi Plan"
-  short_description: "Create reviewed TDD implementation plans"
+  display_name: "Zagrosi Forge · 将广泛的项目简介分解为研究计划"
+  short_description: "将广泛的项目简介分解为研究计划"
   brand_color: "#0F766E"
-  default_prompt: "Use $zagrosi-forge:zagrosi-plan to turn this spec into reviewed implementation sections."
+  default_prompt: "使用 Zagrosi Forge 帮我：将广泛的项目简介分解为研究计划"

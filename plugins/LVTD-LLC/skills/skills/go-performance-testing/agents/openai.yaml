@@ -1,4 +1,4 @@
 interface:
-  display_name: "Go Performance Testing"
-  short_description: "Benchmark and profile Go programs reliably"
-  default_prompt: "Use $go-performance-testing to benchmark and optimize this Go code with reproducible evidence."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

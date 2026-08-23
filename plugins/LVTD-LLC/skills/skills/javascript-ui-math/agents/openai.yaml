@@ -1,4 +1,4 @@
 interface:
-  display_name: "JavaScript UI Math"
-  short_description: "JavaScript number math for UI"
-  default_prompt: "Use $javascript-ui-math to fix the rounding, wrapping, or numeric edge cases in this UI behavior."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

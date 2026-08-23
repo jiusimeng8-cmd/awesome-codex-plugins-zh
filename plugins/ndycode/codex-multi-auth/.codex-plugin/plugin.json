@@ -6,8 +6,7 @@
     "composerIcon": "./assets/codex-multi-auth-icon.svg",
     "displayName": "Codex Multi Auth · 具有切换",
     "shortDescription": "具有切换",
-    "longDescription": "具有切换、运行状况检查和恢复工具的官方Codex CLI的多帐户OAuth经理。",
-    "category": "开发与工作流"
+    "longDescription": "具有切换、运行状况检查和恢复工具的官方Codex CLI的多帐户OAuth经理。"
   },
   "skills": "./skills/"
 }

@@ -1,4 +1,4 @@
 interface:
-  display_name: "CodeTruss"
-  short_description: "First-pass verification gate for AI-written code"
-  default_prompt: "Review my current agent changes with CodeTruss and explain the receipt."
+  display_name: "CodeTruss · 本地优先验收门"
+  short_description: "本地优先验收门"
+  default_prompt: "使用 CodeTruss 帮我：本地优先验收门"

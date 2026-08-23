@@ -1,4 +1,4 @@
 interface:
-  display_name: "Django Selenium Functional Tests"
-  short_description: "Stabilize Django browser tests"
-  default_prompt: "Use $django-selenium-functional-tests to make this Django Selenium test stable and user-focused."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

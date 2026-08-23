@@ -19,16 +19,16 @@
     "devops"
   ],
   "interface": {
-    "displayName": "SysKnife · Linux sysadmin co…",
-    "shortDescription": "Linux sysadmin co…",
+    "displayName": "SysKnife · 作为Codex的MCP服务器",
+    "shortDescription": "作为Codex的MCP服务器",
     "longDescription": "Linux sysadmin co-pilot作为Codex的MCP服务器：纯语言请求变为类型化的风险分类操作，特权后台程序仅在带外终端批准后运行，并具有Ed25519签名的审核链和自动回滚。",
     "developerName": "LACS Project",
-    "category": "工具与集成",
+    "category": "DevOps",
     "capabilities": [
-      "适用场景：Linux sysadmin co…"
+      "适用场景：作为Codex的MCP服务器"
     ],
     "defaultPrompt": [
-      "使用 SysKnife 帮我：Linux sysadmin co…"
+      "使用 SysKnife 帮我：作为Codex的MCP服务器"
     ],
     "brandColor": "#FF6B1A",
     "composerIcon": "./assets/raster/sysknife-256.png",

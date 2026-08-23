@@ -24,11 +24,11 @@
   "skills": "../skills",
   "interface": {
     "composerIcon": "./assets/ejentum-icon.svg",
-    "displayName": "Ejentum Reasoning Harness · MCP服务器公开了Codex的推理",
-    "shortDescription": "MCP服务器公开了Codex的推理",
+    "displayName": "Ejentum Reasoning Harness · 服务器公开了Codex的推理",
+    "shortDescription": "服务器公开了Codex的推理",
     "longDescription": "MCP服务器公开了Codex的推理、代码、反欺骗和内存利用工具。",
     "developerName": "Ejentum",
-    "category": "开发与工作流",
+    "category": "agent-reliability",
     "websiteURL": "https://ejentum.com",
     "privacyPolicyURL": "https://ejentum.com/legal"
   }

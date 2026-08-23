@@ -1,4 +1,4 @@
 interface:
-  display_name: "Reciprocity Offers"
-  short_description: "Design value-first offers"
-  default_prompt: "Use $reciprocity-offer-design to improve this persuasion task ethically."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

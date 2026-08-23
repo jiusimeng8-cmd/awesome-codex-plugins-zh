@@ -1,4 +1,4 @@
 interface:
-  display_name: "Mechanical Engineering Research"
-  short_description: "Evidence-first thermal-fluid research and writing"
-  default_prompt: "Use $mechanical-engineering-research to solve this mechanical-engineering research task with verified evidence, explicit assumptions and units, physical validation, reproducibility, and truthful completion reporting."
+  display_name: "Thermal-Fluid Research Workflow · 用于文献综述"
+  short_description: "用于文献综述"
+  default_prompt: "使用 Thermal-Fluid Research Workflow 帮我：用于文献综述"

@@ -1,4 +1,4 @@
 interface:
-  display_name: "Remember Design System"
-  short_description: "Load compact design-system memory before UI work"
-  default_prompt: "Build a compact Memi design-system brief for this interface task."
+  display_name: "memi · 通过UI审计"
+  short_description: "通过UI审计"
+  default_prompt: "使用 memi 帮我：通过UI审计"

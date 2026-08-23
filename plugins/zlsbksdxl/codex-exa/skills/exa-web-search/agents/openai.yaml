@@ -1,7 +1,7 @@
 interface:
-  display_name: "Exa Web Search"
-  short_description: "Search and fetch current web sources with Exa"
-  default_prompt: "Use $exa-web-search to research this topic on the web with current sources."
+  display_name: "Exa Web Search · 使用浏览器OAuth通过官方Exa…"
+  short_description: "使用浏览器OAuth通过官方Exa…"
+  default_prompt: "使用 Exa Web Search 帮我：使用浏览器OAuth通过官方Exa…"
 
 dependencies:
   tools:

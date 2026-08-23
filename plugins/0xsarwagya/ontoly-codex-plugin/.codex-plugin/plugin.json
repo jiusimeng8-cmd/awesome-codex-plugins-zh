@@ -20,19 +20,19 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Ontoly · Codex的确定性软件图形工作流程",
-    "shortDescription": "Codex的确定性软件图形工作流程",
+    "displayName": "Ontoly · 的确定性软件图形工作流程",
+    "shortDescription": "的确定性软件图形工作流程",
     "longDescription": "Codex的确定性软件图形工作流程：架构审查、依赖关系分析、请求跟踪、配置分析和影响分析。",
     "developerName": "0xsarwagya",
-    "category": "开发与工作流",
+    "category": "Developer Tools",
     "capabilities": [
-      "适用场景：Codex的确定性软件图形工作流程"
+      "适用场景：的确定性软件图形工作流程"
     ],
     "websiteURL": "https://oss.sarwagya.wtf/ontoly",
     "privacyPolicyURL": "https://github.com/0xsarwagya/ontoly-codex-plugin/blob/main/SECURITY.md",
     "termsOfServiceURL": "https://github.com/0xsarwagya/ontoly-codex-plugin/blob/main/LICENSE",
     "defaultPrompt": [
-      "使用 Ontoly 帮我：Codex的确定性软件图形工作流程"
+      "使用 Ontoly 帮我：的确定性软件图形工作流程"
     ],
     "brandColor": "#111827",
     "screenshots": []

@@ -18,16 +18,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "OpenProject Codex · OpenProject Codex与…",
-    "shortDescription": "OpenProject Codex与…",
+    "displayName": "OpenProject Codex · 与项目",
+    "shortDescription": "与项目",
     "longDescription": "OpenProject Codex与项目、团队、工作包、批量工作流、板、维基、会议、附件和报告支持的集成。",
     "developerName": "OpenProject Codex Contributors",
-    "category": "工具与集成",
+    "category": "Productivity",
     "capabilities": [
-      "适用场景：OpenProject Codex与…"
+      "适用场景：与项目"
     ],
     "defaultPrompt": [
-      "使用 OpenProject Codex 帮我：OpenProject Codex与…"
+      "使用 OpenProject Codex 帮我：与项目"
     ],
     "brandColor": "#0F766E"
   },

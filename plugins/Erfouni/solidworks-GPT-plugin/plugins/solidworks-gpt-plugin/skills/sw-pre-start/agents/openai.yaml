@@ -1,4 +1,4 @@
 interface:
-  display_name: "SolidWorks Pre-Start"
-  short_description: "Load CAD rules and validate inputs before modeling"
-  default_prompt: "Use $sw-pre-start to validate this SolidWorks design before modeling."
+  display_name: "SolidWorks GPT Plugin · 基于知识的SolidWorks设计和…"
+  short_description: "基于知识的SolidWorks设计和…"
+  default_prompt: "使用 SolidWorks GPT Plugin 帮我：基于知识的SolidWorks设计和…"

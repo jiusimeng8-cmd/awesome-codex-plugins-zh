@@ -1,4 +1,4 @@
 interface:
-  display_name: "SolidWorks KB Lookup"
-  short_description: "Find proven SolidWorks instructions, macros, and fixes"
-  default_prompt: "Use $sw-kb-api to find existing knowledge for this SolidWorks part."
+  display_name: "SolidWorks GPT Plugin · 基于知识的SolidWorks设计和…"
+  short_description: "基于知识的SolidWorks设计和…"
+  default_prompt: "使用 SolidWorks GPT Plugin 帮我：基于知识的SolidWorks设计和…"

@@ -1,7 +1,7 @@
 interface:
-  display_name: "Vibe Portrait"
-  short_description: "Analyze conversation history and generate a developer personality portrait"
-  default_prompt: "Use $vibe-portrait to analyze my conversation history and generate my developer personality portrait."
+  display_name: "VibePortrait · 开发人员个性肖像生成器—分析AI对话…"
+  short_description: "开发人员个性肖像生成器—分析AI对话…"
+  default_prompt: "使用 VibePortrait 帮我：开发人员个性肖像生成器—分析AI对话…"
 
 policy:
   allow_implicit_invocation: true

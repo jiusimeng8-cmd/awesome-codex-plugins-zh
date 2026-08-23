@@ -20,16 +20,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "BGS Modding Superpowers · Agentic Bethesda G…",
-    "shortDescription": "Agentic Bethesda G…",
+    "displayName": "BGS Modding Superpowers · 策展工具包",
+    "shortDescription": "策展工具包",
     "longDescription": "Agentic Bethesda Game Studio modpack策展工具包，具有MCP驱动的xEdit冲突审计、MO2控制平面、BA2/BSA和Papyrus工具，以及设置、开发日志和发布更改日志工作流的技能。",
     "developerName": "awesome-bgs-mod-master contributors",
-    "category": "开发与工作流",
+    "category": "Coding",
     "capabilities": [
-      "适用场景：Agentic Bethesda G…"
+      "适用场景：策展工具包"
     ],
     "defaultPrompt": [
-      "使用 BGS Modding Superpowers 帮我：Agentic Bethesda G…"
+      "使用 BGS Modding Superpowers 帮我：策展工具包"
     ],
     "websiteURL": "https://github.com/BB-84C/bgs-modding-superpowers",
     "brandColor": "#5C8A3A"

@@ -26,7 +26,7 @@
     "shortDescription": "用于Codex的LLM安全护栏",
     "longDescription": "用于Codex的LLM安全护栏，具有强制挂钩和MCP工具：越狱和提示注入检测、网络内容扫描、数据过滤阻止和破坏性命令授权。",
     "developerName": "AgentGuards",
-    "category": "工具与集成",
+    "category": "Developer Tools",
     "capabilities": [
       "适用场景：用于Codex的LLM安全护栏"
     ],

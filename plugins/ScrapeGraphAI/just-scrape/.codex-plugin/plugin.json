@@ -28,7 +28,7 @@
     "shortDescription": "基于AI的Web抓取CLI",
     "longDescription": "基于AI的Web抓取CLI ，通过ScrapeGraph AI API搜索、抓取、提取结构化JSON、抓取和监控网页。",
     "developerName": "ScrapeGraph AI",
-    "category": "工具与集成",
+    "category": "Developer Tools",
     "capabilities": [
       "适用场景：基于AI的Web抓取CLI"
     ],

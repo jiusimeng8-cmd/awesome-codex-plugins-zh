@@ -26,7 +26,7 @@
     "shortDescription": "自动触发质量技能+自我进化代理利用…",
     "longDescription": "自动触发质量技能+自我进化代理利用—轨道（规范到船舶） ，进化（技能突变） ，团队（多代理） ， TDD ，检查，发货，简化，调试，性能，安全。",
     "developerName": "epicsagas",
-    "category": "开发与工作流",
+    "category": "Harness",
     "capabilities": [
       "适用场景：自动触发质量技能+自我进化代理利用…"
     ],

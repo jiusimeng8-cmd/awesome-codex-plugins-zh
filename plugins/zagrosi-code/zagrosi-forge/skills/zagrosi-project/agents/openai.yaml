@@ -1,5 +1,5 @@
 interface:
-  display_name: "Zagrosi Project"
-  short_description: "Decompose broad chat ideas or briefs for planning"
+  display_name: "Zagrosi Forge · 将广泛的项目简介分解为研究计划"
+  short_description: "将广泛的项目简介分解为研究计划"
   brand_color: "#0F766E"
-  default_prompt: "Use $zagrosi-forge:zagrosi-project to decompose this project idea or brief into focused planning specs."
+  default_prompt: "使用 Zagrosi Forge 帮我：将广泛的项目简介分解为研究计划"

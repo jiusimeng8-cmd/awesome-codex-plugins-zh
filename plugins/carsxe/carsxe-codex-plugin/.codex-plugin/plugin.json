@@ -35,7 +35,7 @@
     "shortDescription": "通过CarsXE API解码VIN",
     "longDescription": "通过CarsXE API解码VIN、车牌、市值、车辆历史记录、召回、留置权、OBD代码等。",
     "developerName": "CarsXE",
-    "category": "工具与集成",
+    "category": "Data & Analytics",
     "capabilities": [
       "适用场景：通过CarsXE API解码VIN"
     ],

@@ -1,4 +1,4 @@
 interface:
-  display_name: "Review Code"
-  short_description: "Find consequential defects in code changes"
-  default_prompt: "Use $review-code to review this branch for bugs, regressions, security risks, and missing tests."
+  display_name: "Codex How To · 具有9项技能的工程第一Codex课程…"
+  short_description: "具有9项技能的工程第一Codex课程…"
+  default_prompt: "使用 Codex How To 帮我：具有9项技能的工程第一Codex课程…"

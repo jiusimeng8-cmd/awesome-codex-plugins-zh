@@ -21,9 +21,9 @@
     "automation"
   ],
   "interface": {
-    "displayName": "Jenkins CLI · Jenkins控制器的GitHub…",
-    "shortDescription": "Jenkins控制器的GitHub…",
-    "category": "工具与集成",
+    "displayName": "Jenkins CLI · 控制器的GitHub CLI样式界面",
+    "shortDescription": "控制器的GitHub CLI样式界面",
+    "category": "Developer Tools",
     "composerIcon": "./assets/jk-icon.svg",
     "longDescription": "Jenkins控制器的GitHub CLI样式界面，包含作业、管道、运行、日志、工件、凭据和节点。"
   }

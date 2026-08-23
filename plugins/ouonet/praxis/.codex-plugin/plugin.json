@@ -15,7 +15,7 @@
     "shortDescription": "针对编码代理的意图驱动工作流程技能",
     "longDescription": "针对编码代理的意图驱动工作流程技能：描述已完成的工作，而不是步骤。分流优先设计使设计、TDD、调试、审核和发布的代币成本保持在较低水平。",
     "developerName": "ouonet",
-    "category": "开发与工作流",
+    "category": "Coding",
     "capabilities": [
       "适用场景：针对编码代理的意图驱动工作流程技能"
     ],

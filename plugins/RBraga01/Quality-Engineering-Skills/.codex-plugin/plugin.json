@@ -30,16 +30,16 @@
   "interface": {
     "composerIcon": "./docs/assets/qes-logo.jpg",
     "logo": "./docs/assets/qes-logo.jpg",
-    "displayName": "Quality Engineering Skills · 22项汽车和制造业结构化质量工程技能",
-    "shortDescription": "22项汽车和制造业结构化质量工程技能",
+    "displayName": "Quality Engineering Skills · 项汽车和制造业结构化质量工程技能",
+    "shortDescription": "项汽车和制造业结构化质量工程技能",
     "longDescription": "22项汽车和制造业结构化质量工程技能： ISO 9001、IATF 16949、AIAG-VDA FMEA、VDA 6.3、PPAP、APQP、SPC、MSA。",
     "developerName": "RBraga01",
-    "category": "开发与工作流",
+    "category": "Productivity",
     "capabilities": [
-      "适用场景：22项汽车和制造业结构化质量工程技能"
+      "适用场景：项汽车和制造业结构化质量工程技能"
     ],
     "defaultPrompt": [
-      "使用 Quality Engineering Skills 帮我：22项汽车和制造业结构化质量工程技能"
+      "使用 Quality Engineering Skills 帮我：项汽车和制造业结构化质量工程技能"
     ],
     "websiteURL": "https://rbraga01.github.io/Quality-Engineering-Skills/",
     "privacyPolicyURL": "https://github.com/RBraga01/Quality-Engineering-Skills/blob/master/SECURITY.md",

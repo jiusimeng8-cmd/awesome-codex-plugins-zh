@@ -1,4 +1,4 @@
 interface:
-  display_name: "Rust Crate Publishing Readiness"
-  short_description: "Prepare crates for publishing"
-  default_prompt: "Use $rust-crate-publishing-readiness to prepare this Rust crate for a safe cargo publish dry-run."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

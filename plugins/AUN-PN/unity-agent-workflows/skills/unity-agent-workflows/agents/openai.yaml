@@ -1,6 +1,6 @@
 interface:
-  display_name: "Unity Agent Workflows"
-  short_description: "Unity routing, runtime proof, state guards, and validation"
-  default_prompt: "Use $unity-agent-workflows only for Unity 2D repo work that needs editing, validation, routing, multi-agent scope, runtime numeric proof for visible-output/state failures, asmdef safety, or cleanup."
+  display_name: "Unity Agent Workflows · 代理的Codex插件和技能"
+  short_description: "代理的Codex插件和技能"
+  default_prompt: "使用 Unity Agent Workflows 帮我：代理的Codex插件和技能"
 policy:
   allow_implicit_invocation: true

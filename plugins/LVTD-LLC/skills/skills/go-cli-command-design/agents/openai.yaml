@@ -1,4 +1,4 @@
 interface:
-  display_name: "Go CLI Command Design"
-  short_description: "Design clear and composable Go CLI commands"
-  default_prompt: "Use $go-cli-command-design to design a clear, composable command-line interface in Go."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

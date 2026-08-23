@@ -1,4 +1,4 @@
 ﻿interface:
-  display_name: "全栈开发"
-  short_description: "Full-stack delivery gates"
-  default_prompt: "Use full-stack-development to clarify requirements, plan backend/frontend contracts, and gate implementation."
+  display_name: "Codex Full-Stack Workflow · 将粗略的产品请求转化为具有持久要求"
+  short_description: "将粗略的产品请求转化为具有持久要求"
+  default_prompt: "使用 Codex Full-Stack Workflow 帮我：将粗略的产品请求转化为具有持久要求"

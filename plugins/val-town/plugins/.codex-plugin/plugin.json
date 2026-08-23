@@ -22,7 +22,7 @@
     "shortDescription": "在Codex的Val Town上构建…",
     "longDescription": "在Codex的Val Town上构建和部署无服务器TypeScript —托管的MCP服务器以及HTTP VALS、CRON、SQLite、电子邮件、OAuth和React UI的技能。",
     "developerName": "Val Town",
-    "category": "工具与集成",
+    "category": "Coding",
     "websiteURL": "https://val.town",
     "composerIcon": "./assets/icon.svg"
   }

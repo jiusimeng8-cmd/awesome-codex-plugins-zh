@@ -29,7 +29,7 @@
     "shortDescription": "通过准备情况检查",
     "longDescription": "通过准备情况检查、Dockerfile生成、撰写转换、映像构建和推出更新，将应用程序从Codex部署到Sealos Cloud。",
     "developerName": "Sealos",
-    "category": "开发与工作流",
+    "category": "Coding",
     "capabilities": [
       "适用场景：通过准备情况检查"
     ],

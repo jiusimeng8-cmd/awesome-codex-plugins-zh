@@ -1,6 +1,6 @@
 interface:
-  display_name: Be Serious
-  short_description: Use serious scholarly prose in this session.
-  default_prompt: Use be-serious for this session.
+  display_name: "Codex Be Serious · 在所有代理输出中强制执行正式的教科书…"
+  short_description: "在所有代理输出中强制执行正式的教科书…"
+  default_prompt: "使用 Codex Be Serious 帮我：在所有代理输出中强制执行正式的教科书…"
 policy:
   allow_implicit_invocation: true

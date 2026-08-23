@@ -22,7 +22,7 @@
     "shortDescription": "任务感知规范/反应/闪存工作合同插件",
     "longDescription": "任务感知规范/反应/闪存工作合同插件，修复了Codex中的DeepSeek弱默认推理，包括测量的BigCodeBench线束。",
     "developerName": "Hzz",
-    "category": "开发与工作流",
+    "category": "Productivity",
     "composerIcon": "./assets/icon.svg",
     "logo": "./assets/icon.svg",
     "websiteURL": "https://github.com/hccccc01333/codex-deepseek-mini-router",

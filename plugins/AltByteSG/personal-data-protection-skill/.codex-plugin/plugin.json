@@ -28,7 +28,7 @@
     "longDescription": "面向工程师的个人数据保护合规性参考—新加坡PDPA、泰国PDPA、印度尼西亚UU PDP、马来西亚PDPA （ Act 709 + 2024修正案）、菲律宾DPA —按每项义务在堆栈中的位置组织，包括检查清单、违规响应手册以及所有五个领域的开发者视图分歧表。",
     "composerIcon": "./assets/icon.svg",
     "developerName": "AltByte",
-    "category": "开发与工作流",
+    "category": "Developer Tools",
     "capabilities": [
       "适用场景：面向工程师的个人数据保护合规性参考…"
     ],

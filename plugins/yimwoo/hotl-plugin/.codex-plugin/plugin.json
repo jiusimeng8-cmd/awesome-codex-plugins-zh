@@ -30,7 +30,7 @@
     "shortDescription": "用于Codex",
     "longDescription": "用于Codex、Claude Code和Cline的Human-on-the-Loop AI编码工作流程插件，具有结构化规划、审查和验证护栏。",
     "developerName": "Yiming Wu",
-    "category": "开发与工作流",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：用于Codex"
     ],

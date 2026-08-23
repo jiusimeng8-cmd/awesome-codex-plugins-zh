@@ -19,13 +19,13 @@
   ],
   "skills": "./skill/",
   "interface": {
-    "displayName": "Boss · BMAD管道插件",
-    "shortDescription": "BMAD管道插件",
+    "displayName": "Boss · 管道插件",
+    "shortDescription": "管道插件",
     "longDescription": "BMAD管道插件，为Claude Code、Codex、OpenClaw和Antigravity编排跨九个专业代理的完整需求部署工作流程，具有可审核的运行时DAG和质量门限。",
     "developerName": "echoVic",
-    "category": "开发与工作流",
+    "category": "Productivity",
     "capabilities": [
-      "适用场景：BMAD管道插件"
+      "适用场景：管道插件"
     ],
     "websiteURL": "https://github.com/echoVic/boss-skill",
     "privacyPolicyURL": "https://github.com/echoVic/boss-skill/blob/main/docs/PRIVACY.md",
@@ -36,7 +36,7 @@
       "./boss-skill-promo.png"
     ],
     "defaultPrompt": [
-      "使用 Boss 帮我：BMAD管道插件"
+      "使用 Boss 帮我：管道插件"
     ],
     "brandColor": "#171717"
   }

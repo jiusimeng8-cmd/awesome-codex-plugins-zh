@@ -24,7 +24,7 @@
     "shortDescription": "由基于视角的审核代理（代码",
     "longDescription": "由基于视角的审核代理（代码、安全、性能、架构、测试、对抗）驱动的代码审核技能的版本化技能注册表，用于根据差异验证结果。",
     "developerName": "river-review maintainers",
-    "category": "开发与工作流",
+    "category": "Developer Tools",
     "capabilities": [
       "适用场景：由基于视角的审核代理（代码"
     ],

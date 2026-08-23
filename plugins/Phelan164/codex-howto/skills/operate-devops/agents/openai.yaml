@@ -1,4 +1,4 @@
 interface:
-  display_name: "Operate DevOps"
-  short_description: "Change infrastructure and delivery safely"
-  default_prompt: "Use $operate-devops to make this delivery change with validation and rollback steps."
+  display_name: "Codex How To · 具有9项技能的工程第一Codex课程…"
+  short_description: "具有9项技能的工程第一Codex课程…"
+  default_prompt: "使用 Codex How To 帮我：具有9项技能的工程第一Codex课程…"

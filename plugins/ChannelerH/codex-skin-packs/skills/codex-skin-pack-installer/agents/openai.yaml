@@ -1,4 +1,4 @@
 interface:
-  display_name: "Codex Skin Pack Installer"
-  short_description: "Install verified Codex theme and skin packs"
-  default_prompt: "Use $codex-skin-pack-installer to install the caishen-readable Codex skin pack and tell me how to restore the default theme."
+  display_name: "Codex Skin Pack Installer · 插件和Skill"
+  short_description: "插件和Skill"
+  default_prompt: "使用 Codex Skin Pack Installer 帮我：插件和Skill"

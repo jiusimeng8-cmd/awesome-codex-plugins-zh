@@ -1,7 +1,7 @@
 interface:
-  display_name: "CUAR"
-  short_description: "Codex usage pace and resets"
-  default_prompt: "Use $cuar and stay usage-aware for this session."
+  display_name: "Codex Usage and Resets · 将Codex的使用转化为具有线性节奏"
+  short_description: "将Codex的使用转化为具有线性节奏"
+  default_prompt: "使用 Codex Usage and Resets 帮我：将Codex的使用转化为具有线性节奏"
 
 policy:
   allow_implicit_invocation: true

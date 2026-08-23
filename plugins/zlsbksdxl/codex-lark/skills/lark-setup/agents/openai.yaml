@@ -1,4 +1,4 @@
 interface:
-  display_name: "Set Up Feishu/Lark"
-  short_description: "Install lark-cli and connect a Feishu account"
-  default_prompt: "Use $lark-setup to install lark-cli and connect my Feishu/Lark account."
+  display_name: "Feishu to Codex · 通过官方Lark CLI将Docs"
+  short_description: "通过官方Lark CLI将Docs"
+  default_prompt: "使用 Feishu to Codex 帮我：通过官方Lark CLI将Docs"

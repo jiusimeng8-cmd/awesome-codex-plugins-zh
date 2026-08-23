@@ -1,4 +1,4 @@
 interface:
-  display_name: "Go CLI Application Architecture"
-  short_description: "Structure maintainable Go CLI applications"
-  default_prompt: "Use $go-cli-application-architecture to design clean boundaries for this Go CLI application."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

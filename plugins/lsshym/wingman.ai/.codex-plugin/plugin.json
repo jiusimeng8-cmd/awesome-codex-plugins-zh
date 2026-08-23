@@ -24,7 +24,7 @@
     "shortDescription": "代理编辑代码之前",
     "longDescription": "代理编辑代码之前，跨平台AI编码代理插件，用于存储本地项目内存、数据合约检查和项目映射发现。",
     "developerName": "keni",
-    "category": "开发与工作流",
+    "category": "Coding",
     "capabilities": [
       "适用场景：代理编辑代码之前"
     ],

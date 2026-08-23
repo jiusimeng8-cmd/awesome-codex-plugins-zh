@@ -1,4 +1,4 @@
 interface:
-  display_name: "Engineering Loop"
-  short_description: "Develop, test, review, and verify changes"
-  default_prompt: "Use $engineering-loop to implement this change through a complete local develop-test-review cycle."
+  display_name: "Codex How To · 具有9项技能的工程第一Codex课程…"
+  short_description: "具有9项技能的工程第一Codex课程…"
+  default_prompt: "使用 Codex How To 帮我：具有9项技能的工程第一Codex课程…"

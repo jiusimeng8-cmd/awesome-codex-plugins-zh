@@ -1,6 +1,6 @@
 interface:
-  display_name: "Superloopy Loop"
-  short_description: "Lightweight strict-evidence loop harness"
+  display_name: "Superloopy · 具有专业技能的循证门控Codex循环…"
+  short_description: "具有专业技能的循证门控Codex循环…"
   search_terms:
     - "loopy"
     - "loopywork"
@@ -10,4 +10,4 @@ interface:
     - "guide"
     - "quality-gate"
     - "proof"
-  default_prompt: "Use superloopy-loop to run this task with durable criteria, guided next actions, and evidence-backed completion."
+  default_prompt: "使用 Superloopy 帮我：具有专业技能的循证门控Codex循环…"

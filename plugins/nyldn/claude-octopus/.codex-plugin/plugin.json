@@ -33,17 +33,17 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Claude Octopus · Multi-LLM业务流程分派给8家…",
-    "shortDescription": "Multi-LLM业务流程分派给8家…",
+    "displayName": "Claude Octopus · 业务流程分派给8家提供商（ Code…",
+    "shortDescription": "业务流程分派给8家提供商（ Code…",
     "longDescription": "Multi-LLM业务流程分派给8家提供商（ Codex、Gemini、Copilot、Qwen、Perplexity、OpenRouter、Ollama、OpenCode ） ，包括Double Diamond工作流程、对抗性审查和安全门。",
     "composerIcon": "./assets/octopus-icon.svg",
     "developerName": "nyldn",
-    "category": "开发与工作流",
+    "category": "Orchestration",
     "capabilities": [
-      "适用场景：Multi-LLM业务流程分派给8家…"
+      "适用场景：业务流程分派给8家提供商（ Code…"
     ],
     "defaultPrompt": [
-      "使用 Claude Octopus 帮我：Multi-LLM业务流程分派给8家…"
+      "使用 Claude Octopus 帮我：业务流程分派给8家提供商（ Code…"
     ],
     "brandColor": "#6366F1"
   }

@@ -19,13 +19,13 @@
   "hooks": "./hooks.json",
   "skills": "./skills/",
   "interface": {
-    "displayName": "Agent Guard · AI编码代理（ Claude Cod…",
-    "shortDescription": "AI编码代理（ Claude Cod…",
+    "displayName": "Agent Guard · 编码代理（ Claude Code",
+    "shortDescription": "编码代理（ Claude Code",
     "longDescription": "AI编码代理（ Claude Code、Codex ）、Git钩子和CI的实时秘密泄漏护栏。",
     "developerName": "Agent Guard contributors",
-    "category": "开发与工作流",
+    "category": "Developer Tools",
     "capabilities": [
-      "适用场景：AI编码代理（ Claude Cod…"
+      "适用场景：编码代理（ Claude Code"
     ],
     "websiteURL": "https://github.com/JeongJaeSoon/agent-guard",
     "brandColor": "#14532D",

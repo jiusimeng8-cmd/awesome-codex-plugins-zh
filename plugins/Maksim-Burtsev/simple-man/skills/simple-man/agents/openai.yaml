@@ -1,7 +1,7 @@
 interface:
-  display_name: "Simple Man"
-  short_description: "Concise agent communication without reduced work quality."
-  default_prompt: "Use $simple-man: minimum user-facing words; same work quality."
+  display_name: "Simple Man · 代理的高压缩通信模式"
+  short_description: "代理的高压缩通信模式"
+  default_prompt: "使用 Simple Man 帮我：代理的高压缩通信模式"
 
 policy:
   allow_implicit_invocation: true

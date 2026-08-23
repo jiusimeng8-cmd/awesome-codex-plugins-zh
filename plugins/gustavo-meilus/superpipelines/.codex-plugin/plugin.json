@@ -16,7 +16,7 @@
     "longDescription": "跨Codex、Claude Code、OpenCode、Cursor、Windsurf和Cline设计和运行写入/审核隔离的多代理AI管道。",
     "composerIcon": "./assets/superpowers-small.svg",
     "developerName": "Gustavo Meilus",
-    "category": "开发与工作流",
+    "category": "Development",
     "capabilities": [
       "适用场景：跨Codex"
     ],

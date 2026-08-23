@@ -29,13 +29,13 @@
   "mcpServers": "./.mcp.json",
   "apps": "./.app.json",
   "interface": {
-    "displayName": "GrayMatter · Codex和OpenClaw代理的持…",
-    "shortDescription": "Codex和OpenClaw代理的持…",
+    "displayName": "GrayMatter · 和OpenClaw代理的持久内存和共…",
+    "shortDescription": "和OpenClaw代理的持久内存和共…",
     "longDescription": "Codex和OpenClaw代理的持久内存和共享图形状态，具有实时ValkyrAI架构感知。",
     "developerName": "Valkyr Labs Inc.",
-    "category": "开发与工作流",
+    "category": "Productivity",
     "capabilities": [
-      "适用场景：Codex和OpenClaw代理的持…"
+      "适用场景：和OpenClaw代理的持久内存和共…"
     ],
     "websiteURL": "https://valkyrlabs.com/",
     "privacyPolicyURL": "https://valkyrlabs.com/privacy-policy",
@@ -43,7 +43,7 @@
     "composerIcon": "./assets/graymatter-logo.png",
     "logo": "./assets/graymatter-logo.png",
     "defaultPrompt": [
-      "使用 GrayMatter 帮我：Codex和OpenClaw代理的持…"
+      "使用 GrayMatter 帮我：和OpenClaw代理的持久内存和共…"
     ],
     "brandColor": "#245B4A"
   }

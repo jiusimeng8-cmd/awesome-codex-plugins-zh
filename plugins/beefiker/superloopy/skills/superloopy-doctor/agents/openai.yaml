@@ -1,6 +1,6 @@
 interface:
-  display_name: "Superloopy Doctor"
-  short_description: "Diagnose Superloopy install and bootstrap health"
+  display_name: "Superloopy · 具有专业技能的循证门控Codex循环…"
+  short_description: "具有专业技能的循证门控Codex循环…"
   search_terms:
     - "superloopy doctor"
     - "doctor"
@@ -12,4 +12,4 @@ interface:
     - "plugin cache"
     - "marketplace"
     - "stale"
-  default_prompt: "Use superloopy-doctor to diagnose this Superloopy install or bootstrap problem without mutating local state."
+  default_prompt: "使用 Superloopy 帮我：具有专业技能的循证门控Codex循环…"

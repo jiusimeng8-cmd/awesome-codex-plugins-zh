@@ -21,7 +21,7 @@
     "shortDescription": "代理公关审核",
     "longDescription": "代理公关审核：混合RAG +通过MCP的代码图， Codex的审核技能。",
     "developerName": "mimfort",
-    "category": "开发与工作流",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：代理公关审核"
     ],

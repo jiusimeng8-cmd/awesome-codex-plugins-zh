@@ -23,7 +23,7 @@
     "composerIcon": "./assets/icon.svg",
     "longDescription": "将Codex连接到Zotero Desktop ，以实现本地库搜索、引文导出、集合和标签检查以及研究工作流程支持。",
     "developerName": "summer521521",
-    "category": "工具与集成",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：将Codex连接到Zotero De…"
     ],

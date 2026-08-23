@@ -38,7 +38,7 @@
     "shortDescription": "通过托管的Shots MCP服务器",
     "longDescription": "通过托管的Shots MCP服务器，代理原生App Store屏幕截图、应用程序图标、ASO和本地化工作流程。",
     "developerName": "hitSlop",
-    "category": "工具与集成",
+    "category": "Design",
     "capabilities": [
       "适用场景：通过托管的Shots MCP服务器"
     ],

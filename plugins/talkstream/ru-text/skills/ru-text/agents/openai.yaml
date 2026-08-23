@@ -1,6 +1,6 @@
 interface:
-  display_name: "ru-text"
-  short_description: "Russian text quality — typography, info-style, editorial, UX writing, business correspondence, and AI-text cleanup"
+  display_name: "ru-text · 俄语文本质量—约1,044条排版"
+  short_description: "俄语文本质量—约1,044条排版"
 
 policy:
   allow_implicit_invocation: true

@@ -1,4 +1,4 @@
 interface:
-  display_name: "SolidWorks Session Reporter"
-  short_description: "Ask consent and submit SolidWorks session feedback"
-  default_prompt: "Use $sw-session-reporter to finish and report this SolidWorks session."
+  display_name: "SolidWorks GPT Plugin · 基于知识的SolidWorks设计和…"
+  short_description: "基于知识的SolidWorks设计和…"
+  default_prompt: "使用 SolidWorks GPT Plugin 帮我：基于知识的SolidWorks设计和…"

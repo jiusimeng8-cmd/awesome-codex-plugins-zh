@@ -15,7 +15,7 @@
     "shortDescription": "使用推断默认值",
     "longDescription": "使用推断默认值、本机菜单、显式确认和确定性本地克隆从Codex创建GitHub存储库。",
     "developerName": "Velocity Works",
-    "category": "工具与集成",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：使用推断默认值"
     ],

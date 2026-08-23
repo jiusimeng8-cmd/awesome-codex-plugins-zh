@@ -1,6 +1,6 @@
-display_name: Visual HTML Renderer
-short_description: 図示つきHTML生成とPreview Runtimeを扱う共通レンダラー / Shared renderer for visual HTML previews.
-default_prompt: Create a visual HTML preview / 図示つきHTMLレポートを生成して
+display_name: "Reviewable HTML Workbench · 生成可审核的HTML文档"
+short_description: "生成可审核的HTML文档"
+default_prompt: "使用 Reviewable HTML Workbench 帮我：生成可审核的HTML文档"
 trigger_examples:
   - html出力して
   - HTMLにして

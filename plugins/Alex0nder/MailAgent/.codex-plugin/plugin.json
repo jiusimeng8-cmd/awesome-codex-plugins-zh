@@ -20,19 +20,19 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "MailAgent · Codex的临时收件箱—一次性密码",
-    "shortDescription": "Codex的临时收件箱—一次性密码",
+    "displayName": "MailAgent · 的临时收件箱—一次性密码",
+    "shortDescription": "的临时收件箱—一次性密码",
     "longDescription": "Codex的临时收件箱—一次性密码、魔术链接、注册QA、模拟首次自动测试（ 23个MCP工具）。",
     "developerName": "MailAgent",
-    "category": "开发与工作流",
+    "category": "Productivity",
     "capabilities": [
-      "适用场景：Codex的临时收件箱—一次性密码"
+      "适用场景：的临时收件箱—一次性密码"
     ],
     "websiteURL": "https://webmailagent.com/",
     "privacyPolicyURL": "https://webmailagent.com/privacy.html",
     "termsOfServiceURL": "https://webmailagent.com/terms.html",
     "defaultPrompt": [
-      "使用 MailAgent 帮我：Codex的临时收件箱—一次性密码"
+      "使用 MailAgent 帮我：的临时收件箱—一次性密码"
     ],
     "brandColor": "#2563EB",
     "composerIcon": "./assets/icon.svg"

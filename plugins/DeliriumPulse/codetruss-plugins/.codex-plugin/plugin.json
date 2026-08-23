@@ -24,7 +24,7 @@
     "shortDescription": "本地优先验收门",
     "longDescription": "本地优先验收门，从不可变的Git快照中检查编码代理范围、敏感表面、确定性分析器和存储库验证，然后在PR之前写入签名收据。",
     "developerName": "CodeTruss",
-    "category": "开发与工作流",
+    "category": "Developer Tools",
     "capabilities": [
       "适用场景：本地优先验收门"
     ],

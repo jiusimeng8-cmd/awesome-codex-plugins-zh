@@ -20,19 +20,19 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Maestro: Costguard · Codex的成本审计师通过只读提供程…",
-    "shortDescription": "Codex的成本审计师通过只读提供程…",
+    "displayName": "Maestro: Costguard · 的成本审计师通过只读提供程序检查标记…",
+    "shortDescription": "的成本审计师通过只读提供程序检查标记…",
     "composerIcon": "./assets/icon.png",
     "longDescription": "Codex的成本审计师通过只读提供程序检查标记CI/cron和云支出浪费，然后在本地预览和应用外科CI工作流程修复，而无需写入提供程序帐户或推送git。",
     "developerName": "Mark Laursen",
-    "category": "工具与集成",
+    "category": "Productivity",
     "capabilities": [
-      "适用场景：Codex的成本审计师通过只读提供程…"
+      "适用场景：的成本审计师通过只读提供程序检查标记…"
     ],
     "websiteURL": "https://github.com/mbanderas/costguard",
     "brandColor": "#2E9E6B",
     "defaultPrompt": [
-      "使用 Maestro: Costguard 帮我：Codex的成本审计师通过只读提供程…"
+      "使用 Maestro: Costguard 帮我：的成本审计师通过只读提供程序检查标记…"
     ]
   }
 }

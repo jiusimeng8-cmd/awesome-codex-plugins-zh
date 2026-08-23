@@ -24,10 +24,10 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Tartiner Labs (deprecated) · Git工作流程",
-    "shortDescription": "Git工作流程",
+    "displayName": "Tartiner Labs (deprecated) · 工作流程",
+    "shortDescription": "工作流程",
     "developerName": "Tartiner Labs",
-    "category": "开发与工作流",
+    "category": "Coding",
     "websiteURL": "https://github.com/tartinerlabs/skills",
     "composerIcon": "./assets/icon.svg",
     "longDescription": "Git工作流程、GitHub自动化、安全审计、代码重构和项目工具的代理技能。"

@@ -1,4 +1,4 @@
 interface:
-  display_name: "SEO Persona Intent Mapping"
-  short_description: "Map personas, intent, funnel stage, and SEO content."
-  default_prompt: "Map our personas and search intent into an SEO content plan."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

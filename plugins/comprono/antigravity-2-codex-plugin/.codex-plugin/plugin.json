@@ -32,7 +32,7 @@
     "termsOfServiceURL": "https://github.com/comprono/antigravity-2-codex-plugin/blob/main/README.md",
     "composerIcon": "./assets/icon.svg",
     "logo": "./assets/icon.svg",
-    "category": "工具与集成",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：用于Antigravity桌面的本地…"
     ],

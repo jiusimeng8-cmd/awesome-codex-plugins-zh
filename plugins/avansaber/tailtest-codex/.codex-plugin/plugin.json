@@ -21,18 +21,18 @@
   "hooks": "./hooks/hooks.json",
   "skills": "./skills/",
   "interface": {
-    "displayName": "Tailtest · Hook-powered测试生成…",
+    "displayName": "Tailtest · 测试生成--检测代理转换过程中更改的…",
     "composerIcon": "./assets/icon.svg",
-    "shortDescription": "Hook-powered测试生成…",
+    "shortDescription": "测试生成--检测代理转换过程中更改的…",
     "longDescription": "Hook-powered测试生成--检测代理转换过程中更改的文件，并指示Codex自动编写和运行测试。零配置， 8种语言。",
     "developerName": "AvanSaber Inc.",
-    "category": "开发与工作流",
+    "category": "Coding",
     "capabilities": [
-      "适用场景：Hook-powered测试生成…"
+      "适用场景：测试生成--检测代理转换过程中更改的…"
     ],
     "websiteURL": "https://tailtest.com",
     "defaultPrompt": [
-      "使用 Tailtest 帮我：Hook-powered测试生成…"
+      "使用 Tailtest 帮我：测试生成--检测代理转换过程中更改的…"
     ],
     "brandColor": "#F59E0B",
     "screenshots": []

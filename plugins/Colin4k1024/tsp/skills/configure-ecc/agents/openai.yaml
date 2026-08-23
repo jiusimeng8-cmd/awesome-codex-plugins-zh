@@ -1,4 +1,4 @@
 interface:
-  display_name: "Configure ECC"
-  short_description: "交互式安装与修复 Everything Claude Code 配置"
-  default_prompt: "Use $configure-ecc to guide a selective ECC installation, verify target paths, and repair or optimize an existing setup."
+  display_name: "Team Skills Platform · 基于角色的团队交付框架—技术主管为C…"
+  short_description: "基于角色的团队交付框架—技术主管为C…"
+  default_prompt: "使用 Team Skills Platform 帮我：基于角色的团队交付框架—技术主管为C…"

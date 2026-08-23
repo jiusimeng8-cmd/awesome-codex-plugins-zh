@@ -25,13 +25,13 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "kicad-happy · KiCad EDA技能",
-    "shortDescription": "KiCad EDA技能",
+    "displayName": "kicad-happy · 技能",
+    "shortDescription": "技能",
     "longDescription": "KiCad EDA技能，用于原理图分析、PCB布局审查、组件采购、物料清单管理和制造准备。",
     "developerName": "aklofas",
-    "category": "工具与集成",
+    "category": "Development & Code Tools",
     "capabilities": [
-      "适用场景：KiCad EDA技能"
+      "适用场景：技能"
     ],
     "websiteURL": "https://github.com/aklofas/kicad-happy"
   }

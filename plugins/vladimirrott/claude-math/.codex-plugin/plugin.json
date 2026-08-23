@@ -24,7 +24,7 @@
     "shortDescription": "将数学作为复制和搜索安全的内联Uni…",
     "longDescription": "将数学作为复制和搜索安全的内联Unicode （ ∑、≤、钚、x ²、矩阵、集合构建器） ，而不是LaTeX ，以便在Codex TUI、终端和Claude Code中保持方程式清晰可辨。",
     "developerName": "Vladimir Rotariu",
-    "category": "工具与集成",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：将数学作为复制和搜索安全的内联Uni…"
     ],

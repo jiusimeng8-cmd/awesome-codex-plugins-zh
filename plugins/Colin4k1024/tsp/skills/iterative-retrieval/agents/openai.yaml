@@ -1,4 +1,4 @@
 interface:
-  display_name: "Iterative Retrieval"
-  short_description: "分层检索上下文，减少子任务信息缺口"
-  default_prompt: "Use $iterative-retrieval to progressively retrieve only the context needed for the next decision and reduce context waste."
+  display_name: "Team Skills Platform · 基于角色的团队交付框架—技术主管为C…"
+  short_description: "基于角色的团队交付框架—技术主管为C…"
+  default_prompt: "使用 Team Skills Platform 帮我：基于角色的团队交付框架—技术主管为C…"

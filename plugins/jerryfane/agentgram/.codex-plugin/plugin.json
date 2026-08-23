@@ -22,7 +22,7 @@
     "shortDescription": "通过Telegram机器人令牌和聊天…",
     "longDescription": "通过Telegram机器人令牌和聊天ID从Codex和本地AI代理发送明确的Telegram消息。",
     "developerName": "Jerry Fane",
-    "category": "工具与集成",
+    "category": "Productivity",
     "websiteURL": "https://github.com/jerryfane/agentgram",
     "brandColor": "#1F8A70",
     "composerIcon": "assets/agentgram-logo.svg",

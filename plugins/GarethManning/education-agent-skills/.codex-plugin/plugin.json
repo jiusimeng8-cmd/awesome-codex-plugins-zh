@@ -27,10 +27,9 @@
     "./skills/wellbeing-motivation-agency"
   ],
   "interface": {
-    "displayName": "Education Agent Skills · 131基于证据的教育技能",
-    "shortDescription": "131基于证据的教育技能",
+    "displayName": "Education Agent Skills · 基于证据的教育技能",
+    "shortDescription": "基于证据的教育技能",
     "composerIcon": "./assets/education-agent-skills-icon.svg",
-    "longDescription": "131基于证据的教育技能，用于课程设计、课程规划和评估，具有透明的证据评级和MCP服务器。",
-    "category": "工具与集成"
+    "longDescription": "131基于证据的教育技能，用于课程设计、课程规划和评估，具有透明的证据评级和MCP服务器。"
   }
 }

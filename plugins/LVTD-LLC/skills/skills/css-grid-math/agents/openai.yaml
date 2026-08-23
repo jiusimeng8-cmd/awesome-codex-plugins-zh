@@ -1,4 +1,4 @@
 interface:
-  display_name: "CSS Grid Math"
-  short_description: "CSS Grid sizing and placement math"
-  default_prompt: "Use $css-grid-math to debug this grid track sizing and placement behavior."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

@@ -26,7 +26,7 @@
     "shortDescription": "通过MCP工具查询跟踪",
     "longDescription": "通过MCP工具查询跟踪、调试异常、分析会话和管理提示。",
     "developerName": "Aviv Sinai",
-    "category": "工具与集成",
+    "category": "Observability",
     "capabilities": [
       "适用场景：通过MCP工具查询跟踪"
     ],

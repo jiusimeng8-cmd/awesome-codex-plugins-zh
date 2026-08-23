@@ -24,7 +24,7 @@
     "shortDescription": "只读Codex插件",
     "longDescription": "只读Codex插件，用于在Codex编辑代码之前审核Claude Code到Codex的迁移。检查AGENTS.md/CLAUDE.md范围、挂钩、MCP配置、技能、秘密参考和验证说明。",
     "developerName": "8bitconcepts",
-    "category": "开发与工作流",
+    "category": "Development",
     "capabilities": [
       "适用场景：只读Codex插件"
     ],

@@ -1,4 +1,4 @@
 interface:
-  display_name: "Rust Bevy Fixed Step Physics"
-  short_description: "Stabilize Bevy movement loops"
-  default_prompt: "Use $rust-bevy-fixed-step-physics to make this Bevy movement system deterministic and collision-safe."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

@@ -1,4 +1,4 @@
 interface:
-  display_name: "Skill Sync Publisher"
-  short_description: "Publish skills safely across registries"
-  default_prompt: "Preflight and synchronize a local skill across its enabled registries."
+  display_name: "skill-sync-publisher · 在公共代理技能注册表之间安全地同步此…"
+  short_description: "在公共代理技能注册表之间安全地同步此…"
+  default_prompt: "使用 skill-sync-publisher 帮我：在公共代理技能注册表之间安全地同步此…"

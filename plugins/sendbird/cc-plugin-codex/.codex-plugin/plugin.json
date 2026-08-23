@@ -24,7 +24,7 @@
     "shortDescription": "反转OpenAI的官方Claude托…",
     "longDescription": "反转OpenAI的官方Claude托管插件：使用Codex的Claude Code进行审核、救援任务、跟踪后台作业和钩子驱动的审核门。",
     "developerName": "Sendbird, Inc.",
-    "category": "开发与工作流",
+    "category": "Coding",
     "capabilities": [
       "适用场景：反转OpenAI的官方Claude托…"
     ],

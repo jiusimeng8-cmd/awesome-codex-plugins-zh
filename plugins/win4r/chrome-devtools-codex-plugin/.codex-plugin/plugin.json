@@ -22,13 +22,13 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Chrome DevTools · Chrome-devtools-mc…",
-    "shortDescription": "Chrome-devtools-mc…",
+    "displayName": "Chrome DevTools · 的一键Codex插件包装器",
+    "shortDescription": "的一键Codex插件包装器",
     "longDescription": "Chrome-devtools-mcp的一键Codex插件包装器。",
     "developerName": "win4r",
-    "category": "工具与集成",
+    "category": "Coding",
     "capabilities": [
-      "适用场景：Chrome-devtools-mc…"
+      "适用场景：的一键Codex插件包装器"
     ],
     "websiteURL": "https://github.com/win4r/chrome-devtools-codex-plugin",
     "privacyPolicyURL": "https://policies.google.com/privacy",

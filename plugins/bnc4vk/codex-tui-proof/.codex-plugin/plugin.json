@@ -22,7 +22,7 @@
     "shortDescription": "使用屏幕截图和会话证据",
     "longDescription": "使用屏幕截图和会话证据，在Codex的应用内浏览器中直观地验证真实的本地终端用户界面。",
     "developerName": "Ben Cohen",
-    "category": "开发与工作流",
+    "category": "Developer Tools",
     "capabilities": [
       "适用场景：使用屏幕截图和会话证据"
     ],

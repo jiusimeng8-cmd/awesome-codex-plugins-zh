@@ -1,4 +1,4 @@
 interface:
-  display_name: "Systematic Debugging"
-  short_description: "用根因定位替代猜测式修复"
-  default_prompt: "Use $systematic-debugging to structure evidence collection, hypothesis testing, and root-cause validation before we propose a fix."
+  display_name: "Team Skills Platform · 基于角色的团队交付框架—技术主管为C…"
+  short_description: "基于角色的团队交付框架—技术主管为C…"
+  default_prompt: "使用 Team Skills Platform 帮我：基于角色的团队交付框架—技术主管为C…"

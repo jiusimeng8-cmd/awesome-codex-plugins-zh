@@ -1,4 +1,4 @@
 interface:
-  display_name: "SEO Roadmap Prioritization"
-  short_description: "Prioritize SEO roadmaps, resources, and executive planning."
-  default_prompt: "Prioritize these SEO initiatives into a roadmap."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

@@ -12,12 +12,12 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Codex rg Guard · Codex的预算“rg”/“grep…",
-    "shortDescription": "Codex的预算“rg”/“grep…",
+    "displayName": "Codex rg Guard · 的预算“rg”/“grep”替代品",
+    "shortDescription": "的预算“rg”/“grep”替代品",
     "developerName": "local",
-    "category": "开发与工作流",
+    "category": "Productivity",
     "capabilities": [
-      "适用场景：Codex的预算“rg”/“grep…"
+      "适用场景：的预算“rg”/“grep”替代品"
     ],
     "longDescription": "Codex的预算“rg”/“grep”替代品，在浪费模型上下文之前缩小了广泛的搜索范围。"
   }

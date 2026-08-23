@@ -28,7 +28,7 @@
     "shortDescription": "通过一个HTTP API为编码代理提…",
     "longDescription": "通过一个HTTP API为编码代理提供代理原生产品分析、错误日志记录和部署归因。",
     "developerName": "Agentry",
-    "category": "开发与工作流",
+    "category": "Data & Analytics",
     "capabilities": [
       "适用场景：通过一个HTTP API为编码代理提…"
     ],

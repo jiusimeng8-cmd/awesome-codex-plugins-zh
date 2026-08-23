@@ -1,8 +1,8 @@
 interface:
-  display_name: 'Runtype SDK And Marathon'
-  short_description: 'Use Runtype SDK, CLI, and Marathon'
+  display_name: "Runtype Skills · 为AI产品开发增强您的编码代理—在R…"
+  short_description: "为AI产品开发增强您的编码代理—在R…"
   brand_color: '#6D5EF7'
-  default_prompt: 'Use $runtype-sdk-marathon to plan a Runtype SDK or Marathon workflow.'
+  default_prompt: "使用 Runtype Skills 帮我：为AI产品开发增强您的编码代理—在R…"
 dependencies:
   tools:
     - type: 'mcp'

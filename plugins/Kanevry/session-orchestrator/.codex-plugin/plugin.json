@@ -15,20 +15,20 @@
   "hooks": "./hooks/hooks-codex.json",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Session Orchestrator · Claude Code",
-    "shortDescription": "Claude Code",
+    "displayName": "Session Orchestrator · 和Cursor IDE的会话编排—结…",
+    "shortDescription": "和Cursor IDE的会话编排—结…",
     "longDescription": "Claude Code、Codex和Cursor IDE的会话编排—结构化规划、基于波浪的执行、VCS集成（ GitLab + GitHub ）、质量门和通过问题跟踪清理会话关闭。",
     "developerName": "Bernhard Goetzendorfer",
-    "category": "开发与工作流",
+    "category": "Coding",
     "capabilities": [
-      "适用场景：Claude Code"
+      "适用场景：和Cursor IDE的会话编排—结…"
     ],
     "composerIcon": "./assets/icon.svg",
     "websiteURL": "https://session-orchestrator.com",
     "privacyPolicyURL": "https://gotzendorfer.at/en/session-orchestrator/privacy",
     "termsOfServiceURL": "https://gotzendorfer.at/en/session-orchestrator/terms",
     "defaultPrompt": [
-      "使用 Session Orchestrator 帮我：Claude Code"
+      "使用 Session Orchestrator 帮我：和Cursor IDE的会话编排—结…"
     ]
   }
 }

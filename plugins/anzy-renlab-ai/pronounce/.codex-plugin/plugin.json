@@ -20,8 +20,7 @@
     "displayName": "Pronounce · 大声说出开发人员的行话",
     "shortDescription": "大声说出开发人员的行话",
     "composerIcon": "./assets/icon.svg",
-    "longDescription": "大声说出开发人员的行话： MCP服务器（查找/搜索）和技能，由1,721条目来源的词典支持，其中包含IPA、音频和引用的kubectl、nginx、YAML、JWT等发音。",
-    "category": "工具与集成"
+    "longDescription": "大声说出开发人员的行话： MCP服务器（查找/搜索）和技能，由1,721条目来源的词典支持，其中包含IPA、音频和引用的kubectl、nginx、YAML、JWT等发音。"
   },
   "mcpServers": "./.mcp.json"
 }

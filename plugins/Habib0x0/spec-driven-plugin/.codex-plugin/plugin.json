@@ -20,20 +20,20 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Spec Driven · Claude Code和Codex的…",
+    "displayName": "Spec Driven · 和Codex的三阶段需求→设计→任务…",
     "composerIcon": "./assets/spec-driven-icon.svg",
-    "shortDescription": "Claude Code和Codex的…",
+    "shortDescription": "和Codex的三阶段需求→设计→任务…",
     "longDescription": "Claude Code和Codex的三阶段需求→设计→任务工作流程— EARS符号验收标准、自主执行循环、跨规格依赖关系和实施后验收测试。",
     "developerName": "habib0x",
-    "category": "开发与工作流",
+    "category": "Development",
     "capabilities": [
-      "适用场景：Claude Code和Codex的…"
+      "适用场景：和Codex的三阶段需求→设计→任务…"
     ],
     "websiteURL": "https://github.com/Habib0x0/spec-driven-plugin",
     "privacyPolicyURL": "https://github.com/Habib0x0/spec-driven-plugin/blob/main/PRIVACY.md",
     "termsOfServiceURL": "https://github.com/Habib0x0/spec-driven-plugin/blob/main/LICENSE",
     "defaultPrompt": [
-      "使用 Spec Driven 帮我：Claude Code和Codex的…"
+      "使用 Spec Driven 帮我：和Codex的三阶段需求→设计→任务…"
     ],
     "brandColor": "#0F766E"
   }

@@ -1,4 +1,4 @@
 interface:
-  display_name: "Go CLI SQL Storage"
-  short_description: "Build safe SQL storage for Go CLIs"
-  default_prompt: "Use $go-cli-sql-storage to design and test this Go CLI database adapter."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

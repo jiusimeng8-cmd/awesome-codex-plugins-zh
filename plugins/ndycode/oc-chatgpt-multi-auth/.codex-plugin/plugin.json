@@ -7,7 +7,6 @@
     "composerIcon": "./assets/icon.svg",
     "displayName": "OC ChatGPT Multi Auth · 用于ChatGPT Plus/Pro…",
     "shortDescription": "用于ChatGPT Plus/Pro…",
-    "longDescription": "用于ChatGPT Plus/Pro OAuth、GPT-5/Codex预设和多帐户故障转移的Codex设置技能和OpenCode插件。",
-    "category": "工具与集成"
+    "longDescription": "用于ChatGPT Plus/Pro OAuth、GPT-5/Codex预设和多帐户故障转移的Codex设置技能和OpenCode插件。"
   }
 }

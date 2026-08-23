@@ -1,4 +1,4 @@
 interface:
-  display_name: "Frontend Engineering"
-  short_description: "统一 React/Next 优先的前端工程规范"
-  default_prompt: "Use $frontend-engineering to define the component boundaries, state flow, accessibility baseline, and performance constraints for this frontend task."
+  display_name: "Team Skills Platform · 基于角色的团队交付框架—技术主管为C…"
+  short_description: "基于角色的团队交付框架—技术主管为C…"
+  default_prompt: "使用 Team Skills Platform 帮我：基于角色的团队交付框架—技术主管为C…"

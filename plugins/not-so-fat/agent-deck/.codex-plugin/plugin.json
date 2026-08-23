@@ -22,7 +22,7 @@
     "shortDescription": "一个用于上下文管理的MCP",
     "longDescription": "一个用于上下文管理的MCP ：将自我改进的剧本、MCP工具和API密钥绑定到会话。",
     "developerName": "not-so-fat",
-    "category": "开发与工作流",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：一个用于上下文管理的MCP"
     ],

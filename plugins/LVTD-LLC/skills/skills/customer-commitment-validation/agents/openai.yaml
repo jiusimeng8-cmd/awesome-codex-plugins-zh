@@ -1,4 +1,4 @@
 interface:
-  display_name: "Customer Commitment Validation"
-  short_description: "Classify meetings by real commitment."
-  default_prompt: "Classify this meeting outcome as commitment, advancement, rejection, weak interest, or bad data."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

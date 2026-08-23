@@ -1,4 +1,4 @@
 interface:
-  display_name: "Rust Bevy Collision Broadphase"
-  short_description: "Scale Bevy 2D collision checks"
-  default_prompt: "Use $rust-bevy-collision-broadphase to optimize this Bevy collision system without changing gameplay behavior."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

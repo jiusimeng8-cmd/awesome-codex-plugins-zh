@@ -27,7 +27,7 @@
     "shortDescription": "通过TranscriptAPI服务进…",
     "longDescription": "通过TranscriptAPI服务进行YouTube文字记录、带时间戳的字幕和字幕、视频和频道搜索、播放列表和频道浏览的十二项代理技能。",
     "developerName": "Zero Point Studio",
-    "category": "工具与集成",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：通过TranscriptAPI服务进…"
     ],

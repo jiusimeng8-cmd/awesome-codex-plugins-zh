@@ -22,17 +22,17 @@
   ],
   "skills": "./skills",
   "interface": {
-    "displayName": "Codex Skin Pack Installer · Codex插件和Skill",
-    "shortDescription": "Codex插件和Skill",
+    "displayName": "Codex Skin Pack Installer · 插件和Skill",
+    "shortDescription": "插件和Skill",
     "longDescription": "Codex插件和Skill ，从GitHub版本中分阶段验证桌面皮肤包，验证文件，并保持恢复指导可见。",
     "developerName": "ChannelerH",
-    "category": "开发与工作流",
+    "category": "Productivity",
     "capabilities": [
-      "适用场景：Codex插件和Skill"
+      "适用场景：插件和Skill"
     ],
     "websiteURL": "https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-pack-installer",
     "defaultPrompt": [
-      "使用 Codex Skin Pack Installer 帮我：Codex插件和Skill"
+      "使用 Codex Skin Pack Installer 帮我：插件和Skill"
     ],
     "brandColor": "#D98B2B"
   }

@@ -22,7 +22,7 @@
     "shortDescription": "隐私为先的本地ActivityWat…",
     "longDescription": "隐私为先的本地ActivityWatch报告，包括应用程序时间、AFK时间、项目、可收费工作以及macOS、Windows和Linux的编辑时间表。",
     "developerName": "liuyewang",
-    "category": "工具与集成",
+    "category": "Productivity",
     "composerIcon": "./assets/icon.svg",
     "capabilities": [
       "适用场景：隐私为先的本地ActivityWat…"

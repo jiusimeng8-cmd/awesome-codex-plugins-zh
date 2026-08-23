@@ -1,4 +1,4 @@
 interface:
-  display_name: "Yandex Cloud Search Cost Control"
-  short_description: "Найти и остановить расходы Search API без утечки доступов."
-  default_prompt: "Используй $yandex-cloud-search-cost-control, чтобы атрибутировать платные вызовы Yandex Cloud Search API, безопасно приостановить их и проверить результат."
+  display_name: "Yandex Direct · 适用于Yandex Direct"
+  short_description: "适用于Yandex Direct"
+  default_prompt: "使用 Yandex Direct 帮我：适用于Yandex Direct"

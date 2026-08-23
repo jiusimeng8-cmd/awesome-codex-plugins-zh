@@ -17,7 +17,7 @@
     "displayName": "WakeWire · 将来自GitHub",
     "shortDescription": "将来自GitHub",
     "longDescription": "将来自GitHub、Gmail、Slack和任何已签名的Webhook （ Linear、Sentry、ClickUp ）的事件作为新的转折点直接推送到您的Codex线程中--事件驱动的触发器，而不是轮询，具有HMAC验证、重复数据删除和持久的交付队列。",
-    "category": "工具与集成",
+    "category": "Productivity",
     "brandColor": "#2D6CDF",
     "developerName": "Glenn Calleja Frendo",
     "websiteURL": "https://github.com/glenncalleja/wakewire"

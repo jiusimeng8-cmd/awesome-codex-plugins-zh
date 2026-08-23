@@ -21,7 +21,7 @@
     "shortDescription": "通过官方Lark CLI将Docs",
     "longDescription": "通过官方Lark CLI将Docs、Messenger、Drive、Sheets、Base、Calendar、Tasks、Meetings、Mail、Approvals等Codex连接到Feishu/Lark工作流。",
     "developerName": "Codex Lark Community",
-    "category": "工具与集成",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：通过官方Lark CLI将Docs"
     ],

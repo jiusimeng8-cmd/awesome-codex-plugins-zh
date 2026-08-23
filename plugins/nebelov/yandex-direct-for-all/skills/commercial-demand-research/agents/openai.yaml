@@ -1,4 +1,4 @@
 interface:
-  display_name: "Исследование коммерческого спроса"
-  short_description: "Собирает и проверяет полный ландшафт спроса до рекламной семантики."
-  default_prompt: "Используй $commercial-demand-research: сначала собери исходные данные Wordstat, затем классифицируй каждую строку и докажи полное покрытие."
+  display_name: "Yandex Direct · 适用于Yandex Direct"
+  short_description: "适用于Yandex Direct"
+  default_prompt: "使用 Yandex Direct 帮我：适用于Yandex Direct"

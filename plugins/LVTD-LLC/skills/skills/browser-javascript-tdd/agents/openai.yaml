@@ -1,4 +1,4 @@
 interface:
-  display_name: "Browser JavaScript TDD"
-  short_description: "Test-drive DOM behavior"
-  default_prompt: "Use $browser-javascript-tdd to add this browser JavaScript behavior with focused tests."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

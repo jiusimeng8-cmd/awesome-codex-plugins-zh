@@ -29,20 +29,20 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Frappe Agent · Frappe和ERPNext为Cod…",
+    "displayName": "Frappe Agent · 和ERPNext为Codex提供编码",
     "composerIcon": "./assets/frappe-agent-icon.svg",
-    "shortDescription": "Frappe和ERPNext为Cod…",
+    "shortDescription": "和ERPNext为Codex提供编码",
     "longDescription": "Frappe和ERPNext为Codex提供编码、定制、工作台和评审智能。",
     "developerName": "Dhairya Marwaha",
-    "category": "开发与工作流",
+    "category": "Developer Tools",
     "capabilities": [
-      "适用场景：Frappe和ERPNext为Cod…"
+      "适用场景：和ERPNext为Codex提供编码"
     ],
     "websiteURL": "https://github.com/Dkm0315/frappe-agent",
     "privacyPolicyURL": "https://github.com/Dkm0315/frappe-agent",
     "termsOfServiceURL": "https://github.com/Dkm0315/frappe-agent",
     "defaultPrompt": [
-      "使用 Frappe Agent 帮我：Frappe和ERPNext为Cod…"
+      "使用 Frappe Agent 帮我：和ERPNext为Codex提供编码"
     ],
     "brandColor": "#1F7A5A"
   }

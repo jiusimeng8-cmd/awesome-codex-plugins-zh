@@ -1,4 +1,4 @@
 interface:
-  display_name: "Rust SQLx Postgres Service"
-  short_description: "Build safe SQLx/Postgres service layers"
-  default_prompt: "Add or review SQLx/Postgres persistence for this Rust service."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

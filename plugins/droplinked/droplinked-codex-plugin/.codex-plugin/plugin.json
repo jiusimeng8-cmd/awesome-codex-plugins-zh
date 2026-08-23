@@ -29,7 +29,7 @@
     "shortDescription": "通过托管的MCP服务器进行经过验证的…",
     "longDescription": "通过托管的MCP服务器进行经过验证的库存代理商务，包括商家和产品发现、代理启动的结账以及链上品牌、信用风险和还款证明。",
     "developerName": "droplinked",
-    "category": "工具与集成",
+    "category": "Commerce",
     "capabilities": [
       "适用场景：通过托管的MCP服务器进行经过验证的…"
     ],

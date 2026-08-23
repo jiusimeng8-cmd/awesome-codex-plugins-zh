@@ -30,7 +30,7 @@
     "shortDescription": "用于Codex的AI操作插件",
     "longDescription": "用于Codex的AI操作插件，通过Aient的MCP服务器连接生产遥测、问题生命周期上下文和修复工作流。",
     "developerName": "Aient",
-    "category": "工具与集成",
+    "category": "Coding",
     "capabilities": [
       "适用场景：用于Codex的AI操作插件"
     ],

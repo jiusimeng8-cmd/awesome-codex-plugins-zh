@@ -1,4 +1,4 @@
 interface:
-  display_name: "Superloopy Research"
-  short_description: "Explicit exhaustive-research workflow"
-  default_prompt: "Use `$superloopy:superloopy-research` only after explicit invocation for exhaustive research with EXPAND waves, cited synthesis, and Superloopy evidence artifacts; a plain research, investigate, look-up, or summarize request is not activation and stays with its primary workflow."
+  display_name: "Superloopy · 具有专业技能的循证门控Codex循环…"
+  short_description: "具有专业技能的循证门控Codex循环…"
+  default_prompt: "使用 Superloopy 帮我：具有专业技能的循证门控Codex循环…"

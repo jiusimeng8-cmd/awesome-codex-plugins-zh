@@ -1,7 +1,7 @@
 interface:
-  display_name: "Claude Code Harness"
-  short_description: "Design request assembly, loops, memory, and recovery"
-  default_prompt: "Use $claude-code-harness to produce a harness blueprint for this agentic system."
+  display_name: "Claude Code Harness · 利用蓝图技能"
+  short_description: "利用蓝图技能"
+  default_prompt: "使用 Claude Code Harness 帮我：利用蓝图技能"
 
 policy:
   allow_implicit_invocation: true

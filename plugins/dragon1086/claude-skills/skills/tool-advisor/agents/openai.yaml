@@ -1,7 +1,7 @@
 interface:
-  display_name: "Tool Advisor"
-  short_description: "Discover tools and suggest best workflows"
-  default_prompt: "Use $tool-advisor to analyze this task and suggest the best tool composition."
+  display_name: "Tool Advisor · 只读元技能"
+  short_description: "只读元技能"
+  default_prompt: "使用 Tool Advisor 帮我：只读元技能"
 
 policy:
   allow_implicit_invocation: true

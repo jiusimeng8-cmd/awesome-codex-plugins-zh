@@ -36,20 +36,20 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "X Twitter Scraper · X/Twitter数据",
-    "shortDescription": "X/Twitter数据",
+    "displayName": "X Twitter Scraper · 数据",
+    "shortDescription": "数据",
     "longDescription": "X/Twitter数据、受监控的工作流、HMAC webhook和MCP访问，通过Xquik REST API与确认门控写入指导。",
     "developerName": "Xquik",
-    "category": "工具与集成",
+    "category": "Productivity",
     "composerIcon": "./assets/icon.svg",
     "capabilities": [
-      "适用场景：X/Twitter数据"
+      "适用场景：数据"
     ],
     "websiteURL": "https://docs.xquik.com",
     "privacyPolicyURL": "https://xquik.com/privacy",
     "termsOfServiceURL": "https://xquik.com/terms",
     "defaultPrompt": [
-      "使用 X Twitter Scraper 帮我：X/Twitter数据"
+      "使用 X Twitter Scraper 帮我：数据"
     ],
     "brandColor": "#0F172A",
     "screenshots": []

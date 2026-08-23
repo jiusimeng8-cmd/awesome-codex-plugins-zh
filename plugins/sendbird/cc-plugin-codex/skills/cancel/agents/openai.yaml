@@ -1,5 +1,5 @@
 interface:
-  display_name: "Claude Code Cancel"
-  short_description: "Args: [job-id]. Cancel a queued or running Claude Code job."
+  display_name: "Claude Code for Codex · 反转OpenAI的官方Claude托…"
+  short_description: "反转OpenAI的官方Claude托…"
 policy:
   allow_implicit_invocation: false

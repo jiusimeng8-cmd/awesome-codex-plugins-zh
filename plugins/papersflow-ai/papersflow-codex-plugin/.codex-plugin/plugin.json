@@ -28,7 +28,7 @@
     "shortDescription": "论文发现",
     "longDescription": "论文发现、引文验证、图形探索和DeepScan分析。",
     "developerName": "PapersFlow",
-    "category": "工具与集成",
+    "category": "Research",
     "capabilities": [
       "适用场景：论文发现"
     ],

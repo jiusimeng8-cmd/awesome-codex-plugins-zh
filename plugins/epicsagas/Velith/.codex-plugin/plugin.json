@@ -11,13 +11,13 @@
   "license": "Apache-2.0",
   "skills": "./skills/",
   "interface": {
-    "displayName": "Velith · AI原生发布系统",
-    "shortDescription": "AI原生发布系统",
+    "displayName": "Velith · 原生发布系统",
+    "shortDescription": "原生发布系统",
     "longDescription": "AI原生发布系统，从构思到EPUB/PDF ，跨越8个流派的6个阶段。",
     "developerName": "epicsagas",
-    "category": "开发与工作流",
+    "category": "Development & Workflow",
     "capabilities": [
-      "适用场景：AI原生发布系统"
+      "适用场景：原生发布系统"
     ],
     "websiteURL": "https://github.com/epicsagas/Velith",
     "composerIcon": "./assets/icon.svg"

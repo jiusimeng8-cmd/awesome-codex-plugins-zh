@@ -23,7 +23,7 @@
     "composerIcon": "./assets/icon.svg",
     "longDescription": "通过本地MCP服务器将Codex连接到MATLAB和Simulink ，用于模型检查、脚本执行和工程工作流程自动化。",
     "developerName": "summer521521",
-    "category": "工具与集成",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：通过本地MCP服务器将Codex连接…"
     ],

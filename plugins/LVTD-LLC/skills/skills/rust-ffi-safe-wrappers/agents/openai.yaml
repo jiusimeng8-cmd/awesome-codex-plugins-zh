@@ -1,4 +1,4 @@
 interface:
-  display_name: "Rust FFI Safe Wrappers"
-  short_description: "Wrap C ABI and foreign functions behind safe Rust APIs"
-  default_prompt: "Review this Rust FFI boundary and build safe wrappers around the raw bindings."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

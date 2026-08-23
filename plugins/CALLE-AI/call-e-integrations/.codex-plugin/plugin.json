@@ -28,7 +28,7 @@
     "shortDescription": "通过CALLE CLI规划",
     "longDescription": "通过CALLE CLI规划、运行和检查Codex的Call-E电话呼叫工作流程。",
     "developerName": "CALLE AI",
-    "category": "工具与集成",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：通过CALLE CLI规划"
     ],

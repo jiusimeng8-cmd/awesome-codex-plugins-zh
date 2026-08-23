@@ -1,4 +1,4 @@
 interface:
-  display_name: "Rust Bevy Asset Pipeline"
-  short_description: "Organize Bevy game assets"
-  default_prompt: "Use $rust-bevy-asset-pipeline to replace hard-coded Bevy asset paths with a typed loading pipeline."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

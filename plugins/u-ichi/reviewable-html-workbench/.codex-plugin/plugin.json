@@ -23,7 +23,7 @@
     "shortDescription": "生成可审核的HTML文档",
     "longDescription": "生成可审核的HTML文档，提供预览，收集内联审核评论，并将审核结果反馈到客服代表的工作流程中。",
     "developerName": "u1",
-    "category": "开发与工作流",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：生成可审核的HTML文档"
     ],

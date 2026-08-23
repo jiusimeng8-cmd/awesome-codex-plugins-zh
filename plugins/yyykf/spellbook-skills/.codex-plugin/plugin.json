@@ -22,7 +22,7 @@
     "shortDescription": "适用于工作树",
     "longDescription": "适用于工作树、PR/MR自动化、审核清理、YApi查找和Java DDD指导的实用Claude Code和Codex技能。",
     "developerName": "code4j",
-    "category": "开发与工作流",
+    "category": "Development & Workflow",
     "capabilities": [
       "适用场景：适用于工作树"
     ],

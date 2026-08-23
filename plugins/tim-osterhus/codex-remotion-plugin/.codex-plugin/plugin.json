@@ -25,7 +25,7 @@
     "shortDescription": "使用官方Remotion文档MCP",
     "longDescription": "使用官方Remotion文档MCP、构图脚手架和数据驱动的启动视频工作流程，在Codex中构建参数化的Remotion视频。",
     "developerName": "Tim Osterhus",
-    "category": "工具与集成",
+    "category": "Coding",
     "capabilities": [
       "适用场景：使用官方Remotion文档MCP"
     ],

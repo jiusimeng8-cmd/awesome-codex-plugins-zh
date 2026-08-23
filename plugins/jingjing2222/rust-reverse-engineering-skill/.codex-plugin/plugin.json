@@ -24,7 +24,7 @@
     "shortDescription": "对Rust二进制文件和库进行逆向工程",
     "longDescription": "对Rust二进制文件和库进行逆向工程：分类目标、解码符号、恢复crate命名空间以及映射panic、unwind、async和FFI路径。",
     "developerName": "jingjing2222",
-    "category": "工具与集成",
+    "category": "Coding",
     "capabilities": [
       "适用场景：对Rust二进制文件和库进行逆向工程"
     ],

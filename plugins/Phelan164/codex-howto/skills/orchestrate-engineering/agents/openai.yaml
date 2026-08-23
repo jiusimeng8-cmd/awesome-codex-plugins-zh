@@ -1,6 +1,6 @@
 interface:
-  display_name: "Orchestrate Engineering"
-  short_description: "Coordinate bounded multi-agent engineering work"
-  default_prompt: "Use $orchestrate-engineering to divide this complex task into efficient, bounded agent work."
+  display_name: "Codex How To · 具有9项技能的工程第一Codex课程…"
+  short_description: "具有9项技能的工程第一Codex课程…"
+  default_prompt: "使用 Codex How To 帮我：具有9项技能的工程第一Codex课程…"
 policy:
   allow_implicit_invocation: false

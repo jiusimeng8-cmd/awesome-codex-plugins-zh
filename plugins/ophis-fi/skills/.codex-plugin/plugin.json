@@ -25,11 +25,11 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Ophis · Onchain代币通过托管的Ophi…",
-    "shortDescription": "Onchain代币通过托管的Ophi…",
+    "displayName": "Ophis · 代币通过托管的Ophis MCP服务…",
+    "shortDescription": "代币通过托管的Ophis MCP服务…",
     "longDescription": "Onchain代币通过托管的Ophis MCP服务器交换Codex ， MEV保护和无气体，基于CoW协议构建。",
     "developerName": "Ophis",
-    "category": "工具与集成",
+    "category": "Tools & Integrations",
     "websiteURL": "https://ophis.fi",
     "composerIcon": "./assets/icon.svg"
   }

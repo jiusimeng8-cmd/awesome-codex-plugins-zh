@@ -23,19 +23,19 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Hermes Tweet · Hermes Agent X/Twi…",
-    "shortDescription": "Hermes Agent X/Twi…",
+    "displayName": "Hermes Tweet · 插件",
+    "shortDescription": "插件",
     "longDescription": "Hermes Agent X/Twitter插件，用于通过Xquik进行以读为先的社交研究、监控和审批门禁操作。",
     "developerName": "Xquik",
-    "category": "工具与集成",
+    "category": "Productivity",
     "capabilities": [
-      "适用场景：Hermes Agent X/Twi…"
+      "适用场景：插件"
     ],
     "websiteURL": "https://github.com/Xquik-dev/hermes-tweet#readme",
     "privacyPolicyURL": "https://github.com/Xquik-dev/hermes-tweet/security/policy",
     "termsOfServiceURL": "https://github.com/Xquik-dev/hermes-tweet/blob/master/LICENSE",
     "defaultPrompt": [
-      "使用 Hermes Tweet 帮我：Hermes Agent X/Twi…"
+      "使用 Hermes Tweet 帮我：插件"
     ],
     "brandColor": "#111827",
     "composerIcon": "./assets/icon.svg",

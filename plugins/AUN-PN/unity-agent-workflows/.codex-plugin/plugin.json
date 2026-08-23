@@ -22,19 +22,19 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Unity Workflows · Unity 2D代理的Codex插件…",
-    "shortDescription": "Unity 2D代理的Codex插件…",
+    "displayName": "Unity Workflows · 代理的Codex插件和技能",
+    "shortDescription": "代理的Codex插件和技能",
     "longDescription": "Unity 2D代理的Codex插件和技能，通过运行时所有者证明、Teach结构映射和验证门强制执行“无证明，无编辑”工作流程。",
     "developerName": "AUN-PN",
-    "category": "开发与工作流",
+    "category": "Coding",
     "capabilities": [
-      "适用场景：Unity 2D代理的Codex插件…"
+      "适用场景：代理的Codex插件和技能"
     ],
     "websiteURL": "https://github.com/AUN-PN/unity-agent-workflows",
     "privacyPolicyURL": "https://github.com/AUN-PN/unity-agent-workflows",
     "termsOfServiceURL": "https://github.com/AUN-PN/unity-agent-workflows",
     "defaultPrompt": [
-      "使用 Unity Workflows 帮我：Unity 2D代理的Codex插件…"
+      "使用 Unity Workflows 帮我：代理的Codex插件和技能"
     ],
     "composerIcon": "./assets/unity-workflows.png",
     "logo": "./assets/unity-workflows.png",

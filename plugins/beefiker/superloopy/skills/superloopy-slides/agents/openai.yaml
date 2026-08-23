@@ -1,4 +1,4 @@
 interface:
-  display_name: "Superloopy Slides"
-  short_description: "Beautiful HTML slide decks with Superloopy evidence"
-  default_prompt: "Use superloopy-slides to create a zero-dependency HTML presentation with visual style discovery and a real-browser visual-QA evidence artifact."
+  display_name: "Superloopy · 具有专业技能的循证门控Codex循环…"
+  short_description: "具有专业技能的循证门控Codex循环…"
+  default_prompt: "使用 Superloopy 帮我：具有专业技能的循证门控Codex循环…"

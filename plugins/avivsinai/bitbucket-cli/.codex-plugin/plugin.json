@@ -25,7 +25,7 @@
     "displayName": "Bitbucket CLI · 管理数据中心和云的Bitbucket…",
     "composerIcon": "./assets/bkt-icon.svg",
     "shortDescription": "管理数据中心和云的Bitbucket…",
-    "category": "工具与集成",
+    "category": "Developer Tools",
     "longDescription": "管理数据中心和云的Bitbucket存储库、PR、分支、问题、Webhook和管道。"
   }
 }

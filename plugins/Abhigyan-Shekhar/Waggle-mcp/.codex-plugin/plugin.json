@@ -17,17 +17,17 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Waggle · Codex的持久图形支持会话记忆",
-    "shortDescription": "Codex的持久图形支持会话记忆",
+    "displayName": "Waggle · 的持久图形支持会话记忆",
+    "shortDescription": "的持久图形支持会话记忆",
     "longDescription": "Codex的持久图形支持会话记忆，可跨会话回忆项目决策、约束、偏好和结果。",
     "developerName": "Abhigyan Shekhar",
-    "category": "开发与工作流",
+    "category": "Developer Tools",
     "capabilities": [
-      "适用场景：Codex的持久图形支持会话记忆"
+      "适用场景：的持久图形支持会话记忆"
     ],
     "websiteURL": "https://wagglemcp.vercel.app",
     "defaultPrompt": [
-      "使用 Waggle 帮我：Codex的持久图形支持会话记忆"
+      "使用 Waggle 帮我：的持久图形支持会话记忆"
     ],
     "brandColor": "#F97316",
     "composerIcon": "./assets/waggle-icon.png",

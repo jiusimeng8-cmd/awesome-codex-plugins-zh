@@ -1,4 +1,4 @@
 interface:
-  display_name: "Skill Stocktake"
-  short_description: "批量盘点 skills 与 commands 的质量状态"
-  default_prompt: "Use $skill-stocktake to audit changed or installed skills, summarize quality gaps, and prioritize the highest-risk fixes."
+  display_name: "Team Skills Platform · 基于角色的团队交付框架—技术主管为C…"
+  short_description: "基于角色的团队交付框架—技术主管为C…"
+  default_prompt: "使用 Team Skills Platform 帮我：基于角色的团队交付框架—技术主管为C…"

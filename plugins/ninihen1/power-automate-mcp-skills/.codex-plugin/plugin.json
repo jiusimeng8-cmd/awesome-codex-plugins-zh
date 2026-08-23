@@ -26,7 +26,7 @@
     "shortDescription": "通过FlowStudio MCP调试",
     "longDescription": "通过FlowStudio MCP调试、构建和操作Power Automate流程，并具有动作级输入和输出。",
     "developerName": "Flow Studio",
-    "category": "工具与集成",
+    "category": "cloud-services",
     "capabilities": [
       "适用场景：通过FlowStudio MCP调试"
     ],

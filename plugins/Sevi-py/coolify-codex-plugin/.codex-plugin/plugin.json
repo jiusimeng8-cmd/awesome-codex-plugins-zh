@@ -23,7 +23,7 @@
     "shortDescription": "通过API感知工作流程技能和本地工具…",
     "longDescription": "通过API感知工作流程技能和本地工具控制Coolify Cloud和自托管Coolify实例。",
     "developerName": "Severin Hilbert",
-    "category": "工具与集成",
+    "category": "Developer Tools",
     "capabilities": [
       "适用场景：通过API感知工作流程技能和本地工具…"
     ],

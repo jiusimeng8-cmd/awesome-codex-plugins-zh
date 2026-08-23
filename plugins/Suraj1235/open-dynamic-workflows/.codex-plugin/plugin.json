@@ -25,7 +25,7 @@
     "longDescription": "本地第一个针对Codex、OpenCode、Antigravity、Cursor和VS Code的MIT动态多代理工作流程，具有守护进程、MCP桥接、Codex技能、OpenCode插件和自带模型支持。",
     "composerIcon": "./assets/icon.svg",
     "developerName": "open-dynamic-workflows contributors",
-    "category": "开发与工作流",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：本地第一个针对Codex"
     ],

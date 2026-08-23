@@ -25,7 +25,7 @@
     "longDescription": "即插即用的MCP ，为您的代理提供超强的UI功能。一次安装：设计技能+ MCP服务器，零配置。",
     "composerIcon": "./assets/icon.webp",
     "developerName": "PyModel",
-    "category": "开发与工作流",
+    "category": "Development & Workflow",
     "capabilities": [
       "适用场景：即插即用的MCP"
     ]

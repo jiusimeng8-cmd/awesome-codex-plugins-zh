@@ -1,7 +1,7 @@
 interface:
-  display_name: "Say It Straight"
-  short_description: "Direct, natural prose without stock AI tone"
-  default_prompt: "Use $superloopy:say-it-straight to make this writing direct, concise, and natural without changing facts or protected text."
+  display_name: "Superloopy · 具有专业技能的循证门控Codex循环…"
+  short_description: "具有专业技能的循证门控Codex循环…"
+  default_prompt: "使用 Superloopy 帮我：具有专业技能的循证门控Codex循环…"
 
 policy:
   allow_implicit_invocation: false

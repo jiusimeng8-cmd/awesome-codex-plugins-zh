@@ -41,7 +41,7 @@
     "shortDescription": "通过技能",
     "longDescription": "通过技能、挂钩和MCP为编码代理提供存储库的架构、规则和先前的决策—因此，新的更改会出现在项目所属的Claude Code、Cursor和Codex CLI中。",
     "developerName": "Archcore",
-    "category": "开发与工作流",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：通过技能"
     ],

@@ -20,18 +20,18 @@
   "hooks": "./hooks/claude-codex-hooks.json",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "BABOK Analyst · BABOK v3业务分析代理",
-    "shortDescription": "BABOK v3业务分析代理",
+    "displayName": "BABOK Analyst · 业务分析代理",
+    "shortDescription": "业务分析代理",
     "longDescription": "BABOK v3业务分析代理，具有16个MCP工具、9个阶段的管道和人在环审批门。",
     "developerName": "Grzegorz Skuza",
-    "category": "开发与工作流",
+    "category": "Productivity",
     "capabilities": [
-      "适用场景：BABOK v3业务分析代理"
+      "适用场景：业务分析代理"
     ],
     "websiteURL": "https://github.com/GSkuza/BABOK_ANALYST",
     "composerIcon": "./assets/icon.svg",
     "defaultPrompt": [
-      "使用 BABOK Analyst 帮我：BABOK v3业务分析代理"
+      "使用 BABOK Analyst 帮我：业务分析代理"
     ]
   }
 }

@@ -24,7 +24,7 @@
     "displayName": "Agent Message Queue · 基于文件的代理间消息传递",
     "composerIcon": "./assets/icon.png",
     "shortDescription": "基于文件的代理间消息传递",
-    "category": "工具与集成",
+    "category": "Developer Tools",
     "longDescription": "基于文件的代理间消息传递，具有合作模式、跨项目联合和协调器集成。"
   }
 }

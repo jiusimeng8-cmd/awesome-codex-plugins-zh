@@ -1,4 +1,4 @@
 interface:
-  display_name: "Technical Manuscript Verification"
-  short_description: "Verify technical drafts actually work"
-  default_prompt: "Use $technical-manuscript-verification to audit this technical manuscript for runnable accuracy."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

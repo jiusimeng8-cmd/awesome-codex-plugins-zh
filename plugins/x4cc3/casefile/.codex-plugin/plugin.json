@@ -23,7 +23,7 @@
     "shortDescription": "持续跟踪漏洞赏金",
     "longDescription": "持续跟踪漏洞赏金、CTF和安全审计的安全案例。",
     "developerName": "x4cc3",
-    "category": "开发与工作流",
+    "category": "Developer Tools",
     "capabilities": [
       "适用场景：持续跟踪漏洞赏金"
     ],

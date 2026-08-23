@@ -19,7 +19,7 @@
     "shortDescription": "通过低代币CLI控制和验证实时Uni…",
     "longDescription": "通过低代币CLI控制和验证实时Unity Editor ，包括Codex和其他编码代理的场景、资源、Inspector、播放模式、测试、屏幕截图和运行时C #工作流。",
     "developerName": "NotNull92",
-    "category": "开发与工作流",
+    "category": "Development",
     "composerIcon": "./assets/icon.svg",
     "defaultPrompt": "Use Hera Unity to inspect the running Unity Editor, make the requested change, and verify the result.",
     "capabilities": [

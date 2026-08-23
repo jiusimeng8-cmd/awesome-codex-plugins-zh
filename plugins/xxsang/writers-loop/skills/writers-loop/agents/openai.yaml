@@ -1,7 +1,7 @@
 interface:
-  display_name: "Writer's Loop"
-  short_description: "Writing, critique, style learning, translation, and preference learning"
+  display_name: "Writer's Loop · 用于规划"
+  short_description: "用于规划"
   brand_color: "#256D5A"
-  default_prompt: "Use $writers-loop to plan, draft, critique, revise, translate, learn style, and learn preferences for this writing task."
+  default_prompt: "使用 Writer's Loop 帮我：用于规划"
 policy:
   allow_implicit_invocation: true

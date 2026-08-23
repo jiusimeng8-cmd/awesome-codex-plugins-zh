@@ -24,7 +24,7 @@
     "shortDescription": "用于Codex的自托管AI网关",
     "longDescription": "用于Codex的自托管AI网关，具有免提供商提示增强功能、九个受管理的MCP工具和免凭证的Docker路径。",
     "developerName": "happy520ai",
-    "category": "工具与集成",
+    "category": "Developer Tools",
     "capabilities": [
       "适用场景：用于Codex的自托管AI网关"
     ],

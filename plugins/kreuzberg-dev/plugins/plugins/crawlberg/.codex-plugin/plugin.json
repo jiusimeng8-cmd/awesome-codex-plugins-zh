@@ -19,16 +19,16 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Crawlberg · 91种以上格式的本地文档提取",
-    "shortDescription": "91种以上格式的本地文档提取",
+    "displayName": "Crawlberg · 种以上格式的本地文档提取",
+    "shortDescription": "种以上格式的本地文档提取",
     "longDescription": "91种以上格式的本地文档提取，具有CLI使用、OCR、表提取、输出格式和本地MCP服务器的技能。",
     "developerName": "Kreuzberg, Inc.",
-    "category": "工具与集成",
+    "category": "web-scraping",
     "capabilities": [
-      "适用场景：91种以上格式的本地文档提取"
+      "适用场景：种以上格式的本地文档提取"
     ],
     "defaultPrompt": [
-      "使用 Crawlberg 帮我：91种以上格式的本地文档提取"
+      "使用 Crawlberg 帮我：种以上格式的本地文档提取"
     ],
     "websiteURL": "https://xberg.io",
     "privacyPolicyURL": "https://xberg.io/privacy",

@@ -1,4 +1,4 @@
 interface:
-  display_name: "Rust Service Security"
-  short_description: "Review Rust web auth, cookies, and sessions"
-  default_prompt: "Review or implement secure auth behavior in this Rust service."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

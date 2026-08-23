@@ -1,4 +1,4 @@
 interface:
-  display_name: "Customer Segment Slicing"
-  short_description: "Slice broad markets into reachable segments."
-  default_prompt: "Slice this broad customer market into specific who-where segments for discovery."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

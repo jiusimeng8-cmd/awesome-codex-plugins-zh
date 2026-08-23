@@ -25,7 +25,7 @@
     "shortDescription": "用于Codex",
     "longDescription": "用于Codex、Claude Code、Cursor、Gemini、OpenCode、MCP服务器、技能和插件发布检查的AI防病毒工作流程，并具有本地批准和收据。",
     "developerName": "Hashgraph Online",
-    "category": "开发与工作流",
+    "category": "Security",
     "capabilities": [
       "适用场景：用于Codex"
     ],

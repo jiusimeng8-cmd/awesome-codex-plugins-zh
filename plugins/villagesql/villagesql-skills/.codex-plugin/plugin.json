@@ -12,12 +12,12 @@
     "developer-tools"
   ],
   "interface": {
-    "displayName": "VillageSQL Skills · VillageSQL的技能",
-    "shortDescription": "VillageSQL的技能",
+    "displayName": "VillageSQL Skills · 的技能",
+    "shortDescription": "的技能",
     "developerName": "VillageSQL",
-    "category": "开发与工作流",
+    "category": "Developer Tools",
     "capabilities": [
-      "适用场景：VillageSQL的技能"
+      "适用场景：的技能"
     ],
     "websiteURL": "https://villagesql.com",
     "brandColor": "#CC66FF",

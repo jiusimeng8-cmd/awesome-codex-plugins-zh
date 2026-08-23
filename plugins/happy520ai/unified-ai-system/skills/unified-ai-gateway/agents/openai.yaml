@@ -1,4 +1,4 @@
 interface:
-  display_name: "Unified AI Gateway"
-  short_description: "Inspect and operate the local AI gateway safely"
-  default_prompt: "Check Unified AI System health and show the safest next action."
+  display_name: "Unified AI System · 用于Codex的自托管AI网关"
+  short_description: "用于Codex的自托管AI网关"
+  default_prompt: "使用 Unified AI System 帮我：用于Codex的自托管AI网关"

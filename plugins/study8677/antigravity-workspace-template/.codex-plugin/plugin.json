@@ -7,7 +7,6 @@
     "composerIcon": "./assets/icon.png",
     "displayName": "Antigravity Workspace Template · 具有上下文感知规划和自动范围管理的多…",
     "shortDescription": "具有上下文感知规划和自动范围管理的多…",
-    "longDescription": "具有上下文感知规划和自动范围管理的多代理代码库知识图生成器—将代码库转化为连贯的代理工作区。",
-    "category": "开发与工作流"
+    "longDescription": "具有上下文感知规划和自动范围管理的多代理代码库知识图生成器—将代码库转化为连贯的代理工作区。"
   }
 }

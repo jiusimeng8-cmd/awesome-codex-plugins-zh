@@ -1,7 +1,7 @@
 interface:
-  display_name: "htmx Interactivity"
-  short_description: "Coordinate htmx with local UI state"
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
   icon_small: "./assets/icons8-code.svg"
   icon_large: "./assets/icons8-code.svg"
   brand_color: "#424E5C"
-  default_prompt: "Use $htmx-interactivity to coordinate htmx swaps with Alpine or local browser state."
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

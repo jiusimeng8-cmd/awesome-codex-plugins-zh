@@ -20,7 +20,7 @@
     "shortDescription": "将从本地编码代理会话中选择的证据挖掘…",
     "longDescription": "将从本地编码代理会话中选择的证据挖掘到Codex、Claude Code和GitHub Copilot的私人工作、设计和编写配置文件中。",
     "developerName": "Ohad",
-    "category": "开发与工作流",
+    "category": "Developer Tools",
     "capabilities": [
       "适用场景：将从本地编码代理会话中选择的证据挖掘…"
     ],

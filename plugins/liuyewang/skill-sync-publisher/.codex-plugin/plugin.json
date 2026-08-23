@@ -22,7 +22,7 @@
     "shortDescription": "在公共代理技能注册表之间安全地同步此…",
     "longDescription": "在公共代理技能注册表之间安全地同步此Codex技能。",
     "developerName": "liuyewang",
-    "category": "开发与工作流",
+    "category": "Developer Tools",
     "capabilities": [
       "适用场景：在公共代理技能注册表之间安全地同步此…"
     ],

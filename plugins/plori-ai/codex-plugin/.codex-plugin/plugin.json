@@ -24,7 +24,7 @@
     "shortDescription": "通过OAuth自动发现",
     "longDescription": "通过OAuth自动发现，在plori的远程MCP服务器上创建和驱动plori云代理（每个代理在自己的云计算机上都是AI代理）。",
     "developerName": "plori",
-    "category": "工具与集成",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：通过OAuth自动发现"
     ],

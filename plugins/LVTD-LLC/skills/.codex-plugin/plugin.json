@@ -27,7 +27,7 @@
     "shortDescription": "可重复使用的代理技能",
     "longDescription": "可重复使用的代理技能，适用于Codex、Claude Code和兼容客户端，涵盖Django、Rust、Cookiecutter、SEO、traction、产品营销和非小说出版工作流程。",
     "developerName": "LVTD",
-    "category": "开发与工作流",
+    "category": "Development & Workflow",
     "capabilities": [
       "适用场景：可重复使用的代理技能"
     ],

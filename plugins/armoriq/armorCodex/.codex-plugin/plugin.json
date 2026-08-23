@@ -26,7 +26,7 @@
     "shortDescription": "针对Codex的基于意图的安全性",
     "longDescription": "针对Codex的基于意图的安全性，具有MCP计划注册、策略门控、CSRG加密证明以及“bash”和“apply_patch”上的审计日志记录。",
     "developerName": "ArmorIQ",
-    "category": "开发与工作流",
+    "category": "Security",
     "capabilities": [
       "适用场景：针对Codex的基于意图的安全性"
     ],

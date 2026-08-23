@@ -1,4 +1,4 @@
 interface:
-  display_name: "Rust Domain Boundaries"
-  short_description: "Model Rust service invariants with types"
-  default_prompt: "Make this Rust service code safer with domain types and parser boundaries."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

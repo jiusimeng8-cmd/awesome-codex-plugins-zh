@@ -34,7 +34,7 @@
     "longDescription": "针对Codex和Claude Code的基于目标的规划和验证门，将请求转化为所有权、切换、审核门和验收证据计划。",
     "composerIcon": "./assets/icon.svg",
     "developerName": "jturntdev",
-    "category": "开发与工作流",
+    "category": "Coding",
     "capabilities": [
       "适用场景：针对Codex和Claude Cod…"
     ],

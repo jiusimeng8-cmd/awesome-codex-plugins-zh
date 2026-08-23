@@ -1,4 +1,4 @@
 interface:
-  display_name: "Audit Agency Continuity"
-  short_description: "Verify persistent agent goals, memory, evidence, and recovery."
-  default_prompt: "Audit this agent workspace for continuity and evidence gaps."
+  display_name: "Agency Continuity Audit · 只读审核"
+  short_description: "只读审核"
+  default_prompt: "使用 Agency Continuity Audit 帮我：只读审核"

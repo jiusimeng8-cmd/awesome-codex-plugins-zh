@@ -23,7 +23,7 @@
     "logo": "./assets/icon.png",
     "longDescription": "运行长时间的本地构建、测试、基准和推理作业，作为具有跟踪状态、有界结果和跨Codex表面完成交付的持久分离流程。",
     "developerName": "Joel Farthing",
-    "category": "开发与工作流",
+    "category": "Developer Tools",
     "websiteURL": "https://filamentlabs.io/CPJ/",
     "privacyPolicyURL": "https://filamentlabs.io/CPJ/privacy",
     "termsOfServiceURL": "https://filamentlabs.io/CPJ/terms",

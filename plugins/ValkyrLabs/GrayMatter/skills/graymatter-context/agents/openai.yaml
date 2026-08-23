@@ -1,4 +1,4 @@
 interface:
-  display_name: "GrayMatter Context"
-  short_description: "Compile bounded task context with retrieval receipts"
-  default_prompt: "Compile relevant GrayMatter context for this task."
+  display_name: "GrayMatter · 和OpenClaw代理的持久内存和共…"
+  short_description: "和OpenClaw代理的持久内存和共…"
+  default_prompt: "使用 GrayMatter 帮我：和OpenClaw代理的持久内存和共…"

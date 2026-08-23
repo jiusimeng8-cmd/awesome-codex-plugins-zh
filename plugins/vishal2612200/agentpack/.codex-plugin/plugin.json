@@ -26,7 +26,7 @@
     ],
     "longDescription": "在编辑之前，使用可能的文件、技能建议、代理规则、命令、警告和紧凑的以任务为重点的内容包对Codex的存储库上下文进行排名。",
     "developerName": "AgentPack",
-    "category": "开发与工作流",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：在编辑之前"
     ],

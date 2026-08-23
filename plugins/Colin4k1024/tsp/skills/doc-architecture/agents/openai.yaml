@@ -1,4 +1,4 @@
 interface:
-  display_name: "Doc Architecture"
-  short_description: "把架构文档能力并入 team 主链"
-  default_prompt: "Use $doc-architecture to structure discovery, decomposition, and consistency audit outputs into docs/artifacts, docs/adr, and docs/memory."
+  display_name: "Team Skills Platform · 基于角色的团队交付框架—技术主管为C…"
+  short_description: "基于角色的团队交付框架—技术主管为C…"
+  default_prompt: "使用 Team Skills Platform 帮我：基于角色的团队交付框架—技术主管为C…"

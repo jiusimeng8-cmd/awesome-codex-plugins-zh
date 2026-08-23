@@ -1,4 +1,4 @@
 interface:
-  display_name: "Testcontainers Integration Testing"
-  short_description: "用容器化依赖验证 Java 集成链路"
-  default_prompt: "Use $testcontainers-integration-testing to define a containerized integration test strategy for the real dependencies involved in this Java change."
+  display_name: "Team Skills Platform · 基于角色的团队交付框架—技术主管为C…"
+  short_description: "基于角色的团队交付框架—技术主管为C…"
+  default_prompt: "使用 Team Skills Platform 帮我：基于角色的团队交付框架—技术主管为C…"

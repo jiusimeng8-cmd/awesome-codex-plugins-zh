@@ -1,5 +1,5 @@
 interface:
-  display_name: "Claude Code Setup"
-  short_description: "Args: --enable-review-gate, --disable-review-gate. Verify Claude Code setup or toggle the review gate."
+  display_name: "Claude Code for Codex · 反转OpenAI的官方Claude托…"
+  short_description: "反转OpenAI的官方Claude托…"
 policy:
   allow_implicit_invocation: false

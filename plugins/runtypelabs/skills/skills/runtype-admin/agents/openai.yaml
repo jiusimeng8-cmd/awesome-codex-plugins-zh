@@ -1,8 +1,8 @@
 interface:
-  display_name: 'Runtype Admin'
-  short_description: 'Operate live Runtype accounts safely'
+  display_name: "Runtype Skills · 为AI产品开发增强您的编码代理—在R…"
+  short_description: "为AI产品开发增强您的编码代理—在R…"
   brand_color: '#6D5EF7'
-  default_prompt: 'Use $runtype-admin to inspect my Runtype account and debug a failed run.'
+  default_prompt: "使用 Runtype Skills 帮我：为AI产品开发增强您的编码代理—在R…"
 dependencies:
   tools:
     - type: 'mcp'

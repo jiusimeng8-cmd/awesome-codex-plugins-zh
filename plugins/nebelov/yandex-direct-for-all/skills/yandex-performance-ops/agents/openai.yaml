@@ -1,4 +1,4 @@
 interface:
-  display_name: "Яндекс.Директ — совместимый переходник"
-  short_description: "Передаёт задачи в единый безопасный навык Яндекс.Директа."
-  default_prompt: "Используй $yandex-direct-unified как единую точку входа; этот навык сохранён только для совместимости путей."
+  display_name: "Yandex Direct · 适用于Yandex Direct"
+  short_description: "适用于Yandex Direct"
+  default_prompt: "使用 Yandex Direct 帮我：适用于Yandex Direct"

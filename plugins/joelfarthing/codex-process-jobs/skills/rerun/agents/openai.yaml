@@ -1,4 +1,4 @@
 interface:
-  display_name: "Rerun Process Job"
-  short_description: "Safely rerun a finished process job"
-  default_prompt: "Use $rerun to launch this finished process job again."
+  display_name: "Codex Process Jobs · 运行长时间的本地构建"
+  short_description: "运行长时间的本地构建"
+  default_prompt: "使用 Codex Process Jobs 帮我：运行长时间的本地构建"

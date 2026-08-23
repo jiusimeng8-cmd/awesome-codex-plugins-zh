@@ -16,16 +16,16 @@
   "skills": "./skills/",
   "hooks": "./hooks/hooks.json",
   "interface": {
-    "displayName": "Development Skills · Codex和Claude Code的…",
-    "shortDescription": "Codex和Claude Code的…",
+    "displayName": "Development Skills · 和Claude Code的三级分流（…",
+    "shortDescription": "和Claude Code的三级分流（…",
     "longDescription": "Codex和Claude Code的三级分流（ PASS_THROUGH/LIGHT/FULL 4-phase ）开发工作流程，具有语言自动检测（ Python、Java、TypeScript、Swift、前端）和员工审核员子代理，以便在每次更改时进行全新审核。",
     "developerName": "reidemeister",
-    "category": "开发与工作流",
+    "category": "Coding",
     "capabilities": [
-      "适用场景：Codex和Claude Code的…"
+      "适用场景：和Claude Code的三级分流（…"
     ],
     "defaultPrompt": [
-      "使用 Development Skills 帮我：Codex和Claude Code的…"
+      "使用 Development Skills 帮我：和Claude Code的三级分流（…"
     ],
     "brandColor": "#2563EB",
     "composerIcon": "./assets/icon.svg"

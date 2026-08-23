@@ -15,7 +15,7 @@
     "shortDescription": "设计具有入口点",
     "longDescription": "设计具有入口点、验证表面、运行时证据、交付记录和原子提交指导的代理就绪存储库线束。",
     "developerName": "Agent Harness Skills contributors",
-    "category": "开发与工作流",
+    "category": "Coding",
     "websiteURL": "https://github.com/yfge/agent-harness-skills",
     "brandColor": "#2F6FED",
     "composerIcon": "./assets/icon.svg",

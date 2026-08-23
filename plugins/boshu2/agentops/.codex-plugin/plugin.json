@@ -4,16 +4,16 @@
   "description": "DevOps层，用于在会话之间复合的具有流、反馈和内存的编码代理。",
   "skills": "./skills-codex",
   "interface": {
-    "displayName": "AgentOps · DevOps层",
-    "shortDescription": "DevOps层",
+    "displayName": "AgentOps · 层",
+    "shortDescription": "层",
     "longDescription": "DevOps层，用于在会话之间复合的具有流、反馈和内存的编码代理。",
     "developerName": "AgentOps",
-    "category": "开发与工作流",
+    "category": "Productivity",
     "capabilities": [
-      "适用场景：DevOps层"
+      "适用场景：层"
     ],
     "defaultPrompt": [
-      "使用 AgentOps 帮我：DevOps层"
+      "使用 AgentOps 帮我：层"
     ]
   }
 }

@@ -29,7 +29,7 @@
     "shortDescription": "通过UI审计",
     "longDescription": "通过UI审计、Tailwind令牌提取、shadcn注册表工作流和捆绑的Codex插件，为Codex、Claude Code、Cursor和MCP代理提供接口理解和设计系统内存。",
     "developerName": "Sarvesh Chidambaram",
-    "category": "开发与工作流",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：通过UI审计"
     ],

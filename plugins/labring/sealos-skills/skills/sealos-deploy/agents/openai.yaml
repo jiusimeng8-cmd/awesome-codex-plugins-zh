@@ -1,4 +1,4 @@
 interface:
-  display_name: "Sealos: Deploy"
-  short_description: "Deploy and verify projects on Sealos Cloud."
-  default_prompt: "Use $sealos-deploy to deploy this project to Sealos Cloud and verify the live application."
+  display_name: "Sealos · 通过准备情况检查"
+  short_description: "通过准备情况检查"
+  default_prompt: "使用 Sealos 帮我：通过准备情况检查"

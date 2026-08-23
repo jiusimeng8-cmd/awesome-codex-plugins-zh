@@ -28,7 +28,7 @@
     "shortDescription": "仅限macOS的本地摄像头插件",
     "longDescription": "仅限macOS的本地摄像头插件，用于显式快照、流控件和文件支持的图像输入。",
     "developerName": "Velocity Works",
-    "category": "工具与集成",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：仅限macOS的本地摄像头插件"
     ],

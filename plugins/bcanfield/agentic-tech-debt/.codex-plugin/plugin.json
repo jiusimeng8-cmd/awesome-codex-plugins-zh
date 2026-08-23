@@ -23,7 +23,7 @@
     "shortDescription": "在写入时捕获人工智能引入的技术债务",
     "longDescription": "在写入时捕获人工智能引入的技术债务：挂钩记录每次延迟到存储库中的注册表，审核技能按文件流失率对付款进行排名。",
     "developerName": "Brandin Canfield",
-    "category": "开发与工作流",
+    "category": "Coding",
     "composerIcon": "./assets/icon.svg",
     "brandColor": "#d97757"
   }

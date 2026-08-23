@@ -1,4 +1,4 @@
 interface:
-  display_name: "Django Forms Validation TDD"
-  short_description: "Test-drive Django validation"
-  default_prompt: "Use $django-forms-validation-tdd to add this Django validation behavior with the right tests."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

@@ -25,7 +25,7 @@
     "shortDescription": "将工程设计",
     "longDescription": "将工程设计、交付、可靠性、安全性、运营和维护提示发送给针对AI编码代理的专职人员级专家指导。",
     "developerName": "sirmarkz",
-    "category": "开发与工作流",
+    "category": "Coding",
     "composerIcon": "./assets/icon.png",
     "capabilities": [
       "适用场景：将工程设计"

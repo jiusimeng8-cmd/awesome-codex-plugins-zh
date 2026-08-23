@@ -1,4 +1,4 @@
 interface:
-  display_name: "Project Manager（项目管理）"
-  short_description: "负责排期、依赖协调、风险跟踪、里程碑推进与跨角色节奏管理。"
-  default_prompt: "Use $project-manager to take the lead on the Project Manager（项目管理） responsibilities for this task."
+  display_name: "Team Skills Platform · 基于角色的团队交付框架—技术主管为C…"
+  short_description: "基于角色的团队交付框架—技术主管为C…"
+  default_prompt: "使用 Team Skills Platform 帮我：基于角色的团队交付框架—技术主管为C…"

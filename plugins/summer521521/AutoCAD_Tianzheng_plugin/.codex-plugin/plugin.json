@@ -24,7 +24,7 @@
     "composerIcon": "./assets/icon.svg",
     "longDescription": "通过本地MCP服务器将Codex连接到AutoCAD和Tianzheng HVAC ，以实现DWG感知的HVAC图纸检查和工作流程自动化。",
     "developerName": "summer521521",
-    "category": "工具与集成",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：通过本地MCP服务器将Codex连接…"
     ],

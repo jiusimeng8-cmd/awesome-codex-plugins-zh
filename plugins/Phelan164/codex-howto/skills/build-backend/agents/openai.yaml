@@ -1,4 +1,4 @@
 interface:
-  display_name: "Build Backend"
-  short_description: "Build reliable APIs and backend services"
-  default_prompt: "Use $build-backend to design and implement this backend change with contract tests."
+  display_name: "Codex How To · 具有9项技能的工程第一Codex课程…"
+  short_description: "具有9项技能的工程第一Codex课程…"
+  default_prompt: "使用 Codex How To 帮我：具有9项技能的工程第一Codex课程…"

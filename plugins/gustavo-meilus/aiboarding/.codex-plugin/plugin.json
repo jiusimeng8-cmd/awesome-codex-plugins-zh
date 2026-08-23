@@ -10,7 +10,7 @@
     "shortDescription": "使用AGENTS.md",
     "longDescription": "使用AGENTS.md、CLAUDE.md、漂移跟踪和生命周期挂钩生成、维护、压缩和审核标准AI代理入门文件。",
     "developerName": "Gustavo Meilus",
-    "category": "开发与工作流",
+    "category": "Development & Workflow",
     "capabilities": [
       "适用场景：使用AGENTS.md"
     ],

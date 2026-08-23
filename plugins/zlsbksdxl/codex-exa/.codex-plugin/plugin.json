@@ -20,7 +20,7 @@
     "shortDescription": "使用浏览器OAuth通过官方Exa…",
     "longDescription": "使用浏览器OAuth通过官方Exa MCP服务器在Codex中搜索和获取当前Web源。",
     "developerName": "Codex Exa Community",
-    "category": "工具与集成",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：使用浏览器OAuth通过官方Exa…"
     ],

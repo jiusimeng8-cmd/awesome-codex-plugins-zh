@@ -1,4 +1,4 @@
 interface:
-  display_name: "SolidWorks Learner"
-  short_description: "Build structured feedback from a SolidWorks session"
-  default_prompt: "Use $sw-learner to compile this SolidWorks session into feedback."
+  display_name: "SolidWorks GPT Plugin · 基于知识的SolidWorks设计和…"
+  short_description: "基于知识的SolidWorks设计和…"
+  default_prompt: "使用 SolidWorks GPT Plugin 帮我：基于知识的SolidWorks设计和…"

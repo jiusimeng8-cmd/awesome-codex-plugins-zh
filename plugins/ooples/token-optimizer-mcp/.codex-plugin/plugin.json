@@ -23,7 +23,7 @@
     "shortDescription": "使用缓存",
     "longDescription": "使用缓存、压缩和智能文件工具将令牌使用率降低60-90% —仅差异重读、仅路径搜索、上下文外存储以及Codex和Claude Code的每个工具节省报告。",
     "developerName": "ooples",
-    "category": "开发与工作流",
+    "category": "Productivity",
     "capabilities": [
       "适用场景：使用缓存"
     ],

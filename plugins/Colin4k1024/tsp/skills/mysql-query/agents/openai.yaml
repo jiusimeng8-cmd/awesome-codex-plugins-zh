@@ -1,4 +1,4 @@
 interface:
-  display_name: "MySQL Query"
-  short_description: "执行只读 MySQL 查询"
-  default_prompt: "Use $mysql-query to inspect MySQL data with read-only SQL and user-provided connection details."
+  display_name: "Team Skills Platform · 基于角色的团队交付框架—技术主管为C…"
+  short_description: "基于角色的团队交付框架—技术主管为C…"
+  default_prompt: "使用 Team Skills Platform 帮我：基于角色的团队交付框架—技术主管为C…"

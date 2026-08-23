@@ -1,4 +1,4 @@
 interface:
-  display_name: "UIZZE UI Slop Score"
-  short_description: "Score a screen before it ships"
-  default_prompt: "Use $ui-slop-score to review this screen, explain the real finish risks, and give it a UI Slop Score."
+  display_name: "UIZZE · 停止UI SLOP"
+  short_description: "停止UI SLOP"
+  default_prompt: "使用 UIZZE 帮我：停止UI SLOP"

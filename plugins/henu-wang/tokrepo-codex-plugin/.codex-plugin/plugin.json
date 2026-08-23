@@ -25,7 +25,7 @@
     "shortDescription": "使用捆绑的技能和Codex的MCP服…",
     "longDescription": "使用捆绑的技能和Codex的MCP服务器从TokRepo搜索和安装AI资产。",
     "developerName": "henu-wang",
-    "category": "工具与集成",
+    "category": "Developer Tools",
     "capabilities": [
       "适用场景：使用捆绑的技能和Codex的MCP服…"
     ],

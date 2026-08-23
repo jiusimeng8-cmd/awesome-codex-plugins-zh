@@ -24,7 +24,7 @@
     "shortDescription": "在阅读任何代码之前",
     "longDescription": "在阅读任何代码之前，分析git历史记录以了解代码库—根据存储库大小自动缩放，并使用bug磁铁交叉引用热点，以显示高风险文件、总线因素和团队势头。",
     "developerName": "Jiachen Yu",
-    "category": "开发与工作流",
+    "category": "Developer Tools",
     "capabilities": [
       "适用场景：在阅读任何代码之前"
     ],

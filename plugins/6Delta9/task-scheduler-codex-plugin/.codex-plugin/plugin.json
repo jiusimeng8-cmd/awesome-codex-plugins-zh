@@ -21,19 +21,19 @@
   "mcpServers": "./.mcp.json",
   "apps": "./.app.json",
   "interface": {
-    "displayName": "Task Scheduler · OpenAI Codex插件和本地M…",
-    "shortDescription": "OpenAI Codex插件和本地M…",
+    "displayName": "Task Scheduler · 插件和本地MCP服务器",
+    "shortDescription": "插件和本地MCP服务器",
     "longDescription": "OpenAI Codex插件和本地MCP服务器，用于将任务列表转换为具有阻止日期、容量覆盖、溢出跟踪和降价计划输出的现实计划。",
     "developerName": "zeyad elsharkawy",
-    "category": "工具与集成",
+    "category": "Productivity",
     "capabilities": [
-      "适用场景：OpenAI Codex插件和本地M…"
+      "适用场景：插件和本地MCP服务器"
     ],
     "websiteURL": "https://github.com/6Delta9/task-scheduler-codex-plugin",
     "privacyPolicyURL": "https://github.com/6Delta9/task-scheduler-codex-plugin/blob/main/PRIVACY.md",
     "termsOfServiceURL": "https://github.com/6Delta9/task-scheduler-codex-plugin/blob/main/TERMS.md",
     "defaultPrompt": [
-      "使用 Task Scheduler 帮我：OpenAI Codex插件和本地M…"
+      "使用 Task Scheduler 帮我：插件和本地MCP服务器"
     ],
     "brandColor": "#0F766E",
     "composerIcon": "./assets/icon.png",

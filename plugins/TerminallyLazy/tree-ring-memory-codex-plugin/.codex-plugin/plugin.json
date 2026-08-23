@@ -26,7 +26,7 @@
     "shortDescription": "针对Codex代理的本地优先内存生命…",
     "longDescription": "针对Codex代理的本地优先内存生命周期指导，包括召回、循证课程、隐私安全内存捕获、审计、整合和明确遗忘。",
     "developerName": "TerminallyLazy",
-    "category": "开发与工作流",
+    "category": "Developer Tools",
     "capabilities": [
       "适用场景：针对Codex代理的本地优先内存生命…"
     ],

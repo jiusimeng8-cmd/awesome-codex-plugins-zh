@@ -1,4 +1,4 @@
 interface:
-  display_name: "Authority Credibility"
-  short_description: "Use authority signals safely"
-  default_prompt: "Use $authority-credibility to improve this persuasion task ethically."
+  display_name: "LVTD Skills · 可重复使用的代理技能"
+  short_description: "可重复使用的代理技能"
+  default_prompt: "使用 LVTD Skills 帮我：可重复使用的代理技能"

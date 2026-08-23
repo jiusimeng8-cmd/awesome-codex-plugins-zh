@@ -28,7 +28,7 @@
     "shortDescription": "具有九项技能的规范第一工作流程",
     "longDescription": "具有九项技能的规范第一工作流程，轻量级快速/热修复/调整/完整路径，有界的三次尝试修复循环，可审核的恢复命令，加固的delta-spec同步和保护的审查门。",
     "developerName": "MageByte",
-    "category": "开发与工作流",
+    "category": "Developer Tools",
     "composerIcon": "./assets/icon.svg",
     "capabilities": [
       "适用场景：具有九项技能的规范第一工作流程"

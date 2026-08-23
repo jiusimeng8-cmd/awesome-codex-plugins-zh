@@ -23,7 +23,7 @@
     "shortDescription": "通过MCP为Codex和其他编码代理…",
     "longDescription": "通过MCP为Codex和其他编码代理提供Git支持的存储库内存，具有决策、约定、陷阱和剧本的持久本地知识。",
     "developerName": "Miguel Medeiros",
-    "category": "开发与工作流",
+    "category": "Developer Tools",
     "capabilities": [
       "适用场景：通过MCP为Codex和其他编码代理…"
     ],

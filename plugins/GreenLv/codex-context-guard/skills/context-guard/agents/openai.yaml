@@ -1,4 +1,4 @@
 interface:
-  display_name: "Context Guard"
-  short_description: "Preserve long-task context across Codex compaction"
-  default_prompt: "Use $context-guard to protect this long-running task from context loss."
+  display_name: "Context Guard · 在长期运行的Codex任务和上下文压…"
+  short_description: "在长期运行的Codex任务和上下文压…"
+  default_prompt: "使用 Context Guard 帮我：在长期运行的Codex任务和上下文压…"
