@@ -2804,7 +2804,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Hosted MCP connector for pre-upload video SEO, metadata optimization, AI thumbnails, and multi-platform publishing with workflow skills for Codex agents.",
+      "description": "用于预上传视频搜索引擎优化、元数据优化、人工智能缩略图和多平台发布的托管MCP连接器，具有Codex代理的工作流技能。",
       "icon": "./plugins/CarrotGamesStudios/vidseeds-mcp/assets/icon.png"
     },
     {
@@ -2819,7 +2819,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Push events from GitHub, Gmail, Slack, and any signed webhook (Linear, Sentry, ClickUp) straight into your Codex threads as new turns — event-driven triggers instead of polling, with HMAC verification, deduplication, and a durable delivery queue."
+      "description": "将来自GitHub、Gmail、Slack和任何已签名的Webhook （ Linear、Sentry、ClickUp ）的事件作为新的转折点直接推送到您的Codex线程中--事件驱动的触发器，而不是轮询，具有HMAC验证、重复数据删除和持久的交付队列。"
     },
     {
       "name": "x-skills",
@@ -2833,7 +2833,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Codex-ready X (Twitter) marketing bundle with a native .codex-plugin manifest: tweet and thread writing with corpus-validated hook formulas (validated against ~450 top tweets), AI-tell humanizer, hook extraction, reply drafting, content planning, and audience insights; also works in Claude Code."
+      "description": "具有原生.codex插件清单的Codex-ready X (Twitter)营销捆绑包：使用语料库验证的钩子公式（针对约450条顶级推文进行验证）、AI-tell人性化、钩子提取、回复起草、内容规划和受众洞察力撰写推文和线程；也适用于Claude Code。"
     },
     {
       "name": "x-twitter-scraper",
@@ -2847,7 +2847,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）X/Twitter data, monitored workflows, HMAC webhooks, and MCP access through the Xquik REST API with confirmation-gated write guidance.",
+      "description": "X/Twitter数据、受监控的工作流、HMAC webhook和MCP访问，通过Xquik REST API与确认门控写入指导。",
       "icon": "./plugins/Xquik-dev/x-twitter-scraper/assets/icon.svg"
     },
     {
@@ -2862,7 +2862,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）GitHub-ready Codex plugin bundle for Yandex Direct, Wordstat, Metrika, and Roistat.",
+      "description": "适用于Yandex Direct、Wordstat、Metrika和Roistat的GitHub-ready Codex插件包。",
       "icon": "./plugins/nebelov/yandex-direct-for-all/assets/icon.png"
     },
     {
@@ -2877,7 +2877,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Twelve drop-in agent skills for YouTube transcripts, timestamped captions and subtitles, video and channel search, playlists and channel browsing through the TranscriptAPI service.",
+      "description": "通过TranscriptAPI服务进行YouTube文字记录、带时间戳的字幕和字幕、视频和频道搜索、播放列表和频道浏览的十二项代理技能。",
       "icon": "./plugins/ZeroPointRepo/youtube-skills/assets/icon.svg"
     },
     {
@@ -2892,7 +2892,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Connects Codex to Zotero Desktop for local-library search, citation export, collection and tag inspection, and research workflow support.",
+      "description": "将Codex连接到Zotero Desktop ，以实现本地库搜索、引文导出、集合和标签检查以及研究工作流程支持。",
       "icon": "./plugins/summer521521/Zotero_Research_plugin/assets/icon.svg"
     }
   ]
