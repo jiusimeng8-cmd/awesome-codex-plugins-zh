@@ -9,6 +9,7 @@ plugin ID, alter a source path, change code, or rewrite a Skill instruction.
 from __future__ import annotations
 
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -56,6 +57,11 @@ def translated(value: str, cache: dict[str, str]) -> str:
 
 def purpose_label(description: str) -> str:
     text = description.strip()
+    first_chinese = next(
+        (index for index, char in enumerate(text) if "\u4e00" <= char <= "\u9fff"), None
+    )
+    if first_chinese is not None:
+        text = text[first_chinese:]
     for separator in ("。", "；", "，", "：", "、"):
         text = text.split(separator, 1)[0]
     text = text.strip(" ，。；：、-—")
@@ -158,7 +164,6 @@ def localize_manifest(path: Path, entry: dict[str, str]) -> bool:
             "displayName": localized_display_name(brand, description),
             "shortDescription": purpose_label(description),
             "longDescription": description,
-            "category": entry["category"],
         }
         if isinstance(interface.get("capabilities"), list):
             updates["capabilities"] = [f"适用场景：{purpose_label(description)}"]
@@ -172,6 +177,31 @@ def localize_manifest(path: Path, entry: dict[str, str]) -> bool:
                 changed = True
     if changed:
         write_json(path, manifest)
+    return changed
+
+
+def yaml_quote(value: str) -> str:
+    return json.dumps(value, ensure_ascii=False)
+
+
+def localize_skill_card(path: Path, entry: dict[str, str]) -> bool:
+    content = path.read_text(encoding="utf-8")
+    description = entry["description"]
+    brand = entry["brand"].split(" · ", 1)[0]
+    replacements = {
+        "display_name": yaml_quote(localized_display_name(brand, description)),
+        "short_description": yaml_quote(purpose_label(description)),
+        "default_prompt": yaml_quote(
+            f"使用 {brand} 帮我：{purpose_label(description)}"
+        ),
+    }
+    changed = False
+    for key, replacement in replacements.items():
+        pattern = re.compile(rf"^(\s*{re.escape(key)}\s*:\s*).*$", re.MULTILINE)
+        content, count = pattern.subn(rf"\1{replacement}", content)
+        changed = changed or count > 0
+    if changed:
+        path.write_text(content, encoding="utf-8")
     return changed
 
 
@@ -206,7 +236,19 @@ def main() -> None:
             continue
         manifests_seen += 1
         manifests_changed += int(localize_manifest(path, entry))
-    print(f"localized marketplace, index, and {manifests_changed}/{manifests_seen} manifests")
+    cards_seen = 0
+    cards_changed = 0
+    for path in ROOT.glob("plugins/**/agents/openai.yaml"):
+        entry = find_entry(path, entries)
+        if entry is None:
+            continue
+        cards_seen += 1
+        cards_changed += int(localize_skill_card(path, entry))
+    print(
+        "localized marketplace, index, "
+        f"{manifests_changed}/{manifests_seen} manifests, and "
+        f"{cards_changed}/{cards_seen} Skill cards"
+    )
 
 
 if __name__ == "__main__":
