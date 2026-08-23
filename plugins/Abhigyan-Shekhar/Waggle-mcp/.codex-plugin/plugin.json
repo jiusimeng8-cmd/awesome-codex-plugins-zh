@@ -1,7 +1,7 @@
 {
   "name": "waggle",
   "version": "0.1.3",
-  "description": "Local graph memory that lets Codex recall project context across sessions.",
+  "description": "Codex的持久图形支持会话记忆，可跨会话回忆项目决策、约束、偏好和结果。",
   "author": {
     "name": "Abhigyan Shekhar"
   },
@@ -17,24 +17,17 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Waggle",
-    "shortDescription": "Project-scoped memory for Codex",
-    "longDescription": "Waggle gives Codex local graph memory for project decisions, constraints, preferences, and outcomes across sessions. It runs as a bundled MCP server with SQLite storage, so memory stays on your machine unless you explicitly export or sync it. Website: wagglemcp.vercel.app. Demo: youtu.be/6z5ALzqvtIY.",
+    "displayName": "Waggle · Codex的持久图形支持会话记忆",
+    "shortDescription": "Codex的持久图形支持会话记忆",
+    "longDescription": "Codex的持久图形支持会话记忆，可跨会话回忆项目决策、约束、偏好和结果。",
     "developerName": "Abhigyan Shekhar",
-    "category": "Developer Tools",
+    "category": "开发与工作流",
     "capabilities": [
-      "Local SQLite memory",
-      "Project-scoped recall",
-      "Cross-session provenance",
-      "Portable .abhi archives",
-      "Demo: youtu.be/6z5ALzqvtIY",
-      "LongMemEval-tested retrieval"
+      "适用场景：Codex的持久图形支持会话记忆"
     ],
     "websiteURL": "https://wagglemcp.vercel.app",
     "defaultPrompt": [
-      "Remember: Magic Ball chose SQLite so demos work offline.",
-      "Recall the Magic Ball privacy rule with provenance.",
-      "Show the .abhi archive summary for this project."
+      "使用 Waggle 帮我：Codex的持久图形支持会话记忆"
     ],
     "brandColor": "#F97316",
     "composerIcon": "./assets/waggle-icon.png",

@@ -1,7 +1,7 @@
 {
   "name": "simple-man",
-  "version": "0.3.2",
-  "description": "Concise, low-noise Agent Skill for Codex without reduced work quality.",
+  "version": "0.3.1",
+  "description": "Codex代理的高压缩通信模式，可消除填充物，同时保留搜索、验证和实施工作。",
   "author": {
     "name": "Maksim Burtsev",
     "url": "https://github.com/Maksim-Burtsev"
@@ -21,19 +21,19 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Simple Man",
-    "shortDescription": "Minimum user-facing words; same work quality.",
-    "longDescription": "Professional communication skill for Codex. When activated, it removes filler from user-facing responses without reducing repository search, validation, or implementation effort.",
+    "displayName": "Simple Man · Codex代理的高压缩通信模式",
+    "shortDescription": "Codex代理的高压缩通信模式",
+    "longDescription": "Codex代理的高压缩通信模式，可消除填充物，同时保留搜索、验证和实施工作。",
     "developerName": "Maksim Burtsev",
-    "category": "Development & Workflow",
+    "category": "开发与工作流",
     "capabilities": [
-      "Write"
+      "适用场景：Codex代理的高压缩通信模式"
     ],
     "composerIcon": "./assets/icon.png",
     "logo": "./assets/icon.png",
     "websiteURL": "https://github.com/Maksim-Burtsev/simple-man",
     "defaultPrompt": [
-      "Use Simple Man: minimum user-facing words; same work quality."
+      "使用 Simple Man 帮我：Codex代理的高压缩通信模式"
     ],
     "brandColor": "#2563EB"
   }

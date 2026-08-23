@@ -1,23 +1,19 @@
 {
   "name": "team-skills-platform",
   "version": "2.5.5",
-  "description": "开源角色化 Team Skills 平台，含 ECC harness skeleton、前端工程与 UI/UX 治理能力",
+  "description": "基于角色的团队交付框架—技术主管为Claude Code、Codex和OpenCode精心策划的8个角色系统，拥有超过195项技能、27个专业代理、80多个命令、挂钩和ECC线束。",
   "skills": "./skills/",
   "interface": {
-    "displayName": "Team Skills Platform",
-    "shortDescription": "角色化团队平台 + ECC harness 增强层",
-    "longDescription": "通过 Tech Lead 编排与专业角色分工统一需求、方案、研发、测试和发布协作，并提供 ECC 风格的 specialist agents、commands、rules、hooks skeleton 与前端治理能力。",
+    "displayName": "Team Skills Platform · 基于角色的团队交付框架—技术主管为C…",
+    "shortDescription": "基于角色的团队交付框架—技术主管为C…",
+    "longDescription": "基于角色的团队交付框架—技术主管为Claude Code、Codex和OpenCode精心策划的8个角色系统，拥有超过195项技能、27个专业代理、80多个命令、挂钩和ECC线束。",
     "developerName": "Engineering Team",
-    "category": "Engineering",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read",
-      "Write",
-      "Interactive"
+      "适用场景：基于角色的团队交付框架—技术主管为C…"
     ],
     "defaultPrompt": [
-      "让 Tech Lead 帮我拆解一个新需求。",
-      "调用 Planner 和 Frontend Engineer 规划一次 UI 改版。",
-      "用 Code Reviewer 和 Security Reviewer 检查当前方案。"
+      "使用 Team Skills Platform 帮我：基于角色的团队交付框架—技术主管为C…"
     ],
     "brandColor": "#0F766E"
   }

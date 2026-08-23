@@ -1,7 +1,7 @@
 {
   "name": "orgx-codex-plugin",
-  "version": "0.1.18",
-  "description": "OrgX MCP access and initiative-aware Codex skills for operating inside OrgX workstreams.",
+  "version": "0.1.14",
+  "description": "组织工作流程的MCP访问和主动意识技能。",
   "author": {
     "name": "OrgX Team",
     "url": "https://useorgx.com"
@@ -19,22 +19,19 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "OrgX for Codex",
-    "shortDescription": "Install OrgX MCP, chronicle reporting, and initiative-aware workflows in Codex.",
-    "longDescription": "Bundles OrgX MCP configuration, Codex skills, and runtime hook templates for operator chronicle reporting, initiative orchestration, passive Work Graph reconciliation, artifact registration, and human-in-the-loop decision flows.",
+    "displayName": "OrgX for Codex · 组织工作流程的MCP访问和主动意识技…",
+    "shortDescription": "组织工作流程的MCP访问和主动意识技…",
+    "longDescription": "组织工作流程的MCP访问和主动意识技能。",
     "developerName": "OrgX Team",
-    "category": "Productivity",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：组织工作流程的MCP访问和主动意识技…"
     ],
     "websiteURL": "https://useorgx.com",
     "privacyPolicyURL": "https://useorgx.com/privacy",
     "termsOfServiceURL": "https://useorgx.com/terms",
     "defaultPrompt": [
-      "Operator chronicle: get_operator_chronicle; else orgx_recommend mode=\"morning_brief\"; use reportingNarrative.briefMarkdown.",
-      "Use OrgX to scaffold this goal into workstreams, milestones, and tasks."
+      "使用 OrgX for Codex 帮我：组织工作流程的MCP访问和主动意识技…"
     ],
     "brandColor": "#14B8A6",
     "composerIcon": "./assets/icon.png",

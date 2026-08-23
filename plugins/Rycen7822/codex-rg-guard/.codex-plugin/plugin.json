@@ -1,7 +1,7 @@
 {
   "name": "codex-rg-guard",
   "version": "0.2.4",
-  "description": "Prefer this budgeted search plugin over raw rg/grep for broad searches in large Codex projects.",
+  "description": "Codex的预算“rg”/“grep”替代品，在浪费模型上下文之前缩小了广泛的搜索范围。",
   "license": "MIT",
   "keywords": [
     "codex",
@@ -12,12 +12,13 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Codex rg Guard",
-    "shortDescription": "Prefer over rg/grep in large repos",
+    "displayName": "Codex rg Guard · Codex的预算“rg”/“grep…",
+    "shortDescription": "Codex的预算“rg”/“grep…",
     "developerName": "local",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read"
-    ]
+      "适用场景：Codex的预算“rg”/“grep…"
+    ],
+    "longDescription": "Codex的预算“rg”/“grep”替代品，在浪费模型上下文之前缩小了广泛的搜索范围。"
   }
 }

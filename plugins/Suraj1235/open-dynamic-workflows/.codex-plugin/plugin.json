@@ -1,6 +1,6 @@
 {
   "name": "odw",
-  "description": "Dynamic multi-agent workflows for Codex — plan, orchestrate, and verify parallel agents via a local daemon.",
+  "description": "本地第一个针对Codex、OpenCode、Antigravity、Cursor和VS Code的MIT动态多代理工作流程，具有守护进程、MCP桥接、Codex技能、OpenCode插件和自带模型支持。",
   "version": "0.1.0",
   "author": {
     "name": "open-dynamic-workflows contributors",
@@ -20,20 +20,17 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Open Dynamic Workflows",
-    "shortDescription": "Plan, orchestrate, and verify parallel AI coding agents.",
-    "longDescription": "Open Dynamic Workflows (ODW) is an open-source dynamic multi-agent workflow engine for AI coding agents. It plans a task into a workflow graph, dispatches subtasks to parallel agents through a local daemon, and adversarially verifies their output before results are synthesized. Bring-your-own-model: Anthropic, OpenAI-compatible, or Ollama.",
+    "displayName": "Open Dynamic Workflows · 本地第一个针对Codex",
+    "shortDescription": "本地第一个针对Codex",
+    "longDescription": "本地第一个针对Codex、OpenCode、Antigravity、Cursor和VS Code的MIT动态多代理工作流程，具有守护进程、MCP桥接、Codex技能、OpenCode插件和自带模型支持。",
     "composerIcon": "./assets/icon.svg",
     "developerName": "open-dynamic-workflows contributors",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：本地第一个针对Codex"
     ],
     "defaultPrompt": [
-      "Plan and run this task as a parallel multi-agent workflow",
-      "Adversarially verify the changes the agents produced"
+      "使用 Open Dynamic Workflows 帮我：本地第一个针对Codex"
     ],
     "websiteURL": "https://github.com/Suraj1235/open-dynamic-workflows"
   }

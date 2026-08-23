@@ -1,7 +1,7 @@
 {
   "name": "codex-mem",
   "version": "10.6.2",
-  "description": "Persistent memory system for Codex - seamlessly preserve context across sessions",
+  "description": "自动捕获、压缩会话上下文并将其注入到未来的Codex会话中。",
   "author": {
     "name": "Alex Newman"
   },

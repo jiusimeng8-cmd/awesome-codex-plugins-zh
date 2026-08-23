@@ -1,7 +1,7 @@
 {
   "name": "calle",
   "version": "0.1.11",
-  "description": "Use CALL-E from Codex through the calle CLI.",
+  "description": "通过CALLE CLI规划、运行和检查Codex的Call-E电话呼叫工作流程。",
   "author": {
     "name": "CALLE AI",
     "url": "https://github.com/CALLE-AI"
@@ -24,19 +24,17 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "CALL-E",
-    "shortDescription": "Use the calle CLI for CALL-E workflows.",
-    "longDescription": "Plan, run, and inspect CALL-E phone call workflows from Codex by reusing the installed calle CLI.",
+    "displayName": "CALL-E · 通过CALLE CLI规划",
+    "shortDescription": "通过CALLE CLI规划",
+    "longDescription": "通过CALLE CLI规划、运行和检查Codex的Call-E电话呼叫工作流程。",
     "developerName": "CALLE AI",
-    "category": "Productivity",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive"
+      "适用场景：通过CALLE CLI规划"
     ],
     "websiteURL": "https://github.com/CALLE-AI/call-e-integrations",
     "defaultPrompt": [
-      "Use CALL-E to check my CLI setup.",
-      "Use CALL-E to plan a phone call.",
-      "Use CALL-E to check a call run status."
+      "使用 CALL-E 帮我：通过CALLE CLI规划"
     ],
     "composerIcon": "./assets/CALL-E-Icon-Black.svg",
     "brandColor": "#10A37F"

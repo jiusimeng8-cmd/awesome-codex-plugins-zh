@@ -1,7 +1,7 @@
 {
   "name": "shots",
   "version": "0.1.0",
-  "description": "Ship store-ready App Store screenshots in minutes from your coding agent. Shots researches competing listings, then generates, revises, and translates screenshots and icons from your real app context.",
+  "description": "通过托管的Shots MCP服务器，代理原生App Store屏幕截图、应用程序图标、ASO和本地化工作流程。",
   "author": {
     "name": "hitSlop",
     "email": "security@hitslop.com",
@@ -34,24 +34,19 @@
   "skills": "./skills/",
   "scripts": "./scripts/",
   "interface": {
-    "displayName": "Shots",
-    "shortDescription": "App Store screenshots, icons, and localized listings — generated from your coding agent",
-    "longDescription": "Ship App Store screenshots in minutes without leaving your coding agent. Shots reads your app repo, uploaded screenshots, App Store URL, and saved Studio context, researches competing listings, then generates, revises, translates, and reviews screenshots for iPhone, iPad, Android, and Apple Watch. It also creates app icon moodboards, final icon candidates, ASO listing copy, and keyword ideas, all synced to hosted Shots Studio for review. Start with 3 free screenshots; no card required.",
+    "displayName": "Shots · 通过托管的Shots MCP服务器",
+    "shortDescription": "通过托管的Shots MCP服务器",
+    "longDescription": "通过托管的Shots MCP服务器，代理原生App Store屏幕截图、应用程序图标、ASO和本地化工作流程。",
     "developerName": "hitSlop",
-    "category": "Design",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write",
-      "Research"
+      "适用场景：通过托管的Shots MCP服务器"
     ],
     "websiteURL": "https://shots.run",
     "privacyPolicyURL": "https://shots.run/privacy",
     "termsOfServiceURL": "https://shots.run/terms",
     "defaultPrompt": [
-      "Generate App Store screenshots for my app",
-      "Generate an app icon for my app",
-      "Translate my App Store screenshots into Spanish"
+      "使用 Shots 帮我：通过托管的Shots MCP服务器"
     ],
     "brandColor": "#0F969C",
     "composerIcon": "./assets/icon.png",

@@ -1,7 +1,7 @@
 {
   "name": "anchor",
   "version": "1.13.0",
-  "description": "Engineering discipline pack for Claude Code & Codex CLI: a skill + 11 slash commands + 4 safety hooks that keep AI on-task on long tasks, enforce E2E verification, multi-pass vulnerability scanning, condition-based codex review, and project-CLAUDE.md pitfall writeback. Cross-CLI by design.",
+  "description": "适用于Claude Code和Codex CLI的工程纪律包，具有任务范围锁定、防漂移制动、基于条件的Codex审查、project-CLAUDE.md漏洞回写和PreToolUse钩子，可阻止不可逆的bash模式。",
   "author": {
     "name": "biefan",
     "url": "https://github.com/biefan"
@@ -22,8 +22,10 @@
     "pitfall-writeback"
   ],
   "interface": {
-    "displayName": "Anchor",
-    "shortDescription": "Engineering discipline for AI coding agents — anchor scope, run E2E, write pitfalls back.",
-    "composerIcon": "./assets/icon.svg"
+    "displayName": "Anchor · 适用于Claude Code和Cod…",
+    "shortDescription": "适用于Claude Code和Cod…",
+    "composerIcon": "./assets/icon.svg",
+    "longDescription": "适用于Claude Code和Codex CLI的工程纪律包，具有任务范围锁定、防漂移制动、基于条件的Codex审查、project-CLAUDE.md漏洞回写和PreToolUse钩子，可阻止不可逆的bash模式。",
+    "category": "开发与工作流"
   }
 }

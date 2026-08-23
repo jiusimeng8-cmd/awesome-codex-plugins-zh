@@ -1,7 +1,7 @@
 {
   "name": "aegis",
-  "version": "2.8.7",
-  "description": "An agentic skills framework & software development methodology that works: planning, TDD, debugging, and collaboration workflows.",
+  "version": "2.8.4",
+  "description": "有效的代理技能框架和软件开发方法：规划、TDD、调试和协作工作流程。",
   "author": {
     "name": "Aegis Maintainers",
     "url": "https://github.com/GanyuanRan/Aegis"
@@ -22,19 +22,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Aegis",
-    "shortDescription": "Planning, TDD, debugging, and delivery workflows for coding agents",
-    "longDescription": "Use Aegis to guide agent work through first-principles review, brainstorming, implementation planning, test-driven development, systematic debugging, parallel execution, code review, and finish-the-branch workflows.",
+    "displayName": "Aegis · 有效的代理技能框架和软件开发方法",
+    "shortDescription": "有效的代理技能框架和软件开发方法",
+    "longDescription": "有效的代理技能框架和软件开发方法：规划、TDD、调试和协作工作流程。",
     "developerName": "Aegis Maintainers",
-    "category": "Coding",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：有效的代理技能框架和软件开发方法"
     ],
     "defaultPrompt": [
-      "I've got an idea for something I'd like to build.",
-      "Let's add a feature to this project."
+      "使用 Aegis 帮我：有效的代理技能框架和软件开发方法"
     ],
     "brandColor": "#F59E0B",
     "composerIcon": "./assets/aegis-small.svg",

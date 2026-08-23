@@ -1,7 +1,7 @@
 {
   "name": "casefile",
   "version": "1.3.7",
-  "description": "Persistent security case tracking for Codex and pi.",
+  "description": "持续跟踪漏洞赏金、CTF和安全审计的安全案例。",
   "author": {
     "name": "x4cc3"
   },
@@ -19,17 +19,16 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Casefile",
-    "shortDescription": "Track security cases, evidence, chains, and reports.",
-    "longDescription": "Casefile adds durable security case tracking to Codex with a shared ledger for hypotheses, evidence, exploit chains, dead ends, and markdown reports.",
+    "displayName": "Casefile · 持续跟踪漏洞赏金",
+    "shortDescription": "持续跟踪漏洞赏金",
+    "longDescription": "持续跟踪漏洞赏金、CTF和安全审计的安全案例。",
     "developerName": "x4cc3",
-    "category": "Developer Tools",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：持续跟踪漏洞赏金"
     ],
     "defaultPrompt": [
-      "Track this security investigation in Casefile."
+      "使用 Casefile 帮我：持续跟踪漏洞赏金"
     ],
     "composerIcon": "./assets/icon.svg",
     "logo": "./assets/logo.png",

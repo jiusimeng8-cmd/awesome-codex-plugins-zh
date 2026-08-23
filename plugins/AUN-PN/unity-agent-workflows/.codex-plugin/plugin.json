@@ -1,7 +1,7 @@
 {
   "name": "unity-agent-workflows",
   "version": "0.5.0",
-  "description": "Codex skill for safer Unity AI agent workflows, runtime-owner proof, runtime numeric proof, multi-agent scope ownership, and Unity game development automation.",
+  "description": "Unity 2D代理的Codex插件和技能，通过运行时所有者证明、Teach结构映射和验证门强制执行“无证明，无编辑”工作流程。",
   "author": {
     "name": "AUN-PN"
   },
@@ -22,22 +22,19 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Unity Workflows",
-    "shortDescription": "Safer AI workflows for Unity 2D projects",
-    "longDescription": "Use Teach first when onboarding a new Unity 2D project or when UNITY_STRUCTURE maps are missing or stale. For normal tasks, agents read existing structure maps only when relevant, then use disciplined repo discovery, runtime-owner proof, runtime numeric proof for repeated visible-output failures, overlay/dim source-bound checks, guided state-step guards, multi-agent scope ownership, project-derived routing, UI and scene safety, validation, and cleanup proof before editing.",
+    "displayName": "Unity Workflows · Unity 2D代理的Codex插件…",
+    "shortDescription": "Unity 2D代理的Codex插件…",
+    "longDescription": "Unity 2D代理的Codex插件和技能，通过运行时所有者证明、Teach结构映射和验证门强制执行“无证明，无编辑”工作流程。",
     "developerName": "AUN-PN",
-    "category": "Coding",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：Unity 2D代理的Codex插件…"
     ],
     "websiteURL": "https://github.com/AUN-PN/unity-agent-workflows",
     "privacyPolicyURL": "https://github.com/AUN-PN/unity-agent-workflows",
     "termsOfServiceURL": "https://github.com/AUN-PN/unity-agent-workflows",
     "defaultPrompt": [
-      "Use $unity-agent-workflows. Teach",
-      "Use $unity-agent-workflows to prove and fix a Unity runtime-visible bug.",
-      "Use $unity-agent-workflows for overlay/dim focus bugs, guided state flows, or multi-agent checker reviews."
+      "使用 Unity Workflows 帮我：Unity 2D代理的Codex插件…"
     ],
     "composerIcon": "./assets/unity-workflows.png",
     "logo": "./assets/unity-workflows.png",

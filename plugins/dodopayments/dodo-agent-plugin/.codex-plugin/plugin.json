@@ -1,7 +1,7 @@
 {
   "name": "dodopayments",
   "version": "0.5.0",
-  "description": "Dodo Payments tools for Codex: integration skills + API/docs MCP servers.",
+  "description": "使用实时API和带浏览器OAuth的文档MCP服务器进行结账、订阅和计费的付款集成。",
   "author": {
     "name": "Dodo Payments",
     "email": "support@dodopayments.com"
@@ -22,15 +22,13 @@
   "mcpServers": "./.mcp.json",
   "interface": {
     "composerIcon": "./assets/icon.svg",
-    "displayName": "Dodo Payments",
-    "shortDescription": "Payments, billing, subscriptions - integrated into Codex.",
-    "longDescription": "Official Dodo Payments plugin. Bundles seventeen integration skills (checkout, subscriptions, mobile checkout, webhooks, framework adapters, usage-based billing, credits, license keys, products, discounts, localized pricing, customers, refunds and disputes, billing SDK, Better Auth, testing and go-live, best practices) plus two MCP servers: a live API server and a documentation search server.",
+    "displayName": "Dodo Payments · 使用实时API和带浏览器OAuth的…",
+    "shortDescription": "使用实时API和带浏览器OAuth的…",
+    "longDescription": "使用实时API和带浏览器OAuth的文档MCP服务器进行结账、订阅和计费的付款集成。",
     "developerName": "Dodo Payments",
-    "category": "Developer Tools",
+    "category": "工具与集成",
     "defaultPrompt": [
-      "Set up Dodo Payments webhook handlers in my Next.js app.",
-      "Create a subscription checkout session with a 14-day trial.",
-      "Implement usage-based billing with meters and events."
+      "使用 Dodo Payments 帮我：使用实时API和带浏览器OAuth的…"
     ]
   }
 }

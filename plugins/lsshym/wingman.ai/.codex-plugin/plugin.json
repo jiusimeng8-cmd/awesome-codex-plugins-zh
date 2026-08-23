@@ -1,7 +1,7 @@
 {
   "name": "wingman",
   "version": "1.0.0",
-  "description": "Cross-platform AI coding plugin for project memory, contract checks, and project-map discovery.",
+  "description": "代理编辑代码之前，跨平台AI编码代理插件，用于存储本地项目内存、数据合约检查和项目映射发现。",
   "author": {
     "name": "keni"
   },
@@ -20,20 +20,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Wingman",
-    "shortDescription": "Project memory, contract checks, and project-map discovery for AI coding agents",
-    "longDescription": "Wingman gives agents reusable skills for loading project memory, aligning data-boundary contracts, finding existing project capabilities, and cataloging durable capability knowledge.",
+    "displayName": "Wingman · 代理编辑代码之前",
+    "shortDescription": "代理编辑代码之前",
+    "longDescription": "代理编辑代码之前，跨平台AI编码代理插件，用于存储本地项目内存、数据合约检查和项目映射发现。",
     "developerName": "keni",
-    "category": "Coding",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：代理编辑代码之前"
     ],
     "defaultPrompt": [
-      "Use Wingman to load project context before this change.",
-      "Use data-contracts to align this real source payload with the receiving contract before editing.",
-      "Use Wingman to find existing project capabilities before rebuilding them."
+      "使用 Wingman 帮我：代理编辑代码之前"
     ],
     "websiteURL": "https://github.com/lsshym/wingman.ai",
     "privacyPolicyURL": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",

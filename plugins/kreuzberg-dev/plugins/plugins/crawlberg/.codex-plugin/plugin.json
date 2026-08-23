@@ -1,7 +1,7 @@
 {
   "name": "crawlberg",
   "version": "0.2.3",
-  "description": "Web crawling and scraping with HTML→Markdown and headless-Chrome fallback.",
+  "description": "91种以上格式的本地文档提取，具有CLI使用、OCR、表提取、输出格式和本地MCP服务器的技能。",
   "author": {
     "name": "Kreuzberg, Inc.",
     "email": "contact@xberg.io",
@@ -19,19 +19,16 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Crawlberg",
-    "shortDescription": "Crawl and scrape sites to clean markdown",
-    "longDescription": "Scrape single pages, crawl entire sites, or map a domain's URLs through the local crawlberg CLI. Every page is converted to clean Markdown via the built-in HTML→Markdown engine. WAF-blocked or JS-heavy pages transparently fall back to a headless Chrome backend.",
+    "displayName": "Crawlberg · 91种以上格式的本地文档提取",
+    "shortDescription": "91种以上格式的本地文档提取",
+    "longDescription": "91种以上格式的本地文档提取，具有CLI使用、OCR、表提取、输出格式和本地MCP服务器的技能。",
     "developerName": "Kreuzberg, Inc.",
-    "category": "web-scraping",
+    "category": "工具与集成",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：91种以上格式的本地文档提取"
     ],
     "defaultPrompt": [
-      "Crawl this site to markdown",
-      "Scrape a single page",
-      "Fall back to headless mode"
+      "使用 Crawlberg 帮我：91种以上格式的本地文档提取"
     ],
     "websiteURL": "https://xberg.io",
     "privacyPolicyURL": "https://xberg.io/privacy",

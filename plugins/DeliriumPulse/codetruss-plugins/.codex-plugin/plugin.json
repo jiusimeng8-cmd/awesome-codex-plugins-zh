@@ -1,7 +1,7 @@
 {
   "name": "codetruss",
   "version": "0.1.6",
-  "description": "The deterministic first-pass verification gate for AI-written code.",
+  "description": "本地优先验收门，从不可变的Git快照中检查编码代理范围、敏感表面、确定性分析器和存储库验证，然后在PR之前写入签名收据。",
   "author": {
     "name": "CodeTruss",
     "email": "zack@codetruss.com",
@@ -20,23 +20,19 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "CodeTruss",
-    "shortDescription": "First-pass verification gate for AI-written code",
-    "longDescription": "Declare approved scope and repository checks, evaluate the captured Git state locally, and produce a verifiable receipt before commit. Requires the separately installed free CodeTruss CLI; no CodeTruss account or upload is required.",
+    "displayName": "CodeTruss · 本地优先验收门",
+    "shortDescription": "本地优先验收门",
+    "longDescription": "本地优先验收门，从不可变的Git快照中检查编码代理范围、敏感表面、确定性分析器和存储库验证，然后在PR之前写入签名收据。",
     "developerName": "CodeTruss",
-    "category": "Developer Tools",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：本地优先验收门"
     ],
     "websiteURL": "https://codetruss.com",
     "privacyPolicyURL": "https://codetruss.com/privacy",
     "termsOfServiceURL": "https://codetruss.com/terms",
     "defaultPrompt": [
-      "Set up CodeTruss for this repository",
-      "Review my current changes against the task",
-      "Verify and explain my latest CodeTruss receipt"
+      "使用 CodeTruss 帮我：本地优先验收门"
     ],
     "brandColor": "#B93A26",
     "composerIcon": "./assets/icon.svg",

@@ -1,7 +1,7 @@
 {
   "name": "spec-superflow",
   "version": "1.0.1",
-  "description": "Spec-first workflow that bridges OpenSpec-style planning and Superpowers-style execution discipline.",
+  "description": "具有九项技能的规范第一工作流程，轻量级快速/热修复/调整/完整路径，有界的三次尝试修复循环，可审核的恢复命令，加固的delta-spec同步和保护的审查门。",
   "author": {
     "name": "MageByte",
     "url": "https://github.com/MageByte-Zero"
@@ -24,21 +24,18 @@
   "skills": "./skills/",
   "hooks": {},
   "interface": {
-    "displayName": "spec-superflow",
-    "shortDescription": "Spec-first workflow with guarded execution.",
-    "longDescription": "A self-contained Codex workflow plugin with nine skills for intent exploration, planning artifacts, execution contracts, TDD execution, review gates, systematic debugging, closure, and delta spec sync.",
+    "displayName": "spec-superflow · 具有九项技能的规范第一工作流程",
+    "shortDescription": "具有九项技能的规范第一工作流程",
+    "longDescription": "具有九项技能的规范第一工作流程，轻量级快速/热修复/调整/完整路径，有界的三次尝试修复循环，可审核的恢复命令，加固的delta-spec同步和保护的审查门。",
     "developerName": "MageByte",
-    "category": "Developer Tools",
+    "category": "开发与工作流",
     "composerIcon": "./assets/icon.svg",
     "capabilities": [
-      "Write",
-      "Review"
+      "适用场景：具有九项技能的规范第一工作流程"
     ],
     "websiteURL": "https://github.com/MageByte-Zero/spec-superflow",
     "defaultPrompt": [
-      "Use workflow-start to start a new change.",
-      "Review the current spec-superflow stage.",
-      "Bridge the approved plan into an execution contract."
+      "使用 spec-superflow 帮我：具有九项技能的规范第一工作流程"
     ],
     "brandColor": "#2563EB"
   }

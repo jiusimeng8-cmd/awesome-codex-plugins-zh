@@ -1,7 +1,7 @@
 {
   "name": "langfuse",
   "version": "0.10.1",
-  "description": "Langfuse observability - query traces, debug exceptions, analyze sessions, manage prompts via MCP tools",
+  "description": "通过MCP工具查询跟踪、调试异常、分析会话和管理提示。",
   "author": {
     "name": "Aviv Sinai",
     "url": "https://github.com/avivsinai"
@@ -21,21 +21,18 @@
     "telemetry"
   ],
   "interface": {
-    "displayName": "Langfuse Observability",
+    "displayName": "Langfuse Observability · 通过MCP工具查询跟踪",
     "composerIcon": "./assets/langfuse-icon.svg",
-    "shortDescription": "Query traces, debug exceptions, analyze sessions, and manage prompts via MCP",
-    "longDescription": "Inspect Langfuse traces, observations, sessions, exceptions, prompts, and datasets from Codex via bundled skills and MCP workflows.",
+    "shortDescription": "通过MCP工具查询跟踪",
+    "longDescription": "通过MCP工具查询跟踪、调试异常、分析会话和管理提示。",
     "developerName": "Aviv Sinai",
-    "category": "Observability",
+    "category": "工具与集成",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：通过MCP工具查询跟踪"
     ],
     "websiteURL": "https://github.com/avivsinai/langfuse-mcp",
     "defaultPrompt": [
-      "Investigate the latest Langfuse exceptions and tell me which service is failing first.",
-      "Summarize the slowest traces from the last 24 hours and suggest where to look next.",
-      "Create a dataset item from this failing trace and label the related prompt for follow-up."
+      "使用 Langfuse Observability 帮我：通过MCP工具查询跟踪"
     ]
   }
 }

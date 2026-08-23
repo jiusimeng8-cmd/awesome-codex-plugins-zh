@@ -1,7 +1,7 @@
 {
   "name": "lvtd-skills",
   "version": "0.1.2",
-  "description": "Cross-host Agent Skills catalog for coding, marketing, traction, SEO, and publishing workflows.",
+  "description": "可重复使用的代理技能，适用于Codex、Claude Code和兼容客户端，涵盖Django、Rust、Cookiecutter、SEO、traction、产品营销和非小说出版工作流程。",
   "author": {
     "name": "LVTD",
     "url": "https://github.com/LVTD-LLC"
@@ -23,14 +23,13 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "LVTD Skills",
-    "shortDescription": "Reusable Agent Skills for Codex, Claude Code, and compatible clients.",
-    "longDescription": "LVTD Skills is a cross-host Agent Skills catalog with reusable SKILL.md directories plus generated Codex and Claude Code marketplace adapters. It includes guidance for Django, Rust backend services, Cookiecutter templates, SEO, traction, product marketing, and nonfiction publishing workflows.",
+    "displayName": "LVTD Skills · 可重复使用的代理技能",
+    "shortDescription": "可重复使用的代理技能",
+    "longDescription": "可重复使用的代理技能，适用于Codex、Claude Code和兼容客户端，涵盖Django、Rust、Cookiecutter、SEO、traction、产品营销和非小说出版工作流程。",
     "developerName": "LVTD",
-    "category": "Development & Workflow",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Read"
+      "适用场景：可重复使用的代理技能"
     ],
     "websiteURL": "https://github.com/LVTD-LLC/skills",
     "defaultPrompt": "Use LVTD Skills when you need reusable Agent Skills for Django, Rust, Cookiecutter, SEO, traction, product marketing, or nonfiction publishing workflows.",

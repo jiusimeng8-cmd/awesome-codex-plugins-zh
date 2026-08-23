@@ -1,7 +1,7 @@
 {
   "name": "contam-tools",
   "version": "0.1.1",
-  "description": "Codex plugin for running and inspecting CONTAM projects through a local CONTAM MCP server.",
+  "description": "通过具有项目保护、诊断、模拟助手和桥接工作流程的本地MCP服务器运行和检查CONTAM气流项目。",
   "author": {
     "name": "summer521521",
     "url": "https://github.com/summer521521"
@@ -18,21 +18,17 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "CONTAM Tools",
-    "shortDescription": "Run CONTAM projects through MCP.",
+    "displayName": "CONTAM Tools · 通过具有项目保护",
+    "shortDescription": "通过具有项目保护",
     "composerIcon": "./assets/icon.svg",
-    "longDescription": "Packages a local CONTAM MCP launcher, project guard script, and workflow skill for installation/API discovery, project inspection, diagnostics, case hygiene, scenario cloning, case matrices, ContamW SketchPad layout generation, GUI-safe result settings, contamxpy co-simulation, simulation, text-result triage, and bridge sessions.",
+    "longDescription": "通过具有项目保护、诊断、模拟助手和桥接工作流程的本地MCP服务器运行和检查CONTAM气流项目。",
     "developerName": "summer521521",
-    "category": "Productivity",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：通过具有项目保护"
     ],
     "defaultPrompt": [
-      "Discover the CONTAM installation.",
-      "Diagnose this CONTAM project.",
-      "Run this CONTAM simulation.",
-      "Make this PRJ safe for ContamW Building Check and result review."
+      "使用 CONTAM Tools 帮我：通过具有项目保护"
     ],
     "brandColor": "#7C3AED"
   }

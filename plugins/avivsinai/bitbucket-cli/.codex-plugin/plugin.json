@@ -1,7 +1,7 @@
 {
   "name": "bkt",
-  "version": "0.31.1",
-  "description": "Bitbucket CLI - manage repos, PRs, branches, issues, webhooks, and pipelines for both Data Center and Cloud",
+  "version": "0.31.0",
+  "description": "管理数据中心和云的Bitbucket存储库、PR、分支、问题、Webhook和管道。",
   "author": {
     "name": "Aviv Sinai",
     "url": "https://github.com/avivsinai"
@@ -22,9 +22,10 @@
     "cloud"
   ],
   "interface": {
-    "displayName": "Bitbucket CLI",
+    "displayName": "Bitbucket CLI · 管理数据中心和云的Bitbucket…",
     "composerIcon": "./assets/bkt-icon.svg",
-    "shortDescription": "Manage Bitbucket repos, PRs, branches, issues, webhooks, and pipelines",
-    "category": "Developer Tools"
+    "shortDescription": "管理数据中心和云的Bitbucket…",
+    "category": "工具与集成",
+    "longDescription": "管理数据中心和云的Bitbucket存储库、PR、分支、问题、Webhook和管道。"
   }
 }

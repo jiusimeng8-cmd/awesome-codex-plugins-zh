@@ -1,7 +1,7 @@
 {
   "name": "exa",
   "version": "0.2.0",
-  "description": "Community Codex plugin for web search and full-page retrieval through the official Exa MCP server.",
+  "description": "使用浏览器OAuth通过官方Exa MCP服务器在Codex中搜索和获取当前Web源。",
   "author": {
     "name": "Codex Exa contributors"
   },
@@ -16,19 +16,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Exa Web Search",
-    "shortDescription": "Search and fetch current web sources with Exa.",
-    "longDescription": "Connects Codex to the official Exa remote MCP server with browser OAuth, plus an implicitly triggered skill that prioritizes Exa for online research, current information, source discovery, and URL reading.",
+    "displayName": "Exa Web Search · 使用浏览器OAuth通过官方Exa…",
+    "shortDescription": "使用浏览器OAuth通过官方Exa…",
+    "longDescription": "使用浏览器OAuth通过官方Exa MCP服务器在Codex中搜索和获取当前Web源。",
     "developerName": "Codex Exa Community",
-    "category": "Productivity",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive",
-      "Read"
+      "适用场景：使用浏览器OAuth通过官方Exa…"
     ],
     "defaultPrompt": [
-      "Connect my Exa account to Codex.",
-      "Search the web for current sources on this topic.",
-      "Research this question with Exa and cite the sources."
+      "使用 Exa Web Search 帮我：使用浏览器OAuth通过官方Exa…"
     ],
     "brandColor": "#111111",
     "composerIcon": "./assets/logo.svg",

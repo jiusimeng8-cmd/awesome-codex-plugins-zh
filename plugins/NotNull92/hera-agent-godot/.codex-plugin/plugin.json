@@ -1,7 +1,7 @@
 {
   "name": "hera-godot",
   "version": "1.0.0",
-  "description": "Low-token live Godot editor workflow through the Hera CLI.",
+  "description": "通过低代币Hera CLI驱动实时Godot 4.x编辑器—场景、节点和信号编辑、播放控制和运行时QA ，具有可验证的紧凑JSON输出，伴随插件发布在官方Godot Asset Store上。",
   "author": {
     "name": "NotNull92"
   },

@@ -1,7 +1,7 @@
 {
   "name": "alcove",
   "version": "0.11.6",
-  "description": "Local-first memory server — hybrid BM25+vector search, vault management, lint, and launchd lifecycle for project knowledge.",
+  "description": "本地首个MCP服务器，用于专用项目文档，具有混合BM25 +矢量搜索、树形坐标代码索引和自动化绒毛处理，以实现整个团队的文档标准。",
   "author": {
     "name": "epicsagas",
     "url": "https://github.com/epicsagas"

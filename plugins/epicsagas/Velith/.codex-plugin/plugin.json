@@ -1,7 +1,7 @@
 {
   "name": "velith",
   "version": "0.4.1",
-  "description": "AI-native publishing system — autonomous multi-phase workflows from ideation to EPUB/PDF. Fiction, non-fiction, technical, screenplay, poetry, game, academic, and custom genres.",
+  "description": "AI原生发布系统，从构思到EPUB/PDF ，跨越8个流派的6个阶段。",
   "author": {
     "name": "epicsagas",
     "url": "https://github.com/epicsagas"
@@ -11,14 +11,13 @@
   "license": "Apache-2.0",
   "skills": "./skills/",
   "interface": {
-    "displayName": "Velith",
-    "shortDescription": "AI-native publishing system — from ideation to EPUB/PDF.",
-    "longDescription": "Autonomous multi-phase publishing workflows. Fiction, non-fiction, technical, screenplay, poetry, game, academic, and custom genres.",
+    "displayName": "Velith · AI原生发布系统",
+    "shortDescription": "AI原生发布系统",
+    "longDescription": "AI原生发布系统，从构思到EPUB/PDF ，跨越8个流派的6个阶段。",
     "developerName": "epicsagas",
-    "category": "Development & Workflow",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：AI原生发布系统"
     ],
     "websiteURL": "https://github.com/epicsagas/Velith",
     "composerIcon": "./assets/icon.svg"

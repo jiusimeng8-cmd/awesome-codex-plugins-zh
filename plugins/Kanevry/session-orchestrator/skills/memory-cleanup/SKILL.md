@@ -246,8 +246,8 @@ const peerWarning = wt.activePeer
 
 AskUserQuestion({
   questions: [{
-    question: `Auto-promoted worktree ${path.basename(wt.wtPath)} is ${ageDays}d old (branch ${wt.branch}).${peerWarning} Remove?`,
-    header: "Worktree",
+    question: `Stale auto-promoted worktree found: ${path.basename(wt.wtPath)} (age ${ageDays}d, branch=${wt.branch}).${peerWarning} Remove?`,
+    header: "Stale-Worktree",
     multiSelect: false,
     options: [
       {

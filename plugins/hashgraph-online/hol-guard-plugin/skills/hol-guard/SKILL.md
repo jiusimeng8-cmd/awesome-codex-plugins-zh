@@ -20,28 +20,26 @@ HOL Guard protects local AI harnesses before tools run. Use this skill when the 
 
 ## Install Check
 
-Check both CLIs independently:
+First check whether the CLI exists:
 
 ```bash
 command -v hol-guard
 command -v plugin-scanner
 ```
 
-If `hol-guard` is missing and the user asked for runtime setup, prefer:
+If missing and the user asked for setup, prefer:
 
 ```bash
 pipx install hol-guard
 ```
 
-If `plugin-scanner` is missing and the user asked for scanning, install the separate scanner distribution:
+Fallback only when `pipx` is unavailable:
 
 ```bash
-pipx install plugin-scanner
+python3 -m pip install --user hol-guard
 ```
 
-Do not assume the `hol-guard` distribution provides the `plugin-scanner` command. If `pipx` is unavailable, explain that isolated CLI installation is recommended rather than silently changing the user's Python environment.
-
-After runtime installation:
+After install:
 
 ```bash
 hol-guard status

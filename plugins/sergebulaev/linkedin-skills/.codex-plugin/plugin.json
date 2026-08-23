@@ -1,7 +1,7 @@
 {
   "name": "linkedin-skills",
-  "description": "11 Claude Code and Codex skills for LinkedIn marketing: post writing, comment drafting, reply handler, hook extractor, humanizer (rewrite + audit + emoji + detector + rules sub-tools), profile optimizer, content planner, content repurposer, employee advocacy, thread monitor (author replies), engager analytics (likers + commenters ICP segmentation).",
-  "version": "1.0.25",
+  "description": "支持Codex的LinkedIn营销捆绑包，具有本机.codex插件清单和10项技能：使用16个测试过的钩子公式进行帖子写作、AI-tell人性化、发布前审计、评论和回复起草、钩子提取、内容规划、配置文件优化、参与度分析和线程监控；也适用于Claude Code。",
+  "version": "1.0.20",
   "author": {
     "name": "Serge Bulaev",
     "url": "https://github.com/sergebulaev"
@@ -20,22 +20,18 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "LinkedIn Skills",
+    "displayName": "LinkedIn Skills · 支持Codex的LinkedIn营销…",
     "composerIcon": "./assets/icon.svg",
-    "shortDescription": "LinkedIn marketing skills for Claude Code and Codex.",
-    "longDescription": "A bundle of 11 LinkedIn marketing skills for Claude Code and Codex: post writing, comment drafting, reply handling, hook extraction, humanizing, profile optimization, content planning, employee advocacy, thread monitoring, and engager analytics.",
+    "shortDescription": "支持Codex的LinkedIn营销…",
+    "longDescription": "支持Codex的LinkedIn营销捆绑包，具有本机.codex插件清单和10项技能：使用16个测试过的钩子公式进行帖子写作、AI-tell人性化、发布前审计、评论和回复起草、钩子提取、内容规划、配置文件优化、参与度分析和线程监控；也适用于Claude Code。",
     "developerName": "Serge Bulaev",
-    "category": "Productivity",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：支持Codex的LinkedIn营销…"
     ],
     "websiteURL": "https://github.com/sergebulaev/linkedin-skills",
     "defaultPrompt": [
-      "Draft a LinkedIn post from my notes.",
-      "Improve this LinkedIn comment.",
-      "Plan a week of LinkedIn content."
+      "使用 LinkedIn Skills 帮我：支持Codex的LinkedIn营销…"
     ],
     "brandColor": "#0A66C2"
   }

@@ -1,7 +1,7 @@
 {
   "name": "debt-ops",
   "version": "0.10.0",
-  "description": "Every shortcut your coding agent takes, saved to your repo as it happens. Fix them when you're ready.",
+  "description": "在写入时捕获人工智能引入的技术债务：挂钩记录每次延迟到存储库中的注册表，审核技能按文件流失率对付款进行排名。",
   "author": {
     "name": "Brandin Canfield",
     "email": "brandincanfield@gmail.com"
@@ -19,11 +19,11 @@
   "skills": "./skills/",
   "hooks": "./hooks/hooks.json",
   "interface": {
-    "displayName": "debt-ops",
-    "shortDescription": "Catches AI-introduced tech debt at write-time",
-    "longDescription": "Every \"I'll fix this later,\" shortcut, and punt your AI agent writes lands in a folder in your repo. Architectural calls get a short ADR. When you're ready to clean up, a review skill ranks the backlog by how often each file changes, so you pay down the debt that actually hurts first. Plain Python, fully local, no network calls.",
+    "displayName": "debt-ops · 在写入时捕获人工智能引入的技术债务",
+    "shortDescription": "在写入时捕获人工智能引入的技术债务",
+    "longDescription": "在写入时捕获人工智能引入的技术债务：挂钩记录每次延迟到存储库中的注册表，审核技能按文件流失率对付款进行排名。",
     "developerName": "Brandin Canfield",
-    "category": "Coding",
+    "category": "开发与工作流",
     "composerIcon": "./assets/icon.svg",
     "brandColor": "#d97757"
   }

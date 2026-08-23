@@ -1,7 +1,7 @@
 {
   "name": "cc",
   "version": "1.4.2",
-  "description": "Claude Code Plugin for Codex. Delegate code reviews, investigations, and tracked tasks to Claude Code from inside Codex.",
+  "description": "反转OpenAI的官方Claude托管插件：使用Codex的Claude Code进行审核、救援任务、跟踪后台作业和钩子驱动的审核门。",
   "author": {
     "name": "Sendbird, Inc.",
     "email": "jin.ku@sendbird.com",
@@ -20,22 +20,19 @@
   "skills": "./skills/",
   "hooks": "./hooks/hooks.json",
   "interface": {
-    "displayName": "Claude Code",
-    "shortDescription": "Claude Code Plugin for Codex",
-    "longDescription": "Use Claude Code from inside Codex to run read-only reviews, adversarial design reviews, and tracked rescue tasks through a Claude-backed runtime with job status and result retrieval.",
+    "displayName": "Claude Code · 反转OpenAI的官方Claude托…",
+    "shortDescription": "反转OpenAI的官方Claude托…",
+    "longDescription": "反转OpenAI的官方Claude托管插件：使用Codex的Claude Code进行审核、救援任务、跟踪后台作业和钩子驱动的审核门。",
     "developerName": "Sendbird, Inc.",
-    "category": "Coding",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：反转OpenAI的官方Claude托…"
     ],
     "websiteURL": "https://sendbird.com/",
     "privacyPolicyURL": "https://sendbird.com/privacy-notice",
     "termsOfServiceURL": "https://sendbird.com/terms-of-service",
     "defaultPrompt": [
-      "Use Claude Code to review my current changes through $cc:review",
-      "Use Claude Code to challenge this implementation through $cc:adversarial-review",
-      "Use Claude Code to investigate and fix this issue through $cc:rescue"
+      "使用 Claude Code 帮我：反转OpenAI的官方Claude托…"
     ],
     "brandColor": "#7B39FE",
     "composerIcon": "./assets/cc-small.svg",

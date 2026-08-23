@@ -1,21 +1,19 @@
 {
   "name": "agentops",
   "version": "3.6.0",
-  "description": "The operations layer for agentic engineering: portable skills and evidence contracts connecting intent, coding agents, software factories, and independent judgment.",
+  "description": "DevOps层，用于在会话之间复合的具有流、反馈和内存的编码代理。",
   "skills": "./skills-codex",
   "interface": {
-    "displayName": "AgentOps",
-    "shortDescription": "The operations layer for agentic engineering.",
-    "longDescription": "AgentOps connects intent, coding agents, software factories, context sources, and independent judgment through portable skills and evidence contracts. Codex shapes one behavior, runs one bounded implementation experiment, validates the exact result from fresh context, and can persist a durable verdict. Git, CI, retries, queues, and delivery remain caller-owned.",
+    "displayName": "AgentOps · DevOps层",
+    "shortDescription": "DevOps层",
+    "longDescription": "DevOps层，用于在会话之间复合的具有流、反馈和内存的编码代理。",
     "developerName": "AgentOps",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Skills"
+      "适用场景：DevOps层"
     ],
     "defaultPrompt": [
-      "Use AgentOps Plan to define one behavior and its evidence.",
-      "Use AgentOps Implement for one bounded RED to GREEN experiment.",
-      "Use AgentOps Validate from fresh context to judge the exact candidate."
+      "使用 AgentOps 帮我：DevOps层"
     ]
   }
 }

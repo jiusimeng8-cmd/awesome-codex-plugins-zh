@@ -1,27 +1,24 @@
 {
   "name": "aiboarding",
   "version": "0.5.0",
-  "description": "Onboard AI agents like fresh engineers: generates and maintains AGENTS.md and CLAUDE.md with drift tracking, compression, and auditing.",
+  "description": "使用AGENTS.md、CLAUDE.md、漂移跟踪和生命周期挂钩生成、维护、压缩和审核标准AI代理入门文件。",
   "repository": "https://github.com/gustavo-meilus/aiboarding",
   "license": "MIT",
   "skills": "./skills/",
   "interface": {
-    "displayName": "AIBoarding",
-    "shortDescription": "Generate, maintain, compress, and audit AI-agent onboarding files.",
-    "longDescription": "AIBoarding creates and maintains standard AI-agent onboarding files for repositories. It generates AGENTS.md, keeps CLAUDE.md as a thin loader, tracks drift through sidecar state, offers compression and audit skills, and ships deterministic hook templates for Claude Code lifecycle nudges.",
+    "displayName": "AIBoarding · 使用AGENTS.md",
+    "shortDescription": "使用AGENTS.md",
+    "longDescription": "使用AGENTS.md、CLAUDE.md、漂移跟踪和生命周期挂钩生成、维护、压缩和审核标准AI代理入门文件。",
     "developerName": "Gustavo Meilus",
-    "category": "Development & Workflow",
+    "category": "开发与工作流",
     "capabilities": [
-      "Skills",
-      "Hooks"
+      "适用场景：使用AGENTS.md"
     ],
     "websiteURL": "https://github.com/gustavo-meilus/aiboarding",
     "composerIcon": "./assets/aiboarding-icon.svg",
     "logo": "./assets/aiboarding-icon.svg",
     "defaultPrompt": [
-      "Create onboarding files for this repository.",
-      "Audit my AGENTS.md for stale or bloated guidance.",
-      "Update the onboarding docs after recent commits."
+      "使用 AIBoarding 帮我：使用AGENTS.md"
     ]
   }
 }

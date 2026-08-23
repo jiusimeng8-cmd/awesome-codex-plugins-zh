@@ -1,7 +1,7 @@
 {
   "name": "bgs-modding-superpowers",
   "version": "0.2.0",
-  "description": "Agentic superpowers for Bethesda Game Studio modpack curation: MCP-driven xEdit conflict audit, MO2 control plane, and runtime install/dev-log skills.",
+  "description": "Agentic Bethesda Game Studio modpack策展工具包，具有MCP驱动的xEdit冲突审计、MO2控制平面、BA2/BSA和Papyrus工具，以及设置、开发日志和发布更改日志工作流的技能。",
   "author": {
     "name": "awesome-bgs-mod-master contributors",
     "url": "https://github.com/BB-84C/bgs-modding-superpowers"
@@ -20,20 +20,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "BGS Modding Superpowers",
-    "shortDescription": "Curate Bethesda modpacks with MO2 + xEdit superpowers",
-    "longDescription": "Agentic toolkit for Bethesda Game Studio modpack builders. Bundles an xEdit conflict-audit MCP, an MO2 control-plane plugin installer, and skills for first-time setup, dev-log maintenance, and release-changelog generation.",
+    "displayName": "BGS Modding Superpowers · Agentic Bethesda G…",
+    "shortDescription": "Agentic Bethesda G…",
+    "longDescription": "Agentic Bethesda Game Studio modpack策展工具包，具有MCP驱动的xEdit冲突审计、MO2控制平面、BA2/BSA和Papyrus工具，以及设置、开发日志和发布更改日志工作流的技能。",
     "developerName": "awesome-bgs-mod-master contributors",
-    "category": "Coding",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：Agentic Bethesda G…"
     ],
     "defaultPrompt": [
-      "Help me set up a new Bethesda modpack project.",
-      "Audit conflicts across my current load order.",
-      "Start a dev-log for my modpack project."
+      "使用 BGS Modding Superpowers 帮我：Agentic Bethesda G…"
     ],
     "websiteURL": "https://github.com/BB-84C/bgs-modding-superpowers",
     "brandColor": "#5C8A3A"

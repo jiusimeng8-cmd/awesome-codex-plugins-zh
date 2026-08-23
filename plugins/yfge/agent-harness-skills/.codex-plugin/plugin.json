@@ -2,7 +2,7 @@
   "id": "agent-harness-skills",
   "name": "agent-harness-skills",
   "version": "0.2.0",
-  "description": "Reusable skills for building agent-ready repository harnesses.",
+  "description": "设计具有入口点、验证表面、运行时证据、交付记录和原子提交指导的代理就绪存储库线束。",
   "author": {
     "name": "Agent Harness Skills contributors"
   },
@@ -11,18 +11,16 @@
   "license": "MIT",
   "skills": "./skills/",
   "interface": {
-    "displayName": "Agent Harness Skills",
-    "shortDescription": "Repo harness practices for agent-ready engineering work",
-    "longDescription": "Use Agent Harness Skills as a compact methodology plugin to assess and design repository harnesses: entrypoint and role mapping, mechanical contracts, structural quality, validation surfaces, runtime evidence, and optional work-state and delivery governance.",
+    "displayName": "Agent Harness Skills · 设计具有入口点",
+    "shortDescription": "设计具有入口点",
+    "longDescription": "设计具有入口点、验证表面、运行时证据、交付记录和原子提交指导的代理就绪存储库线束。",
     "developerName": "Agent Harness Skills contributors",
-    "category": "Coding",
+    "category": "开发与工作流",
     "websiteURL": "https://github.com/yfge/agent-harness-skills",
     "brandColor": "#2F6FED",
     "composerIcon": "./assets/icon.svg",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：设计具有入口点"
     ],
     "defaultPrompt": "Assess this repository's agent harness maturity."
   },

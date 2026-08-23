@@ -1,7 +1,7 @@
 {
   "name": "development-skills",
   "version": "0.10.0",
-  "description": "Development workflow for AI coding agents: a direct/full loop that keeps the plan and chronicle on disk, plus a named staff-reviewer subagent. Language-agnostic.",
+  "description": "Codex和Claude Code的三级分流（ PASS_THROUGH/LIGHT/FULL 4-phase ）开发工作流程，具有语言自动检测（ Python、Java、TypeScript、Swift、前端）和员工审核员子代理，以便在每次更改时进行全新审核。",
   "repository": "https://github.com/reidemeister94/development-skills",
   "homepage": "https://github.com/reidemeister94/development-skills",
   "license": "MIT",
@@ -16,19 +16,16 @@
   "skills": "./skills/",
   "hooks": "./hooks/hooks.json",
   "interface": {
-    "displayName": "Development Skills",
-    "shortDescription": "Disciplined development workflows for AI coding agents",
-    "longDescription": "Use Development Skills for coding, debugging, refactoring, test design, code review, documentation alignment, and cross-agent workflow discipline. A two-path development loop (direct for clear, reversible changes; full for everything else) that keeps the plan and chronicle on disk, with a named staff-reviewer subagent. Language-agnostic.",
+    "displayName": "Development Skills · Codex和Claude Code的…",
+    "shortDescription": "Codex和Claude Code的…",
+    "longDescription": "Codex和Claude Code的三级分流（ PASS_THROUGH/LIGHT/FULL 4-phase ）开发工作流程，具有语言自动检测（ Python、Java、TypeScript、Swift、前端）和员工审核员子代理，以便在每次更改时进行全新审核。",
     "developerName": "reidemeister",
-    "category": "Coding",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：Codex和Claude Code的…"
     ],
     "defaultPrompt": [
-      "Use development-skills to implement this feature.",
-      "Use development-skills to debug this failure."
+      "使用 Development Skills 帮我：Codex和Claude Code的…"
     ],
     "brandColor": "#2563EB",
     "composerIcon": "./assets/icon.svg"

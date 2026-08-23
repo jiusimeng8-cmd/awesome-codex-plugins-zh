@@ -2,7 +2,7 @@
   "name": "n8n-mcp-synta-codex",
   "type": "plugin",
   "version": "1.0.0",
-  "description": "Build and edit n8n workflows from Codex via Synta MCP",
+  "description": "使用Synta MCP工具和Codex就绪工作流程指南构建、编辑、验证和自我修复n8n工作流程。",
   "author": {
     "name": "Synta",
     "url": "https://synta.io/"
@@ -18,23 +18,20 @@
   ],
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Synta MCP",
-    "shortDescription": "Build n8n workflows from Codex via Synta MCP",
-    "longDescription": "A Codex plugin that connects to Synta MCP so you can create, edit, validate, and self-heal n8n workflows from Codex.",
+    "displayName": "Synta MCP · 使用Synta MCP工具和Code…",
+    "shortDescription": "使用Synta MCP工具和Code…",
+    "longDescription": "使用Synta MCP工具和Codex就绪工作流程指南构建、编辑、验证和自我修复n8n工作流程。",
     "developerName": "Synta",
-    "category": "Productivity",
+    "category": "工具与集成",
     "capabilities": [
-      "Write",
-      "Interactive"
+      "适用场景：使用Synta MCP工具和Code…"
     ],
     "websiteURL": "https://synta.io/",
     "brandColor": "#C15F3C",
     "composerIcon": "./assets/icon.png",
     "logo": "./assets/logo.png",
     "defaultPrompt": [
-      "Build an n8n workflow with Synta MCP.",
-      "Fix this n8n workflow using Synta MCP.",
-      "Validate and repair my n8n automation."
+      "使用 Synta MCP 帮我：使用Synta MCP工具和Code…"
     ]
   },
   "skills": "./"

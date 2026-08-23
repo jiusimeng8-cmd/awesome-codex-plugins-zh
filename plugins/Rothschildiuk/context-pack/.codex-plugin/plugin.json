@@ -1,7 +1,7 @@
 {
   "name": "context-pack",
   "version": "0.3.2",
-  "description": "Use Context Pack to generate compact first-pass repository briefings for coding agents.",
+  "description": "在深入探索之前，为编码代理生成紧凑的首次通过存储库简报。",
   "author": {
     "name": "Rothschildiuk",
     "url": "https://github.com/Rothschildiuk"
@@ -20,14 +20,13 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Context Pack",
-    "shortDescription": "Brief a repo before deeper exploration",
-    "longDescription": "Generate a compact repository briefing that surfaces guidance files, entrypoints, active work, and high-signal files before a deeper manual walkthrough.",
+    "displayName": "Context Pack · 在深入探索之前",
+    "shortDescription": "在深入探索之前",
+    "longDescription": "在深入探索之前，为编码代理生成紧凑的首次通过存储库简报。",
     "developerName": "Rothschildiuk",
-    "category": "Developer Tools",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive",
-      "Read"
+      "适用场景：在深入探索之前"
     ],
     "websiteURL": "https://github.com/Rothschildiuk/context-pack",
     "defaultPrompt": "Generate a compact first-pass repository briefing with Context Pack and tell me what to read next.",

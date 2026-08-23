@@ -1,7 +1,7 @@
 {
   "name": "token-optimizer",
   "version": "5.7.0",
-  "description": "Context-window optimization: caching, compression, and smart file tooling that cut token usage 60-90%.",
+  "description": "使用缓存、压缩和智能文件工具将令牌使用率降低60-90% —仅差异重读、仅路径搜索、上下文外存储以及Codex和Claude Code的每个工具节省报告。",
   "author": {
     "name": "ooples",
     "url": "https://github.com/ooples"
@@ -19,19 +19,17 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Token Optimizer",
-    "shortDescription": "Cut token usage 60-90% with caching, compression, and smart file tools.",
-    "longDescription": "Bundles the token-optimizer MCP server plus a usage skill. smart_read returns diffs on re-reads, smart_glob returns paths only, optimize_session stashes bulky output out-of-context, and get_optimization_report shows total tokens saved.",
+    "displayName": "Token Optimizer · 使用缓存",
+    "shortDescription": "使用缓存",
+    "longDescription": "使用缓存、压缩和智能文件工具将令牌使用率降低60-90% —仅差异重读、仅路径搜索、上下文外存储以及Codex和Claude Code的每个工具节省报告。",
     "developerName": "ooples",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：使用缓存"
     ],
     "websiteURL": "https://github.com/ooples/token-optimizer-mcp",
     "defaultPrompt": [
-      "Use token-optimizer smart_read to re-read this large file as a diff.",
-      "Show my token savings with get_optimization_report."
+      "使用 Token Optimizer 帮我：使用缓存"
     ]
   }
 }

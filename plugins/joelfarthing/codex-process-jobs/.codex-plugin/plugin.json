@@ -1,7 +1,7 @@
 {
   "name": "codex-process-jobs",
-  "version": "0.4.1",
-  "description": "Launch and manage durable, detached local process jobs from Codex.",
+  "version": "0.3.0",
+  "description": "运行长时间的本地构建、测试、基准和推理作业，作为具有跟踪状态、有界结果和跨Codex表面完成交付的持久分离流程。",
   "author": {
     "name": "Joel Farthing"
   },
@@ -17,24 +17,21 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Codex Process Jobs",
-    "shortDescription": "Durable detached process jobs for Codex",
+    "displayName": "Codex Process Jobs · 运行长时间的本地构建",
+    "shortDescription": "运行长时间的本地构建",
     "composerIcon": "./assets/icon.png",
     "logo": "./assets/icon.png",
-    "longDescription": "Launch long-running local commands as tracked detached process groups, inspect bounded output, wait for completion, retrieve results, and cancel safely on macOS or Linux.",
+    "longDescription": "运行长时间的本地构建、测试、基准和推理作业，作为具有跟踪状态、有界结果和跨Codex表面完成交付的持久分离流程。",
     "developerName": "Joel Farthing",
-    "category": "Developer Tools",
+    "category": "开发与工作流",
     "websiteURL": "https://filamentlabs.io/CPJ/",
     "privacyPolicyURL": "https://filamentlabs.io/CPJ/privacy",
     "termsOfServiceURL": "https://filamentlabs.io/CPJ/terms",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：运行长时间的本地构建"
     ],
     "defaultPrompt": [
-      "Run this build as a tracked background job.",
-      "Show my active and recent process jobs.",
-      "Open the result of the latest finished job."
+      "使用 Codex Process Jobs 帮我：运行长时间的本地构建"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "deepseek-minimal-anchor",
   "version": "0.4.0",
-  "description": "DeepSeek Mini-Router for Codex: Pro sessions get the official Minimal one-sentence anchor; Flash sessions get a task-aware decide-and-verify router persona via trusted hooks, with a bundled skill fallback.",
+  "description": "任务感知规范/反应/闪存工作合同插件，修复了Codex中的DeepSeek弱默认推理，包括测量的BigCodeBench线束。",
   "homepage": "https://github.com/hccccc01333/codex-deepseek-mini-router",
   "repository": "https://github.com/hccccc01333/codex-deepseek-mini-router",
   "author": {
@@ -18,11 +18,11 @@
   "skills": "./plugins/deepseek-minimal-anchor/skills/",
   "hooks": "./plugins/deepseek-minimal-anchor/hooks/hooks.json",
   "interface": {
-    "displayName": "DeepSeek Mini-Router",
-    "shortDescription": "Task-aware spec/react/flash working contract for DeepSeek models in Codex.",
-    "longDescription": "DeepSeek models are highly sensitive to the agent scaffold and the first-visible persona. Following the community findings (dsh-anchored-standard, dsh-router-standard), Pro sessions get exactly the official Minimal system prompt - 'You are a helpful software engineer assistant.' - and nothing else. Flash sessions get a task-aware decide-and-verify router persona: decide the task type in one step, end each reasoning block with a decision, run a concrete check after writing, retry once on failure. Hooks inject the contract as developer context on desktop and CLI once trusted (trust is hash-keyed); the bundled skill is a self-executing fallback.",
+    "displayName": "DeepSeek Mini-Router · 任务感知规范/反应/闪存工作合同插件",
+    "shortDescription": "任务感知规范/反应/闪存工作合同插件",
+    "longDescription": "任务感知规范/反应/闪存工作合同插件，修复了Codex中的DeepSeek弱默认推理，包括测量的BigCodeBench线束。",
     "developerName": "Hzz",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "composerIcon": "./assets/icon.svg",
     "logo": "./assets/icon.svg",
     "websiteURL": "https://github.com/hccccc01333/codex-deepseek-mini-router",
@@ -34,13 +34,10 @@
       "./docs/thinking-metrics.png"
     ],
     "capabilities": [
-      "Skills",
-      "Hooks"
+      "适用场景：任务感知规范/反应/闪存工作合同插件"
     ],
     "defaultPrompt": [
-      "Work in DeepSeek mini-router mode.",
-      "Show the trajectory fingerprint for this session.",
-      "Enable the DeepSeek mini-router (trust its hooks) and confirm it is active."
+      "使用 DeepSeek Mini-Router 帮我：任务感知规范/反应/闪存工作合同插件"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "agent-guard",
   "version": "3.0.1",
-  "description": "Local-by-default, no-telemetry hooks inspect supported tool inputs, outputs, and changed files in every enabled Claude Code or Codex session to block or mask secret leaks. Includes opt-in PII filtering and Git/CI backstops.",
+  "description": "AI编码代理（ Claude Code、Codex ）、Git钩子和CI的实时秘密泄漏护栏。",
   "author": {
     "name": "Agent Guard contributors",
     "url": "https://github.com/JeongJaeSoon"
@@ -19,13 +19,13 @@
   "hooks": "./hooks.json",
   "skills": "./skills/",
   "interface": {
-    "displayName": "Agent Guard",
-    "shortDescription": "Real-time secret-leak guardrails for AI coding agents",
-    "longDescription": "Local-by-default, no-telemetry hooks inspect supported tool-call inputs, outputs, and changed files in every enabled Claude Code or Codex session. Agent Guard blocks risky `.env` reads, secret writes, and credential-dumping commands; masks secret-like tool output; and adds native Git-hook and GitHub Actions backstops. PII hook processing and HTTP providers are opt-in.",
+    "displayName": "Agent Guard · AI编码代理（ Claude Cod…",
+    "shortDescription": "AI编码代理（ Claude Cod…",
+    "longDescription": "AI编码代理（ Claude Code、Codex ）、Git钩子和CI的实时秘密泄漏护栏。",
     "developerName": "Agent Guard contributors",
-    "category": "Developer Tools",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read"
+      "适用场景：AI编码代理（ Claude Cod…"
     ],
     "websiteURL": "https://github.com/JeongJaeSoon/agent-guard",
     "brandColor": "#14532D",

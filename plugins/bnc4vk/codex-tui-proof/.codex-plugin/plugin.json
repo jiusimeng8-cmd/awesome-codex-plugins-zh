@@ -1,7 +1,7 @@
 {
   "name": "codex-tui-proof",
   "version": "0.1.0",
-  "description": "Validate real local terminal UIs visually in Codex's in-app browser without desktop takeover.",
+  "description": "使用屏幕截图和会话证据，在Codex的应用内浏览器中直观地验证真实的本地终端用户界面。",
   "author": {
     "name": "Ben Cohen",
     "url": "https://github.com/bnc4vk"
@@ -18,20 +18,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Codex TUI Proof",
-    "shortDescription": "Visual TUI proof without desktop takeover",
-    "longDescription": "Launch a real local PTY in a deterministic browser terminal, let Codex interact with it through the in-app browser, and attach screenshot plus session evidence without Computer Use.",
+    "displayName": "Codex TUI Proof · 使用屏幕截图和会话证据",
+    "shortDescription": "使用屏幕截图和会话证据",
+    "longDescription": "使用屏幕截图和会话证据，在Codex的应用内浏览器中直观地验证真实的本地终端用户界面。",
     "developerName": "Ben Cohen",
-    "category": "Developer Tools",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Local",
-      "Visual validation"
+      "适用场景：使用屏幕截图和会话证据"
     ],
     "defaultPrompt": [
-      "Visually validate this TUI in Codex without Computer Use.",
-      "Run this CLI in the browser terminal and attach proof.",
-      "Check this TUI change at a fixed terminal size."
+      "使用 Codex TUI Proof 帮我：使用屏幕截图和会话证据"
     ],
     "websiteURL": "https://github.com/bnc4vk/codex-tui-proof",
     "privacyPolicyURL": "https://github.com/bnc4vk/codex-tui-proof/blob/main/PRIVACY.md",

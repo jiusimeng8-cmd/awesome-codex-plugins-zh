@@ -1,7 +1,7 @@
 {
   "name": "maestro",
   "version": "1.15.0",
-  "description": "Maestro Frontier model-panel fusion with Opus 5, current Codex models, validated effort control, Codex skills, and optional lifecycle hooks.",
+  "description": "选择加入本地多CLI融合引擎和编排原则，在模型CLI中提示，然后判断并合成一个接地答案。",
   "author": {
     "name": "Mark Laursen",
     "url": "https://github.com/mbanderas"
@@ -18,22 +18,19 @@
   ],
   "skills": "./codex-skills/",
   "interface": {
-    "displayName": "Maestro",
-    "shortDescription": "Frontier panel composition, Codex skills, and lifecycle hooks",
-    "longDescription": "Install Maestro in Codex as a plugin: direct /maestro slash hub to compose an Opus 5 and Codex model panel, set validated effort, and run the local read-only Frontier fusion engine. Optional discipline hooks remain independent and off by default.",
+    "displayName": "Maestro · 选择加入本地多CLI融合引擎和编排原…",
+    "shortDescription": "选择加入本地多CLI融合引擎和编排原…",
+    "longDescription": "选择加入本地多CLI融合引擎和编排原则，在模型CLI中提示，然后判断并合成一个接地答案。",
     "developerName": "Mark Laursen",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：选择加入本地多CLI融合引擎和编排原…"
     ],
     "websiteURL": "https://github.com/mbanderas/maestro",
     "brandColor": "#5B82D6",
     "composerIcon": "./assets/icon.png",
     "defaultPrompt": [
-      "/maestro frontier catalog",
-      "/maestro frontier compose --models opus,sol --effort xhigh --dry-run",
-      "/maestro frontier status"
+      "使用 Maestro 帮我：选择加入本地多CLI融合引擎和编排原…"
     ]
   }
 }

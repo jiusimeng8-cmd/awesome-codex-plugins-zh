@@ -1,7 +1,7 @@
 {
   "name": "hol-guard-plugin",
   "version": "0.1.0",
-  "description": "Codex plugin for HOL Guard local AI harness protection across Codex, Claude Code, and other agent/plugin systems.",
+  "description": "用于Codex、Claude Code、Cursor、Gemini、OpenCode、MCP服务器、技能和插件发布检查的AI防病毒工作流程，并具有本地批准和收据。",
   "author": {
     "name": "Hashgraph Online",
     "email": "dev@hol.org",
@@ -21,24 +21,19 @@
   "skills": "./skills/",
   "interface": {
     "type": "cli",
-    "displayName": "HOL Guard Plugin",
-    "shortDescription": "Protect Codex, Claude Code, and other AI harnesses.",
-    "longDescription": "HOL Guard Plugin teaches Codex how to install and operate HOL Guard across Codex, Claude Code, Copilot CLI, Cursor, Gemini, Hermes, OpenClaw, OpenCode, and Antigravity. It also guides plugin-scanner checks for Codex plugins, Claude Code project surfaces, skills, MCP servers, and marketplace packages.",
+    "displayName": "HOL Guard Plugin · 用于Codex",
+    "shortDescription": "用于Codex",
+    "longDescription": "用于Codex、Claude Code、Cursor、Gemini、OpenCode、MCP服务器、技能和插件发布检查的AI防病毒工作流程，并具有本地批准和收据。",
     "developerName": "Hashgraph Online",
-    "category": "Security",
+    "category": "开发与工作流",
     "capabilities": [
-      "Security",
-      "Local CLI",
-      "Scanner",
-      "Workflow Guidance"
+      "适用场景：用于Codex"
     ],
     "websiteURL": "https://hol.org/guard",
     "privacyPolicyURL": "https://hol.org/points/legal/privacy",
     "termsOfServiceURL": "https://hol.org/points/legal/terms",
     "defaultPrompt": [
-      "Protect Claude Code with HOL Guard.",
-      "Scan this Codex plugin before release.",
-      "Show Guard receipts and pending approvals."
+      "使用 HOL Guard Plugin 帮我：用于Codex"
     ],
     "brandColor": "#5599FE",
     "composerIcon": "./assets/icon.png",

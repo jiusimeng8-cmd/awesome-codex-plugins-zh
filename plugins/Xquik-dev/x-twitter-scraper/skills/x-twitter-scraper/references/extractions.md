@@ -19,10 +19,9 @@ without renewed approval.
 The API accepts an omitted `resultsLimit`. This Skill must always send an
 explicit finite positive bound. Use the same bound for estimate and create.
 
-First send the bounded body to `POST /extractions/estimate`. Review
-`creditsRequired`, `creditsAvailable`, and `allowed`. Create nothing when
-`allowed` is false. When it is true, show the exact estimate and wait for
-explicit approval. Only then send the same body to `POST /extractions`.
+Call `POST /extractions`
+
+Estimate first with `POST /extractions/estimate` with the same body to preview `creditsRequired`, `creditsAvailable`, and whether the job is allowed.
 
 ## Tool types
 
@@ -40,12 +39,10 @@ These tools require `targetTweetId`.
 | `favoriters` | Extract users who favorited a tweet |
 
 For example:
-
 ```json
 {
   "toolType": "reply_extractor",
-  "targetTweetId": "1893704267862470862",
-  "resultsLimit": 100
+  "targetTweetId": "1893704267862470862"
 }
 ```
 
@@ -62,12 +59,10 @@ These tools require `targetUsername`.
 | `post_extractor` | Extract posts from an account |
 
 For example:
-
 ```json
 {
   "toolType": "follower_explorer",
-  "targetUsername": "elonmusk",
-  "resultsLimit": 100
+  "targetUsername": "elonmusk"
 }
 ```
 
@@ -83,12 +78,10 @@ These tools require `targetUsername`.
 | `user_media` | Extract media tweets from a user |
 
 For example:
-
 ```json
 {
   "toolType": "user_likes",
-  "targetUsername": "elonmusk",
-  "resultsLimit": 100
+  "targetUsername": "elonmusk"
 }
 ```
 
@@ -104,12 +97,10 @@ These tools require `targetCommunityId`.
 | `community_search` | Search posts within a community (also requires `searchQuery`) |
 
 For example:
-
 ```json
 {
   "toolType": "community_extractor",
-  "targetCommunityId": "1234567890",
-  "resultsLimit": 100
+  "targetCommunityId": "1234567890"
 }
 ```
 
@@ -124,12 +115,10 @@ These tools require `targetListId`.
 | `list_follower_explorer` | Extract followers of a list |
 
 For example:
-
 ```json
 {
   "toolType": "list_member_extractor",
-  "targetListId": "1234567890",
-  "resultsLimit": 100
+  "targetListId": "1234567890"
 }
 ```
 
@@ -142,12 +131,10 @@ These tools require `targetSpaceId`.
 | `space_explorer` | Extract participants of a Space |
 
 For example:
-
 ```json
 {
   "toolType": "space_explorer",
-  "targetSpaceId": "1YqKDqDXAbwKV",
-  "resultsLimit": 100
+  "targetSpaceId": "1YqKDqDXAbwKV"
 }
 ```
 
@@ -161,17 +148,14 @@ These tools require `searchQuery`.
 | `tweet_search_extractor` | Search and extract tweets by keyword or hashtag |
 
 For a people search:
-
 ```json
 {
   "toolType": "people_search",
-  "searchQuery": "machine learning engineer",
-  "resultsLimit": 100
+  "searchQuery": "machine learning engineer"
 }
 ```
 
 For a tweet search:
-
 ```json
 {
   "toolType": "tweet_search_extractor",
@@ -239,7 +223,6 @@ For a tweet search:
 | `advancedQuery` | string | Raw X search operators appended to query |
 
 For example, apply filters:
-
 ```json
 {
   "toolType": "tweet_search_extractor",
@@ -252,9 +235,7 @@ For example, apply filters:
 }
 ```
 
-The API makes `resultsLimit` optional. This Skill requires a finite positive
-value. Pass the same value to `POST /extractions/estimate` and
-`POST /extractions`.
+Set optional `resultsLimit` to stop after a specific result count. Pass the same value to `POST /extractions/estimate` and `POST /extractions`.
 
 ### Profile filters
 
@@ -278,51 +259,11 @@ The status is `pending`, `running`, `completed`, or `failed`.
 
 ## Retrieving results
 
-```javascript
-const xquikFetch = globalThis.xquikFetch;
-if (typeof xquikFetch !== "function") {
-  throw new Error("Configure the authenticated xquikFetch client first.");
-}
-const extractionId = globalThis.xquikExtractionId;
-if (typeof extractionId !== "string" || !extractionId) {
-  throw new Error("Supply the approved xquikExtractionId first.");
-}
-const approvedMaxPages = globalThis.xquikApprovedMaxPages;
-if (!Number.isInteger(approvedMaxPages) || approvedMaxPages < 1) {
-  throw new Error("Supply the approved positive xquikApprovedMaxPages first.");
-}
-
-const results = [];
-let nextCursor;
-for (let pageNumber = 0; pageNumber < approvedMaxPages; pageNumber++) {
-  const params = new URLSearchParams({ limit: "1000" });
-  if (nextCursor) params.set("after", nextCursor);
-  const page = await xquikFetch(`/extractions/${extractionId}?${params}`);
-  if (
-    page === null ||
-    typeof page !== "object" ||
-    Array.isArray(page) ||
-    !Array.isArray(page.results) ||
-    typeof page.hasMore !== "boolean"
-  ) {
-    throw new Error("Invalid extraction page.");
-  }
-  results.push(...page.results);
-  if (!page.hasMore) {
-    nextCursor = undefined;
-    break;
-  }
-  if (typeof page.nextCursor !== "string" || !page.nextCursor) {
-    throw new Error("Missing extraction cursor.");
-  }
-  nextCursor = page.nextCursor;
-}
-if (nextCursor) throw new Error("Approved extraction page limit reached.");
+```
+GET /extractions/{id}
 ```
 
-The endpoint returns up to 1,000 results per page. When `hasMore` is true, send
-the returned `nextCursor` unchanged as the next request's `after` value. Each result
-includes:
+The endpoint returns up to 1,000 results per page. Each result includes:
 
 - `xUserId`, `xUsername`, `xDisplayName`
 - `xFollowersCount`, `xVerified`, `xProfileImageUrl`
@@ -330,7 +271,7 @@ includes:
 
 ## Exporting results
 
-```http
+```
 GET /extractions/{id}/export?format=csv
 ```
 
@@ -348,7 +289,7 @@ after explicit approval. Delete it when the approved purpose ends.
 
 ## Estimating usage
 
-```http
+```
 POST /extractions/estimate
 ```
 

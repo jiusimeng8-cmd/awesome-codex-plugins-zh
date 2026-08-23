@@ -1,7 +1,7 @@
 {
   "name": "hera-unity",
   "version": "1.0.1",
-  "description": "Low-token live Unity Editor workflows through the Hera CLI.",
+  "description": "通过低代币CLI控制和验证实时Unity Editor ，包括Codex和其他编码代理的场景、资源、Inspector、播放模式、测试、屏幕截图和运行时C #工作流。",
   "author": {
     "name": "NotNull92"
   },
@@ -15,15 +15,15 @@
     "qa"
   ],
   "interface": {
-    "displayName": "Hera Unity",
-    "shortDescription": "Control and verify a live Unity Editor with a low-token CLI.",
-    "longDescription": "Connect Codex to a running Unity Editor through the Hera CLI to inspect scenes, edit objects and assets, run tests, drive Play Mode, and verify results against live Editor state.",
+    "displayName": "Hera Unity · 通过低代币CLI控制和验证实时Uni…",
+    "shortDescription": "通过低代币CLI控制和验证实时Uni…",
+    "longDescription": "通过低代币CLI控制和验证实时Unity Editor ，包括Codex和其他编码代理的场景、资源、Inspector、播放模式、测试、屏幕截图和运行时C #工作流。",
     "developerName": "NotNull92",
-    "category": "Development",
+    "category": "开发与工作流",
     "composerIcon": "./assets/icon.svg",
     "defaultPrompt": "Use Hera Unity to inspect the running Unity Editor, make the requested change, and verify the result.",
     "capabilities": [
-      "Skills"
+      "适用场景：通过低代币CLI控制和验证实时Uni…"
     ]
   },
   "skills": "./skills/"

@@ -1,7 +1,7 @@
 {
   "name": "boss",
   "version": "3.10.1",
-  "description": "BMAD pipeline plugin for Codex with installer-managed hooks and shared Boss runtime behavior.",
+  "description": "BMAD管道插件，为Claude Code、Codex、OpenClaw和Antigravity编排跨九个专业代理的完整需求部署工作流程，具有可审核的运行时DAG和质量门限。",
   "author": {
     "name": "echoVic",
     "email": "137844255@qq.com",
@@ -19,15 +19,13 @@
   ],
   "skills": "./skill/",
   "interface": {
-    "displayName": "Boss",
-    "shortDescription": "Auditable multi-agent engineering workflow for Codex.",
-    "longDescription": "Boss turns Codex into a structured engineering team with PM, architecture, implementation, QA, DevOps, runtime state, hooks, quality gates, and replayable delivery artifacts.",
+    "displayName": "Boss · BMAD管道插件",
+    "shortDescription": "BMAD管道插件",
+    "longDescription": "BMAD管道插件，为Claude Code、Codex、OpenClaw和Antigravity编排跨九个专业代理的完整需求部署工作流程，具有可审核的运行时DAG和质量门限。",
     "developerName": "echoVic",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Planning",
-      "Code Review",
-      "Testing"
+      "适用场景：BMAD管道插件"
     ],
     "websiteURL": "https://github.com/echoVic/boss-skill",
     "privacyPolicyURL": "https://github.com/echoVic/boss-skill/blob/main/docs/PRIVACY.md",
@@ -38,9 +36,7 @@
       "./boss-skill-promo.png"
     ],
     "defaultPrompt": [
-      "Use Boss to plan and implement this feature.",
-      "Run Boss QA on this project.",
-      "Review this code with Boss."
+      "使用 Boss 帮我：BMAD管道插件"
     ],
     "brandColor": "#171717"
   }

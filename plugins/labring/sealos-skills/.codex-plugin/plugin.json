@@ -1,7 +1,7 @@
 {
   "name": "sealos",
   "version": "1.2.5",
-  "description": "Sealos deployment, database, object storage, and app-building skills for Codex.",
+  "description": "通过准备情况检查、Dockerfile生成、撰写转换、映像构建和推出更新，将应用程序从Codex部署到Sealos Cloud。",
   "author": {
     "name": "Sealos",
     "url": "https://sealos.io/"
@@ -25,23 +25,19 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Sealos",
-    "shortDescription": "Deploy apps and connect Sealos cloud services",
-    "longDescription": "Use Sealos in Codex to assess cloud-native readiness, generate production Dockerfiles, build or reuse container images, convert Docker Compose services into Sealos templates, deploy and update workloads on Sealos Cloud, connect cloud databases, configure S3-compatible object storage, and build Sealos Desktop apps with SDK integration guidance. The plugin bundles Sealos Agent Skills under ./skills/ and is invoked as $sealos in Codex or /sealos in Claude Code-compatible hosts.",
+    "displayName": "Sealos · 通过准备情况检查",
+    "shortDescription": "通过准备情况检查",
+    "longDescription": "通过准备情况检查、Dockerfile生成、撰写转换、映像构建和推出更新，将应用程序从Codex部署到Sealos Cloud。",
     "developerName": "Sealos",
-    "category": "Coding",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：通过准备情况检查"
     ],
     "websiteURL": "https://sealos.io/",
     "privacyPolicyURL": "https://sealos.io/docs/msa/privacy-policy/",
     "termsOfServiceURL": "https://sealos.io/docs/msa/terms-of-service/",
     "defaultPrompt": [
-      "Deploy this repo to Sealos Cloud.",
-      "Containerize this app and deploy it to Sealos.",
-      "Create private S3 object storage and wire env vars."
+      "使用 Sealos 帮我：通过准备情况检查"
     ],
     "brandColor": "#15B8A6",
     "composerIcon": "./assets/logo.svg",

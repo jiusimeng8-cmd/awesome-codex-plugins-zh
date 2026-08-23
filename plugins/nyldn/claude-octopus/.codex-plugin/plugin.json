@@ -1,7 +1,7 @@
 {
   "name": "claude-octopus",
-  "version": "9.66.1",
-  "description": "Multi-LLM orchestration with Double Diamond workflows, provider routing, safety gates, and automation. Dispatches to Codex, Antigravity, Grok, Copilot, Qwen, Perplexity, OpenRouter, OrcaRouter, Ollama, and OpenCode from a single plugin.",
+  "version": "9.65.0",
+  "description": "Multi-LLM业务流程分派给8家提供商（ Codex、Gemini、Copilot、Qwen、Perplexity、OpenRouter、Ollama、OpenCode ） ，包括Double Diamond工作流程、对抗性审查和安全门。",
   "author": {
     "name": "nyldn"
   },
@@ -33,21 +33,17 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Claude Octopus",
-    "shortDescription": "Multi-LLM orchestration — dispatch to 10 providers from one plugin.",
-    "longDescription": "Claude Octopus orchestrates ten external AI providers (Codex, Antigravity, Grok, Copilot, Qwen, Perplexity, OpenRouter, OrcaRouter, Ollama, and OpenCode) through structured Double Diamond workflows. 32 personas, 54 commands, 63 skills covering research, implementation, review, TDD, security audits, and more. Provider dispatch includes prompt-size preflight, agent summary tables, circuit breakers, cost tracking, and model routing.",
+    "displayName": "Claude Octopus · Multi-LLM业务流程分派给8家…",
+    "shortDescription": "Multi-LLM业务流程分派给8家…",
+    "longDescription": "Multi-LLM业务流程分派给8家提供商（ Codex、Gemini、Copilot、Qwen、Perplexity、OpenRouter、Ollama、OpenCode ） ，包括Double Diamond工作流程、对抗性审查和安全门。",
     "composerIcon": "./assets/octopus-icon.svg",
     "developerName": "nyldn",
-    "category": "Orchestration",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：Multi-LLM业务流程分派给8家…"
     ],
     "defaultPrompt": [
-      "Research OAuth patterns across providers",
-      "Build a feature using multi-AI implementation",
-      "Review this code with adversarial multi-provider analysis"
+      "使用 Claude Octopus 帮我：Multi-LLM业务流程分派给8家…"
     ],
     "brandColor": "#6366F1"
   }

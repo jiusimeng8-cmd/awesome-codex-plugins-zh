@@ -1,7 +1,7 @@
 {
   "name": "superloopy",
   "version": "0.16.0",
-  "description": "Lightweight loop harness with strict evidence gates.",
+  "description": "具有专业技能的循证门控Codex循环线束，包括由屏幕截图、资产、构建输出和可视化QA支持的近像素授权网站克隆。",
   "homepage": "https://github.com/beefiker/superloopy#readme",
   "repository": "https://github.com/beefiker/superloopy",
   "keywords": [
@@ -25,20 +25,16 @@
     "./hooks/subagent-stop-audit.json"
   ],
   "interface": {
-    "displayName": "Superloopy",
+    "displayName": "Superloopy · 具有专业技能的循证门控Codex循环…",
     "developerName": "beefiker",
-    "shortDescription": "Strict evidence loop harness without heavyweight ceremony",
-    "longDescription": "Superloopy provides repo-local loop state, explicit success criteria, append-only evidence ledgers, and advisory Codex hook nudges while keeping workflow overhead low; completion is enforced by a deterministic in-process floor, not by the hooks.",
-    "category": "Developer Tools",
+    "shortDescription": "具有专业技能的循证门控Codex循环…",
+    "longDescription": "具有专业技能的循证门控Codex循环线束，包括由屏幕截图、资产、构建输出和可视化QA支持的近像素授权网站克隆。",
+    "category": "开发与工作流",
     "capabilities": [
-      "Hooks",
-      "Workflow",
-      "Context Injection"
+      "适用场景：具有专业技能的循证门控Codex循环…"
     ],
     "defaultPrompt": [
-      "After hook approval, Superloopy bootstraps the CLI wrapper and custom agents on SessionStart.",
-      "Run superloopy loop guide --json before choosing the next Superloopy command.",
-      "Record evidence with superloopy loop prove when command output is proof."
+      "使用 Superloopy 帮我：具有专业技能的循证门控Codex循环…"
     ],
     "brandColor": "#2563EB",
     "screenshots": [],

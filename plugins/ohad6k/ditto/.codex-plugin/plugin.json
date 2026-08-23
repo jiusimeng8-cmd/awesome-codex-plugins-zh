@@ -1,7 +1,7 @@
 {
   "name": "emulo",
   "version": "0.6.2",
-  "description": "Mine real AI coding sessions into a bounded, evidence-backed personal layer.",
+  "description": "将从本地编码代理会话中选择的证据挖掘到Codex、Claude Code和GitHub Copilot的私人工作、设计和编写配置文件中。",
   "author": {
     "name": "Ohad"
   },
@@ -16,19 +16,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Emulo",
-    "shortDescription": "Your agents stop starting from zero",
-    "longDescription": "Emulo mines selected evidence from your real local coding-agent sessions into private work, design, writing, and video profiles.",
+    "displayName": "Emulo · 将从本地编码代理会话中选择的证据挖掘…",
+    "shortDescription": "将从本地编码代理会话中选择的证据挖掘…",
+    "longDescription": "将从本地编码代理会话中选择的证据挖掘到Codex、Claude Code和GitHub Copilot的私人工作、设计和编写配置文件中。",
     "developerName": "Ohad",
-    "category": "Developer Tools",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：将从本地编码代理会话中选择的证据挖掘…"
     ],
     "defaultPrompt": [
-      "Run Emulo",
-      "Update my Emulo profile"
+      "使用 Emulo 帮我：将从本地编码代理会话中选择的证据挖掘…"
     ],
     "websiteURL": "https://github.com/ohad6k/emulo",
     "brandColor": "#141414",

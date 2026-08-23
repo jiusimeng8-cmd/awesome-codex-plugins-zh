@@ -1,7 +1,7 @@
 {
   "name": "staff-engineer-mode",
   "version": "3.0.1",
-  "description": "Applies engineering best practices to reliability, security, delivery, data, and architecture work.",
+  "description": "将工程设计、交付、可靠性、安全性、运营和维护提示发送给针对AI编码代理的专职人员级专家指导。",
   "author": {
     "name": "sirmarkz",
     "url": "https://github.com/sirmarkz/staff-engineer-mode"
@@ -21,21 +21,17 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Staff Engineer Mode",
-    "shortDescription": "Applies engineering best practices to reliability, security, delivery, data, and architecture work.",
-    "longDescription": "Technology-agnostic guidance for applying engineering best practices to architecture, reliability, resilience, delivery, operations, security, privacy, data, platform, client, and cost-aware reliability work. The router automatically selects the smallest useful routed specialist set from natural-language engineering requests.",
+    "displayName": "Staff Engineer Mode · 将工程设计",
+    "shortDescription": "将工程设计",
+    "longDescription": "将工程设计、交付、可靠性、安全性、运营和维护提示发送给针对AI编码代理的专职人员级专家指导。",
     "developerName": "sirmarkz",
-    "category": "Coding",
+    "category": "开发与工作流",
     "composerIcon": "./assets/icon.png",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：将工程设计"
     ],
     "defaultPrompt": [
-      "Design the production readiness checks for this service.",
-      "Make this architecture reliable and operable.",
-      "Decide the right engineering constraints for this change."
+      "使用 Staff Engineer Mode 帮我：将工程设计"
     ],
     "brandColor": "#1F6FEB"
   }

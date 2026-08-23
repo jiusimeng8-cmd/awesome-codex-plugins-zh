@@ -2,7 +2,7 @@
   "name": "vals",
   "displayName": "Val Town",
   "version": "0.4.0",
-  "description": "Build and deploy on Val Town. Bundles the Val Town MCP server and platform skills (HTTP vals, cron/intervals, SQLite, email, OAuth, React UI, third-party integrations).",
+  "description": "在Codex的Val Town上构建和部署无服务器TypeScript —托管的MCP服务器以及HTTP VALS、CRON、SQLite、电子邮件、OAuth和React UI的技能。",
   "author": {
     "name": "Val Town"
   },
@@ -18,11 +18,11 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Val Town",
-    "shortDescription": "Build and deploy on Val Town",
-    "longDescription": "Bundles the hosted Val Town MCP server and platform skills (HTTP vals, cron/intervals, SQLite, email, OAuth, React UI, third-party integrations) for building and deploying TypeScript on Val Town.",
+    "displayName": "Val Town · 在Codex的Val Town上构建…",
+    "shortDescription": "在Codex的Val Town上构建…",
+    "longDescription": "在Codex的Val Town上构建和部署无服务器TypeScript —托管的MCP服务器以及HTTP VALS、CRON、SQLite、电子邮件、OAuth和React UI的技能。",
     "developerName": "Val Town",
-    "category": "Coding",
+    "category": "工具与集成",
     "websiteURL": "https://val.town",
     "composerIcon": "./assets/icon.svg"
   }

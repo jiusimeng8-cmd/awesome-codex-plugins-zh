@@ -1,7 +1,7 @@
 {
   "name": "vibe-portrait",
   "version": "1.1.0",
-  "description": "Analyze your AI conversation history and generate a beautiful developer personality portrait with MBTI type, famous person match, and developer rating.",
+  "description": "开发人员个性肖像生成器—分析AI对话历史记录，生成MBTI类型（ 16个颜色主题）、功能雷达、开发人员评级、三维著名比赛以及让任何AI “像您一样思考”的角色技能。",
   "author": {
     "name": "dadwadw233",
     "email": "dadwadw233@users.noreply.github.com",
@@ -23,19 +23,17 @@
   "skills": "./skills/",
   "interface": {
     "type": "cli",
-    "displayName": "Vibe Portrait",
-    "shortDescription": "Developer personality portrait generator",
-    "longDescription": "Analyzes your conversation history with AI coding assistants and generates a self-contained HTML personality portrait featuring MBTI type, radar charts, famous person match, developer rating, and more.",
+    "displayName": "Vibe Portrait · 开发人员个性肖像生成器—分析AI对话…",
+    "shortDescription": "开发人员个性肖像生成器—分析AI对话…",
+    "longDescription": "开发人员个性肖像生成器—分析AI对话历史记录，生成MBTI类型（ 16个颜色主题）、功能雷达、开发人员评级、三维著名比赛以及让任何AI “像您一样思考”的角色技能。",
     "developerName": "dadwadw233",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：开发人员个性肖像生成器—分析AI对话…"
     ],
     "websiteURL": "https://github.com/dadwadw233/VibePortrait",
     "defaultPrompt": [
-      "Use $vibe-portrait to analyze my conversation history and generate my developer personality portrait.",
-      "Use $vibe-portrait to create a personality profile based on how I interact with AI."
+      "使用 Vibe Portrait 帮我：开发人员个性肖像生成器—分析AI对话…"
     ],
     "brandColor": "#7C3AED"
   }

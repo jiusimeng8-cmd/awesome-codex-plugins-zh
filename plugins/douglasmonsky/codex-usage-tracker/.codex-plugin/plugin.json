@@ -8,7 +8,7 @@
     "runtime_version": "0.28.0",
     "schema": "codex-usage-tracker.kernel-plugin-bundle.v1"
   },
-  "description": "Fast, exact, local-first Codex usage facts and evidence.",
+  "description": "使用MCP工具从本地会话日志跟踪汇总Codex令牌使用情况，以获取摘要、会话详细信息、CSV导出和仪表板生成。",
   "homepage": "https://github.com/douglasmonsky/codex-usage-tracker",
   "keywords": [
     "codex",

@@ -1,9 +1,13 @@
 {
   "name": "repobrain",
   "version": "0.3.2",
-  "description": "Repository knowledge engine plugin (Codex CLI). Bundles slash commands (/rb-setup, /rb-init, /rb-refresh, /rb-ask) plus the agent-repo-init skill. Backed by the rb-ask / rb-refresh CLI; MCP optional.",
+  "description": "具有上下文感知规划和自动范围管理的多代理代码库知识图生成器—将代码库转化为连贯的代理工作区。",
   "skills": "./skills/",
   "interface": {
-    "composerIcon": "./assets/icon.png"
+    "composerIcon": "./assets/icon.png",
+    "displayName": "Antigravity Workspace Template · 具有上下文感知规划和自动范围管理的多…",
+    "shortDescription": "具有上下文感知规划和自动范围管理的多…",
+    "longDescription": "具有上下文感知规划和自动范围管理的多代理代码库知识图生成器—将代码库转化为连贯的代理工作区。",
+    "category": "开发与工作流"
   }
 }

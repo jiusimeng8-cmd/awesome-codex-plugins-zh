@@ -1,7 +1,7 @@
 {
   "name": "claude-code-harness",
   "version": "0.1.0",
-  "description": "A harness blueprint skill inspired by Claude Code-class agent systems.",
+  "description": "利用蓝图技能，将模糊的代理创意转化为请求组装、控制回路、内存、权限、恢复和扩展平面的具体设计。",
   "author": {
     "name": "Yuanhong Yu",
     "email": "dadwadw233@users.noreply.github.com",
@@ -21,22 +21,19 @@
   "skills": "./skills/",
   "interface": {
     "type": "cli",
-    "displayName": "Claude Code Harness",
-    "shortDescription": "Design real harnesses for agentic systems",
-    "longDescription": "A plugin that helps developers design request assembly, execution loop, memory, permissions, recovery, and extension planes for useful agentic systems.",
+    "displayName": "Claude Code Harness · 利用蓝图技能",
+    "shortDescription": "利用蓝图技能",
+    "longDescription": "利用蓝图技能，将模糊的代理创意转化为请求组装、控制回路、内存、权限、恢复和扩展平面的具体设计。",
     "developerName": "Yuanhong Yu",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：利用蓝图技能"
     ],
     "websiteURL": "https://github.com/dadwadw233/claude-code-harness",
     "privacyPolicyURL": "https://github.com/dadwadw233/claude-code-harness",
     "termsOfServiceURL": "https://github.com/dadwadw233/claude-code-harness/blob/main/LICENSE",
     "defaultPrompt": [
-      "Use Claude Code Harness to turn this agent idea into a harness blueprint.",
-      "Use Claude Code Harness to design request assembly, tool runtime, memory, and recovery for this agent.",
-      "Use Claude Code Harness to critique this agent architecture at the harness level."
+      "使用 Claude Code Harness 帮我：利用蓝图技能"
     ],
     "brandColor": "#0B5FFF",
     "composerIcon": "./assets/icon.svg",

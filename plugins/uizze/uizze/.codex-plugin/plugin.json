@@ -1,7 +1,7 @@
 {
   "name": "uizze",
-  "version": "1.2.13",
-  "description": "Build product-specific UI with the free anti-ui-slop skill and optional focused UIZZE references.",
+  "version": "1.2.11",
+  "description": "停止UI SLOP。在通用UI出货之前，为Codex提供80多万个真实的Web和iOS屏幕、特定于产品的设计合同和硬终端；在https://uizze.com上连接它。",
   "author": {
     "name": "UIZZE",
     "email": "business@uizze.com",
@@ -18,23 +18,28 @@
     "agent-skill"
   ],
   "skills": "./skills/",
+  "mcpServers": {
+    "uizze-preview": {
+      "type": "http",
+      "url": "https://uizze.com/mcp/preview"
+    }
+  },
   "interface": {
-    "displayName": "UIZZE",
-    "shortDescription": "Stop UI slop before it ships",
-    "longDescription": "Use the product's existing system first, then retrieve a few focused UIZZE references only when they answer a concrete UI question.",
+    "displayName": "UIZZE · 停止UI SLOP",
+    "shortDescription": "停止UI SLOP",
+    "longDescription": "停止UI SLOP。在通用UI出货之前，为Codex提供80多万个真实的Web和iOS屏幕、特定于产品的设计合同和硬终端；在https://uizze.com上连接它。",
     "composerIcon": "./integrations/mcp/assets/uizze-logo-400x400.png",
     "logo": "./integrations/mcp/assets/uizze-logo-400x400.png",
     "developerName": "UIZZE",
-    "category": "Developer Tools",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read"
+      "适用场景：停止UI SLOP"
     ],
     "websiteURL": "https://uizze.com",
     "privacyPolicyURL": "https://uizze.com/privacy",
     "termsOfServiceURL": "https://uizze.com/terms",
     "defaultPrompt": [
-      "Find focused references for this interface, then adapt the useful decisions to the existing product.",
-      "Find hosted UI materials for this screen only if they are actually needed."
+      "使用 UIZZE 帮我：停止UI SLOP"
     ],
     "brandColor": "#111111"
   }

@@ -1,7 +1,7 @@
 {
   "name": "morning-ai",
   "version": "1.4.1",
-  "description": "AI news tracking system. Tracks 80+ AI entities across 5 automated sources + agent X/Twitter search and generates daily structured reports.",
+  "description": "人工智能新闻跟踪技能，可监控6个来源（ Reddit、HN、GitHub、Hugging Face、arXiv、X ）的80多个实体，并生成带有信息图表和消息摘要的评分日报。",
   "author": {
     "name": "octo-patch",
     "url": "https://github.com/octo-patch"
@@ -21,14 +21,13 @@
   ],
   "skills": "./",
   "interface": {
-    "displayName": "Morning AI",
-    "shortDescription": "Track 80+ AI entities across 5 automated sources + agent X/Twitter search with daily scored reports",
-    "longDescription": "Daily-scheduled AI news tracker. Collects updates from 80+ AI entities across Reddit, HN, GitHub, HuggingFace, arXiv, and agent X/Twitter search. Generates scored, deduplicated Markdown reports with optional cover infographics.",
+    "displayName": "Morning AI · 人工智能新闻跟踪技能",
+    "shortDescription": "人工智能新闻跟踪技能",
+    "longDescription": "人工智能新闻跟踪技能，可监控6个来源（ Reddit、HN、GitHub、Hugging Face、arXiv、X ）的80多个实体，并生成带有信息图表和消息摘要的评分日报。",
     "developerName": "octo-patch",
-    "category": "Productivity",
+    "category": "工具与集成",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：人工智能新闻跟踪技能"
     ],
     "websiteURL": "https://github.com/octo-patch/MorningAI",
     "defaultPrompt": "Track today's AI news and generate a scored daily report"

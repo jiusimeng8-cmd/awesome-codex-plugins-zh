@@ -1,7 +1,7 @@
 {
   "name": "gcf-proxy",
   "version": "1.0.0",
-  "description": "Save 71% on MCP tool call tokens. Wraps any MCP server with GCF encoding, zero code changes. Session stats hook shows savings per turn.",
+  "description": "通过使用GCF编码、会话统计挂钩和设置技能包装任何服务器，可节省71%的MCP工具调用令牌。",
   "repository": "https://github.com/blackwell-systems/gcf-codex-plugin",
   "license": "MIT",
   "author": {
@@ -17,13 +17,15 @@
     "cost-reduction"
   ],
   "interface": {
-    "displayName": "GCF Proxy",
-    "shortDescription": "Save 71% on MCP tool call tokens with GCF encoding.",
+    "displayName": "GCF Proxy · 通过使用GCF编码",
+    "shortDescription": "通过使用GCF编码",
     "composerIcon": "./assets/icon.svg",
     "links": {
       "documentation": "https://gcformat.com/guide/claude-code.html",
       "repository": "https://github.com/blackwell-systems/gcf-codex-plugin",
       "homepage": "https://gcformat.com"
-    }
+    },
+    "longDescription": "通过使用GCF编码、会话统计挂钩和设置技能包装任何服务器，可节省71%的MCP工具调用令牌。",
+    "category": "开发与工作流"
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "codebase-recon",
   "version": "1.0.0",
-  "description": "Analyze git history to understand a codebase before reading any code. Reveals hotspots, risk areas, team structure, and development momentum.",
+  "description": "在阅读任何代码之前，分析git历史记录以了解代码库—根据存储库大小自动缩放，并使用bug磁铁交叉引用热点，以显示高风险文件、总线因素和团队势头。",
   "author": {
     "name": "Jiachen Yu",
     "url": "https://github.com/yujiachen-y"
@@ -20,20 +20,17 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Codebase Recon",
-    "shortDescription": "Analyze git history to understand a codebase before reading any code.",
-    "longDescription": "Reveals project health, risk areas, team structure, and development momentum by analyzing git history. Auto-scales analysis windows for small/medium/large repos and cross-references hotspots with bug magnets to identify high-risk files.",
+    "displayName": "Codebase Recon · 在阅读任何代码之前",
+    "shortDescription": "在阅读任何代码之前",
+    "longDescription": "在阅读任何代码之前，分析git历史记录以了解代码库—根据存储库大小自动缩放，并使用bug磁铁交叉引用热点，以显示高风险文件、总线因素和团队势头。",
     "developerName": "Jiachen Yu",
-    "category": "Developer Tools",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：在阅读任何代码之前"
     ],
     "websiteURL": "https://github.com/yujiachen-y/codebase-recon-skill",
     "defaultPrompt": [
-      "Run codebase recon on this repository.",
-      "Use codebase-recon to assess this codebase before I dive in.",
-      "Show me hotspots, bug magnets, and bus factor for this repo."
+      "使用 Codebase Recon 帮我：在阅读任何代码之前"
     ],
     "brandColor": "#0E7490"
   }

@@ -1,7 +1,7 @@
 {
   "name": "praxis",
   "version": "4.2.8",
-  "description": "Praxis triage, living docs, and disciplined workflows for AI coding agents",
+  "description": "针对编码代理的意图驱动工作流程技能：描述已完成的工作，而不是步骤。分流优先设计使设计、TDD、调试、审核和发布的代币成本保持在较低水平。",
   "author": {
     "name": "ouonet"
   },
@@ -11,19 +11,16 @@
   "skills": "./skills/",
   "hooks": "./hooks/codex-hooks.json",
   "interface": {
-    "displayName": "Praxis",
-    "shortDescription": "Token-lean discipline skills for coding agents",
-    "longDescription": "Triage-driven workflow skills: design, planning, TDD, debugging, and delivery. Significantly cheaper than alternatives while keeping core capabilities.",
+    "displayName": "Praxis · 针对编码代理的意图驱动工作流程技能",
+    "shortDescription": "针对编码代理的意图驱动工作流程技能",
+    "longDescription": "针对编码代理的意图驱动工作流程技能：描述已完成的工作，而不是步骤。分流优先设计使设计、TDD、调试、审核和发布的代币成本保持在较低水平。",
     "developerName": "ouonet",
-    "category": "Coding",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：针对编码代理的意图驱动工作流程技能"
     ],
     "defaultPrompt": [
-      "Let's build something.",
-      "Help me debug this."
+      "使用 Praxis 帮我：针对编码代理的意图驱动工作流程技能"
     ],
     "websiteURL": "https://github.com/ouonet/praxis",
     "privacyPolicyURL": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",

@@ -1,7 +1,7 @@
 {
   "name": "designer-skill",
   "version": "0.15.0",
-  "description": "Plug-and-play MCP that gives your agent UI superpowers. One install: design skill + MCP server, zero config.",
+  "description": "即插即用的MCP ，为您的代理提供超强的UI功能。一次安装：设计技能+ MCP服务器，零配置。",
   "repository": "https://github.com/PyModel/designer-skill",
   "license": "MIT",
   "author": "PyModel",
@@ -20,17 +20,14 @@
     "commands/designer-status.md"
   ],
   "interface": {
-    "displayName": "Designer Skill",
-    "shortDescription": "Production-grade design skill + MCP server for coding agents.",
-    "longDescription": "Designer Skill gives your coding agent a production-grade visual design system with one install. It ships five opinionated design languages (Minimalist, Soft, High-end, Brutalist, Brand-identity), a full command playbook for iterative UI work, and a local MCP server that loads context, detects anti-patterns, and serves reference material — so your agent always works from a concrete visual direction, not guesswork.",
+    "displayName": "Designer Skill · 即插即用的MCP",
+    "shortDescription": "即插即用的MCP",
+    "longDescription": "即插即用的MCP ，为您的代理提供超强的UI功能。一次安装：设计技能+ MCP服务器，零配置。",
     "composerIcon": "./assets/icon.webp",
     "developerName": "PyModel",
-    "category": "Development & Workflow",
+    "category": "开发与工作流",
     "capabilities": [
-      "ui-design",
-      "design-system",
-      "mcp-server",
-      "coding-agent"
+      "适用场景：即插即用的MCP"
     ]
   }
 }

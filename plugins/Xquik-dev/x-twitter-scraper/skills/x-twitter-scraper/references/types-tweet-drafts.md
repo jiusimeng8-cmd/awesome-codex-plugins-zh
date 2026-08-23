@@ -13,7 +13,7 @@ interface TweetDraft {
 
 interface TweetDraftList {
   drafts: TweetDraft[];
-  nextCursor?: string;
+  afterCursor: string | null;
   hasMore: boolean;
 }
 

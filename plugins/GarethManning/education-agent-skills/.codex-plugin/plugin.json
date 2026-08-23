@@ -1,7 +1,7 @@
 {
   "name": "education-agent-skills",
   "version": "2.1.0",
-  "description": "165 evidence-based education skills for curriculum design, lesson planning, assessment, and AI-assisted teaching — built on the Agent Skills open standard.",
+  "description": "131基于证据的教育技能，用于课程设计、课程规划和评估，具有透明的证据评级和MCP服务器。",
   "repository": "https://github.com/GarethManning/education-agent-skills",
   "license": "CC-BY-SA-4.0",
   "skills": [
@@ -27,8 +27,10 @@
     "./skills/wellbeing-motivation-agency"
   ],
   "interface": {
-    "displayName": "Education Agent Skills",
-    "shortDescription": "165 evidence-based skills for curriculum design, lesson planning, and assessment",
-    "composerIcon": "./assets/education-agent-skills-icon.svg"
+    "displayName": "Education Agent Skills · 131基于证据的教育技能",
+    "shortDescription": "131基于证据的教育技能",
+    "composerIcon": "./assets/education-agent-skills-icon.svg",
+    "longDescription": "131基于证据的教育技能，用于课程设计、课程规划和评估，具有透明的证据评级和MCP服务器。",
+    "category": "工具与集成"
   }
 }

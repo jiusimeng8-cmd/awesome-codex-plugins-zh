@@ -1,7 +1,7 @@
 {
   "name": "coolify",
   "version": "0.1.1",
-  "description": "Control Coolify Cloud and self-hosted Coolify instances from Codex with API-aware skills and an MCP server.",
+  "description": "通过API感知工作流程技能和本地工具控制Coolify Cloud和自托管Coolify实例。",
   "author": {
     "name": "Severin Hilbert"
   },
@@ -19,22 +19,19 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Coolify",
-    "shortDescription": "Control Coolify Cloud or self-hosted Coolify through its API.",
-    "longDescription": "Operate Coolify Cloud or a self-hosted Coolify instance from Codex with a focused workflow skill and a local MCP server for projects, servers, applications, services, databases, deployments, environment variables, logs, teams, and any current Coolify API endpoint through a raw request escape hatch backed by the official OpenAPI spec.",
+    "displayName": "Coolify · 通过API感知工作流程技能和本地工具…",
+    "shortDescription": "通过API感知工作流程技能和本地工具…",
+    "longDescription": "通过API感知工作流程技能和本地工具控制Coolify Cloud和自托管Coolify实例。",
     "developerName": "Severin Hilbert",
-    "category": "Developer Tools",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：通过API感知工作流程技能和本地工具…"
     ],
     "websiteURL": "https://coolify.io/",
     "privacyPolicyURL": "https://coolify.io/privacy/",
     "termsOfServiceURL": "https://coolify.io/terms/",
     "defaultPrompt": [
-      "Set the plugin up and connect to my Coolify instance.",
-      "Deploy a Coolify application and follow its logs.",
-      "Create or update Coolify environment variables safely."
+      "使用 Coolify 帮我：通过API感知工作流程技能和本地工具…"
     ],
     "brandColor": "#8B5CF6",
     "composerIcon": "./assets/icon.png",

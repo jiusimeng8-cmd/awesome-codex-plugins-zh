@@ -1,7 +1,7 @@
 {
   "name": "remotion",
   "version": "0.1.0",
-  "description": "Build parameterized Remotion videos in Codex using the official Remotion MCP server and a launch-video workflow.",
+  "description": "使用官方Remotion文档MCP、构图脚手架和数据驱动的启动视频工作流程，在Codex中构建参数化的Remotion视频。",
   "author": {
     "name": "Tim Osterhus",
     "email": "tim@millrace.ai",
@@ -21,15 +21,13 @@
   "mcpServers": "./.mcp.json",
   "interface": {
     "type": "plugin",
-    "displayName": "Remotion",
-    "shortDescription": "Build Remotion videos with official docs and a data-driven launch-video workflow",
-    "longDescription": "Use Remotion to scaffold and modify parameterized video projects in Codex with Root.tsx compositions, Zod schemas, calculateMetadata, Sequence and Series timing, official documentation retrieval, and a Millrace launch-video reference workflow.",
+    "displayName": "Remotion · 使用官方Remotion文档MCP",
+    "shortDescription": "使用官方Remotion文档MCP",
+    "longDescription": "使用官方Remotion文档MCP、构图脚手架和数据驱动的启动视频工作流程，在Codex中构建参数化的Remotion视频。",
     "developerName": "Tim Osterhus",
-    "category": "Coding",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：使用官方Remotion文档MCP"
     ],
     "websiteURL": "https://www.remotion.dev/",
     "privacyPolicyURL": "https://github.com/tim-osterhus/codex-remotion-plugin/blob/main/PRIVACY.md",

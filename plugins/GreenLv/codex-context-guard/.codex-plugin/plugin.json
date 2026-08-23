@@ -1,7 +1,7 @@
 {
   "name": "context-guard",
   "version": "0.7.7",
-  "description": "Preserve task requirements and verify evidence, scope, surfaces, and multimodal assets across compaction.",
+  "description": "在长期运行的Codex任务和上下文压缩中保留权威要求和验证证据。",
   "author": {
     "name": "Gerui Lv",
     "url": "https://github.com/GreenLv"
@@ -17,21 +17,14 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Context Guard",
-    "shortDescription": "Preserve long-task context across Codex compaction.",
+    "displayName": "Context Guard · 在长期运行的Codex任务和上下文压…",
+    "shortDescription": "在长期运行的Codex任务和上下文压…",
     "composerIcon": "./assets/icon.svg",
-    "longDescription": "Journals authoritative task requirements locally, records hash-only multimodal assets, enforces deterministic verification contracts when available, falls back audibly when unavailable, restores bounded context after compaction, and exports explicit successor packs.",
+    "longDescription": "在长期运行的Codex任务和上下文压缩中保留权威要求和验证证据。",
     "developerName": "Gerui Lv",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Lifecycle hooks",
-      "Local task state",
-      "Verification contracts",
-      "Hash-only multimodal assets",
-      "Compaction recovery",
-      "Bounded plan mirror",
-      "Delegated-agent provenance",
-      "Bounded successor packs"
+      "适用场景：在长期运行的Codex任务和上下文压…"
     ],
     "websiteURL": "https://github.com/GreenLv/codex-context-guard",
     "privacyPolicyURL": "https://github.com/GreenLv/codex-context-guard/blob/main/docs/PRIVACY.md",

@@ -1,7 +1,7 @@
 {
   "name": "lacuna-music",
   "version": "1.0.0",
-  "description": "Generate original music with the Lacuna MCP server.",
+  "description": "通过Lacuna MCP服务器从Codex生成原创器乐和声乐。",
   "author": {
     "name": "JOYLINK LTD",
     "email": "support@lacuna.fm",
@@ -20,22 +20,19 @@
   ],
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Lacuna Music",
-    "shortDescription": "Generate AI music from prompts or lyrics",
-    "longDescription": "Generate original instrumentals or vocal songs from natural-language style directions and lyrics through Lacuna's MCP server. Submit a task, wait for its result, and receive hosted audio URLs in Codex.",
+    "displayName": "Lacuna Music · 通过Lacuna MCP服务器从Co…",
+    "shortDescription": "通过Lacuna MCP服务器从Co…",
+    "longDescription": "通过Lacuna MCP服务器从Codex生成原创器乐和声乐。",
     "developerName": "JOYLINK LTD",
-    "category": "Creativity",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：通过Lacuna MCP服务器从Co…"
     ],
     "websiteURL": "https://www.lacuna.fm",
     "privacyPolicyURL": "https://www.lacuna.fm/privacy",
     "termsOfServiceURL": "https://www.lacuna.fm/terms",
     "defaultPrompt": [
-      "Create a mellow instrumental lo-fi track for a late-night coding session.",
-      "Turn these lyrics into an upbeat indie-pop song with a female lead vocal.",
-      "Check whether my Lacuna music generation is ready and return its audio links."
+      "使用 Lacuna Music 帮我：通过Lacuna MCP服务器从Co…"
     ],
     "brandColor": "#F9243D",
     "composerIcon": "./assets/icon.png",

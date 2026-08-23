@@ -1,7 +1,7 @@
 {
   "name": "unforgit",
   "version": "0.9.3",
-  "description": "Git-backed repository memory for AI coding agents using MCP and durable local knowledge.",
+  "description": "通过MCP为Codex和其他编码代理提供Git支持的存储库内存，具有决策、约定、陷阱和剧本的持久本地知识。",
   "author": {
     "name": "Miguel Medeiros",
     "url": "https://github.com/MiguelMedeiros"
@@ -19,22 +19,19 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Unforgit",
-    "shortDescription": "Git-backed memory for coding agents",
-    "longDescription": "Unforgit gives Codex durable, repository-scoped memory for project decisions, conventions, gotchas, and reusable playbooks through a local-first MCP server.",
+    "displayName": "Unforgit · 通过MCP为Codex和其他编码代理…",
+    "shortDescription": "通过MCP为Codex和其他编码代理…",
+    "longDescription": "通过MCP为Codex和其他编码代理提供Git支持的存储库内存，具有决策、约定、陷阱和剧本的持久本地知识。",
     "developerName": "Miguel Medeiros",
-    "category": "Developer Tools",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：通过MCP为Codex和其他编码代理…"
     ],
     "websiteURL": "https://unforgit.com",
     "composerIcon": "./assets/icon.png",
     "logo": "./assets/icon.png",
     "defaultPrompt": [
-      "@Unforgit search memory for relevant project context before changing code",
-      "@Unforgit remember this durable project decision",
-      "@Unforgit check memory health and sync status"
+      "使用 Unforgit 帮我：通过MCP为Codex和其他编码代理…"
     ],
     "brandColor": "#16A34A",
     "screenshots": []

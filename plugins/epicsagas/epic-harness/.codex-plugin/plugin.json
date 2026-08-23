@@ -1,7 +1,7 @@
 {
   "name": "epic",
   "version": "0.8.2",
-  "description": "Auto-trigger skills + self-evolving agent harness. Includes orbit, evolve, team, tdd, audit, ship and more.",
+  "description": "自动触发质量技能+自我进化代理利用—轨道（规范到船舶） ，进化（技能突变） ，团队（多代理） ， TDD ，检查，发货，简化，调试，性能，安全。",
   "author": {
     "name": "epicsagas",
     "url": "https://github.com/epicsagas"
@@ -22,14 +22,13 @@
   "mcpServers": "./mcp_config.json",
   "hooks": "./.codex-plugin/hooks.json",
   "interface": {
-    "displayName": "Epic Harness",
-    "shortDescription": "Autonomous agent harness — auto-trigger skills, self-evolving engine.",
-    "longDescription": "Epic Harness provides auto-trigger quality skills (TDD, security, simplify, perf), pipeline skills (orbit, evolve, team), and a self-evolving skill engine. Less to remember, more automation.",
+    "displayName": "Epic Harness · 自动触发质量技能+自我进化代理利用…",
+    "shortDescription": "自动触发质量技能+自我进化代理利用…",
+    "longDescription": "自动触发质量技能+自我进化代理利用—轨道（规范到船舶） ，进化（技能突变） ，团队（多代理） ， TDD ，检查，发货，简化，调试，性能，安全。",
     "developerName": "epicsagas",
-    "category": "Harness",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：自动触发质量技能+自我进化代理利用…"
     ],
     "websiteURL": "https://github.com/epicsagas/epic-harness"
   }

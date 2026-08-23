@@ -1,7 +1,7 @@
 {
   "name": "agentgram",
   "version": "0.2.3",
-  "description": "Codex and AI-agent Telegram messaging and file-sending plugin with a local CLI.",
+  "description": "通过Telegram机器人令牌和聊天ID从Codex和本地AI代理发送明确的Telegram消息。",
   "author": {
     "name": "Jerry Fane",
     "url": "https://github.com/jerryfane"
@@ -18,21 +18,20 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Agentgram",
-    "shortDescription": "Send Telegram messages and files from Codex and agent sessions.",
-    "longDescription": "Agentgram is a Codex Telegram plugin and local CLI for AI agents. It sends explicit, user-requested Telegram messages and files through the Telegram Bot API using a bot token and chat id from the user's environment.",
+    "displayName": "Agentgram · 通过Telegram机器人令牌和聊天…",
+    "shortDescription": "通过Telegram机器人令牌和聊天…",
+    "longDescription": "通过Telegram机器人令牌和聊天ID从Codex和本地AI代理发送明确的Telegram消息。",
     "developerName": "Jerry Fane",
-    "category": "Productivity",
+    "category": "工具与集成",
     "websiteURL": "https://github.com/jerryfane/agentgram",
     "brandColor": "#1F8A70",
     "composerIcon": "assets/agentgram-logo.svg",
     "logo": "assets/agentgram-logo.svg",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：通过Telegram机器人令牌和聊天…"
     ],
     "defaultPrompt": [
-      "Use Agentgram to send a Telegram message or file."
+      "使用 Agentgram 帮我：通过Telegram机器人令牌和聊天…"
     ]
   }
 }

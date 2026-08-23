@@ -1,7 +1,7 @@
 {
   "name": "agiflow-ai-plugin",
   "version": "0.2.0",
-  "description": "AgiFlow AI plugin",
+  "description": "针对AI编码代理的项目管理工作流程，包括规划、梳理、任务执行、审查和AgiFlow MCP集成。",
   "repository": "https://github.com/AgiFlow/ai-plugin",
   "author": {
     "name": "AgiFlow"
@@ -17,19 +17,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "AgiFlow",
-    "shortDescription": "Use AgiFlow tools in Codex",
-    "longDescription": "Access AgiFlow tools, skills, and MCP-backed workflows directly from Codex.",
+    "displayName": "AgiFlow · 针对AI编码代理的项目管理工作流程",
+    "shortDescription": "针对AI编码代理的项目管理工作流程",
+    "longDescription": "针对AI编码代理的项目管理工作流程，包括规划、梳理、任务执行、审查和AgiFlow MCP集成。",
     "developerName": "AgiFlow",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：针对AI编码代理的项目管理工作流程"
     ],
     "defaultPrompt": [
-      "Show me the key Agiflow workflows",
-      "Find open Agiflow issues",
-      "Help me use the Agiflow plugin"
+      "使用 AgiFlow 帮我：针对AI编码代理的项目管理工作流程"
     ],
     "brandColor": "#F9BD2B",
     "composerIcon": "./assets/icon.png",

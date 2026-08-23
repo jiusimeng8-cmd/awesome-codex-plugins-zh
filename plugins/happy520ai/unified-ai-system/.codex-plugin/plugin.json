@@ -1,7 +1,7 @@
 {
   "name": "unified-ai-system",
   "version": "0.5.0",
-  "description": "Connect Codex to a self-hosted AI gateway with provider-free prompt enhancement and twelve governed MCP tools.",
+  "description": "用于Codex的自托管AI网关，具有免提供商提示增强功能、九个受管理的MCP工具和免凭证的Docker路径。",
   "author": {
     "name": "happy520ai",
     "url": "https://github.com/happy520ai"
@@ -20,14 +20,13 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Unified AI System",
-    "shortDescription": "Enhance prompts and operate a local gateway through twelve governed MCP tools.",
-    "longDescription": "Turn rough requests into structured prompts locally, inspect gateway and knowledge readiness, run deterministic credential-free chat, and inspect workflow and workforce state through an isolated local gateway.",
+    "displayName": "Unified AI System · 用于Codex的自托管AI网关",
+    "shortDescription": "用于Codex的自托管AI网关",
+    "longDescription": "用于Codex的自托管AI网关，具有免提供商提示增强功能、九个受管理的MCP工具和免凭证的Docker路径。",
     "developerName": "happy520ai",
-    "category": "Developer Tools",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive",
-      "Read"
+      "适用场景：用于Codex的自托管AI网关"
     ],
     "websiteURL": "https://happy520ai.github.io/unified-ai-system/",
     "privacyPolicyURL": "https://github.com/happy520ai/unified-ai-system/blob/master/PRIVACY.md",

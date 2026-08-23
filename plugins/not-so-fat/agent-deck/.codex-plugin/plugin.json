@@ -1,7 +1,7 @@
 {
   "name": "agent-deck",
   "version": "1.6.3",
-  "description": "Decks of MCP tools, keys, and self-improving playbooks that bind per-workspace.",
+  "description": "一个用于上下文管理的MCP ：将自我改进的剧本、MCP工具和API密钥绑定到会话。",
   "author": {
     "name": "not-so-fat",
     "url": "https://github.com/not-so-fat"
@@ -18,20 +18,19 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Agent Deck",
-    "shortDescription": "Decks of tools, keys, and self-improving playbooks.",
-    "longDescription": "Bind a deck to your workspace and every session starts with the right MCP tools, credentials, and task playbooks — and playbooks learn from your corrections via a review queue.",
+    "displayName": "Agent Deck · 一个用于上下文管理的MCP",
+    "shortDescription": "一个用于上下文管理的MCP",
+    "longDescription": "一个用于上下文管理的MCP ：将自我改进的剧本、MCP工具和API密钥绑定到会话。",
     "developerName": "not-so-fat",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：一个用于上下文管理的MCP"
     ],
     "websiteURL": "https://github.com/not-so-fat/agent-deck",
     "privacyPolicyURL": "https://github.com/not-so-fat/agent-deck/blob/main/SECURITY.md",
     "termsOfServiceURL": "https://github.com/not-so-fat/agent-deck/blob/main/LICENSE",
     "defaultPrompt": [
-      "Bind this workspace's deck and show the deck status line."
+      "使用 Agent Deck 帮我：一个用于上下文管理的MCP"
     ],
     "brandColor": "#0ea5e9",
     "composerIcon": "./assets/icon.svg",

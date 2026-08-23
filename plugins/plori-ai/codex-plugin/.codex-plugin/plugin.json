@@ -1,7 +1,7 @@
 {
   "name": "plori",
   "version": "0.2.7",
-  "description": "Create and drive plori cloud agents (each an AI agent in its own cloud environment) over MCP. Bundles the plori skill so Codex knows the connect flow and the tool surface.",
+  "description": "通过OAuth自动发现，在plori的远程MCP服务器上创建和驱动plori云代理（每个代理在自己的云计算机上都是AI代理）。",
   "author": {
     "name": "plori",
     "email": "dev@plori.ai",
@@ -20,18 +20,16 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "plori",
-    "shortDescription": "Persistent cloud environments for AI agents, over one MCP URL.",
-    "longDescription": "plori gives your agent its own persistent cloud environment with a durable disk, a shell, developer tools, and memory that stay with it. This plugin adds the plori remote MCP server (create_agent, invoke_agent, schedule_run, run_workflow, and more) plus a skill that teaches the connect flow and tool surface. Authentication is OAuth 2.1, auto-discovered on first use; no API key to handle.",
+    "displayName": "plori · 通过OAuth自动发现",
+    "shortDescription": "通过OAuth自动发现",
+    "longDescription": "通过OAuth自动发现，在plori的远程MCP服务器上创建和驱动plori云代理（每个代理在自己的云计算机上都是AI代理）。",
     "developerName": "plori",
-    "category": "Productivity",
+    "category": "工具与集成",
     "capabilities": [
-      "Remote MCP",
-      "Workflow editing"
+      "适用场景：通过OAuth自动发现"
     ],
     "defaultPrompt": [
-      "List my plori agents and show my remaining credits.",
-      "Read a workflow definition and edit its draft safely."
+      "使用 plori 帮我：通过OAuth自动发现"
     ],
     "websiteURL": "https://plori.ai",
     "privacyPolicyURL": "https://plori.ai/privacy",

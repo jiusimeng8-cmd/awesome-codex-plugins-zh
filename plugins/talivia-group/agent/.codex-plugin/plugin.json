@@ -1,7 +1,7 @@
 {
   "name": "talivia-agent-kit",
   "version": "0.1.0",
-  "description": "Set up Talivia revenue-first website analytics and verify real traffic and revenue attribution from Codex.",
+  "description": "安装并验证Codex的收入第一网站分析，关联付款归因，并确定哪些流量来源和客户旅程成为收入。",
   "author": {
     "name": "Talivia",
     "url": "https://talivia.com"
@@ -17,23 +17,19 @@
     }
   },
   "interface": {
-    "displayName": "Talivia Agent Kit",
-    "shortDescription": "Install and verify revenue-first analytics.",
-    "longDescription": "Connect Codex to Talivia to install website analytics, connect visits to revenue, and verify that real traffic and attribution data are flowing.",
+    "displayName": "Talivia Agent Kit · 安装并验证Codex的收入第一网站分…",
+    "shortDescription": "安装并验证Codex的收入第一网站分…",
+    "longDescription": "安装并验证Codex的收入第一网站分析，关联付款归因，并确定哪些流量来源和客户旅程成为收入。",
     "developerName": "Talivia",
-    "category": "Developer Tools",
+    "category": "工具与集成",
     "capabilities": [
-      "MCP",
-      "Skills",
-      "Write"
+      "适用场景：安装并验证Codex的收入第一网站分…"
     ],
     "websiteURL": "https://talivia.com/ai-agent-kit",
     "privacyPolicyURL": "https://talivia.com/privacy-policy",
     "termsOfServiceURL": "https://talivia.com/terms-of-service",
     "defaultPrompt": [
-      "Connect Talivia and list my websites.",
-      "Install Talivia analytics in this app and verify it.",
-      "Finish revenue attribution setup for this website."
+      "使用 Talivia Agent Kit 帮我：安装并验证Codex的收入第一网站分…"
     ],
     "brandColor": "#2563EB"
   }

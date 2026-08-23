@@ -1,7 +1,7 @@
 {
   "name": "matlab-simulink-tools",
   "version": "0.1.4",
-  "description": "Codex plugin for MATLAB MCP Server and Simulink modeling, simulation, baseline testing, and profiler analysis workflows.",
+  "description": "通过本地MCP服务器将Codex连接到MATLAB和Simulink ，用于模型检查、脚本执行和工程工作流程自动化。",
   "author": {
     "name": "summer521521",
     "url": "https://github.com/summer521521"
@@ -18,20 +18,17 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "MATLAB Simulink Tools",
-    "shortDescription": "Use MATLAB MCP Server with Simulink skills.",
+    "displayName": "MATLAB Simulink Tools · 通过本地MCP服务器将Codex连接…",
+    "shortDescription": "通过本地MCP服务器将Codex连接…",
     "composerIcon": "./assets/icon.svg",
-    "longDescription": "Packages a local MATLAB MCP Server launcher with Simulink skills for model interaction, simulation, baseline tests, and profiler analysis.",
+    "longDescription": "通过本地MCP服务器将Codex连接到MATLAB和Simulink ，用于模型检查、脚本执行和工程工作流程自动化。",
     "developerName": "summer521521",
-    "category": "Productivity",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：通过本地MCP服务器将Codex连接…"
     ],
     "defaultPrompt": [
-      "Inspect the open Simulink model.",
-      "Run this model with SimulationInput.",
-      "Analyze Simulink profiler results."
+      "使用 MATLAB Simulink Tools 帮我：通过本地MCP服务器将Codex连接…"
     ],
     "brandColor": "#2563EB"
   }

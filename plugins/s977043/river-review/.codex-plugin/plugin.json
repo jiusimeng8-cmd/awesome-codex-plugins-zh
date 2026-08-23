@@ -1,7 +1,7 @@
 {
   "name": "river-review",
   "version": "1.87.3",
-  "description": "Turn review into an organizational judgment asset. Review Judgment as Code for AI-assisted development, delivered as a capability pack for Codex: your team's review criteria as versioned, repo-owned skills (a Skill Registry), driven by a review agent that runs perspective-based reviewer roles (code, security, performance, architecture, testing, adversarial) and verifies findings against the diff so humans keep the high-risk judgment.",
+  "description": "由基于视角的审核代理（代码、安全、性能、架构、测试、对抗）驱动的代码审核技能的版本化技能注册表，用于根据差异验证结果。",
   "author": {
     "name": "river-review maintainers",
     "url": "https://github.com/s977043/river-review"
@@ -20,13 +20,13 @@
   ],
   "skills": "./skills/agent-skills/",
   "interface": {
-    "displayName": "River Review",
-    "shortDescription": "Turn review into an organizational judgment asset: a Skill Registry of review skills, driven by a review agent",
-    "longDescription": "River Review turns review into an organizational judgment asset. It is Review Judgment as Code for AI-assisted development: a capability pack that runs your team's review criteria as versioned, repo-owned skills (a Skill Registry), driven by a review agent that executes perspective-based reviewer roles (code, security, performance, architecture, testing) plus an adversarial pass, and verifies findings against the diff so human reviewers keep the high-risk judgment.",
+    "displayName": "River Review · 由基于视角的审核代理（代码",
+    "shortDescription": "由基于视角的审核代理（代码",
+    "longDescription": "由基于视角的审核代理（代码、安全、性能、架构、测试、对抗）驱动的代码审核技能的版本化技能注册表，用于根据差异验证结果。",
     "developerName": "river-review maintainers",
-    "category": "Developer Tools",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read"
+      "适用场景：由基于视角的审核代理（代码"
     ],
     "websiteURL": "https://river-review.the3396.com/",
     "composerIcon": "./assets/icon.svg"

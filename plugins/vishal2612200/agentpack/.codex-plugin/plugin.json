@@ -1,7 +1,7 @@
 {
   "name": "agentpack",
   "version": "0.4.4",
-  "description": "Thin Codex plugin for AgentPack ranked repo context.",
+  "description": "在编辑之前，使用可能的文件、技能建议、代理规则、命令、警告和紧凑的以任务为重点的内容包对Codex的存储库上下文进行排名。",
   "author": {
     "name": "AgentPack",
     "url": "https://github.com/vishal2612200/agentpack"
@@ -17,26 +17,24 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "AgentPack",
-    "shortDescription": "Start Codex with ranked repo context.",
+    "displayName": "AgentPack · 在编辑之前",
+    "shortDescription": "在编辑之前",
     "composerIcon": "./assets/icon.png",
     "logo": "./assets/icon.png",
     "screenshots": [
       "./assets/route-demo.svg"
     ],
-    "longDescription": "AgentPack is a local context engine, not a coding agent. This plugin gives Codex lightweight commands for routing tasks, refreshing context packs, and reviewing diffs with the existing local AgentPack CLI or MCP tools.",
+    "longDescription": "在编辑之前，使用可能的文件、技能建议、代理规则、命令、警告和紧凑的以任务为重点的内容包对Codex的存储库上下文进行排名。",
     "developerName": "AgentPack",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive"
+      "适用场景：在编辑之前"
     ],
     "websiteURL": "https://vishal2612200.github.io/agentpack/",
     "privacyPolicyURL": "https://vishal2612200.github.io/agentpack/privacy/",
     "termsOfServiceURL": "https://vishal2612200.github.io/agentpack/terms/",
     "defaultPrompt": [
-      "Use $agentpack-review to review the current PR.",
-      "Use $agentpack-resolve to address all PR comments.",
-      "Use $agentpack to orient this repository task."
+      "使用 AgentPack 帮我：在编辑之前"
     ],
     "brandColor": "#1F6FEB"
   }

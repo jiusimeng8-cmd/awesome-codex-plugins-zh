@@ -1,7 +1,7 @@
 {
   "name": "sysknife",
   "version": "0.9.0",
-  "description": "Linux sysadmin co-pilot as an MCP server: plain-language requests become typed, risk-classified actions that a privileged daemon runs only after out-of-band terminal approval, with an Ed25519-signed audit chain and automatic rollback.",
+  "description": "Linux sysadmin co-pilot作为Codex的MCP服务器：纯语言请求变为类型化的风险分类操作，特权后台程序仅在带外终端批准后运行，并具有Ed25519签名的审核链和自动回滚。",
   "repository": "https://github.com/lacs-project/sysknife",
   "homepage": "https://lacs-project.github.io/sysknife/",
   "author": {
@@ -19,20 +19,16 @@
     "devops"
   ],
   "interface": {
-    "displayName": "SysKnife",
-    "shortDescription": "Run Linux admin tasks from Codex behind a typed approval gate",
-    "longDescription": "SysKnife turns a plain-language request into a plan of typed, risk-classified actions. Nothing executes on the model's word: the privileged daemon is the only component that runs anything, it refuses any action outside its catalogue, and medium- and high-risk steps require a single-use approval receipt minted out-of-band by a human running `sysknife approve` in a terminal. Every authorisation decision, and every approval grant, consumption and revocation, is recorded in Ed25519-signed forward hash chains that a third party can verify with only the exported public key. Failed system updates roll back automatically on atomic-host distros.",
+    "displayName": "SysKnife · Linux sysadmin co…",
+    "shortDescription": "Linux sysadmin co…",
+    "longDescription": "Linux sysadmin co-pilot作为Codex的MCP服务器：纯语言请求变为类型化的风险分类操作，特权后台程序仅在带外终端批准后运行，并具有Ed25519签名的审核链和自动回滚。",
     "developerName": "LACS Project",
-    "category": "DevOps",
+    "category": "工具与集成",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：Linux sysadmin co…"
     ],
     "defaultPrompt": [
-      "What is using disk space on this machine?",
-      "Install ripgrep",
-      "Show me what SysKnife has run recently",
-      "Verify the audit chain"
+      "使用 SysKnife 帮我：Linux sysadmin co…"
     ],
     "brandColor": "#FF6B1A",
     "composerIcon": "./assets/raster/sysknife-256.png",

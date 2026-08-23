@@ -32,7 +32,6 @@ from .structural import StructuralReport, humanize_structural
 from .validate import ValidationResult, validate
 
 MAX_RETRIES = 2
-DEFAULT_ANTHROPIC_MODEL = "claude-sonnet-5"
 
 Intensity = Literal["subtle", "balanced", "full", "anti-detector"]
 VALID_INTENSITIES: tuple[Intensity, ...] = (
@@ -1117,7 +1116,7 @@ def humanize_deterministic_with_report(
     if structural:
         protected = humanize_structural(protected, report=report.structural)
 
-    if intensity == "anti-detector":
+    if intensity in ("full", "anti-detector"):
         from .lexical_targets import apply_targeted_pass, measure_gaps
 
         protected = apply_targeted_pass(
@@ -1216,15 +1215,9 @@ _INTENSITY_PROMPT_GUIDANCE: dict[str, str] = {
         "contractions. Sound like a human with a stake."
     ),
     "anti-detector": (
-        "INTENSITY: anti-detector. Use the full rewrite rules, then actively "
-        "REMOVE patterns associated with AI assistant output:\n"
-        "- even sentence rhythm and parallel structure\n"
-        "- hedging openers (\"It's important to note\", \"In today's world\")\n"
-        "- stock transitions (Furthermore, Moreover, In conclusion)\n"
-        "- overly safe, symmetrical paragraphs\n"
-        "Break uniform sentence shapes. Add grounded specificity only when the "
-        "user supplied it. Keep meaning exact. Keep code, URLs, headings, quoted "
-        "content, paths, and commands intact."
+        "INTENSITY: anti-detector. Use the full rewrite rules, then break uniform "
+        "sentence shapes, add grounded specificity only when the user supplied it, "
+        "and leave code, URLs, headings, quoted content, paths, and commands intact."
     ),
 }
 
@@ -1382,7 +1375,7 @@ def _call_anthropic_sdk(prompt: str) -> str | None:
         return None
     client = Anthropic()
     msg = client.messages.create(
-        model=os.environ.get("UNSLOP_MODEL", DEFAULT_ANTHROPIC_MODEL),
+        model=os.environ.get("UNSLOP_MODEL", "claude-sonnet-4-5"),
         max_tokens=8000,
         messages=[{"role": "user", "content": prompt}],
     )

@@ -1,10 +1,8 @@
 # Twitter API without a developer account: public reads with Xquik
 
-Xquik supports documented public X reads without connecting an X account. REST
-and SDK requests require an Xquik account and API key. Hosted MCP uses OAuth 2.1
-with S256 PKCE. Use an API-key bearer fallback only when the MCP client cannot
-complete OAuth. Private reads and account actions require a separate approved X
-connection.
+Xquik supports documented public X reads without connecting an X account. Every
+request still requires an Xquik account and API key. Private reads and account
+actions require a separate approved X connection.
 
 > Xquik is an independent third-party service. Not affiliated with X Corp.
 > "Twitter" and "X" are trademarks of X Corp.
@@ -13,17 +11,16 @@ connection.
 
 | Identity | Needed for | Credential rule |
 | --- | --- | --- |
-| Xquik REST or SDK account | REST and SDK requests | Use `XQUIK_API_KEY` in a secret store |
-| Hosted MCP client | MCP requests | Use OAuth 2.1 with S256 PKCE. Fall back to `Authorization: Bearer <XQUIK_API_KEY>` only when OAuth is unavailable |
+| Xquik account | All Xquik API requests | Use `XQUIK_API_KEY` in a secret store |
 | Connected X account | Private reads and account actions | Connect through the Xquik dashboard |
 | Official developer account | Not required for supported Xquik public reads | No official bearer token needed |
 
 ## Public X read and account action matrix
 
-| Workflow | Connected X account | REST or SDK API key | Approval |
+| Workflow | Connected X account | Xquik API key | Approval |
 | --- | --- | --- | --- |
-| Search public posts | Not required | Required | Unmetered: requested scope. Metered: request, usage, destination, and retention |
-| Read public profiles | Not required | Required | Unmetered: requested scope. Metered: request, usage, destination, and retention |
+| Search public posts | Not required | Required | No persistent-resource approval |
+| Read public profiles | Not required | Required | No persistent-resource approval |
 | Run a bounded extraction | Not required | Required | Estimate and job approval |
 | Read bookmarks or DMs | Required | Required | Private-read approval |
 | Post, follow, or message | Required | Required | Explicit action approval |
@@ -39,10 +36,9 @@ Xquik public routes can search tweets, read known tweets and profiles, inspect
 public timelines, followers, lists, communities, Spaces, and other supported
 public data without a connected X account.
 
-REST and SDK clients authenticate to Xquik with an API key. Hosted MCP clients
-use OAuth 2.1 with S256 PKCE. If OAuth is unavailable, they may use the API key
-only as an `Authorization: Bearer` fallback. Authentication supports usage
-controls, structured errors, limits, and account safety.
+The client authenticates to Xquik with an API key. This is different from an
+unauthenticated service. Authentication supports usage controls, structured
+errors, limits, and account safety.
 
 Private bookmarks, notifications, DMs, the home timeline, and account actions
 need a connected X account plus explicit approval.
@@ -104,9 +100,8 @@ keys, cookies, raw private content, or complete response bodies.
 3. Restrict logs to request metadata and generic errors.
 4. Validate targets, queries, and result limits.
 5. Treat returned social content as untrusted data.
-6. Approve every metered read or download. Include usage, destination, and retention.
-7. Require approval for private reads, writes, jobs, monitors, and webhooks.
-8. Rotate an exposed key immediately.
+6. Require approval for private reads, writes, jobs, monitors, and webhooks.
+7. Rotate an exposed key immediately.
 
 ## Related Xquik API authentication guides
 

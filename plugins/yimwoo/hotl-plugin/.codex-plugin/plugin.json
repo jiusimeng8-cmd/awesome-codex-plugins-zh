@@ -1,6 +1,6 @@
 {
   "name": "hotl",
-  "description": "Structured guardrails for AI coding: brainstorm, plan, execute, review, and verify.",
+  "description": "用于Codex、Claude Code和Cline的Human-on-the-Loop AI编码工作流程插件，具有结构化规划、审查和验证护栏。",
   "version": "2.22.0",
   "author": {
     "name": "Yiming Wu"
@@ -26,20 +26,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "HOTL",
-    "shortDescription": "Plan, execute, review, and verify AI-generated code changes.",
-    "longDescription": "HOTL adds structure to AI coding work. Use it to clarify intent, generate a workflow plan, execute with verification, review the result, and prove the change is ready before it lands on main. Includes skills for brainstorming, plan execution, PR review, code review, and final verification.",
+    "displayName": "HOTL · 用于Codex",
+    "shortDescription": "用于Codex",
+    "longDescription": "用于Codex、Claude Code和Cline的Human-on-the-Loop AI编码工作流程插件，具有结构化规划、审查和验证护栏。",
     "developerName": "Yiming Wu",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：用于Codex"
     ],
     "defaultPrompt": [
-      "Design and plan this feature before coding",
-      "Review this pull request",
-      "Run this hotl-workflow file"
+      "使用 HOTL 帮我：用于Codex"
     ],
     "websiteURL": "https://github.com/yimwoo/hotl-plugin",
     "brandColor": "#0F6E56",

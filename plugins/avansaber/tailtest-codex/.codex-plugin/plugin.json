@@ -1,7 +1,7 @@
 {
   "name": "tailtest",
   "version": "4.9.1",
-  "description": "Automatically generates and runs tests alongside your Codex session. Any language. No commands. No setup.",
+  "description": "Hook-powered测试生成--检测代理转换过程中更改的文件，并指示Codex自动编写和运行测试。零配置， 8种语言。",
   "author": {
     "name": "AvanSaber Inc.",
     "email": "support@avansaber.com",
@@ -21,21 +21,18 @@
   "hooks": "./hooks/hooks.json",
   "skills": "./skills/",
   "interface": {
-    "displayName": "Tailtest",
+    "displayName": "Tailtest · Hook-powered测试生成…",
     "composerIcon": "./assets/icon.svg",
-    "shortDescription": "Auto-generates and runs tests on every Codex turn",
-    "longDescription": "Tailtest watches every file Codex edits in your session and queues it for test generation at end of turn. It writes production-shaped scenarios using the R1-R15 rule layer, runs them, and surfaces only failures. Works with Python, JavaScript/TypeScript, Java, Kotlin, C#, Go, Rust, and Ruby out of the box. Supports an adversarial test mode that biases scenarios toward breakage paths (8 categories: boundary inputs, format/injection, type confusion, concurrent state, time/locale edges, partial failures, resource exhaustion, off-by-one logic). No prompting, no commands; runs automatically as Codex works.",
+    "shortDescription": "Hook-powered测试生成…",
+    "longDescription": "Hook-powered测试生成--检测代理转换过程中更改的文件，并指示Codex自动编写和运行测试。零配置， 8种语言。",
     "developerName": "AvanSaber Inc.",
-    "category": "Coding",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：Hook-powered测试生成…"
     ],
     "websiteURL": "https://tailtest.com",
     "defaultPrompt": [
-      "Write tests for the file I just edited",
-      "Run an adversarial scan on my last change",
-      "Show tailtest summary for this session"
+      "使用 Tailtest 帮我：Hook-powered测试生成…"
     ],
     "brandColor": "#F59E0B",
     "screenshots": []

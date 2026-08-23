@@ -1,7 +1,7 @@
 {
   "name": "papersflow-codex-plugin",
   "version": "1.0.0",
-  "description": "Hosted PapersFlow MCP tools plus guided Codex research agents for search, citation graphs, and DeepScan.",
+  "description": "论文发现、引文验证、图形探索和DeepScan分析。",
   "author": {
     "name": "PapersFlow",
     "email": "developer@papersflow.ai",
@@ -24,22 +24,19 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "PapersFlow Research",
-    "shortDescription": "Hosted MCP research tools with guided Codex agents for discovery, citation verification, graphs, and DeepScan.",
-    "longDescription": "Install PapersFlow in Codex as a hosted MCP server plus guided research agents for literature search, citation verification, citation graph exploration, evidence synthesis, and premium DeepScan analysis.",
+    "displayName": "PapersFlow Research · 论文发现",
+    "shortDescription": "论文发现",
+    "longDescription": "论文发现、引文验证、图形探索和DeepScan分析。",
     "developerName": "PapersFlow",
-    "category": "Research",
+    "category": "工具与集成",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：论文发现"
     ],
     "websiteURL": "https://papersflow.ai",
     "privacyPolicyURL": "https://papersflow.ai/privacy",
     "termsOfServiceURL": "https://papersflow.ai/terms",
     "defaultPrompt": [
-      "Find five strong papers on retrieval-augmented generation evaluation and tell me which one to start with.",
-      "Verify this DOI and give me a normalized citation card with the key identifiers.",
-      "Run a DeepScan on agentic retrieval benchmarks and summarize the live findings as the report develops."
+      "使用 PapersFlow Research 帮我：论文发现"
     ],
     "brandColor": "#10A37F",
     "composerIcon": "./assets/plugin-icon.png",

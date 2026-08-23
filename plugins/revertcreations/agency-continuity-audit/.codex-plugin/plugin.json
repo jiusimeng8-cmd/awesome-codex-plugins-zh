@@ -1,7 +1,7 @@
 {
   "name": "agency-continuity-audit",
   "version": "0.1.2",
-  "description": "Read-only audits for persistent agent goals, evidence, memory corrections, authority, and restart recovery.",
+  "description": "只读审核，用于区分持久代理目标、状态、更正、重新启动证据、权限边界、调度程序声明和商业证明与自我报告的健康状况。",
   "author": {
     "name": "Revert Creations",
     "email": "support@revertcreations.com",
@@ -19,20 +19,17 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Agency Continuity Audit",
-    "shortDescription": "Find silent goal, memory, evidence, and restart failures.",
-    "longDescription": "Audit an agent workspace without modifying it. Distinguish durable goals from prose, verify structured state and correction paths, inspect authority and finance evidence, and report what remains unproven.",
+    "displayName": "Agency Continuity Audit · 只读审核",
+    "shortDescription": "只读审核",
+    "longDescription": "只读审核，用于区分持久代理目标、状态、更正、重新启动证据、权限边界、调度程序声明和商业证明与自我报告的健康状况。",
     "developerName": "Revert Creations",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "composerIcon": "./assets/icon.svg",
     "capabilities": [
-      "Read-only",
-      "Structured report"
+      "适用场景：只读审核"
     ],
     "defaultPrompt": [
-      "Audit this workspace's agent continuity.",
-      "What would silently fail after a restart?",
-      "Which agency claims lack durable evidence?"
+      "使用 Agency Continuity Audit 帮我：只读审核"
     ]
   }
 }

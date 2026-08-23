@@ -1,7 +1,7 @@
 {
   "name": "spellbook-skills",
   "version": "0.8.3",
-  "description": "Personal skills library for daily workflows (worktrees + branch finishing, compile-only)",
+  "description": "适用于工作树、PR/MR自动化、审核清理、YApi查找和Java DDD指导的实用Claude Code和Codex技能。",
   "author": {
     "name": "code4j",
     "email": "code4j@code4j.site"
@@ -18,16 +18,13 @@
     "plugin"
   ],
   "interface": {
-    "displayName": "Spellbook Skills",
-    "shortDescription": "Reusable engineering workflow skills, hooks, and reviewer agents for Codex.",
-    "longDescription": "Spellbook Skills packages reusable engineering workflows for coding agents, including worktree flow, branch finishing, review cleanup, TDD discipline, YApi lookup, Java DDD guidance, and a project context hook.",
+    "displayName": "Spellbook Skills · 适用于工作树",
+    "shortDescription": "适用于工作树",
+    "longDescription": "适用于工作树、PR/MR自动化、审核清理、YApi查找和Java DDD指导的实用Claude Code和Codex技能。",
     "developerName": "code4j",
-    "category": "Development & Workflow",
+    "category": "开发与工作流",
     "capabilities": [
-      "skills",
-      "hooks",
-      "workflow-guidance",
-      "review-agents"
+      "适用场景：适用于工作树"
     ],
     "websiteURL": "https://github.com/yyykf/spellbook-skills",
     "privacyPolicyURL": "https://github.com/yyykf/spellbook-skills/blob/main/PRIVACY.md",

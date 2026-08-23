@@ -1,7 +1,7 @@
 {
   "name": "yandex-direct-for-all",
   "version": "1.1.0",
-  "description": "Переносимый набор для безопасной работы с Яндекс.Директом, Метрикой, Wordstat v2, Roistat и поиском.",
+  "description": "适用于Yandex Direct、Wordstat、Metrika和Roistat的GitHub-ready Codex插件包。",
   "author": {
     "name": "Vitaliy Travin",
     "email": "vitalijtravin@gmail.com",
@@ -23,21 +23,19 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Yandex Direct For All",
-    "shortDescription": "Безопасная авторизация, чтение, анализ и контролируемые изменения.",
-    "longDescription": "Единый навык, общие приложения авторизации Директа и Метрики, Wordstat v2, проверяемая установка и разделение чтения с записью.",
+    "displayName": "Yandex Direct For All · 适用于Yandex Direct",
+    "shortDescription": "适用于Yandex Direct",
+    "longDescription": "适用于Yandex Direct、Wordstat、Metrika和Roistat的GitHub-ready Codex插件包。",
     "developerName": "Vitaliy Travin",
-    "category": "Marketing",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive"
+      "适用场景：适用于Yandex Direct"
     ],
     "websiteURL": "https://github.com/nebelov/yandex-direct-for-all",
     "privacyPolicyURL": "https://github.com/nebelov/yandex-direct-for-all/blob/main/PRIVACY.md",
     "termsOfServiceURL": "https://github.com/nebelov/yandex-direct-for-all/blob/main/TERMS.md",
     "defaultPrompt": [
-      "Собери исходные данные Wordstat v2 и подготовь проверяемый отчёт.",
-      "Проверь кампании Директа без записи и подготовь пакет предложений.",
-      "Собери отчёт Roistat через программный интерфейс."
+      "使用 Yandex Direct For All 帮我：适用于Yandex Direct"
     ],
     "brandColor": "#D62828",
     "composerIcon": "./assets/icon.png",

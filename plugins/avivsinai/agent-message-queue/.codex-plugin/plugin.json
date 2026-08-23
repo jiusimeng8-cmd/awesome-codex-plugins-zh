@@ -1,7 +1,7 @@
 {
   "name": "amq-cli",
-  "version": "0.68.0",
-  "description": "Agent Message Queue - file-based inter-agent messaging with co-op mode, cross-project federation, and orchestrator integrations",
+  "version": "0.65.3",
+  "description": "基于文件的代理间消息传递，具有合作模式、跨项目联合和协调器集成。",
   "author": {
     "name": "Aviv Sinai",
     "url": "https://github.com/avivsinai"
@@ -21,9 +21,10 @@
     "spec"
   ],
   "interface": {
-    "displayName": "Agent Message Queue",
+    "displayName": "Agent Message Queue · 基于文件的代理间消息传递",
     "composerIcon": "./assets/icon.png",
-    "shortDescription": "File-based inter-agent messaging with co-op mode, federation, and orchestrator integrations",
-    "category": "Developer Tools"
+    "shortDescription": "基于文件的代理间消息传递",
+    "category": "工具与集成",
+    "longDescription": "基于文件的代理间消息传递，具有合作模式、跨项目联合和协调器集成。"
   }
 }

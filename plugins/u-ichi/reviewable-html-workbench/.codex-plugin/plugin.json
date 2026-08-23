@@ -1,7 +1,7 @@
 {
   "name": "reviewable-html-workbench",
   "version": "1.28.4",
-  "description": "Generate reviewable HTML documents, serve previews, collect comments, and feed review outcomes back into agent workflows.",
+  "description": "生成可审核的HTML文档，提供预览，收集内联审核评论，并将审核结果反馈到客服代表的工作流程中。",
   "author": {
     "name": "u1",
     "email": "",
@@ -19,25 +19,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Reviewable HTML Workbench",
-    "shortDescription": "Create reviewable HTML docs and process comments.",
-    "longDescription": "Generate visual HTML documents, start local or Tailscale preview servers, capture review comments, reply from agents, and apply feedback back into design documents.",
+    "displayName": "Reviewable HTML Workbench · 生成可审核的HTML文档",
+    "shortDescription": "生成可审核的HTML文档",
+    "longDescription": "生成可审核的HTML文档，提供预览，收集内联审核评论，并将审核结果反馈到客服代表的工作流程中。",
     "developerName": "u1",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Write",
-      "Interactive"
+      "适用场景：生成可审核的HTML文档"
     ],
     "defaultPrompt": [
-      "Create a reviewable design doc in HTML",
-      "Process the HTML review comments and apply resolved feedback",
-      "Render this as a visual HTML report",
-      "Preview this plan as HTML",
-      "設計資料をレビュー可能なHTMLで作って",
-      "HTMLレビューコメントを確認して反映して",
-      "図示つきHTMLレポートを生成して",
-      "planをグラフィカルに確認したい",
-      "この計画をHTMLでプレビューして"
+      "使用 Reviewable HTML Workbench 帮我：生成可审核的HTML文档"
     ],
     "brandColor": "#2563EB"
   }

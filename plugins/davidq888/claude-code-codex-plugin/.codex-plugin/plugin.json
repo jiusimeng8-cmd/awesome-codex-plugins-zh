@@ -1,7 +1,7 @@
 {
   "name": "claude-code",
   "version": "0.2.0",
-  "description": "Security-focused Claude Code CLI integration for OpenAI Codex.",
+  "description": "以安全为中心的Codex插件，通过MCP连接到本地Claude Code CLI ，具有登录、状态检查、安全模式提示和无凭据存储。",
   "homepage": "https://github.com/davidq888/claude-code-codex-plugin",
   "repository": "https://github.com/davidq888/claude-code-codex-plugin",
   "license": "MIT",
@@ -18,9 +18,9 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Claude Code",
-    "shortDescription": "Use Claude Code from Codex with local login, status checks, and safe prompts.",
-    "longDescription": "A security-focused OpenAI Codex plugin for Anthropic Claude Code. It connects to the local Claude Code CLI, opens the official Claude login flow, checks account status, and runs safe workspace-scoped Claude Code prompts through a local MCP server.",
+    "displayName": "Claude Code · 以安全为中心的Codex插件",
+    "shortDescription": "以安全为中心的Codex插件",
+    "longDescription": "以安全为中心的Codex插件，通过MCP连接到本地Claude Code CLI ，具有登录、状态检查、安全模式提示和无凭据存储。",
     "websiteURL": "https://github.com/davidq888/claude-code-codex-plugin",
     "privacyPolicyURL": "https://github.com/davidq888/claude-code-codex-plugin/blob/main/SECURITY.md",
     "termsOfServiceURL": "https://github.com/davidq888/claude-code-codex-plugin/blob/main/LICENSE",
@@ -30,21 +30,12 @@
       "./assets/screenshot.svg"
     ],
     "developerName": "davidq888",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "CLI",
-      "Developer Tools",
-      "MCP",
-      "AI Coding",
-      "Claude Code",
-      "OpenAI Codex",
-      "Interactive",
-      "Troubleshooting"
+      "适用场景：以安全为中心的Codex插件"
     ],
     "defaultPrompt": [
-      "Help me run Claude Code on this repo.",
-      "Draft a Claude Code prompt for my task.",
-      "Troubleshoot my Claude Code CLI setup."
+      "使用 Claude Code 帮我：以安全为中心的Codex插件"
     ]
   }
 }

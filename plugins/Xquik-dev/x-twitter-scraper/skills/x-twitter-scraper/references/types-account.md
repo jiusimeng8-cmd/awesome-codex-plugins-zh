@@ -6,7 +6,7 @@ interface Account {
   plan: "active" | "inactive";
   monitorsAllowed: number;
   monitorsUsed: number;
-  monitorBilling: {
+  monitorUsage: {
     activeDailyEstimate: string;
     activeHourlyBurn: string;
     creditsPerActiveMonitorDay: string;
@@ -19,9 +19,6 @@ interface Account {
     balance: string;
     lifetimePurchased: string;
     lifetimeUsed: string;
-    autoTopupEnabled: boolean;
-    autoTopupAmountDollars: number;
-    autoTopupThreshold: string;
   };
   xUsername?: string;
 }

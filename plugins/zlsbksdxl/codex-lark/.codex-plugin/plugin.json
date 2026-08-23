@@ -1,7 +1,7 @@
 {
   "name": "feishu2codex",
   "version": "1.0.73",
-  "description": "Community Codex plugin packaging lark-cli skills for Feishu and Lark workflows.",
+  "description": "通过官方Lark CLI将Docs、Messenger、Drive、Sheets、Base、Calendar、Tasks、Meetings、Mail、Approvals等Codex连接到Feishu/Lark工作流。",
   "author": {
     "name": "Codex Lark contributors"
   },
@@ -17,20 +17,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Feishu to Codex",
-    "shortDescription": "Use Lark and Feishu from Codex through lark-cli skills.",
-    "longDescription": "Adds the official lark-cli skill set plus a guided setup workflow. A trusted first-session hook installs the matching runtime when needed, then Codex guides browser/device OAuth before using Lark/Feishu domains such as Messenger, Docs, Sheets, Base, Calendar, Tasks, Meetings, Mail, Approval, OKR, and Drive.",
+    "displayName": "Feishu to Codex · 通过官方Lark CLI将Docs",
+    "shortDescription": "通过官方Lark CLI将Docs",
+    "longDescription": "通过官方Lark CLI将Docs、Messenger、Drive、Sheets、Base、Calendar、Tasks、Meetings、Mail、Approvals等Codex连接到Feishu/Lark工作流。",
     "developerName": "Codex Lark Community",
-    "category": "Productivity",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：通过官方Lark CLI将Docs"
     ],
     "defaultPrompt": [
-      "Set up and connect Feishu/Lark to Codex.",
-      "Use Feishu Docs from Codex.",
-      "Check my Lark tasks and approvals."
+      "使用 Feishu to Codex 帮我：通过官方Lark CLI将Docs"
     ],
     "brandColor": "#1F6FEB",
     "composerIcon": "./assets/logo.svg",

@@ -1,7 +1,7 @@
 {
   "name": "taisly-agent-kit",
   "version": "0.2.8",
-  "description": "Publish short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook from Codex through Taisly.",
+  "description": "使用Taisly MCP服务器和捆绑的社交媒体发布技能，从Codex将短视频发布到TikTok、Instagram Reels、YouTube Shorts、X和Facebook。",
   "author": {
     "name": "Taisly",
     "url": "https://taisly.com"
@@ -30,23 +30,19 @@
     }
   },
   "interface": {
-    "displayName": "Taisly Agent Kit",
-    "shortDescription": "Publish short-form videos from Codex.",
-    "longDescription": "Connect Codex to Taisly for AI-assisted video publishing to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook. Includes the Taisly Social Media Posting skill and the official remote MCP server.",
+    "displayName": "Taisly Agent Kit · 使用Taisly MCP服务器和捆绑…",
+    "shortDescription": "使用Taisly MCP服务器和捆绑…",
+    "longDescription": "使用Taisly MCP服务器和捆绑的社交媒体发布技能，从Codex将短视频发布到TikTok、Instagram Reels、YouTube Shorts、X和Facebook。",
     "developerName": "Taisly",
-    "category": "Productivity",
+    "category": "工具与集成",
     "capabilities": [
-      "MCP",
-      "Skills",
-      "Write"
+      "适用场景：使用Taisly MCP服务器和捆绑…"
     ],
     "websiteURL": "https://taisly.com/en/ai-agent-kit",
     "privacyPolicyURL": "https://taisly.com/privacy-policy",
     "termsOfServiceURL": "https://taisly.com/terms-and-conditions",
     "defaultPrompt": [
-      "Connect Taisly and list my social accounts.",
-      "Validate this video before publishing.",
-      "Publish this approved video with Taisly."
+      "使用 Taisly Agent Kit 帮我：使用Taisly MCP服务器和捆绑…"
     ],
     "brandColor": "#B7F34A"
   }

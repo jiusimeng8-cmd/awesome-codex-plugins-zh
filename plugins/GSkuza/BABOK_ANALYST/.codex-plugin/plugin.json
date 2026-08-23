@@ -1,7 +1,7 @@
 {
   "name": "babok_analyst",
   "version": "2.2.8",
-  "description": "BABOK v3 business analysis agent with 16 MCP tools, 9 stage resources, and human-in-the-loop approval gates.",
+  "description": "BABOK v3业务分析代理，具有16个MCP工具、9个阶段的管道和人在环审批门。",
   "author": {
     "name": "Grzegorz Skuza",
     "url": "https://github.com/GSkuza"
@@ -20,22 +20,18 @@
   "hooks": "./hooks/claude-codex-hooks.json",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "BABOK Analyst",
-    "shortDescription": "BABOK v3 business analysis pipeline",
-    "longDescription": "Structured 9-stage BABOK analysis with MCP project lifecycle tools, stage prompts, and human approval gates.",
+    "displayName": "BABOK Analyst · BABOK v3业务分析代理",
+    "shortDescription": "BABOK v3业务分析代理",
+    "longDescription": "BABOK v3业务分析代理，具有16个MCP工具、9个阶段的管道和人在环审批门。",
     "developerName": "Grzegorz Skuza",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Instructions",
-      "Lifecycle hooks",
-      "MCP tools"
+      "适用场景：BABOK v3业务分析代理"
     ],
     "websiteURL": "https://github.com/GSkuza/BABOK_ANALYST",
     "composerIcon": "./assets/icon.svg",
     "defaultPrompt": [
-      "Start a new BABOK analysis project.",
-      "Continue the current BABOK project at the active stage.",
-      "Review the deliverable for the current stage."
+      "使用 BABOK Analyst 帮我：BABOK v3业务分析代理"
     ]
   }
 }

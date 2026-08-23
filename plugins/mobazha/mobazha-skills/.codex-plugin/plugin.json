@@ -1,6 +1,6 @@
 {
   "name": "mobazha",
-  "description": "AI skills for Mobazha decentralized commerce: store deployment, product import, privacy tools",
+  "description": "去中心化电子商务技能—部署自托管商店，从Shopify/Amazon导入产品，配置自定义域名和Telegram机器人，设置Tor隐私，并通过MCP管理您的商店。",
   "version": "0.1.1",
   "author": {
     "name": "Mobazha",

@@ -1,7 +1,7 @@
 {
   "name": "rag-reviewer",
-  "version": "0.6.0+codex.d84b3d25a5fe",
-  "description": "Agentic PR review: hybrid RAG + code graph via MCP, review skills for Codex",
+  "version": "0.6.0+codex.0ead2c1af15a",
+  "description": "代理公关审核：混合RAG +通过MCP的代码图， Codex的审核技能。",
   "repository": "https://github.com/mimfort/rag_for_git",
   "license": "MIT",
   "author": {
@@ -17,19 +17,16 @@
   ],
   "skills": "./plugin/skills/",
   "interface": {
-    "displayName": "RAG Reviewer",
-    "shortDescription": "RAG + code graph PR review pipeline",
-    "longDescription": "Agentic pull request review using hybrid RAG search, code graph analysis, and MCP tools.",
+    "displayName": "RAG Reviewer · 代理公关审核",
+    "shortDescription": "代理公关审核",
+    "longDescription": "代理公关审核：混合RAG +通过MCP的代码图， Codex的审核技能。",
     "developerName": "mimfort",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：代理公关审核"
     ],
     "defaultPrompt": [
-      "Review PR 123 for owner/repo",
-      "Solve task PRI-4",
-      "Sync tasks from the board"
+      "使用 RAG Reviewer 帮我：代理公关审核"
     ],
     "composerIcon": "./plugin/assets/icon.svg",
     "brandColor": "#3B82F6"

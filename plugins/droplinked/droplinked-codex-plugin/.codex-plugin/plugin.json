@@ -1,7 +1,7 @@
 {
   "name": "droplinked-codex-plugin",
   "version": "0.1.0",
-  "description": "Codex plugin wrapping droplinked's hosted MCP server — verified-inventory agentic commerce plus an onchain trust fabric: merchant and product discovery, agent-initiated checkout, and EAS-backed brand, credit-risk, and repayment attestations.",
+  "description": "通过托管的MCP服务器进行经过验证的库存代理商务，包括商家和产品发现、代理启动的结账以及链上品牌、信用风险和还款证明。",
   "author": {
     "name": "droplinked",
     "email": "support@droplinked.com",
@@ -25,13 +25,13 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "droplinked",
-    "shortDescription": "Verified-inventory agentic commerce MCP: merchant & product discovery, agent-initiated checkout, and onchain trust attestations.",
-    "longDescription": "droplinked is onchain agentic commerce exposed to Codex over a hosted MCP server. Use it to discover KYB-verified merchants and SKU-level inventory, open and drive an agent-initiated checkout (build a cart, apply a discount, quote-and-hold stock, finalize payment), and read droplinked's onchain trust fabric — EAS-backed brand, credit-risk, and repayment-history attestations plus a composed trust dossier. The plugin connects over streamable HTTP with two-tier auth: read-only discovery, catalog, and trust-read tools are public and need no key, so the plugin works out of the box; only write tools (checkout, payment, cart edits, and lending/attestation actions) require an X-MCP-API-Key supplied from your environment — never bundled in this repo.",
+    "displayName": "droplinked · 通过托管的MCP服务器进行经过验证的…",
+    "shortDescription": "通过托管的MCP服务器进行经过验证的…",
+    "longDescription": "通过托管的MCP服务器进行经过验证的库存代理商务，包括商家和产品发现、代理启动的结账以及链上品牌、信用风险和还款证明。",
     "developerName": "droplinked",
-    "category": "Commerce",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive"
+      "适用场景：通过托管的MCP服务器进行经过验证的…"
     ],
     "websiteURL": "https://droplinked.com",
     "privacyPolicyURL": "https://droplinked.com/privacy",
@@ -43,9 +43,7 @@
       "./assets/screenshot-droplinked.png"
     ],
     "defaultPrompt": [
-      "Find a verified droplinked merchant in this category and search their inventory for an in-stock item, preferring brand-verified results.",
-      "Start a droplinked checkout for this SKU: build the cart, quote and hold the stock, then hand me the hosted checkout URL.",
-      "Pull the droplinked trust dossier for this merchant — brand attestation, credit-risk tier, and repayment history — and summarize the trust state before I proceed."
+      "使用 droplinked 帮我：通过托管的MCP服务器进行经过验证的…"
     ]
   }
 }

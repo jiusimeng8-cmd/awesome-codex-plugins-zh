@@ -1,7 +1,7 @@
 {
   "name": "omnimodal",
   "version": "3.1.0",
-  "description": "Omnimodal plugin for Codex and Claude Code: recognize and generate images, video, and audio through Qwen, Z.AI, or OpenAI-compatible APIs.",
+  "description": "通过Doubao、GLM或Qwen兼容的视觉API读取本地图像、视频、网页和Windows屏幕截图。",
   "homepage": "https://github.com/good-boy4069/Deepseek-omnimodal",
   "repository": "https://github.com/good-boy4069/Deepseek-omnimodal",
   "license": "MIT",
@@ -28,21 +28,20 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Omnimodal",
-    "shortDescription": "Recognize and generate images, video, and audio with Qwen, Z.AI, or OpenAI-compatible APIs",
-    "longDescription": "Adds omnimodal_recognize_*, omnimodal_generate_*, omnimodal_capture_page, and native Windows omnimodal_capture_windows/omnimodal_list_windows MCP tools.",
+    "displayName": "Omnimodal · 通过Doubao",
+    "shortDescription": "通过Doubao",
+    "longDescription": "通过Doubao、GLM或Qwen兼容的视觉API读取本地图像、视频、网页和Windows屏幕截图。",
     "developerName": "good-boy4069",
     "composerIcon": "./assets/icon.svg",
     "websiteURL": "https://github.com/good-boy4069/Deepseek-omnimodal",
     "privacyPolicyURL": "https://github.com/good-boy4069/Deepseek-omnimodal/blob/main/PRIVACY.md",
     "termsOfServiceURL": "https://github.com/good-boy4069/Deepseek-omnimodal/blob/main/LICENSE",
-    "category": "Productivity",
+    "category": "工具与集成",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：通过Doubao"
     ],
     "defaultPrompt": [
-      "Read this local image and extract the requested content."
+      "使用 Omnimodal 帮我：通过Doubao"
     ]
   }
 }

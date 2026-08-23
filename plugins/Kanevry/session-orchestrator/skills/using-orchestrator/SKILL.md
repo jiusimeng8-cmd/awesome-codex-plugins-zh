@@ -67,7 +67,7 @@ When two or more candidates score ≥ 0.85 with delta < 0.15, call `AskUserQuest
 AskUserQuestion({
   questions: [{
     question: "Your message matches multiple workflows. Which one did you mean?",
-    header: "Dispatch",
+    header: "Skill Dispatch",
     multiSelect: false,
     options: [
       { label: "<top-skill display name> (Recommended)", description: "<one-line description of what it does>" },

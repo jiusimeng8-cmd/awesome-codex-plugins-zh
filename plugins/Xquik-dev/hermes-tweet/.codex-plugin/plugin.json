@@ -1,7 +1,7 @@
 {
   "name": "hermes-tweet",
-  "version": "0.1.13",
-  "description": "Hermes Agent plugin for Twitter search, monitoring, follower exports & approved X actions. Not affiliated with X Corp.",
+  "version": "0.1.12",
+  "description": "Hermes Agent X/Twitter插件，用于通过Xquik进行以读为先的社交研究、监控和审批门禁操作。",
   "author": {
     "name": "Xquik",
     "url": "https://github.com/Xquik-dev"
@@ -23,23 +23,19 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Hermes Tweet",
-    "shortDescription": "Search and monitor X/Twitter with approved actions.",
-    "longDescription": "Hermes Tweet adds Twitter search, tweet replies, monitoring, and approved X actions to Hermes Agent. It keeps account changes behind explicit approval.",
+    "displayName": "Hermes Tweet · Hermes Agent X/Twi…",
+    "shortDescription": "Hermes Agent X/Twi…",
+    "longDescription": "Hermes Agent X/Twitter插件，用于通过Xquik进行以读为先的社交研究、监控和审批门禁操作。",
     "developerName": "Xquik",
-    "category": "Productivity",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：Hermes Agent X/Twi…"
     ],
     "websiteURL": "https://github.com/Xquik-dev/hermes-tweet#readme",
     "privacyPolicyURL": "https://github.com/Xquik-dev/hermes-tweet/security/policy",
     "termsOfServiceURL": "https://github.com/Xquik-dev/hermes-tweet/blob/master/LICENSE",
     "defaultPrompt": [
-      "Use Hermes Tweet to research this X/Twitter topic.",
-      "Use Hermes Tweet to read public replies and summarize the thread.",
-      "Use Hermes Tweet to prepare an approval-gated X/Twitter action."
+      "使用 Hermes Tweet 帮我：Hermes Agent X/Twi…"
     ],
     "brandColor": "#111827",
     "composerIcon": "./assets/icon.svg",

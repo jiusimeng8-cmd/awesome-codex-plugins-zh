@@ -1,7 +1,7 @@
 {
   "name": "ateam",
   "version": "3.16.0",
-  "description": "Specialist AI agents orchestrated as a configurable team pipeline for Codex.",
+  "description": "专业人工智能代理（研究人员、PM、架构师、开发人员、QA、审核人员）作为可配置的团队管道进行编排。",
   "author": {
     "name": "Yiming Wu",
     "url": "https://github.com/yimwoo"
@@ -24,20 +24,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "ATeam",
-    "shortDescription": "AI dev team -- @Researcher, @Pm, @Architect, @Dev, @Qa, @Reviewer.",
-    "longDescription": "ATeam provides specialist roles as Codex agents. Talk to @Architect, @Reviewer, @Pm directly, or use @ATeam to run the full pipeline. Configure roles, write policies, and custom team members via .agenteam/config.yaml.",
+    "displayName": "ATeam · 专业人工智能代理（研究人员",
+    "shortDescription": "专业人工智能代理（研究人员",
+    "longDescription": "专业人工智能代理（研究人员、PM、架构师、开发人员、QA、审核人员）作为可配置的团队管道进行编排。",
     "developerName": "Yiming Wu",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：专业人工智能代理（研究人员"
     ],
     "defaultPrompt": [
-      "Build my team",
-      "Refactor this codebase to be more maintainable",
-      "Add a security auditor to the team"
+      "使用 ATeam 帮我：专业人工智能代理（研究人员"
     ],
     "websiteURL": "https://github.com/yimwoo/codex-agenteam",
     "brandColor": "#2563EB",

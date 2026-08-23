@@ -1,7 +1,7 @@
 {
   "name": "bringyour-migration-auditor",
   "version": "1.1.0",
-  "description": "Audit Claude Code to Codex harness migrations before Codex edits code.",
+  "description": "只读Codex插件，用于在Codex编辑代码之前审核Claude Code到Codex的迁移。检查AGENTS.md/CLAUDE.md范围、挂钩、MCP配置、技能、秘密参考和验证说明。",
   "author": {
     "name": "8bitconcepts",
     "email": "hello@8bitconcepts.com",
@@ -20,22 +20,19 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Bring Your AI Migration Auditor",
-    "shortDescription": "Audit Claude Code to Codex migrations.",
-    "longDescription": "Read-only Codex skill for checking migrated AGENTS.md and CLAUDE.md scope, hooks, MCP config, skills, secret references, and validation notes before Codex edits code.",
+    "displayName": "Bring Your AI Migration Auditor · 只读Codex插件",
+    "shortDescription": "只读Codex插件",
+    "longDescription": "只读Codex插件，用于在Codex编辑代码之前审核Claude Code到Codex的迁移。检查AGENTS.md/CLAUDE.md范围、挂钩、MCP配置、技能、秘密参考和验证说明。",
     "developerName": "8bitconcepts",
-    "category": "Development",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read",
-      "Audit"
+      "适用场景：只读Codex插件"
     ],
     "websiteURL": "https://bringyour.ai",
     "privacyPolicyURL": "https://bringyour.ai/privacy",
     "termsOfServiceURL": "https://bringyour.ai/terms",
     "defaultPrompt": [
-      "Audit this Claude Code to Codex migration.",
-      "Check AGENTS.md and CLAUDE.md migration gaps.",
-      "Review MCP config for secret-reference risks."
+      "使用 Bring Your AI Migration Auditor 帮我：只读Codex插件"
     ],
     "brandColor": "#d97757"
   }

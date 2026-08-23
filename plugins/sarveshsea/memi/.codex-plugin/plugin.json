@@ -1,7 +1,7 @@
 {
   "name": "memoire",
   "version": "2.7.9",
-  "description": "Memi is the design layer for agentic AI.",
+  "description": "通过UI审计、Tailwind令牌提取、shadcn注册表工作流和捆绑的Codex插件，为Codex、Claude Code、Cursor和MCP代理提供接口理解和设计系统内存。",
   "author": {
     "name": "Sarvesh Chidambaram",
     "url": "https://github.com/sarveshsea"
@@ -25,24 +25,19 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "memi",
-    "shortDescription": "Agent design CI, file scaffolds, and UI quality tools for Codex.",
-    "longDescription": "memi gives Codex design-system memory, MCP tools, spec-first web and SwiftUI file scaffolds, compact agent briefs, Figma context, Tailwind and shadcn/ui diagnostics, Apple-platform guidance, and research-backed UI audits before interface edits.",
+    "displayName": "memi · 通过UI审计",
+    "shortDescription": "通过UI审计",
+    "longDescription": "通过UI审计、Tailwind令牌提取、shadcn注册表工作流和捆绑的Codex插件，为Codex、Claude Code、Cursor和MCP代理提供接口理解和设计系统内存。",
     "developerName": "Sarvesh Chidambaram",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：通过UI审计"
     ],
     "websiteURL": "https://www.memoire.cv/codex-plugin",
     "privacyPolicyURL": "https://www.memoire.cv/privacy",
     "termsOfServiceURL": "https://www.memoire.cv/terms",
     "defaultPrompt": [
-      "Audit this UI with memi before editing.",
-      "Extract tokens and shadcn registry context.",
-      "Create an Atomic Design implementation plan.",
-      "Scaffold and verify a SwiftUI feature."
+      "使用 memi 帮我：通过UI审计"
     ],
     "brandColor": "#000000"
   }

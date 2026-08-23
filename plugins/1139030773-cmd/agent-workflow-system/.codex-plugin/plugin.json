@@ -1,7 +1,7 @@
 {
   "name": "agent-workflow-system",
   "version": "1.12.1",
-  "description": "一套面向新手的 Codex 工作流系统，用于项目总控、学习引导、调试修复、漂移审计和阶段收尾。A beginner-friendly Codex workflow system with 7 collaborative skills for project management, learning, debugging, drift detection, and phase closeout. Bilingual (CN/EN).",
+  "description": "一套中文AI工作流系统：7个协作技能 + 行为规范宪法 + 会话恢复机制，模糊目标→可执行任务，全生命周期引导。Codex & Claude Code 双平台，新手友好。",
   "author": {
     "name": "Codex 工作流系统"
   },
@@ -18,23 +18,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Codex 工作流系统",
-    "shortDescription": "给新手用的中英双语项目、学习、调试和收尾引导系统。Bilingual workflow system for beginners.",
-    "longDescription": "一套中英双语 Codex 工作流插件，包含新手引导、项目总控、学习教练、调试修复、漂移审计和阶段收尾等技能，帮助用户从模糊想法自然进入可执行任务。A bilingual Codex workflow plugin with 7 skills: newbie guide, project master, learning coach, debug fixer, drift auditor, and phase closeout. Auto-detects language and adapts.",
+    "displayName": "Codex 工作流系统 · 一套中文AI工作流系统",
+    "shortDescription": "一套中文AI工作流系统",
+    "longDescription": "一套中文AI工作流系统：7个协作技能 + 行为规范宪法 + 会话恢复机制，模糊目标→可执行任务，全生命周期引导。Codex & Claude Code 双平台，新手友好。",
     "developerName": "Codex 工作流系统",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Planning",
-      "Write"
+      "适用场景：一套中文AI工作流系统"
     ],
     "defaultPrompt": [
-      "启动新手引导，把我的模糊目标变成任务。",
-      "进入总控模式，帮我管理这个项目。",
-      "做一次漂移检查，看看当前工作是否跑偏。",
-      "Start the newbie guide and help me plan my project.",
-      "Enter project master mode to manage my work.",
-      "Run a drift check on my current progress."
+      "使用 Codex 工作流系统 帮我：一套中文AI工作流系统"
     ],
     "brandColor": "#2563EB",
     "websiteURL": "https://github.com/1139030773-cmd/agent-workflow-system",

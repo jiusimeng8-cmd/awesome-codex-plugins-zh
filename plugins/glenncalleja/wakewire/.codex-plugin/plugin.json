@@ -1,7 +1,7 @@
 {
   "name": "wakewire",
   "version": "0.1.0",
-  "description": "Break the loop — deliver GitHub, Gmail, Slack, and any webhook's events (Linear, Sentry, ClickUp) into local Codex threads in near real time, configured conversationally.",
+  "description": "将来自GitHub、Gmail、Slack和任何已签名的Webhook （ Linear、Sentry、ClickUp ）的事件作为新的转折点直接推送到您的Codex线程中--事件驱动的触发器，而不是轮询，具有HMAC验证、重复数据删除和持久的交付队列。",
   "license": "MIT",
   "keywords": [
     "webhooks",
@@ -14,10 +14,10 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "WakeWire",
-    "shortDescription": "Push GitHub, Gmail, Slack, and webhook events into your Codex threads",
-    "longDescription": "Break the loop: instead of agents polling on a timer, wakewire runs a small local daemon that receives GitHub webhooks (via a smee.io relay by default), Gmail messages (IMAP IDLE), and Slack events (Socket Mode), matches them against routes you define in conversation, and injects them as new turns into the Codex threads you choose. Includes a delivery log, replay, dedup, signature verification, and conservative sandbox defaults.",
-    "category": "Productivity",
+    "displayName": "WakeWire · 将来自GitHub",
+    "shortDescription": "将来自GitHub",
+    "longDescription": "将来自GitHub、Gmail、Slack和任何已签名的Webhook （ Linear、Sentry、ClickUp ）的事件作为新的转折点直接推送到您的Codex线程中--事件驱动的触发器，而不是轮询，具有HMAC验证、重复数据删除和持久的交付队列。",
+    "category": "工具与集成",
     "brandColor": "#2D6CDF",
     "developerName": "Glenn Calleja Frendo",
     "websiteURL": "https://github.com/glenncalleja/wakewire"

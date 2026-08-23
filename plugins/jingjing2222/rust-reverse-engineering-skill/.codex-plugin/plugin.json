@@ -1,7 +1,7 @@
 {
   "name": "rust-reverse-engineering",
   "version": "0.1.0",
-  "description": "Reverse engineer Rust binaries and libraries: triage targets, demangle symbols, recover crate boundaries, and map FFI, panic, unwind, and async paths.",
+  "description": "对Rust二进制文件和库进行逆向工程：分类目标、解码符号、恢复crate命名空间以及映射panic、unwind、async和FFI路径。",
   "author": {
     "name": "jingjing2222",
     "email": "hj.jingjing2222@gmail.com",
@@ -20,20 +20,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Rust Reverse Engineering",
-    "shortDescription": "Triage and analyze Rust binaries without source code",
-    "longDescription": "Use this plugin to triage Rust executables and libraries, recover likely crate namespaces, demangle symbols, and map panic, unwind, async, and FFI paths across ELF, Mach-O, and PE targets.",
+    "displayName": "Rust Reverse Engineering · 对Rust二进制文件和库进行逆向工程",
+    "shortDescription": "对Rust二进制文件和库进行逆向工程",
+    "longDescription": "对Rust二进制文件和库进行逆向工程：分类目标、解码符号、恢复crate命名空间以及映射panic、unwind、async和FFI路径。",
     "developerName": "jingjing2222",
-    "category": "Coding",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：对Rust二进制文件和库进行逆向工程"
     ],
     "defaultPrompt": [
-      "Reverse engineer this Rust binary and summarize the main namespaces.",
-      "Demangle symbols in this Rust library and find likely FFI boundaries.",
-      "Triage this ELF or PE and tell me if it looks Rust-built."
+      "使用 Rust Reverse Engineering 帮我：对Rust二进制文件和库进行逆向工程"
     ],
     "brandColor": "#C96442",
     "screenshots": []

@@ -1,7 +1,7 @@
 {
   "name": "villagesql",
   "version": "1.0.0",
-  "description": "Skills for VillageSQL including building extensions from scratch and porting PostgreSQL extensions to VillageSQL.",
+  "description": "VillageSQL的技能，包括从头开始构建扩展和将PostgreSQL扩展移植到VillageSQL。",
   "repository": "https://github.com/villagesql/villagesql-skills",
   "license": "Apache-2.0",
   "keywords": [
@@ -12,19 +12,18 @@
     "developer-tools"
   ],
   "interface": {
-    "displayName": "VillageSQL Skills",
-    "shortDescription": "Skills for VillageSQL including building extensions from scratch and porting PostgreSQL extensions to VillageSQL.",
+    "displayName": "VillageSQL Skills · VillageSQL的技能",
+    "shortDescription": "VillageSQL的技能",
     "developerName": "VillageSQL",
-    "category": "Developer Tools",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：VillageSQL的技能"
     ],
     "websiteURL": "https://villagesql.com",
     "brandColor": "#CC66FF",
     "composerIcon": "./assets/icon.png",
-    "logo": "./assets/icon.png"
+    "logo": "./assets/icon.png",
+    "longDescription": "VillageSQL的技能，包括从头开始构建扩展和将PostgreSQL扩展移植到VillageSQL。"
   },
   "skills": "./skills/"
 }

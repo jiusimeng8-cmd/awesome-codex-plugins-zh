@@ -1,7 +1,7 @@
 {
   "name": "session-orchestrator",
-  "version": "3.22.0+codex.20260822193811",
-  "description": "Loop engineering for AI coding agents — turn ad-hoc sessions into a repeatable research → plan → wave-execute → close loop with verification gates. Runs on Claude Code, Codex CLI, Cursor, and Pi.",
+  "version": "3.21.0+codex.20260819195349",
+  "description": "Claude Code、Codex和Cursor IDE的会话编排—结构化规划、基于波浪的执行、VCS集成（ GitLab + GitHub ）、质量门和通过问题跟踪清理会话关闭。",
   "keywords": [
     "session",
     "orchestration",
@@ -15,23 +15,20 @@
   "hooks": "./hooks/hooks-codex.json",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Session Orchestrator",
-    "shortDescription": "Structured engineering sessions for Codex",
-    "longDescription": "Adds reusable session workflows to Codex: project analysis, wave planning, guided execution, quality gates, persistence, and clean session close-out.",
+    "displayName": "Session Orchestrator · Claude Code",
+    "shortDescription": "Claude Code",
+    "longDescription": "Claude Code、Codex和Cursor IDE的会话编排—结构化规划、基于波浪的执行、VCS集成（ GitLab + GitHub ）、质量门和通过问题跟踪清理会话关闭。",
     "developerName": "Bernhard Goetzendorfer",
-    "category": "Coding",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：Claude Code"
     ],
     "composerIcon": "./assets/icon.svg",
     "websiteURL": "https://session-orchestrator.com",
     "privacyPolicyURL": "https://gotzendorfer.at/en/session-orchestrator/privacy",
     "termsOfServiceURL": "https://gotzendorfer.at/en/session-orchestrator/terms",
     "defaultPrompt": [
-      "Start a structured feature session for this repo",
-      "Plan a feature PRD and turn it into waves",
-      "Close the current session with verification"
+      "使用 Session Orchestrator 帮我：Claude Code"
     ]
   }
 }

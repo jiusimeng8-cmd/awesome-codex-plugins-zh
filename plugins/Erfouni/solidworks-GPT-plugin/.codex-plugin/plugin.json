@@ -1,7 +1,7 @@
 {
   "name": "solidworks-gpt-plugin",
   "version": "1.2.0",
-  "description": "Knowledge-backed SolidWorks design workflows for Codex, with rule checks and consent-based session learning.",
+  "description": "基于知识的SolidWorks设计和验证工作流程，适用于具有标准查找、CAD证据门和基于同意的会话学习的Codex。",
   "author": {
     "name": "Erfouni",
     "url": "https://github.com/Erfouni"
@@ -18,20 +18,17 @@
   ],
   "skills": "./plugins/solidworks-gpt-plugin/skills/",
   "interface": {
-    "displayName": "SolidWorks GPT Plugin",
-    "shortDescription": "Knowledge-backed SolidWorks design and validation",
-    "longDescription": "Plan, build, validate, and export SolidWorks parts and assemblies using curated conventions, design rules, standards, catalog instructions, known fixes, and consent-based session feedback.",
+    "displayName": "SolidWorks GPT Plugin · 基于知识的SolidWorks设计和…",
+    "shortDescription": "基于知识的SolidWorks设计和…",
+    "longDescription": "基于知识的SolidWorks设计和验证工作流程，适用于具有标准查找、CAD证据门和基于同意的会话学习的Codex。",
     "developerName": "Erfouni",
-    "category": "Productivity",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：基于知识的SolidWorks设计和…"
     ],
     "websiteURL": "https://github.com/Erfouni/solidworks-GPT-plugin",
     "defaultPrompt": [
-      "Design and validate a parametric SolidWorks part.",
-      "Look up proven SolidWorks instructions for this component.",
-      "Review this SolidWorks model against engineering rules."
+      "使用 SolidWorks GPT Plugin 帮我：基于知识的SolidWorks设计和…"
     ],
     "brandColor": "#D71920",
     "composerIcon": "./assets/icon.svg"

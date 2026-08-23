@@ -1,7 +1,7 @@
 {
   "name": "a-team",
   "version": "1.4.0",
-  "description": "A complete engineering team in one folder. 26 pre-configured specialists, 20 enforced workflow skills, a lead orchestrator, and a Pipeline Auditor — for Claude Code, Codex CLI, Cursor, and OpenCode.",
+  "description": "通用多代理基础设施，拥有25名专业代理， 16项强制工作流程技能，以及Claude Code、Codex CLI、Cursor和OpenCode的主要编排器。",
   "author": {
     "name": "RBraga01",
     "url": "https://github.com/RBraga01"
@@ -25,19 +25,16 @@
   "skills": "../skills/",
   "interface": {
     "composerIcon": "../assets/ATeam.png",
-    "displayName": "A Team",
-    "shortDescription": "Complete pre-configured engineering team. Not a marketplace.",
-    "longDescription": "A Team enforces structured development workflows: design before code, TDD before implementation, code review after every change, and hard gates that block completion without verified evidence. Drop it into any project to get an immediately operational team of specialists.",
+    "displayName": "A Team · 通用多代理基础设施",
+    "shortDescription": "通用多代理基础设施",
+    "longDescription": "通用多代理基础设施，拥有25名专业代理， 16项强制工作流程技能，以及Claude Code、Codex CLI、Cursor和OpenCode的主要编排器。",
     "developerName": "RBraga01",
-    "category": "Coding",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：通用多代理基础设施"
     ],
     "defaultPrompt": [
-      "Read .agent-sync/DAILY.md and work on the tasks assigned to Codex.",
-      "Run /orchestrate morning to start the day."
+      "使用 A Team 帮我：通用多代理基础设施"
     ],
     "websiteURL": "https://rbraga01.github.io/a-team/",
     "privacyPolicyURL": "https://github.com/RBraga01/a-team/blob/main/SECURITY.md",

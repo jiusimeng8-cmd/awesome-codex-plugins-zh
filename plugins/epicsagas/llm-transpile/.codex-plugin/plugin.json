@@ -1,7 +1,7 @@
 {
   "name": "llm-transpile",
   "version": "0.4.1",
-  "description": "Auto-compress .md, .html, .txt files read by coding agents via PreToolUse hook.",
+  "description": "通过PostToolUse钩子自动压缩.md、.html和.txt文件，在没有工作流程更改的情况下，将上下文使用量减少高达40%。",
   "author": {
     "name": "epicsagas",
     "url": "https://github.com/epicsagas"
@@ -19,13 +19,13 @@
   "hooks": "./.codex-plugin/hooks.json",
   "scripts": "./registry/scripts",
   "interface": {
-    "displayName": "LLM Transpile",
-    "shortDescription": "Token-optimized document reader — ~27% Markdown compression (genuine), up to 90% on HTML markup stripping (cl100k-measured).",
-    "longDescription": "Silently compresses .md, .html, and .txt files on Read via PreToolUse hook, cutting context usage by ~27% on Markdown (cl100k-measured) with zero workflow change.",
+    "displayName": "LLM Transpile · 通过PostToolUse钩子自动压…",
+    "shortDescription": "通过PostToolUse钩子自动压…",
+    "longDescription": "通过PostToolUse钩子自动压缩.md、.html和.txt文件，在没有工作流程更改的情况下，将上下文使用量减少高达40%。",
     "developerName": "epicsagas",
-    "category": "Performance",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read"
+      "适用场景：通过PostToolUse钩子自动压…"
     ],
     "websiteURL": "https://github.com/epicsagas/llm-transpile",
     "composerIcon": "./assets/icon.png"

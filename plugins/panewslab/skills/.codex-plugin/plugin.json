@@ -1,7 +1,7 @@
 {
   "name": "panews",
   "version": "0.1.0",
-  "description": "PANews Agent Toolkit for crypto news discovery, Polymarket smart money leaderboard reading, PANews creator workflows, and PANews page-to-Markdown reading.",
+  "description": "加密和区块链新闻发现、经过身份验证的创作者发布工作流程以及页面到标记的阅读。",
   "author": {
     "name": "Seven Du",
     "email": "seven@panony.com",
@@ -21,24 +21,19 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "PANews Agent Toolkit",
-    "shortDescription": "Crypto news discovery, smart money leaderboards, PANews creator publishing, and PANews page reading.",
-    "longDescription": "PANews Agent Toolkit helps users follow cryptocurrency and blockchain narratives through PANews coverage, inspect public Polymarket smart money leaderboards, manage authenticated PANews creator workflows, and read PANews pages as Markdown with metadata.",
+    "displayName": "PANews Agent Toolkit · 加密和区块链新闻发现",
+    "shortDescription": "加密和区块链新闻发现",
+    "longDescription": "加密和区块链新闻发现、经过身份验证的创作者发布工作流程以及页面到标记的阅读。",
     "developerName": "PANews",
-    "category": "News",
+    "category": "工具与集成",
     "capabilities": [
-      "Read",
-      "Write",
-      "Interactive"
+      "适用场景：加密和区块链新闻发现"
     ],
     "websiteURL": "https://www.panewslab.com/en/",
     "privacyPolicyURL": "https://www.panewslab.com/en/privacy-policy",
     "termsOfServiceURL": "https://www.panewslab.com/en/user-agreement",
     "defaultPrompt": [
-      "What are the biggest crypto stories today?",
-      "Show me the latest Polymarket smart money boards.",
-      "Help me publish this article to PANews.",
-      "Read this PANews page as Markdown."
+      "使用 PANews Agent Toolkit 帮我：加密和区块链新闻发现"
     ],
     "brandColor": "#0F7BFF"
   }

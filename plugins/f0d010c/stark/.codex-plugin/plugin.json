@@ -1,7 +1,7 @@
 {
   "name": "stark",
   "version": "0.7.2",
-  "description": "UI/UX design plugin for AI coding agents. Routes product flow, platform idiom, originality, motion, assets, and tokens before implementation.",
+  "description": "面向AI编码代理的UI/UX设计插件，具有产品流程路由、平台原生界面指导、资产规划和代码前发货参考分析。",
   "author": {
     "name": "stark contributors",
     "url": "https://github.com/f0d010c/stark"
@@ -25,24 +25,17 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "stark",
-    "shortDescription": "Multi-platform UI/UX design skills for AI coding agents.",
-    "longDescription": "stark helps AI coding agents design from product flow, platform, native/cross-platform track, originality, assets, motion, and reference analysis before generating code. It includes UX, web, Windows, Apple, Android, cross-platform design, design-token skills, references, commands, curated proof assets, and small helper scripts.",
+    "displayName": "stark · 面向AI编码代理的UI/UX设计插件",
+    "shortDescription": "面向AI编码代理的UI/UX设计插件",
+    "longDescription": "面向AI编码代理的UI/UX设计插件，具有产品流程路由、平台原生界面指导、资产规划和代码前发货参考分析。",
     "developerName": "stark contributors",
-    "category": "Development & Workflow",
+    "category": "开发与工作流",
     "capabilities": [
-      "Design",
-      "UX",
-      "Code Generation",
-      "Audit",
-      "Reference",
-      "Frontend"
+      "适用场景：面向AI编码代理的UI/UX设计插件"
     ],
     "websiteURL": "https://github.com/f0d010c/stark",
     "defaultPrompt": [
-      "Design a non-generic landing page.",
-      "Make this desktop app actually original.",
-      "Audit and improve this product flow."
+      "使用 stark 帮我：面向AI编码代理的UI/UX设计插件"
     ],
     "brandColor": "#111111"
   }

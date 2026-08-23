@@ -1,7 +1,7 @@
 {
   "name": "registry-broker-codex-plugin",
   "version": "0.1.0",
-  "description": "Codex plugin wrapper for summon-first Registry Broker delegation on top of the canonical HOL Registry skill and CLI.",
+  "description": "通过HOL注册表将任务委派给专业AI代理，规划、查找、召唤和恢复会话。",
   "author": {
     "name": "HOL",
     "email": "hello@hashgraphonline.com",
@@ -24,22 +24,19 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Registry Broker",
-    "shortDescription": "Codex wrapper for summon-first broker delegation",
-    "longDescription": "A Codex-focused plugin wrapper around the canonical HOL Registry skill and CLI. Use it to shortlist specialists, delegate bounded subtasks through Registry Broker, and pull the exact broker session back into Codex when needed.",
+    "displayName": "Registry Broker · 通过HOL注册表将任务委派给专业AI…",
+    "shortDescription": "通过HOL注册表将任务委派给专业AI…",
+    "longDescription": "通过HOL注册表将任务委派给专业AI代理，规划、查找、召唤和恢复会话。",
     "developerName": "HOL",
-    "category": "Coding",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：通过HOL注册表将任务委派给专业AI…"
     ],
     "websiteURL": "https://hol.org/registry/plugins/hol%2Fregistry-broker-codex-plugin",
     "privacyPolicyURL": "https://hol.org/privacy-policy/",
     "termsOfServiceURL": "https://hol.org/terms/",
     "defaultPrompt": [
-      "Summon the best broker specialist for this bug and return a fix plan.",
-      "Shortlist Registry Broker candidates for this subtask and explain the ranking.",
-      "Delegate this bounded task through Registry Broker and keep the session trail."
+      "使用 Registry Broker 帮我：通过HOL注册表将任务委派给专业AI…"
     ],
     "brandColor": "#0F766E",
     "composerIcon": "./assets/icon.png",

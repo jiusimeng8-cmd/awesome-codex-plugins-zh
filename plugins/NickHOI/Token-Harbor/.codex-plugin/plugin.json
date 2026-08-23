@@ -1,7 +1,7 @@
 {
   "name": "token-harbor",
   "version": "0.1.0",
-  "description": "Turn Codex usage into航力 and grow one shared harbor world while agents work.",
+  "description": "将Codex代币的使用转化为Sail Power ，为本地首创的钓鱼、船队和港口建设配套游戏。",
   "homepage": "https://github.com/NickHOI/Token-Harbor",
   "repository": "https://github.com/NickHOI/Token-Harbor",
   "license": "MIT",
@@ -17,19 +17,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Token Harbor",
-    "shortDescription": "Let every Codex task grow your shared harbor world.",
-    "longDescription": "Token Harbor quietly converts local Codex token usage into航力. Spend it during agent wait time to open ports, launch voyages, complete orders, and grow one persistent archipelago shared by every project.",
+    "displayName": "Token Harbor · 将Codex代币的使用转化为Sail…",
+    "shortDescription": "将Codex代币的使用转化为Sail…",
+    "longDescription": "将Codex代币的使用转化为Sail Power ，为本地首创的钓鱼、船队和港口建设配套游戏。",
     "developerName": "Token Harbor",
-    "category": "Productivity",
+    "category": "工具与集成",
     "capabilities": [
-      "Local data",
-      "Game",
-      "Codex status"
+      "适用场景：将Codex代币的使用转化为Sail…"
     ],
     "defaultPrompt": [
-      "Open my Token Harbor.",
-      "Show my harbor status and available 航力."
+      "使用 Token Harbor 帮我：将Codex代币的使用转化为Sail…"
     ],
     "brandColor": "#0B6E75",
     "websiteURL": "https://github.com/NickHOI/Token-Harbor",

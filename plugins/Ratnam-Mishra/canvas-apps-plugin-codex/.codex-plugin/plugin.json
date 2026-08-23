@@ -1,7 +1,7 @@
 {
   "name": "canvas-apps-plugin-codex",
   "version": "1.0.0",
-  "description": "Build and edit Power Apps Canvas Apps from natural language using Codex and the Canvas Authoring MCP server.",
+  "description": "使用自然语言和Canvas Authoring MCP服务器构建和编辑Microsoft Power Apps Canvas应用。",
   "author": {
     "name": "Ratnam Mishra"
   },
@@ -14,20 +14,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Canvas Apps",
-    "shortDescription": "Power Apps Canvas App generation and editing",
-    "longDescription": "Generate, edit, and validate Power Apps Canvas Apps through Codex skills backed by the Canvas Authoring MCP server and .pa.yaml source files.",
+    "displayName": "Canvas Apps · 使用自然语言和Canvas Auth…",
+    "shortDescription": "使用自然语言和Canvas Auth…",
+    "longDescription": "使用自然语言和Canvas Authoring MCP服务器构建和编辑Microsoft Power Apps Canvas应用。",
     "developerName": "Ratnam Mishra",
-    "category": "Developer Tools",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：使用自然语言和Canvas Auth…"
     ],
     "defaultPrompt": [
-      "Configure the Canvas Authoring MCP server",
-      "Generate a Power Apps canvas app from requirements",
-      "Edit an existing canvas app from Studio"
+      "使用 Canvas Apps 帮我：使用自然语言和Canvas Auth…"
     ],
     "brandColor": "#0078D4",
     "composerIcon": "./assets/plugin-icon.svg",

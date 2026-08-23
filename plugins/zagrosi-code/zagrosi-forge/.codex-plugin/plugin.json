@@ -1,7 +1,7 @@
 {
   "name": "zagrosi-forge",
   "version": "0.2.0",
-  "description": "Zagrosi Forge Codex-native project decomposition, planning, quality gates, traceability, and TDD implementation skills.",
+  "description": "将广泛的项目简介分解为研究计划，并使用TDD、质量门槛和可追溯性实施分段工作。",
   "author": {
     "name": "Zagrosi",
     "url": "https://github.com/zagrosi-code"
@@ -20,23 +20,20 @@
   "skills": "./skills/",
   "scripts": "./scripts/",
   "interface": {
-    "displayName": "Zagrosi Forge",
-    "shortDescription": "Plan and implement complex work with TDD",
-    "longDescription": "Zagrosi Forge provides three Codex-native workflows: decompose broad chat ideas or project briefs into focused specs, create reviewed TDD implementation plans, and implement generated sections with tests, review, documentation, git hygiene, quality gates, traceability, risk registers, decision logs, and Forge helper checks.",
+    "displayName": "Zagrosi Forge · 将广泛的项目简介分解为研究计划",
+    "shortDescription": "将广泛的项目简介分解为研究计划",
+    "longDescription": "将广泛的项目简介分解为研究计划，并使用TDD、质量门槛和可追溯性实施分段工作。",
     "developerName": "Zagrosi",
-    "category": "Coding",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：将广泛的项目简介分解为研究计划"
     ],
     "composerIcon": "./assets/icon.svg",
     "websiteURL": "https://github.com/zagrosi-code/zagrosi-forge",
     "privacyPolicyURL": "https://github.com/zagrosi-code/zagrosi-forge",
     "termsOfServiceURL": "https://github.com/zagrosi-code/zagrosi-forge",
     "defaultPrompt": [
-      "Use $zagrosi-forge:zagrosi-project to split this project idea into planning specs",
-      "Use $zagrosi-forge:zagrosi-plan to create a reviewed TDD implementation plan",
-      "Use $zagrosi-forge:zagrosi-implement to build these sections with TDD"
+      "使用 Zagrosi Forge 帮我：将广泛的项目简介分解为研究计划"
     ],
     "brandColor": "#0F766E",
     "screenshots": [

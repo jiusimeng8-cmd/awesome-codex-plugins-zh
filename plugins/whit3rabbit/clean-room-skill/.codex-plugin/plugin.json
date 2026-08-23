@@ -1,7 +1,7 @@
 {
   "name": "clean-room",
   "version": "0.8.0",
-  "description": "Spec-first clean-room workflow for authorized source analysis without replacement code.",
+  "description": "规范第一的洁净室工作流程，用于授权源分析、行为规范、角色分离和验证，无需更换代码。",
   "author": {
     "name": "whit3rabbit"
   },
@@ -17,19 +17,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Clean Room",
-    "shortDescription": "Produce clean-room behavioral specs",
-    "longDescription": "Guides spec-first clean-room workflows that separate contaminated source analysis from clean behavioral specifications, skeleton manifests, QC reports, and test plans. Writes clean specification artifacts only. Does not generate replacement implementation code.",
+    "displayName": "Clean Room · 规范第一的洁净室工作流程",
+    "shortDescription": "规范第一的洁净室工作流程",
+    "longDescription": "规范第一的洁净室工作流程，用于授权源分析、行为规范、角色分离和验证，无需更换代码。",
     "developerName": "whit3rabbit",
-    "category": "Development",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：规范第一的洁净室工作流程"
     ],
     "defaultPrompt": [
-      "Create a clean-room spec package for this authorized source scope.",
-      "Review these clean-room spec artifacts for leakage, coverage gaps, and schema conformance.",
-      "Organize these behavioral specs into a clean skeleton manifest."
+      "使用 Clean Room 帮我：规范第一的洁净室工作流程"
     ],
     "brandColor": "#0F766E",
     "composerIcon": "./assets/icon.svg"

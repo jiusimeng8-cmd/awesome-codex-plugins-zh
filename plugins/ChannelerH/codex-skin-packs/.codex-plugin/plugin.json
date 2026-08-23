@@ -1,7 +1,7 @@
 {
   "name": "codex-skin-pack-installer",
   "version": "0.1.0",
-  "description": "Install and stage verified public-safe Codex desktop skin packs with validation and restore guidance.",
+  "description": "Codex插件和Skill ，从GitHub版本中分阶段验证桌面皮肤包，验证文件，并保持恢复指导可见。",
   "author": {
     "name": "ChannelerH",
     "url": "https://github.com/ChannelerH"
@@ -22,21 +22,17 @@
   ],
   "skills": "./skills",
   "interface": {
-    "displayName": "Codex Skin Pack Installer",
-    "shortDescription": "Install verified Codex desktop skin packs.",
-    "longDescription": "Stages public-safe Codex desktop skin packs from GitHub releases, validates theme.json/background.png, avoids private screenshots, and keeps restore guidance visible before finishing.",
+    "displayName": "Codex Skin Pack Installer · Codex插件和Skill",
+    "shortDescription": "Codex插件和Skill",
+    "longDescription": "Codex插件和Skill ，从GitHub版本中分阶段验证桌面皮肤包，验证文件，并保持恢复指导可见。",
     "developerName": "ChannelerH",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Codex Skill",
-      "Theme Install",
-      "Restore Guidance"
+      "适用场景：Codex插件和Skill"
     ],
     "websiteURL": "https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-pack-installer",
     "defaultPrompt": [
-      "Install the caishen-readable Codex skin pack.",
-      "List available Codex skin packs.",
-      "Restore my default Codex appearance."
+      "使用 Codex Skin Pack Installer 帮我：Codex插件和Skill"
     ],
     "brandColor": "#D98B2B"
   }

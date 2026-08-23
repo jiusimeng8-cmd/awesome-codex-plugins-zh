@@ -96,10 +96,10 @@ For each `${PERM_NAME}` in `$MISSING`:
 ```
 AskUserQuestion({
   questions: [{
-    question: `${PERM_NAME} is not granted. Enable the terminal entry under System Settings > Privacy & Security, then confirm.`,
-    header: "Zugriff",
+    question: `${PERM_NAME} permission is required but not granted. Open System Settings > Privacy & Security > ${PERM_NAME}, enable the terminal entry, then confirm here.`,
+    header: `Missing Permission: ${PERM_NAME}`,
     options: [
-      { label: "Granted — continue (Recommended)", description: "I enabled the terminal entry in that pane — the driver then checks again and carries on if the grant took effect." },
+      { label: "Granted — continue (Recommended)", description: `I have enabled ${PERM_NAME} in System Settings.` },
       { label: "Skip this run", description: "Abort peekaboo-driver. Test-runner will record a framework-error finding." }
     ],
     multiSelect: false

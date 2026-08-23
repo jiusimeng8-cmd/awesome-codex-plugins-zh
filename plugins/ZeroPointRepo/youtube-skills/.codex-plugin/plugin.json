@@ -1,7 +1,7 @@
 {
   "name": "youtube-skills",
   "version": "1.0.0",
-  "description": "Twelve drop-in agent skills for YouTube transcripts, captions, subtitles, video and channel search, playlists and channel browsing, powered by the TranscriptAPI service.",
+  "description": "通过TranscriptAPI服务进行YouTube文字记录、带时间戳的字幕和字幕、视频和频道搜索、播放列表和频道浏览的十二项代理技能。",
   "author": {
     "name": "Zero Point Studio",
     "email": "hello@transcriptapi.com",
@@ -23,19 +23,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "YouTube Skills by TranscriptAPI",
-    "shortDescription": "YouTube transcripts, captions, search and channel data as agent skills.",
-    "longDescription": "A set of twelve agent skills that give any skills-compatible agent reliable access to YouTube video transcripts, timestamped captions and subtitles, video and channel search, playlist contents and within-channel search through the TranscriptAPI service. Each skill ships with trigger vocabulary, exact API usage and error handling, so agents call the right endpoint on the first try. Sign up at transcriptapi.com for an API key (100 free credits, no card, one-time). TranscriptAPI is a third-party, independent service. It is not affiliated with, endorsed by, or sponsored by YouTube or Google.",
+    "displayName": "YouTube Skills by TranscriptAPI · 通过TranscriptAPI服务进…",
+    "shortDescription": "通过TranscriptAPI服务进…",
+    "longDescription": "通过TranscriptAPI服务进行YouTube文字记录、带时间戳的字幕和字幕、视频和频道搜索、播放列表和频道浏览的十二项代理技能。",
     "developerName": "Zero Point Studio",
-    "category": "Productivity",
+    "category": "工具与集成",
     "capabilities": [
-      "Read",
-      "Interactive"
+      "适用场景：通过TranscriptAPI服务进…"
     ],
     "defaultPrompt": [
-      "Summarize this YouTube video for me.",
-      "Get the transcript of this YouTube link.",
-      "Find recent videos about a topic and pull their transcripts."
+      "使用 YouTube Skills by TranscriptAPI 帮我：通过TranscriptAPI服务进…"
     ],
     "composerIcon": "./assets/icon.svg",
     "brandColor": "#CC2F02",

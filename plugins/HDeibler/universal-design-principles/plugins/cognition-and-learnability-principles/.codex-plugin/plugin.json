@@ -1,7 +1,7 @@
 {
   "name": "cognition-and-learnability-principles",
   "version": "1.0.0",
-  "description": "Framework-agnostic design principles for cognition, mental models, complexity reduction, and learnability. Covers Hick's Law, Wayfinding, Progressive Disclosure, 80/20 Rule, Chunking, Mental Model, Recognition Over Recall, Consistency, Mimicry, and Iconic Representation.",
+  "description": "跨代理用户体验和产品设计市场，具有根Codex集合插件、五个重点插件捆绑包和137个代理技能，用于设计评审、可访问性、布局、交互、认知和产品优化。",
   "author": {
     "name": "Hunter D",
     "email": "hunterd107@gmail.com"
@@ -21,15 +21,14 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Cognition & Learnability Principles",
-    "shortDescription": "Mental models, memory load, complexity, and learnability.",
+    "displayName": "Cognition & Learnability Principles · 跨代理用户体验和产品设计市场",
+    "shortDescription": "跨代理用户体验和产品设计市场",
     "developerName": "Hunter D",
-    "category": "Design",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：跨代理用户体验和产品设计市场"
     ],
-    "longDescription": "Framework-agnostic design principles for cognition, mental models, complexity reduction, and learnability. Covers Hick's Law, Wayfinding, Progressive Disclosure, 80/20 Rule, Chunking, Mental Model, Recognition Over Recall, Consistency, Mimicry, and Iconic Representation.",
+    "longDescription": "跨代理用户体验和产品设计市场，具有根Codex集合插件、五个重点插件捆绑包和137个代理技能，用于设计评审、可访问性、布局、交互、认知和产品优化。",
     "websiteURL": "https://github.com/HDeibler/universal-design-principles"
   }
 }

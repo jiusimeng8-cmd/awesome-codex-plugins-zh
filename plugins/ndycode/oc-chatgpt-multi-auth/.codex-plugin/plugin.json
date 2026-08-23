@@ -1,9 +1,13 @@
 {
   "name": "oc-codex-multi-auth",
-  "version": "6.14.0",
-  "description": "Install and operate oc-codex-multi-auth for OpenCode with ChatGPT Plus/Pro OAuth, Codex/GPT-5 routing, multi-account rotation, account switching, health checks, diagnostics, quota status, and recovery tools.",
+  "version": "6.13.0",
+  "description": "用于ChatGPT Plus/Pro OAuth、GPT-5/Codex预设和多帐户故障转移的Codex设置技能和OpenCode插件。",
   "skills": "./skills/",
   "interface": {
-    "composerIcon": "./assets/icon.svg"
+    "composerIcon": "./assets/icon.svg",
+    "displayName": "OC ChatGPT Multi Auth · 用于ChatGPT Plus/Pro…",
+    "shortDescription": "用于ChatGPT Plus/Pro…",
+    "longDescription": "用于ChatGPT Plus/Pro OAuth、GPT-5/Codex预设和多帐户故障转移的Codex设置技能和OpenCode插件。",
+    "category": "工具与集成"
   }
 }

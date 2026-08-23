@@ -36,11 +36,6 @@ interface DrawWinner {
   isBackup: boolean;
 }
 
-interface DrawDetails {
-  draw: Draw;
-  winners: DrawWinner[];
-}
-
 interface DrawList {
   draws: DrawListItem[];
   hasMore: boolean;

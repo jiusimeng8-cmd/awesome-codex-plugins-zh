@@ -1,5 +1,6 @@
 {
   "name": "prompt-to-asset",
   "version": "0.1.0",
-  "entry": "packages/mcp-server/dist/index.js"
+  "entry": "packages/mcp-server/dist/index.js",
+  "description": "通过单个MCP界面将图像生成提示路由到30多个模型（ DALL-E、稳定扩散、Flux、Midjourney等）。Install: `npm install -g prompt-to-asset`."
 }

@@ -1,6 +1,6 @@
 {
   "name": "workflow-kit",
-  "description": "Full product lifecycle plugin: define Vision/Mission/Core → generate workplan → execute with reviewer agents → synthesize deliverables → maintain.",
+  "description": "适用于Claude Code、Codex CLI和OpenCode的完整产品生命周期插件：定义Vision/Mission/Core→生成工作计划使用强制性跨提供商审核员代理→执行→综合交付件→维护，并具有并行任务执行、崩溃恢复和AgentOps指标。",
   "version": "0.2.0",
   "author": {
     "name": "Le Xuan Thang",
@@ -17,15 +17,14 @@
   ],
   "composerIcon": "./assets/icon.svg",
   "interface": {
-    "displayName": "Workflow Kit",
-    "shortDescription": "Full product lifecycle: Vision → Plan → Build → Ship → Maintain",
+    "displayName": "Workflow Kit · 适用于Claude Code",
+    "shortDescription": "适用于Claude Code",
     "developerName": "Le Xuan Thang",
-    "category": "Coding",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：适用于Claude Code"
     ],
-    "brandColor": "#6366F1"
+    "brandColor": "#6366F1",
+    "longDescription": "适用于Claude Code、Codex CLI和OpenCode的完整产品生命周期插件：定义Vision/Mission/Core→生成工作计划使用强制性跨提供商审核员代理→执行→综合交付件→维护，并具有并行任务执行、崩溃恢复和AgentOps指标。"
   }
 }

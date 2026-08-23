@@ -1,7 +1,7 @@
 {
   "name": "skill-sync-publisher",
   "version": "0.1.0",
-  "description": "Safely synchronize a Codex skill across GitHub and public agent-skill registries.",
+  "description": "在公共代理技能注册表之间安全地同步此Codex技能。",
   "author": {
     "name": "liuyewang",
     "url": "https://github.com/liuyewang"
@@ -18,21 +18,17 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Skill Sync Publisher",
-    "shortDescription": "Publish skills safely across registries",
-    "longDescription": "Validate a local skill, remember platform choices, gate authentication, and synchronize the source across GitHub and public agent-skill registries with dry-runs and resumable status.",
+    "displayName": "Skill Sync Publisher · 在公共代理技能注册表之间安全地同步此…",
+    "shortDescription": "在公共代理技能注册表之间安全地同步此…",
+    "longDescription": "在公共代理技能注册表之间安全地同步此Codex技能。",
     "developerName": "liuyewang",
-    "category": "Developer Tools",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：在公共代理技能注册表之间安全地同步此…"
     ],
     "websiteURL": "https://github.com/liuyewang/skill-sync-publisher",
     "defaultPrompt": [
-      "Preflight this skill and show a multi-platform sync plan",
-      "Synchronize this skill to its enabled registries",
-      "Show which registry submissions are blocked or pending"
+      "使用 Skill Sync Publisher 帮我：在公共代理技能注册表之间安全地同步此…"
     ],
     "brandColor": "#2563EB",
     "composerIcon": "./assets/skill-sync-publisher.svg",

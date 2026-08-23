@@ -1,5 +1,5 @@
 {
   "name": "espresso",
-  "description": "Concentrated output + full token-saving stack. Zero fluff, max power per token.",
+  "description": "在一个插件中完全保存令牌堆栈-输出压缩，全局规则， RTK挂钩， Caveman ultra ， GitNexus配置。检测现有设置，仅安装缺少的设置。从事Claude Code和Codex的工作。",
   "hooks": "./hooks/hooks.json"
 }

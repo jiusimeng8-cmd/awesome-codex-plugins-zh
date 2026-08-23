@@ -1,7 +1,7 @@
 {
   "name": "tokrepo-search",
   "version": "1.0.0",
-  "description": "Search and install AI assets from TokRepo using a bundled skill and MCP server.",
+  "description": "使用捆绑的技能和Codex的MCP服务器从TokRepo搜索和安装AI资产。",
   "author": {
     "name": "henu-wang",
     "url": "https://github.com/henu-wang"
@@ -21,14 +21,13 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "TokRepo Search",
-    "shortDescription": "Search TokRepo from Codex",
-    "longDescription": "Search and install community-maintained skills, prompts, MCP configs, and workflows from TokRepo with a bundled Codex skill and MCP server.",
+    "displayName": "TokRepo Search · 使用捆绑的技能和Codex的MCP服…",
+    "shortDescription": "使用捆绑的技能和Codex的MCP服…",
+    "longDescription": "使用捆绑的技能和Codex的MCP服务器从TokRepo搜索和安装AI资产。",
     "developerName": "henu-wang",
-    "category": "Developer Tools",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive",
-      "Read"
+      "适用场景：使用捆绑的技能和Codex的MCP服…"
     ],
     "websiteURL": "https://github.com/henu-wang/tokrepo-codex-plugin",
     "defaultPrompt": "Find an installable Codex skill or MCP server for my task using TokRepo."

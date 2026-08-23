@@ -1,7 +1,7 @@
 {
   "name": "falsegreen-skill",
   "version": "0.8.2",
-  "description": "LLM-based semantic analysis for false-positive test detection. Applies the J1-J6 judgment framework across Python, TypeScript, JavaScript, and Robot Framework, plus semantic patterns no static tool can see.",
+  "description": "查找在其覆盖的代码损坏时保持绿色的测试，在Codex CLI和Claude Code中对Python、TypeScript、JavaScript和机器人框架套件应用六个有序判断。",
   "author": {
     "name": "Vinicius Queiroz",
     "url": "https://github.com/vinicq"
@@ -21,22 +21,21 @@
     "robotframework"
   ],
   "interface": {
-    "displayName": "falsegreen-skill",
-    "shortDescription": "Detect false-positive tests with the J1-J6 judgment framework",
+    "displayName": "falsegreen-skill · 查找在其覆盖的代码损坏时保持绿色的测…",
+    "shortDescription": "查找在其覆盖的代码损坏时保持绿色的测…",
     "composerIcon": "./assets/icon.svg",
     "logo": "./assets/icon.svg",
     "developerName": "Vinicius Queiroz",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：查找在其覆盖的代码损坏时保持绿色的测…"
     ],
     "websiteURL": "https://vinicq.github.io/falsegreen-docs/",
     "privacyPolicyURL": "https://github.com/vinicq/falsegreen-skill/blob/master/PRIVACY.md",
     "termsOfServiceURL": "https://github.com/vinicq/falsegreen-skill/blob/master/LICENSE",
-    "longDescription": "falsegreen-skill applies six structural judgments (J1-J6) to each test to determine whether it can actually fail when the code breaks. Covers the full falsegreen catalog for Python, TypeScript, JavaScript, and Robot Framework, plus semantic patterns only an LLM can detect. Provides HIGH/LOW confidence findings with evidence and fix hints.",
-    "category": "code-quality",
+    "longDescription": "查找在其覆盖的代码损坏时保持绿色的测试，在Codex CLI和Claude Code中对Python、TypeScript、JavaScript和机器人框架套件应用六个有序判断。",
+    "category": "开发与工作流",
     "defaultPrompt": [
-      "Analyze this test file for false-positive smells"
+      "使用 falsegreen-skill 帮我：查找在其覆盖的代码损坏时保持绿色的测…"
     ]
   }
 }

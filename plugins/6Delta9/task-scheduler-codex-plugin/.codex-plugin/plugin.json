@@ -1,7 +1,7 @@
 {
   "name": "task-scheduler",
   "version": "0.2.0",
-  "description": "Turn deadlines, workload, and blockers into a realistic task schedule.",
+  "description": "OpenAI Codex插件和本地MCP服务器，用于将任务列表转换为具有阻止日期、容量覆盖、溢出跟踪和降价计划输出的现实计划。",
   "author": {
     "name": "zeyad elsharkawy",
     "email": "opensource@6delta9.dev",
@@ -21,24 +21,19 @@
   "mcpServers": "./.mcp.json",
   "apps": "./.app.json",
   "interface": {
-    "displayName": "Task Scheduler",
-    "shortDescription": "Build realistic schedules from tasks, deadlines, and capacity.",
-    "longDescription": "Task Scheduler turns raw tasks into a day-by-day plan with workload balancing, blocked dates, overflow tracking, and reusable MCP tools.",
+    "displayName": "Task Scheduler · OpenAI Codex插件和本地M…",
+    "shortDescription": "OpenAI Codex插件和本地M…",
+    "longDescription": "OpenAI Codex插件和本地MCP服务器，用于将任务列表转换为具有阻止日期、容量覆盖、溢出跟踪和降价计划输出的现实计划。",
     "developerName": "zeyad elsharkawy",
-    "category": "Productivity",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive",
-      "Write",
-      "Automation",
-      "Planning"
+      "适用场景：OpenAI Codex插件和本地M…"
     ],
     "websiteURL": "https://github.com/6Delta9/task-scheduler-codex-plugin",
     "privacyPolicyURL": "https://github.com/6Delta9/task-scheduler-codex-plugin/blob/main/PRIVACY.md",
     "termsOfServiceURL": "https://github.com/6Delta9/task-scheduler-codex-plugin/blob/main/TERMS.md",
     "defaultPrompt": [
-      "Use Task Scheduler to plan my week around deadlines and blocked days.",
-      "Use Task Scheduler to turn this task list into a realistic schedule.",
-      "Use Task Scheduler to spot overflow and capacity risks in this plan."
+      "使用 Task Scheduler 帮我：OpenAI Codex插件和本地M…"
     ],
     "brandColor": "#0F766E",
     "composerIcon": "./assets/icon.png",

@@ -1,7 +1,7 @@
 {
   "name": "codex-reviewer",
   "version": "0.9.0",
-  "description": "External reviewer for feature plans and implementations. Posts reviews directly on GitHub PRs via gh CLI.",
+  "description": "对Claude驱动的计划和实施进行二次审核。",
   "author": {
     "name": "schuettc",
     "url": "https://github.com/schuettc"
@@ -17,19 +17,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Codex Reviewer",
-    "shortDescription": "Second-pass review for Claude-driven work.",
-    "longDescription": "Review feature plans and implementations with a findings-first Codex pass. Posts reviews directly on GitHub draft PRs.",
+    "displayName": "Codex Reviewer · 对Claude驱动的计划和实施进行二…",
+    "shortDescription": "对Claude驱动的计划和实施进行二…",
+    "longDescription": "对Claude驱动的计划和实施进行二次审核。",
     "developerName": "schuettc",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Reviews feature plans before implementation",
-      "Reviews feature implementations against the plan",
-      "Posts verdicts and inline findings on GitHub draft PRs"
+      "适用场景：对Claude驱动的计划和实施进行二…"
     ],
     "defaultPrompt": [
-      "Review the plan at <pr-url> for feature <id>.",
-      "Review the implementation at <pr-url> for feature <id>."
+      "使用 Codex Reviewer 帮我：对Claude驱动的计划和实施进行二…"
     ],
     "brandColor": "#0F766E"
   }

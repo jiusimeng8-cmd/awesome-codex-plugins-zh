@@ -1,7 +1,7 @@
 {
   "name": "ophis",
   "version": "0.1.0",
-  "description": "Onchain token swaps for AI agents via the hosted Ophis MCP server: MEV-protected, gasless, keyless, built on CoW Protocol.",
+  "description": "Onchain代币通过托管的Ophis MCP服务器交换Codex ， MEV保护和无气体，基于CoW协议构建。",
   "author": {
     "name": "Ophis",
     "email": "contact@ophis.fi",
@@ -25,11 +25,11 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Ophis",
-    "shortDescription": "Onchain swaps via the hosted Ophis MCP server: MEV-protected, gasless, keyless.",
-    "longDescription": "Ophis gives a Codex agent onchain token swaps across 12 EVM chains through the hosted Ophis MCP server (14 tools) plus the ophis-swap workflow skill. Swaps are MEV-protected, gasless for the trader, keyless, and non-custodial: the server builds an unsigned order, the agent signs it, and the receiver is pinned to the signer. Built on CoW Protocol. This is Ophis the DEX (ophis.fi), not njayp/ophis, an unrelated Go MCP library.",
+    "displayName": "Ophis · Onchain代币通过托管的Ophi…",
+    "shortDescription": "Onchain代币通过托管的Ophi…",
+    "longDescription": "Onchain代币通过托管的Ophis MCP服务器交换Codex ， MEV保护和无气体，基于CoW协议构建。",
     "developerName": "Ophis",
-    "category": "Tools & Integrations",
+    "category": "工具与集成",
     "websiteURL": "https://ophis.fi",
     "composerIcon": "./assets/icon.svg"
   }

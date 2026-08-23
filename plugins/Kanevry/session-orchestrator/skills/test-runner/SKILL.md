@@ -216,11 +216,11 @@ Group `medium` and `low` findings and present via a single `AskUserQuestion` cal
 AskUserQuestion({
   questions: [{
     question: `<N> medium/low findings to triage. How to handle?`,
-    header: "Triage",
+    header: "Test-runner triage",
     options: [
       {
         label: "Create all (Recommended)",
-        description: "Files <N> new issues at once, all with label from:test-runner — fastest, and you can still close any of them afterwards."
+        description: "File <N> new issues, all with label from:test-runner"
       },
       {
         label: "Review each",

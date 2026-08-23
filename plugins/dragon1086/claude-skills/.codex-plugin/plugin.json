@@ -1,7 +1,7 @@
 {
   "name": "tool-advisor",
   "version": "3.5.1",
-  "description": "Meta-skill that discovers your full tool environment (MCP servers, skills, plugins, CLI) and suggests optimal tool compositions as non-binding options. Amplifies prompts with capability awareness; never replaces model judgment.",
+  "description": "只读元技能，可扫描您的MCP服务器、技能、插件和CLI工具，然后使用复制粘贴快速操作表建议最多三种排名方法（有条理/快速/深入）。",
   "author": {
     "name": "dragon1086",
     "url": "https://github.com/dragon1086"
@@ -23,21 +23,19 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Tool Advisor",
-    "shortDescription": "Discover tools and suggest best workflows",
-    "longDescription": "Tool Advisor is a read-only meta-skill that scans your active environment — MCP servers, skills, plugins, CLI tools — and produces up to three ranked approach options (Methodical / Fast / Deep) for any task, with a Quick Action table of copy-paste first steps. Iron rules prevent advisor-to-executor drift: it never edits, installs, or executes. Designed as a cross-agent amplifier for Claude Code and Codex power users who want faster, better-informed tool selection without giving up control.",
+    "displayName": "Tool Advisor · 只读元技能",
+    "shortDescription": "只读元技能",
+    "longDescription": "只读元技能，可扫描您的MCP服务器、技能、插件和CLI工具，然后使用复制粘贴快速操作表建议最多三种排名方法（有条理/快速/深入）。",
     "developerName": "dragon1086",
-    "category": "Productivity",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive"
+      "适用场景：只读元技能"
     ],
     "websiteURL": "https://github.com/dragon1086/claude-skills",
     "privacyPolicyURL": "https://github.com/dragon1086/claude-skills/blob/main/LICENSE",
     "termsOfServiceURL": "https://github.com/dragon1086/claude-skills/blob/main/LICENSE",
     "defaultPrompt": [
-      "Use $tool-advisor to analyze this task and suggest the best tool composition.",
-      "tool-advisor, how should I tackle this refactor?",
-      "What's the best approach for this migration? Use tool-advisor."
+      "使用 Tool Advisor 帮我：只读元技能"
     ],
     "brandColor": "#0F766E"
   }

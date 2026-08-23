@@ -1,7 +1,7 @@
 {
   "name": "storyflo-codex-plugin",
   "version": "0.1.0",
-  "description": "Codex plugin wrapping storyflo's hosted MCP server — an agentic newsroom for narrated briefings, the news-versus-prediction-market Divergence Index, the declassified archive, and vertical intelligence.",
+  "description": "代理新闻编辑室位于托管的MCP服务器上，提供叙述式简报、新闻与预测市场分歧指数和可搜索的解密档案。",
   "author": {
     "name": "Storyflo",
     "email": "story@storyflo.com",
@@ -24,13 +24,13 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Storyflo",
-    "shortDescription": "Agentic newsroom MCP: narrated briefings, news-vs-market Divergence Index, and a declassified archive.",
-    "longDescription": "storyflo is an agentic newsroom exposed to Codex over a hosted MCP server. Use it to pull narrated daily and vertical briefings, read the Divergence Index (a qualitative signal of where the news narrative is diverging from prediction-market sentiment), search the declassified archive of released intelligence cases, and surface market-linked stories, trending topics, and podcasts. Every response is source-grounded editorial context, not raw market odds.",
+    "displayName": "Storyflo · 代理新闻编辑室位于托管的MCP服务器…",
+    "shortDescription": "代理新闻编辑室位于托管的MCP服务器…",
+    "longDescription": "代理新闻编辑室位于托管的MCP服务器上，提供叙述式简报、新闻与预测市场分歧指数和可搜索的解密档案。",
     "developerName": "Storyflo",
-    "category": "Research",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive"
+      "适用场景：代理新闻编辑室位于托管的MCP服务器…"
     ],
     "websiteURL": "https://www.storyflo.com",
     "privacyPolicyURL": "https://www.storyflo.com/privacy",
@@ -42,9 +42,7 @@
       "./assets/screenshot-storyflo.png"
     ],
     "defaultPrompt": [
-      "Pull today's storyflo daily briefing and summarize the top stories as a narrated digest.",
-      "Read the storyflo Divergence Index and tell me where the news narrative is diverging from prediction-market sentiment right now.",
-      "Search the storyflo declassified archive for recently released intelligence cases on this topic and open the most relevant one."
+      "使用 Storyflo 帮我：代理新闻编辑室位于托管的MCP服务器…"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "agent-vision",
   "version": "1.5.0",
-  "description": "macOS-only plugin for explicit local camera frames.",
+  "description": "仅限macOS的本地摄像头插件，用于显式快照、流控件和文件支持的图像输入。",
   "author": {
     "name": "Velocity Works",
     "email": "velocityworks@users.noreply.github.com",
@@ -24,21 +24,19 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Agent Vision",
-    "shortDescription": "Give Codex explicit local camera frames on macOS.",
-    "longDescription": "Agent Vision is a macOS-only plugin that exposes the built-in camera through a native AVFoundation capture app and a local JPEG materialization path. Codex can save an explicitly requested JPEG frame without browser camera hacks, cloud camera services, or an idle camera-capable background process.",
+    "displayName": "Agent Vision · 仅限macOS的本地摄像头插件",
+    "shortDescription": "仅限macOS的本地摄像头插件",
+    "longDescription": "仅限macOS的本地摄像头插件，用于显式快照、流控件和文件支持的图像输入。",
     "developerName": "Velocity Works",
-    "category": "Productivity",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive",
-      "Read"
+      "适用场景：仅限macOS的本地摄像头插件"
     ],
     "websiteURL": "https://github.com/zfifteen/agent-vision",
     "privacyPolicyURL": "https://github.com/zfifteen/agent-vision/blob/main/PRIVACY.md",
     "termsOfServiceURL": "https://github.com/zfifteen/agent-vision/blob/main/LICENSE",
     "defaultPrompt": [
-      "/agent-vision snapshot",
-      "/agent-vision roast"
+      "使用 Agent Vision 帮我：仅限macOS的本地摄像头插件"
     ],
     "brandColor": "#00D4FF",
     "composerIcon": "./assets/composer-icon.png",

@@ -1,7 +1,7 @@
 {
   "name": "codiris-agentizer",
   "version": "2.1.1",
-  "description": "Turn any website into an AI-powered agentfront — crawl, generate, deploy in one command.",
+  "description": "使用分割窗格，将任何网站变成人工智能驱动的代理前台",
   "author": {
     "name": "Iris Lab",
     "email": "hello@codiris.app",
@@ -23,27 +23,19 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Codiris Agentizer",
-    "shortDescription": "Transform any website into an AI-powered agentfront",
-    "longDescription": "Codiris Agentizer crawls any website, analyzes the company (market, products, customers), downloads real images, generates a full Next.js agentfront with AI chat, voice calls, 3D cards, conversational checkout, and deploys to {domain}.codiris.app. Works with any type of company: SaaS, e-commerce, fintech, enterprise.",
+    "displayName": "Codiris Agentizer · 使用分割窗格",
+    "shortDescription": "使用分割窗格",
+    "longDescription": "使用分割窗格，将任何网站变成人工智能驱动的代理前台",
     "developerName": "Iris Lab / Codiris",
-    "category": "Development",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read",
-      "Write",
-      "Edit",
-      "Bash",
-      "Glob",
-      "Grep",
-      "WebFetch"
+      "适用场景：使用分割窗格"
     ],
     "websiteURL": "https://codiris.app",
     "privacyPolicyURL": "https://codiris.app/privacy",
     "termsOfServiceURL": "https://codiris.app/terms",
     "defaultPrompt": [
-      "Agentize https://stripe.com",
-      "Create an agentfront for notion.com",
-      "Turn shopify.com into an AI-powered website"
+      "使用 Codiris Agentizer 帮我：使用分割窗格"
     ],
     "brandColor": "#635BFF",
     "logo": "./assets/logo-256.png",

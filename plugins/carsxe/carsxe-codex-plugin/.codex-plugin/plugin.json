@@ -1,7 +1,7 @@
 {
   "name": "carsxe",
   "version": "1.0.0",
-  "description": "CarsXE vehicle data APIs for OpenAI Codex — decode VINs, look up license plates, get market values, history, recalls, lien and theft, OBD codes, and more.",
+  "description": "通过CarsXE API解码VIN、车牌、市值、车辆历史记录、召回、留置权、OBD代码等。",
   "author": {
     "name": "CarsXE",
     "email": "devops@carsxe.com",
@@ -31,23 +31,19 @@
   "skills": "./skills/",
   "hooks": "./hooks/hooks.json",
   "interface": {
-    "displayName": "CarsXE",
-    "shortDescription": "Decode VINs, plates, market value, history, recalls, liens, and OBD codes — the full CarsXE vehicle data suite.",
-    "longDescription": "CarsXE brings the full suite of CarsXE vehicle data APIs into OpenAI Codex as 12 auto-invoked skills. Decode any VIN for full specifications, look up vehicles from a license plate, estimate market value, pull a full vehicle history report, check open safety recalls, screen for liens and theft, decode international (non-US) VINs, extract a VIN or plate number straight from a photo, look up vehicles by Year/Make/Model, and decode OBD-II diagnostic trouble codes. Codex selects the right skill automatically from your request, or call any skill explicitly with its name. Requires a CarsXE API key (free signup at api.carsxe.com).",
+    "displayName": "CarsXE · 通过CarsXE API解码VIN",
+    "shortDescription": "通过CarsXE API解码VIN",
+    "longDescription": "通过CarsXE API解码VIN、车牌、市值、车辆历史记录、召回、留置权、OBD代码等。",
     "developerName": "CarsXE",
-    "category": "Data & Analytics",
+    "category": "工具与集成",
     "capabilities": [
-      "Read"
+      "适用场景：通过CarsXE API解码VIN"
     ],
     "websiteURL": "https://api.carsxe.com",
     "privacyPolicyURL": "https://api.carsxe.com/privacy-policy",
     "termsOfServiceURL": "https://api.carsxe.com/terms",
     "defaultPrompt": [
-      "Decode VIN WBAFR7C57CC811956",
-      "Look up California plate 7XER187",
-      "What's the market value of VIN WBAFR7C57CC811956 with 45,000 miles?",
-      "Does VIN 1C4JJXR64PW696340 have any open recalls?",
-      "What does OBD code P0300 mean?"
+      "使用 CarsXE 帮我：通过CarsXE API解码VIN"
     ],
     "brandColor": "#2563EB",
     "logo": "./assets/logo.png",

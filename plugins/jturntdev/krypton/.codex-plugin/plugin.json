@@ -1,7 +1,7 @@
 {
   "name": "krypton",
   "version": "0.3.2",
-  "description": "Goal-based planning, proof gates, and VPS setup workflows for AI coding agents.",
+  "description": "针对Codex和Claude Code的基于目标的规划和验证门，将请求转化为所有权、切换、审核门和验收证据计划。",
   "author": {
     "name": "jturntdev",
     "email": "197428481+jturntdev@users.noreply.github.com",
@@ -29,22 +29,17 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Krypton",
-    "shortDescription": "Goal-based agent proof gate",
-    "longDescription": "Use Krypton as the planning and proof gate for goal-based AI coding work: outcome contracts, source-of-truth ownership, contract boundaries, cutover decisions, main-agent execution, review gates, acceptance evidence, and beta VPS setup for Codex App SSH hosts.",
+    "displayName": "Krypton · 针对Codex和Claude Cod…",
+    "shortDescription": "针对Codex和Claude Cod…",
+    "longDescription": "针对Codex和Claude Code的基于目标的规划和验证门，将请求转化为所有权、切换、审核门和验收证据计划。",
     "composerIcon": "./assets/icon.svg",
     "developerName": "jturntdev",
-    "category": "Coding",
+    "category": "开发与工作流",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：针对Codex和Claude Cod…"
     ],
     "defaultPrompt": [
-      "Turn this feature request into a Krypton plan.",
-      "Execute this approved Krypton plan.",
-      "Check this pull request for a Krypton goal package.",
-      "Set up a VPS as a Codex App SSH host."
+      "使用 Krypton 帮我：针对Codex和Claude Cod…"
     ],
     "websiteURL": "https://github.com/jturntdev/krypton",
     "privacyPolicyURL": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",

@@ -1,7 +1,7 @@
 {
   "name": "vidseeds",
   "version": "1.9.2",
-  "description": "VidSeeds.ai connector for pre-upload video SEO/metadata optimization + multi-platform publishing (247 tools). Workflow skills for efficient MCP use. Paid connector with a 14-day free trial. Requires a free Personal Access Token from https://vidseeds.ai/settings/mcp-settings.",
+  "description": "用于预上传视频搜索引擎优化、元数据优化、人工智能缩略图和多平台发布的托管MCP连接器，具有Codex代理的工作流技能。",
   "author": {
     "name": "VidSeeds.ai",
     "url": "https://vidseeds.ai"
@@ -25,14 +25,13 @@
   "mcpServers": "./codex.mcp.json",
   "interface": {
     "type": "cli",
-    "displayName": "VidSeeds.ai",
-    "shortDescription": "Pre-upload video SEO/metadata optimization and multi-platform publishing.",
-    "longDescription": "VidSeeds.ai analyzes your existing video and generates optimized titles, descriptions, tags, thumbnails, and chapters for YouTube, TikTok, Instagram, Facebook, LinkedIn, and X, then publishes. Hosted MCP connector (247 tools) with workflow skills and a 14-day free trial; requires a free Personal Access Token from https://vidseeds.ai/settings/mcp-settings.",
+    "displayName": "VidSeeds.ai · 用于预上传视频搜索引擎优化",
+    "shortDescription": "用于预上传视频搜索引擎优化",
+    "longDescription": "用于预上传视频搜索引擎优化、元数据优化、人工智能缩略图和多平台发布的托管MCP连接器，具有Codex代理的工作流技能。",
     "developerName": "VidSeeds.ai",
-    "category": "Productivity",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：用于预上传视频搜索引擎优化"
     ],
     "websiteURL": "https://vidseeds.ai",
     "privacyPolicyURL": "https://vidseeds.ai/privacy-policy",

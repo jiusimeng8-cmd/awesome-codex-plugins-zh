@@ -1,7 +1,7 @@
 {
   "name": "zotero-research-tools",
   "version": "0.1.5",
-  "description": "Codex plugin for searching, reading, summarizing, citing, and organizing Zotero library items through Zotero MCP.",
+  "description": "将Codex连接到Zotero Desktop ，以实现本地库搜索、引文导出、集合和标签检查以及研究工作流程支持。",
   "author": {
     "name": "summer521521",
     "url": "https://github.com/summer521521"
@@ -18,20 +18,17 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Zotero Research Tools",
-    "shortDescription": "Search and manage Zotero via MCP.",
+    "displayName": "Zotero Research Tools · 将Codex连接到Zotero De…",
+    "shortDescription": "将Codex连接到Zotero De…",
     "composerIcon": "./assets/icon.svg",
-    "longDescription": "Packages a local Zotero MCP launcher with a research skill for reading metadata, full text, notes, annotations, tags, and collections. Treats llm-for-zotero as a separate Zotero desktop add-on and can diagnose saved MinerU Markdown cache visibility.",
+    "longDescription": "将Codex连接到Zotero Desktop ，以实现本地库搜索、引文导出、集合和标签检查以及研究工作流程支持。",
     "developerName": "summer521521",
-    "category": "Productivity",
+    "category": "工具与集成",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：将Codex连接到Zotero De…"
     ],
     "defaultPrompt": [
-      "Search my Zotero library.",
-      "Summarize this Zotero paper.",
-      "Find papers by citation key."
+      "使用 Zotero Research Tools 帮我：将Codex连接到Zotero De…"
     ],
     "brandColor": "#B91C1C"
   }

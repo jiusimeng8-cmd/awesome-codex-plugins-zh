@@ -1,7 +1,7 @@
 {
   "name": "generative-media-skills",
   "version": "1.0.0",
-  "description": "13 expert skills for AI agents to generate images, videos, and audio using 100+ models — FLUX, Midjourney v7, Veo3, Kling 3.0, Suno, HunyuanVideo, and more. Powered by muapi.ai.",
+  "description": "使用100多种型号（ FLUX、Midjourney v7、Veo3、Kling 3.0、Suno和HunyuanVideo ）通过muapi.ai生成图像、视频和音频的13项技能。",
   "author": {
     "name": "MuAPI",
     "url": "https://github.com/SamurAIGPT"
@@ -27,18 +27,16 @@
   ],
   "skills": "./library/",
   "interface": {
-    "displayName": "Generative Media Skills",
-    "shortDescription": "Image, video & audio generation with 100+ AI models.",
-    "longDescription": "Expert skills for AI agents to generate professional-grade images, videos, and audio. Includes Cinema Director (cinematographic video generation), Nano-Banana (reasoning-driven image generation), UI Designer, Logo Creator, UGC Video Factory, AI Clipping, and 7 more. All powered by muapi.ai — FLUX, Midjourney v7, Veo3, Kling 3.0, Suno, HunyuanVideo, and more.",
+    "displayName": "Generative Media Skills · 使用100多种型号（ FLUX",
+    "shortDescription": "使用100多种型号（ FLUX",
+    "longDescription": "使用100多种型号（ FLUX、Midjourney v7、Veo3、Kling 3.0、Suno和HunyuanVideo ）通过muapi.ai生成图像、视频和音频的13项技能。",
     "developerName": "MuAPI",
-    "category": "Content Creation",
+    "category": "开发与工作流",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：使用100多种型号（ FLUX"
     ],
     "defaultPrompt": [
-      "Use the muapi-cinema-director skill to create a cinematic product video.",
-      "Use the muapi-nano-banana skill to generate a high-quality image from this brief."
+      "使用 Generative Media Skills 帮我：使用100多种型号（ FLUX"
     ],
     "websiteURL": "https://muapi.ai",
     "privacyPolicyURL": "https://github.com/SamurAIGPT/Generative-Media-Skills/blob/main/SECURITY.md",
