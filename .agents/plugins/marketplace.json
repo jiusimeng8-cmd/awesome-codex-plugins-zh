@@ -845,7 +845,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）13 skills for image, video, and audio generation using 100+ models - FLUX, Midjourney v7, Veo3, Kling 3.0, Suno, and HunyuanVideo via muapi.ai.",
+      "description": "使用100多种型号（ FLUX、Midjourney v7、Veo3、Kling 3.0、Suno和HunyuanVideo ）通过muapi.ai生成图像、视频和音频的13项技能。",
       "icon": "./plugins/SamurAIGPT/Generative-Media-Skills/assets/icon.svg"
     },
     {
@@ -860,7 +860,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Durable memory and shared graph state for Codex and OpenClaw agents, with live ValkyrAI schema awareness.",
+      "description": "Codex和OpenClaw代理的持久内存和共享图形状态，具有实时ValkyrAI架构感知。",
       "icon": "./plugins/ValkyrLabs/GrayMatter/assets/graymatter-logo.png"
     },
     {
@@ -875,7 +875,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Drives a live Godot 4.x editor through the low-token Hera CLI — scene, node, and signal edits, play control, and runtime QA with verifiable compact JSON output, with the companion addon published on the official Godot Asset Store."
+      "description": "通过低代币Hera CLI驱动实时Godot 4.x编辑器—场景、节点和信号编辑、播放控制和运行时QA ，具有可验证的紧凑JSON输出，伴随插件发布在官方Godot Asset Store上。"
     },
     {
       "name": "hera-unity",
@@ -889,7 +889,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Controls and verifies a live Unity Editor through a low-token CLI, with scene, asset, Inspector, Play Mode, test, screenshot, and runtime C# workflows for Codex and other coding agents.",
+      "description": "通过低代币CLI控制和验证实时Unity Editor ，包括Codex和其他编码代理的场景、资源、Inspector、播放模式、测试、屏幕截图和运行时C #工作流。",
       "icon": "./plugins/NotNull92/hera-agent-unity/assets/icon.svg"
     },
     {
@@ -904,7 +904,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）AI antivirus workflow for Codex, Claude Code, Cursor, Gemini, OpenCode, MCP servers, skills, and plugin release checks with local approvals and receipts.",
+      "description": "用于Codex、Claude Code、Cursor、Gemini、OpenCode、MCP服务器、技能和插件发布检查的AI防病毒工作流程，并具有本地批准和收据。",
       "icon": "./plugins/hashgraph-online/hol-guard-plugin/assets/icon.png"
     },
     {
@@ -919,7 +919,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Persistent cross-session memory for Codex powered by Honcho — lifecycle hooks capture each session and inject relevant context back at session start, so Codex remembers your preferences, projects, and decisions across restarts.",
+      "description": "由Honcho提供支持的Codex的持久跨会话内存—生命周期钩子捕获每个会话，并在会话开始时注入相关上下文，因此Codex会在重启时记住您的偏好、项目和决策。",
       "icon": "./plugins/plastic-labs/codex-honcho/assets/icon.svg"
     },
     {
@@ -934,7 +934,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Human-on-the-Loop AI coding workflow plugin for Codex, Claude Code, and Cline with structured planning, review, and verification guardrails.",
+      "description": "用于Codex、Claude Code和Cline的Human-on-the-Loop AI编码工作流程插件，具有结构化规划、审查和验证护栏。",
       "icon": "./plugins/yimwoo/hotl-plugin/docs/assets/codex/hotl-icon.png"
     },
     {
@@ -949,7 +949,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Goal-based planning and proof gate for Codex and Claude Code that turns requests into ownership, cutover, review-gate, and acceptance-evidence plans.",
+      "description": "针对Codex和Claude Code的基于目标的规划和验证门，将请求转化为所有权、切换、审核门和验收证据计划。",
       "icon": "./plugins/jturntdev/krypton/assets/icon.svg"
     },
     {
@@ -964,7 +964,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Auto-compress .md, .html, and .txt files via PostToolUse hook, cutting context usage by up to 40% with zero workflow change.",
+      "description": "通过PostToolUse钩子自动压缩.md、.html和.txt文件，在没有工作流程更改的情况下，将上下文使用量减少高达40%。",
       "icon": "./plugins/epicsagas/llm-transpile/assets/icon.png"
     },
     {
@@ -979,7 +979,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Reusable Agent Skills for Codex, Claude Code, and compatible clients, covering Django, Rust, Cookiecutter, SEO, traction, product marketing, and nonfiction publishing workflows.",
+      "description": "可重复使用的代理技能，适用于Codex、Claude Code和兼容客户端，涵盖Django、Rust、Cookiecutter、SEO、traction、产品营销和非小说出版工作流程。",
       "icon": "./plugins/LVTD-LLC/skills/assets/app-icon.png"
     },
     {
@@ -994,7 +994,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Opt-in local multi-CLI fusion engine and orchestration doctrine that fans a prompt across model CLIs, then judges and synthesizes one grounded answer.",
+      "description": "选择加入本地多CLI融合引擎和编排原则，在模型CLI中提示，然后判断并合成一个接地答案。",
       "icon": "./plugins/mbanderas/maestro/assets/icon.png"
     },
     {
@@ -1009,7 +1009,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Temporary inboxes for Codex — OTP, magic links, signup QA, simulate-first autotests (23 MCP tools).",
+      "description": "Codex的临时收件箱—一次性密码、魔术链接、注册QA、模拟首次自动测试（ 23个MCP工具）。",
       "icon": "./plugins/Alex0nder/MailAgent/assets/icon.svg"
     },
     {
@@ -1024,7 +1024,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Interface understanding and design-system memory for Codex, Claude Code, Cursor, and MCP agents with UI audits, Tailwind token extraction, shadcn registry workflows, and a bundled Codex plugin."
+      "description": "通过UI审计、Tailwind令牌提取、shadcn注册表工作流和捆绑的Codex插件，为Codex、Claude Code、Cursor和MCP代理提供接口理解和设计系统内存。"
     },
     {
       "name": "ontoly",
@@ -1038,7 +1038,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Deterministic Software Graph workflows for Codex: architecture review, dependency analysis, request tracing, configuration analysis, and impact analysis."
+      "description": "Codex的确定性软件图形工作流程：架构审查、依赖关系分析、请求跟踪、配置分析和影响分析。"
     },
     {
       "name": "odw",
@@ -1052,7 +1052,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Local-first MIT dynamic multi-agent workflows for Codex, OpenCode, Antigravity, Cursor, and VS Code with a daemon, MCP bridge, Codex skills, OpenCode plugin, and bring-your-own-model support.",
+      "description": "本地第一个针对Codex、OpenCode、Antigravity、Cursor和VS Code的MIT动态多代理工作流程，具有守护进程、MCP桥接、Codex技能、OpenCode插件和自带模型支持。",
       "icon": "./plugins/Suraj1235/open-dynamic-workflows/assets/icon.svg"
     },
     {
@@ -1067,7 +1067,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Engineer-facing personal-data-protection compliance reference — Singapore PDPA, Thailand PDPA, Indonesia UU PDP, Malaysia PDPA (Act 709 + 2024 Amendments), Philippines DPA — organised by where in the stack each obligation lands, with checklists, breach-response runbook, and a developer-view divergence table across all five.",
+      "description": "面向工程师的个人数据保护合规性参考—新加坡PDPA、泰国PDPA、印度尼西亚UU PDP、马来西亚PDPA （ Act 709 + 2024修正案）、菲律宾DPA —按每项义务在堆栈中的位置组织，包括检查清单、违规响应手册以及所有五个领域的开发者视图分歧表。",
       "icon": "./plugins/AltByteSG/personal-data-protection-skill/assets/icon.svg"
     },
     {
@@ -1082,7 +1082,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Intent-driven workflow skills for coding agents: describe what done looks like, not the steps. Triage-first design keeps token costs low across design, TDD, debug, review, and release.",
+      "description": "针对编码代理的意图驱动工作流程技能：描述已完成的工作，而不是步骤。分流优先设计使设计、TDD、调试、审核和发布的代币成本保持在较低水平。",
       "icon": "./plugins/ouonet/praxis/assets/logo-mark.svg"
     },
     {
@@ -1097,7 +1097,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Turn an idea into a structured project workflow with planning, execution, verification, and handoff.",
+      "description": "将创意转化为具有规划、执行、验证和移交功能的结构化项目工作流程。",
       "icon": "./plugins/AlexMi64/codex-project-autopilot/assets/autonomous-project-agent.svg"
     },
     {
@@ -1112,7 +1112,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）22 structured quality engineering skills for automotive and manufacturing: ISO 9001, IATF 16949, AIAG-VDA FMEA, VDA 6.3, PPAP, APQP, SPC, MSA.",
+      "description": "22项汽车和制造业结构化质量工程技能： ISO 9001、IATF 16949、AIAG-VDA FMEA、VDA 6.3、PPAP、APQP、SPC、MSA。",
       "icon": "./plugins/RBraga01/Quality-Engineering-Skills/docs/assets/qes-logo.jpg"
     },
     {
@@ -1127,7 +1127,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Agentic PR review: hybrid RAG + code graph via MCP, review skills for Codex.",
+      "description": "代理公关审核：混合RAG +通过MCP的代码图， Codex的审核技能。",
       "icon": "./plugins/mimfort/rag_for_git/plugin/assets/icon.svg"
     },
     {
@@ -1142,7 +1142,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Delegate tasks to specialist AI agents via the HOL Registry, plan, find, summon, and recover sessions.",
+      "description": "通过HOL注册表将任务委派给专业AI代理，规划、查找、召唤和恢复会话。",
       "icon": "./plugins/hashgraph-online/registry-broker-codex-plugin/assets/icon.png"
     },
     {
@@ -1157,7 +1157,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Generate reviewable HTML documents, serve previews, collect inline review comments, and feed review outcomes back into agent workflows."
+      "description": "生成可审核的HTML文档，提供预览，收集内联审核评论，并将审核结果反馈到客服代表的工作流程中。"
     },
     {
       "name": "river-review",
@@ -1171,7 +1171,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Versioned Skill Registry of code-review skills driven by a perspective-based review agent (code, security, performance, architecture, testing, adversarial) that verifies findings against the diff."
+      "description": "由基于视角的审核代理（代码、安全、性能、架构、测试、对抗）驱动的代码审核技能的版本化技能注册表，用于根据差异验证结果。"
     },
     {
       "name": "roadmapsmith",
@@ -1185,7 +1185,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Evidence-backed ROADMAP.md workflows for AI coding agents with validation, sync, and roadmap generation across any tech stack.",
+      "description": "适用于AI编码代理的循证ROADMAP.md工作流程，可在任何技术堆栈中进行验证、同步和路线图生成。",
       "icon": "./plugins/PapiScholz/roadmapsmith/legacy/assets/palette.png"
     },
     {
@@ -1200,7 +1200,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Supercharge your coding agent for AI product development — build, deploy, and operate agents, flows, tools, and surfaces on Runtype's managed edge runtime.",
+      "description": "为AI产品开发增强您的编码代理—在Runtype的托管边缘运行时上构建、部署和操作代理、流程、工具和表面。",
       "icon": "./plugins/runtypelabs/skills/assets/icon.svg"
     },
     {
@@ -1215,7 +1215,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Deploy apps to Sealos Cloud from Codex with readiness checks, Dockerfile generation, Compose conversion, image builds, and rollout updates.",
+      "description": "通过准备情况检查、Dockerfile生成、撰写转换、映像构建和推出更新，将应用程序从Codex部署到Sealos Cloud。",
       "icon": "./plugins/labring/sealos-skills/assets/logo.svg"
     },
     {
@@ -1230,7 +1230,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Session orchestration for Claude Code, Codex, and Cursor IDE — structured planning, wave-based execution, VCS integration (GitLab + GitHub), quality gates, and clean session close-out with issue tracking.",
+      "description": "Claude Code、Codex和Cursor IDE的会话编排—结构化规划、基于波浪的执行、VCS集成（ GitLab + GitHub ）、质量门和通过问题跟踪清理会话关闭。",
       "icon": "./plugins/Kanevry/session-orchestrator/assets/icon.svg"
     },
     {
@@ -1245,7 +1245,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）High-compression communication mode for Codex agents that removes filler while preserving search, validation, and implementation effort.",
+      "description": "Codex代理的高压缩通信模式，可消除填充物，同时保留搜索、验证和实施工作。",
       "icon": "./plugins/Maksim-Burtsev/simple-man/assets/icon.png"
     },
     {
@@ -1260,7 +1260,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Safely synchronize this Codex skill across public agent-skill registries.",
+      "description": "在公共代理技能注册表之间安全地同步此Codex技能。",
       "icon": "./plugins/liuyewang/skill-sync-publisher/assets/skill-sync-publisher.svg"
     },
     {
@@ -1275,7 +1275,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Three-phase Requirements → Design → Tasks workflow for Claude Code and Codex — EARS notation acceptance criteria, autonomous execution loop, cross-spec dependencies, and post-implementation acceptance testing.",
+      "description": "Claude Code和Codex的三阶段需求→设计→任务工作流程— EARS符号验收标准、自主执行循环、跨规格依赖关系和实施后验收测试。",
       "icon": "./plugins/Habib0x0/spec-driven-plugin/assets/spec-driven-icon.svg"
     },
     {
@@ -1290,7 +1290,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Spec-first workflow with nine skills, lightweight Quick / Hotfix / Tweak / Full paths, bounded three-attempt repair loops, auditable recovery commands, hardened delta-spec sync, and guarded review gates.",
+      "description": "具有九项技能的规范第一工作流程，轻量级快速/热修复/调整/完整路径，有界的三次尝试修复循环，可审核的恢复命令，加固的delta-spec同步和保护的审查门。",
       "icon": "./plugins/MageByte-Zero/spec-superflow/assets/icon.svg"
     },
     {
@@ -1305,7 +1305,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Practical Claude Code and Codex skills for worktrees, PR/MR automation, review cleanup, YApi lookup, and Java DDD guidance.",
+      "description": "适用于工作树、PR/MR自动化、审核清理、YApi查找和Java DDD指导的实用Claude Code和Codex技能。",
       "icon": "./plugins/yyykf/spellbook-skills/assets/icon.svg"
     },
     {
@@ -1320,7 +1320,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Routes engineering design, delivery, reliability, security, operations, and maintenance prompts to focused staff-level specialist guidance for AI coding agents.",
+      "description": "将工程设计、交付、可靠性、安全性、运营和维护提示发送给针对AI编码代理的专职人员级专家指导。",
       "icon": "./plugins/sirmarkz/staff-engineer-mode/assets/icon.png"
     },
     {
@@ -1335,7 +1335,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）UI/UX design plugin for AI coding agents with product-flow routing, platform-native interface guidance, asset planning, and shipped-reference analysis before code."
+      "description": "面向AI编码代理的UI/UX设计插件，具有产品流程路由、平台原生界面指导、资产规划和代码前发货参考分析。"
     },
     {
       "name": "superloopy",
@@ -1349,7 +1349,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Evidence-gated Codex loop harness with specialist skills, including near-pixel authorized website cloning backed by screenshots, assets, build output, and visual QA.",
+      "description": "具有专业技能的循证门控Codex循环线束，包括由屏幕截图、资产、构建输出和可视化QA支持的近像素授权网站克隆。",
       "icon": "./plugins/beefiker/superloopy/assets/superloopy.svg"
     },
     {
@@ -1364,7 +1364,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Design and run write/review-isolated multi-agent AI pipelines across Codex, Claude Code, OpenCode, Cursor, Windsurf, and Cline.",
+      "description": "跨Codex、Claude Code、OpenCode、Cursor、Windsurf和Cline设计和运行写入/审核隔离的多代理AI管道。",
       "icon": "./plugins/gustavo-meilus/superpipelines/assets/superpowers-small.svg"
     },
     {
@@ -1379,7 +1379,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Hook-powered test generation -- detects files changed during an agent turn and instructs Codex to write and run tests automatically. Zero config, 8 languages.",
+      "description": "Hook-powered测试生成--检测代理转换过程中更改的文件，并指示Codex自动编写和运行测试。零配置， 8种语言。",
       "icon": "./plugins/avansaber/tailtest-codex/assets/icon.svg"
     },
     {
@@ -1394,7 +1394,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Plan Tandem workflows in Codex, then validate, preview, and run them through the governed Tandem engine.",
+      "description": "在Codex中规划Tandem工作流程，然后验证、预览并通过受管理的Tandem引擎运行它们。",
       "icon": "./plugins/frumu-ai/tandem-codex-plugin/assets/icon.png"
     },
     {
@@ -1409,7 +1409,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Agent skills for git workflows, GitHub automation, security audits, code refactoring, and project tooling.",
+      "description": "Git工作流程、GitHub自动化、安全审计、代码重构和项目工具的代理技能。",
       "icon": "./plugins/tartinerlabs/skills/assets/icon.svg"
     },
     {
@@ -1424,7 +1424,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Role-based team delivery framework — Tech Lead-orchestrated 8-role system with 195+ skills, 27 specialist agents, 80+ commands, hooks, and ECC harness for Claude Code, Codex, and OpenCode."
+      "description": "基于角色的团队交付框架—技术主管为Claude Code、Codex和OpenCode精心策划的8个角色系统，拥有超过195项技能、27个专业代理、80多个命令、挂钩和ECC线束。"
     },
     {
       "name": "token-optimizer",
@@ -1438,7 +1438,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Cut token usage 60-90% with caching, compression, and smart file tools — diff-only re-reads, paths-only search, out-of-context stashing, and a per-tool savings report for Codex and Claude Code."
+      "description": "使用缓存、压缩和智能文件工具将令牌使用率降低60-90% —仅差异重读、仅路径搜索、上下文外存储以及Codex和Claude Code的每个工具节省报告。"
     },
     {
       "name": "tool-advisor",
@@ -1452,7 +1452,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Read-only meta-skill that scans your MCP servers, skills, plugins, and CLI tools, then suggests up to three ranked approaches (Methodical / Fast / Deep) with a copy-paste Quick Action table."
+      "description": "只读元技能，可扫描您的MCP服务器、技能、插件和CLI工具，然后使用复制粘贴快速操作表建议最多三种排名方法（有条理/快速/深入）。"
     },
     {
       "name": "tree-ring-memory",
@@ -1466,7 +1466,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Local-first memory lifecycle guidance for Codex agents with recall, evidence-backed lessons, privacy-safe memory capture, audit, consolidation, and explicit forgetting.",
+      "description": "针对Codex代理的本地优先内存生命周期指导，包括召回、循证课程、隐私安全内存捕获、审计、整合和明确遗忘。",
       "icon": "./plugins/TerminallyLazy/tree-ring-memory-codex-plugin/assets/icon.svg"
     },
     {
@@ -1481,7 +1481,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）STOP UI SLOP. Gives Codex 800,000+ real web and iOS screens, a product-specific design contract, and a hard finish gate before generic UI ships; connect it at https://uizze.com.",
+      "description": "停止UI SLOP。在通用UI出货之前，为Codex提供80多万个真实的Web和iOS屏幕、特定于产品的设计合同和硬终端；在https://uizze.com上连接它。",
       "icon": "./plugins/uizze/uizze/integrations/mcp/assets/uizze-logo-400x400.png"
     },
     {
@@ -1496,7 +1496,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Git-backed repository memory for Codex and other coding agents via MCP, with durable local knowledge for decisions, conventions, gotchas, and playbooks.",
+      "description": "通过MCP为Codex和其他编码代理提供Git支持的存储库内存，具有决策、约定、陷阱和剧本的持久本地知识。",
       "icon": "./plugins/MiguelMedeiros/unforgit-codex-plugin/assets/icon.png"
     },
     {
@@ -1511,7 +1511,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Codex plugin and skill for Unity 2D agents that enforces \"No proof, no edit\" workflows with runtime-owner proof, Teach structure maps, and validation gates.",
+      "description": "Unity 2D代理的Codex插件和技能，通过运行时所有者证明、Teach结构映射和验证门强制执行“无证明，无编辑”工作流程。",
       "icon": "./plugins/AUN-PN/unity-agent-workflows/assets/unity-workflows.png"
     },
     {
@@ -1526,7 +1526,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Cross-agent UX and product-design marketplace with a root Codex collection plugin, five focused plugin bundles, and 137 Agent Skills for design review, accessibility, layout, interaction, cognition, and product polish."
+      "description": "跨代理用户体验和产品设计市场，具有根Codex集合插件、五个重点插件捆绑包和137个代理技能，用于设计评审、可访问性、布局、交互、认知和产品优化。"
     },
     {
       "name": "velith",
@@ -1540,7 +1540,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）AI-native publishing system with a 6-phase pipeline from ideation to EPUB/PDF across 8 genres.",
+      "description": "AI原生发布系统，从构思到EPUB/PDF ，跨越8个流派的6个阶段。",
       "icon": "./plugins/epicsagas/Velith/assets/icon.svg"
     },
     {
@@ -1555,7 +1555,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Developer personality portrait generator — analyzes AI conversation history to produce MBTI type (16 color themes), capability radar, developer rating, 3-dimension famous match, and a persona skill that lets any AI \"think like you\"."
+      "description": "开发人员个性肖像生成器—分析AI对话历史记录，生成MBTI类型（ 16个颜色主题）、功能雷达、开发人员评级、三维著名比赛以及让任何AI “像您一样思考”的角色技能。"
     },
     {
       "name": "villagesql",
@@ -1569,7 +1569,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Skills for VillageSQL including building extensions from scratch and porting PostgreSQL extensions to VillageSQL.",
+      "description": "VillageSQL的技能，包括从头开始构建扩展和将PostgreSQL扩展移植到VillageSQL。",
       "icon": "./plugins/villagesql/villagesql-skills/assets/icon.png"
     },
     {
@@ -1584,7 +1584,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Persistent graph-backed conversational memory for Codex that recalls project decisions, constraints, preferences, and outcomes across sessions.",
+      "description": "Codex的持久图形支持会话记忆，可跨会话回忆项目决策、约束、偏好和结果。",
       "icon": "./plugins/Abhigyan-Shekhar/Waggle-mcp/assets/waggle-icon.png"
     },
     {
@@ -1599,7 +1599,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Cross-platform AI coding-agent plugin for repo-local project memory, data-contract checks, and project-map discovery before agents edit code.",
+      "description": "代理编辑代码之前，跨平台AI编码代理插件，用于存储本地项目内存、数据合约检查和项目映射发现。",
       "icon": "./plugins/lsshym/wingman.ai/assets/icon.svg"
     },
     {
@@ -1614,7 +1614,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Full product lifecycle plugin for Claude Code, Codex CLI, and OpenCode: define Vision/Mission/Core → generate workplan → execute with mandatory cross-provider reviewer agents → synthesize deliverables → maintain, with parallel task execution, crash recovery, and AgentOps metrics."
+      "description": "适用于Claude Code、Codex CLI和OpenCode的完整产品生命周期插件：定义Vision/Mission/Core→生成工作计划使用强制性跨提供商审核员代理→执行→综合交付件→维护，并具有并行任务执行、崩溃恢复和AgentOps指标。"
     },
     {
       "name": "writers-loop",
@@ -1628,7 +1628,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Structured AI writing workflow for planning, critique, revision, translation, style distillation, and opt-in local preference learning."
+      "description": "用于规划、批评、修订、翻译、风格提炼和选择加入本地偏好学习的结构化AI写作工作流程。"
     },
     {
       "name": "zagrosi-forge",
@@ -1642,7 +1642,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "开发与工作流",
-      "description": "（英文原文）Decompose broad project briefs into researched plans and implement sectioned work with TDD, quality gates, and traceability.",
+      "description": "将广泛的项目简介分解为研究计划，并使用TDD、质量门槛和可追溯性实施分段工作。",
       "icon": "./plugins/zagrosi-code/zagrosi-forge/assets/icon.svg"
     },
     {
@@ -1657,7 +1657,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）File-based inter-agent messaging with co-op mode, cross-project federation, and orchestrator integrations.",
+      "description": "基于文件的代理间消息传递，具有合作模式、跨项目联合和协调器集成。",
       "icon": "./plugins/avivsinai/agent-message-queue/assets/icon.png"
     },
     {
@@ -1672,7 +1672,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）macOS-only local camera plugin for explicit snapshots, streaming controls, and file-backed image input.",
+      "description": "仅限macOS的本地摄像头插件，用于显式快照、流控件和文件支持的图像输入。",
       "icon": "./plugins/zfifteen/agent-vision/assets/composer-icon.png"
     },
     {
@@ -1687,7 +1687,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Send explicit Telegram messages from Codex and local AI agents through a Telegram bot token and chat id.",
+      "description": "通过Telegram机器人令牌和聊天ID从Codex和本地AI代理发送明确的Telegram消息。",
       "icon": "./plugins/jerryfane/agentgram/assets/agentgram-logo.svg"
     },
     {
@@ -1702,7 +1702,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）LLM security guardrails for Codex with enforcing hooks and MCP tools: jailbreak and prompt-injection detection, web-content scanning, data-exfiltration blocking, and destructive-command authorization.",
+      "description": "用于Codex的LLM安全护栏，具有强制挂钩和MCP工具：越狱和提示注入检测、网络内容扫描、数据过滤阻止和破坏性命令授权。",
       "icon": "./plugins/alelaguard/agentguards-plugins/assets/logo.png"
     },
     {
@@ -1717,7 +1717,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）AI operations plugin for Codex that connects production telemetry, problem lifecycle context, and remediation workflows through Aient's MCP server.",
+      "description": "用于Codex的AI操作插件，通过Aient的MCP服务器连接生产遥测、问题生命周期上下文和修复工作流。",
       "icon": "./plugins/aient-ai/aient-codex-plugin/assets/aient-icon-beveled-light.png"
     },
     {
@@ -1732,7 +1732,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Local Codex bridge for Antigravity desktop with setup checks, model limit summaries, DevTools UI automation, and safe project/chat handoff.",
+      "description": "用于Antigravity桌面的本地Codex桥接，具有设置检查、模型限制摘要、DevTools UI自动化和安全的项目/聊天切换。",
       "icon": "./plugins/comprono/antigravity-2-codex-plugin/assets/icon.svg"
     },
     {
@@ -1747,7 +1747,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Local Apple Calendar and Reminders tooling for macOS with Codex plugin adapters."
+      "description": "使用Codex插件适配器的macOS本地Apple日历和提醒工具。"
     },
     {
       "name": "autocad-tianzheng-tools",
@@ -1761,7 +1761,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Connects Codex to AutoCAD and Tianzheng HVAC through a local MCP server for DWG-aware HVAC drawing inspection and workflow automation.",
+      "description": "通过本地MCP服务器将Codex连接到AutoCAD和Tianzheng HVAC ，以实现DWG感知的HVAC图纸检查和工作流程自动化。",
       "icon": "./plugins/summer521521/AutoCAD_Tianzheng_plugin/assets/icon.svg"
     },
     {
@@ -1776,7 +1776,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Runtime governance for Codex with policy enforcement on terminal commands, advisory checks for non-terminal tools via skills, PII/secret detection, and compliance-grade audit trails. Self-hosted via Docker."
+      "description": "Codex的运行时治理，包括终端命令的策略实施、通过技能对非终端工具进行咨询检查、PII/秘密检测和合规级审计跟踪。通过Docker自托管。"
     },
     {
       "name": "bkt",
@@ -1790,7 +1790,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Manage Bitbucket repos, PRs, branches, issues, webhooks, and pipelines for Data Center and Cloud.",
+      "description": "管理数据中心和云的Bitbucket存储库、PR、分支、问题、Webhook和管道。",
       "icon": "./plugins/avivsinai/bitbucket-cli/assets/bkt-icon.svg"
     },
     {
@@ -1805,7 +1805,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Plan, run, and inspect Call-E phone call workflows from Codex through the calle CLI.",
+      "description": "通过CALLE CLI规划、运行和检查Codex的Call-E电话呼叫工作流程。",
       "icon": "./plugins/CALLE-AI/call-e-integrations/assets/CALL-E-Icon-Black.svg"
     },
     {
@@ -1820,7 +1820,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Build and edit Microsoft Power Apps Canvas Apps using natural language and Canvas Authoring MCP server."
+      "description": "使用自然语言和Canvas Authoring MCP服务器构建和编辑Microsoft Power Apps Canvas应用。"
     },
     {
       "name": "carsxe",
@@ -1834,7 +1834,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Decode VINs, license plates, market value, vehicle history, recalls, liens, OBD codes, and more via the CarsXE API.",
+      "description": "通过CarsXE API解码VIN、车牌、市值、车辆历史记录、召回、留置权、OBD代码等。",
       "icon": "./plugins/carsxe/carsxe-codex-plugin/assets/logo.png"
     },
     {
@@ -1849,7 +1849,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）One-click Codex plugin wrapper for chrome-devtools-mcp.",
+      "description": "Chrome-devtools-mcp的一键Codex插件包装器。",
       "icon": "./plugins/win4r/chrome-devtools-codex-plugin/assets/chrome-devtools-small.svg"
     },
     {
@@ -1864,7 +1864,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Emit mathematics as copy- and search-safe inline Unicode (∑, ≤, ℝ, x², matrices, set-builder) instead of LaTeX so equations stay legible in the Codex TUI, terminals, and Claude Code."
+      "description": "将数学作为复制和搜索安全的内联Unicode （ ∑、≤、钚、x ²、矩阵、集合构建器） ，而不是LaTeX ，以便在Codex TUI、终端和Claude Code中保持方程式清晰可辨。"
     },
     {
       "name": "be-serious",
@@ -1878,7 +1878,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Enforce formal, textbook-grade written register across all agent output.",
+      "description": "在所有代理输出中强制执行正式的教科书级书面登记。",
       "icon": "./plugins/lulucatdev/codex-be-serious/assets/icon.png"
     },
     {
@@ -1893,7 +1893,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Automatically capture, compress, and inject session context back into future Codex sessions."
+      "description": "自动捕获、压缩会话上下文并将其注入到未来的Codex会话中。"
     },
     {
       "name": "codex-obsidian",
@@ -1907,7 +1907,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Local Obsidian note and vault workflows through the official desktop `obsidian` CLI.",
+      "description": "通过官方桌面“黑曜石” CLI的本地黑曜石笔记和保管库工作流程。",
       "icon": "./plugins/greg-asher/codex-obsidian/assets/icon.svg"
     },
     {
@@ -1922,7 +1922,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Full-stack SEO audits, Google API workflows, backlinks analysis, reporting, and optional MCP extensions for Codex.",
+      "description": "针对Codex的全栈SEO审计、Google API工作流程、反向链接分析、报告和可选MCP扩展。",
       "icon": "./plugins/BestLemoon/codex-seo/assets/icon.svg"
     },
     {
@@ -1937,7 +1937,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Track aggregate Codex token usage from local session logs with MCP tools for summaries, session detail, CSV export, and dashboard generation."
+      "description": "使用MCP工具从本地会话日志跟踪汇总Codex令牌使用情况，以获取摘要、会话详细信息、CSV导出和仪表板生成。"
     },
     {
       "name": "computer-usage-summary-skill",
@@ -1951,7 +1951,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Privacy-first, local ActivityWatch reports for app time, AFK time, projects, billable work, and redacted timelines across macOS, Windows, and Linux.",
+      "description": "隐私为先的本地ActivityWatch报告，包括应用程序时间、AFK时间、项目、可收费工作以及macOS、Windows和Linux的编辑时间表。",
       "icon": "./plugins/liuyewang/computer-usage-summary-skill/assets/icon.svg"
     },
     {
@@ -1966,7 +1966,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Runs and inspects CONTAM airflow projects through a local MCP server with project guards, diagnostics, simulation helpers, and bridge workflows.",
+      "description": "通过具有项目保护、诊断、模拟助手和桥接工作流程的本地MCP服务器运行和检查CONTAM气流项目。",
       "icon": "./plugins/summer521521/CONTAM_plugin/assets/icon.svg"
     },
     {
@@ -1981,7 +1981,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Generate compact first-pass repository briefings for coding agents before deeper exploration.",
+      "description": "在深入探索之前，为编码代理生成紧凑的首次通过存储库简报。",
       "icon": "./plugins/Rothschildiuk/context-pack/skills/context-pack/assets/context-pack-small.svg"
     },
     {
@@ -1996,7 +1996,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Control Coolify Cloud and self-hosted Coolify instances through API-aware workflow skills and local tools.",
+      "description": "通过API感知工作流程技能和本地工具控制Coolify Cloud和自托管Coolify实例。",
       "icon": "./plugins/Sevi-py/coolify-codex-plugin/assets/icon.png"
     },
     {
@@ -2011,7 +2011,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Full data-product lifecycle on dbt for Entropy Data: scaffold, audit, and integrate projects with ODCS, ODPS, OpenLineage, and GitHub Actions."
+      "description": "熵数据的dbt完整数据产品生命周期：脚手架、审计以及将项目与ODCS、ODPS、OpenLineage和GitHub Actions集成。"
     },
     {
       "name": "digital-marketing-pro",
@@ -2025,7 +2025,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Open-source AI marketing plugin for agencies — 154 skills, 25 specialist agents, 12-Part Strategy Flow, AEO/GEO, GSC AI Performance Report, Google Ads API v24, EU AI Act Article 50 / C2PA compliance.",
+      "description": "面向机构的开源人工智能营销插件— 154项技能、25名专业代理、12部分策略流程、AEO/GEO、GSC人工智能绩效报告、Google Ads API v24、欧盟人工智能法案第50条/C2PA合规性。",
       "icon": "./plugins/indranilbanerjee/digital-marketing-pro/assets/icon.svg"
     },
     {
@@ -2040,7 +2040,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Payments integration for checkouts, subscriptions, and billing with live API and documentation MCP servers with browser OAuth.",
+      "description": "使用实时API和带浏览器OAuth的文档MCP服务器进行结账、订阅和计费的付款集成。",
       "icon": "./plugins/dodopayments/dodo-agent-plugin/assets/icon.svg"
     },
     {
@@ -2055,7 +2055,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Verified-inventory agentic commerce over a hosted MCP server, with merchant and product discovery, agent-initiated checkout, and onchain brand, credit-risk, and repayment attestations.",
+      "description": "通过托管的MCP服务器进行经过验证的库存代理商务，包括商家和产品发现、代理启动的结账以及链上品牌、信用风险和还款证明。",
       "icon": "./plugins/droplinked/droplinked-codex-plugin/assets/icon.png"
     },
     {
@@ -2070,7 +2070,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）131 evidence-based education skills for curriculum design, lesson planning, and assessment, with transparent evidence ratings and MCP server.",
+      "description": "131基于证据的教育技能，用于课程设计、课程规划和评估，具有透明的证据评级和MCP服务器。",
       "icon": "./plugins/GarethManning/education-agent-skills/assets/education-agent-skills-icon.svg"
     },
     {
@@ -2085,7 +2085,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Search and fetch current web sources in Codex through the official Exa MCP server with browser OAuth.",
+      "description": "使用浏览器OAuth通过官方Exa MCP服务器在Codex中搜索和获取当前Web源。",
       "icon": "./plugins/zlsbksdxl/codex-exa/assets/logo.svg"
     },
     {
@@ -2100,7 +2100,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Connect Codex to Feishu/Lark workflows for Docs, Messenger, Drive, Sheets, Base, Calendar, Tasks, Meetings, Mail, approvals, and more through the official Lark CLI.",
+      "description": "通过官方Lark CLI将Docs、Messenger、Drive、Sheets、Base、Calendar、Tasks、Meetings、Mail、Approvals等Codex连接到Feishu/Lark工作流。",
       "icon": "./plugins/zlsbksdxl/codex-lark/assets/logo.svg"
     },
     {
@@ -2115,7 +2115,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Debug, build, and operate Power Automate flows via FlowStudio MCP with action-level inputs and outputs."
+      "description": "通过FlowStudio MCP调试、构建和操作Power Automate流程，并具有动作级输入和输出。"
     },
     {
       "name": "gh-project-plugin",
@@ -2129,7 +2129,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Create GitHub repositories from Codex with inferred defaults, native menus, explicit confirmation, and deterministic local cloning."
+      "description": "使用推断默认值、本机菜单、显式确认和确定性本地克隆从Codex创建GitHub存储库。"
     },
     {
       "name": "hermes-tweet",
@@ -2143,7 +2143,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Hermes Agent X/Twitter plugin for read-first social research, monitoring, and approval-gated actions through Xquik.",
+      "description": "Hermes Agent X/Twitter插件，用于通过Xquik进行以读为先的社交研究、监控和审批门禁操作。",
       "icon": "./plugins/Xquik-dev/hermes-tweet/assets/icon.svg"
     },
     {
@@ -2158,7 +2158,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）GitHub CLI-style interface for Jenkins controllers with jobs, pipelines, runs, logs, artifacts, credentials, and nodes.",
+      "description": "Jenkins控制器的GitHub CLI样式界面，包含作业、管道、运行、日志、工件、凭据和节点。",
       "icon": "./plugins/avivsinai/jenkins-cli/assets/jk-icon.svg"
     },
     {
@@ -2173,7 +2173,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Anti-bot-aware browser automation for AI agents with MCP tools, CAPTCHA-aware workflows, and WSL2 Windows browser support."
+      "description": "具有MCP工具、CAPTCHA感知工作流程和WSL2 Windows浏览器支持的AI代理的反机器人感知浏览器自动化。"
     },
     {
       "name": "kicad-happy",
@@ -2187,7 +2187,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）KiCad EDA skills for schematic analysis, PCB layout review, component sourcing, BOM management, and manufacturing preparation."
+      "description": "KiCad EDA技能，用于原理图分析、PCB布局审查、组件采购、物料清单管理和制造准备。"
     },
     {
       "name": "crawlberg",
@@ -2201,7 +2201,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Local document extraction for 91+ formats with skills for CLI usage, OCR, table extraction, output formats, and a local MCP server.",
+      "description": "91种以上格式的本地文档提取，具有CLI使用、OCR、表提取、输出格式和本地MCP服务器的技能。",
       "icon": "./plugins/kreuzberg-dev/plugins/plugins/crawlberg/assets/icon.svg"
     },
     {
@@ -2216,7 +2216,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Managed document extraction for Codex with API-key setup, presigned uploads, job tracking, webhook workflows, and usage guidance.",
+      "description": "使用API密钥设置、预先签名上传、作业跟踪、Webhook工作流程和使用指南管理Codex的文档提取。",
       "icon": "./plugins/kreuzberg-dev/plugins/plugins/crawlberg/assets/icon.svg"
     },
     {
@@ -2231,7 +2231,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Web crawling and scraping for Codex with skills for single-page scraping, site crawls, URL mapping, and headless browser fallback.",
+      "description": "使用单页抓取、网站抓取、URL映射和无头浏览器回退的技能，进行Codex的网络抓取和抓取。",
       "icon": "./plugins/kreuzberg-dev/plugins/plugins/crawlberg/assets/icon.svg"
     },
     {
@@ -2246,7 +2246,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Generate original instrumental music and vocal songs from Codex through the Lacuna MCP server.",
+      "description": "通过Lacuna MCP服务器从Codex生成原创器乐和声乐。",
       "icon": "./plugins/JOYLINK-LTD/lacuna-plugin/assets/icon.png"
     },
     {
@@ -2261,7 +2261,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Query traces, debug exceptions, analyze sessions, and manage prompts via MCP tools.",
+      "description": "通过MCP工具查询跟踪、调试异常、分析会话和管理提示。",
       "icon": "./plugins/avivsinai/langfuse-mcp/assets/langfuse-icon.svg"
     },
     {
@@ -2276,7 +2276,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Official Launch Fast plugin adapter for rapid SaaS deployment.",
+      "description": "正式推出用于快速SaaS部署的快速插件适配器。",
       "icon": "./plugins/BlockchainHB/launchfast_codex_plugin/assets/icon.png"
     },
     {
@@ -2291,7 +2291,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Codex-ready LinkedIn marketing bundle with a native .codex-plugin manifest and 10 skills: post writing with 16 tested hook formulas, AI-tell humanizer, pre-publish audit, comment and reply drafting, hook extraction, content planning, profile optimization, engager analytics, and thread monitoring; also works in Claude Code.",
+      "description": "支持Codex的LinkedIn营销捆绑包，具有本机.codex插件清单和10项技能：使用16个测试过的钩子公式进行帖子写作、AI-tell人性化、发布前审计、评论和回复起草、钩子提取、内容规划、配置文件优化、参与度分析和线程监控；也适用于Claude Code。",
       "icon": "./plugins/sergebulaev/linkedin-skills/assets/icon.svg"
     },
     {
@@ -2306,7 +2306,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Cost auditor for Codex that flags CI/cron and cloud-spend waste via read-only provider checks, then previews and applies surgical CI workflow fixes locally without writing to provider accounts or pushing git.",
+      "description": "Codex的成本审计师通过只读提供程序检查标记CI/cron和云支出浪费，然后在本地预览和应用外科CI工作流程修复，而无需写入提供程序帐户或推送git。",
       "icon": "./plugins/mbanderas/costguard/assets/icon.png"
     },
     {
@@ -2321,7 +2321,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Connects Codex to MATLAB and Simulink through a local MCP server for model inspection, script execution, and engineering workflow automation.",
+      "description": "通过本地MCP服务器将Codex连接到MATLAB和Simulink ，用于模型检查、脚本执行和工程工作流程自动化。",
       "icon": "./plugins/summer521521/MATLAB_Simulink_plugin/assets/icon.svg"
     },
     {
@@ -2336,7 +2336,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Decentralized e-commerce skills — deploy self-hosted stores, import products from Shopify/Amazon, configure custom domains and Telegram bots, set up Tor privacy, and manage your store via MCP."
+      "description": "去中心化电子商务技能—部署自托管商店，从Shopify/Amazon导入产品，配置自定义域名和Telegram机器人，设置Tor隐私，并通过MCP管理您的商店。"
     },
     {
       "name": "morning-ai",
@@ -2350,7 +2350,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）AI news tracking skill that monitors 80+ entities across 6 sources (Reddit, HN, GitHub, Hugging Face, arXiv, X) and generates scored daily reports with infographics and message digests."
+      "description": "人工智能新闻跟踪技能，可监控6个来源（ Reddit、HN、GitHub、Hugging Face、arXiv、X ）的80多个实体，并生成带有信息图表和消息摘要的评分日报。"
     },
     {
       "name": "nullcost-catalog",
@@ -2364,7 +2364,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Catalog-backed free-tier, free-trial, and cheap developer-tool recommendations for Codex through bundled skills and MCP tools.",
+      "description": "通过捆绑的技能和MCP工具，为Codex提供目录支持的免费层级、免费试用和廉价的开发人员工具推荐。",
       "icon": "./plugins/johnvouros/nullcost-plugin/assets/nullcost-small.svg"
     },
     {
@@ -2379,7 +2379,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Codex setup skill and OpenCode plugin for ChatGPT Plus/Pro OAuth, GPT-5/Codex presets, and multi-account failover.",
+      "description": "用于ChatGPT Plus/Pro OAuth、GPT-5/Codex预设和多帐户故障转移的Codex设置技能和OpenCode插件。",
       "icon": "./plugins/ndycode/oc-chatgpt-multi-auth/assets/icon.svg"
     },
     {
@@ -2394,7 +2394,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）OpenProject integration for Codex with project, team, work package, bulk workflow, boards, wiki, meeting, attachment, and reporting support."
+      "description": "OpenProject Codex与项目、团队、工作包、批量工作流、板、维基、会议、附件和报告支持的集成。"
     },
     {
       "name": "ophis",
@@ -2408,7 +2408,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Onchain token swaps for Codex via the hosted Ophis MCP server, MEV-protected and gasless, built on CoW Protocol.",
+      "description": "Onchain代币通过托管的Ophis MCP服务器交换Codex ， MEV保护和无气体，基于CoW协议构建。",
       "icon": "./plugins/ophis-fi/skills/assets/icon.svg"
     },
     {
@@ -2423,7 +2423,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）MCP access and initiative-aware skills for organizational workflows.",
+      "description": "组织工作流程的MCP访问和主动意识技能。",
       "icon": "./plugins/useorgx/orgx-codex-plugin/assets/icon.png"
     },
     {
@@ -2438,7 +2438,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Crypto and blockchain news discovery, authenticated creator publishing workflows, and page-to-Markdown reading."
+      "description": "加密和区块链新闻发现、经过身份验证的创作者发布工作流程以及页面到标记的阅读。"
     },
     {
       "name": "papersflow-codex-plugin",
@@ -2452,7 +2452,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Paper discovery, citation verification, graph exploration, and DeepScan analysis.",
+      "description": "论文发现、引文验证、图形探索和DeepScan分析。",
       "icon": "./plugins/papersflow-ai/papersflow-codex-plugin/assets/plugin-icon.png"
     },
     {
@@ -2467,7 +2467,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Create and drive plori cloud agents (each an AI agent on its own cloud computer) over plori's remote MCP server, with OAuth auto-discovery."
+      "description": "通过OAuth自动发现，在plori的远程MCP服务器上创建和驱动plori云代理（每个代理在自己的云计算机上都是AI代理）。"
     },
     {
       "name": "prompt-to-asset",
@@ -2481,7 +2481,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Route image-generation prompts to 30+ models (DALL-E, Stable Diffusion, Flux, Midjourney, and more) through a single MCP interface. Install: `npm install -g prompt-to-asset`."
+      "description": "通过单个MCP界面将图像生成提示路由到30多个模型（ DALL-E、稳定扩散、Flux、Midjourney等）。Install: `npm install -g prompt-to-asset`."
     },
     {
       "name": "pronounce",
@@ -2495,7 +2495,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Pronounce developer jargon out loud: an MCP server (lookup/search) and skill backed by a 1,721-entry sourced dictionary with IPA, audio, and cited pronunciations for kubectl, nginx, YAML, JWT, and more.",
+      "description": "大声说出开发人员的行话： MCP服务器（查找/搜索）和技能，由1,721条目来源的词典支持，其中包含IPA、音频和引用的kubectl、nginx、YAML、JWT等发音。",
       "icon": "./plugins/anzy-renlab-ai/pronounce/assets/icon.svg"
     },
     {
@@ -2510,7 +2510,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Read local images, videos, web pages, and Windows screenshots through Doubao, GLM, or Qwen-compatible vision APIs.",
+      "description": "通过Doubao、GLM或Qwen兼容的视觉API读取本地图像、视频、网页和Windows屏幕截图。",
       "icon": "./plugins/ZXY1240/read-image/assets/icon.svg"
     },
     {
@@ -2525,7 +2525,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Build parameterized Remotion videos in Codex with the official Remotion docs MCP, composition scaffolding, and a data-driven launch-video workflow.",
+      "description": "使用官方Remotion文档MCP、构图脚手架和数据驱动的启动视频工作流程，在Codex中构建参数化的Remotion视频。",
       "icon": "./plugins/tim-osterhus/codex-remotion-plugin/assets/remotion-composer-icon.svg"
     },
     {
@@ -2540,7 +2540,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Russian text quality — ~1,044 rules for typography, info-style, editorial, UX writing, and business correspondence.",
+      "description": "俄语文本质量—约1,044条排版、信息风格、编辑、用户体验写作和商务通信规则。",
       "icon": "./plugins/talkstream/ru-text/assets/icon.png"
     },
     {
@@ -2555,7 +2555,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Reverse engineer Rust binaries and libraries: triage targets, demangle symbols, recover crate namespaces, and map panic, unwind, async, and FFI paths."
+      "description": "对Rust二进制文件和库进行逆向工程：分类目标、解码符号、恢复crate命名空间以及映射panic、unwind、async和FFI路径。"
     },
     {
       "name": "just-scrape",
@@ -2569,7 +2569,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）AI-powered web scraping CLI to search, scrape, extract structured JSON, crawl, and monitor web pages via the ScrapeGraph AI API.",
+      "description": "基于AI的Web抓取CLI ，通过ScrapeGraph AI API搜索、抓取、提取结构化JSON、抓取和监控网页。",
       "icon": "./plugins/ScrapeGraphAI/just-scrape/assets/icon.svg"
     },
     {
@@ -2584,7 +2584,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Agent-native App Store screenshot, app icon, ASO, and localization workflows through the hosted Shots MCP server.",
+      "description": "通过托管的Shots MCP服务器，代理原生App Store屏幕截图、应用程序图标、ASO和本地化工作流程。",
       "icon": "./plugins/hitSlop/shots/assets/icon.png"
     },
     {
@@ -2599,7 +2599,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Knowledge-backed SolidWorks design and validation workflows for Codex with standards lookup, CAD evidence gates, and consent-based session learning.",
+      "description": "基于知识的SolidWorks设计和验证工作流程，适用于具有标准查找、CAD证据门和基于同意的会话学习的Codex。",
       "icon": "./plugins/Erfouni/solidworks-GPT-plugin/assets/icon.svg"
     },
     {
@@ -2614,7 +2614,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Agentic newsroom over a hosted MCP server with narrated briefings, a news-versus-prediction-market Divergence Index, and a searchable declassified archive.",
+      "description": "代理新闻编辑室位于托管的MCP服务器上，提供叙述式简报、新闻与预测市场分歧指数和可搜索的解密档案。",
       "icon": "./plugins/droplinked/storyflo-codex-plugin/assets/icon.png"
     },
     {
@@ -2629,7 +2629,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Build, edit, validate, and self-heal n8n workflows with Synta MCP tools and Codex-ready workflow guidance.",
+      "description": "使用Synta MCP工具和Codex就绪工作流程指南构建、编辑、验证和自我修复n8n工作流程。",
       "icon": "./plugins/Synta-ai/n8n-mcp-codex-plugin-synta/assets/icon.png"
     },
     {
@@ -2644,7 +2644,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Linux sysadmin co-pilot as an MCP server for Codex: plain-language requests become typed, risk-classified actions that a privileged daemon runs only after out-of-band terminal approval, with an Ed25519-signed audit chain and automatic rollback.",
+      "description": "Linux sysadmin co-pilot作为Codex的MCP服务器：纯语言请求变为类型化的风险分类操作，特权后台程序仅在带外终端批准后运行，并具有Ed25519签名的审核链和自动回滚。",
       "icon": "./plugins/lacs-project/sysknife/assets/raster/sysknife-256.png"
     },
     {
@@ -2659,7 +2659,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Publish short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook from Codex with the Taisly MCP server and bundled social media posting skill."
+      "description": "使用Taisly MCP服务器和捆绑的社交媒体发布技能，从Codex将短视频发布到TikTok、Instagram Reels、YouTube Shorts、X和Facebook。"
     },
     {
       "name": "talivia-agent-kit",
@@ -2673,7 +2673,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Install and verify revenue-first website analytics from Codex, connect payment attribution, and identify which traffic sources and customer journeys become revenue."
+      "description": "安装并验证Codex的收入第一网站分析，关联付款归因，并确定哪些流量来源和客户旅程成为收入。"
     },
     {
       "name": "task-scheduler",
@@ -2687,7 +2687,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）OpenAI Codex plugin and local MCP server for turning task lists into realistic schedules with blocked dates, capacity overrides, overflow tracking, and markdown planning output.",
+      "description": "OpenAI Codex插件和本地MCP服务器，用于将任务列表转换为具有阻止日期、容量覆盖、溢出跟踪和降价计划输出的现实计划。",
       "icon": "./plugins/6Delta9/task-scheduler-codex-plugin/assets/icon.png"
     },
     {
@@ -2702,7 +2702,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Thermal-fluid mechanical engineering research workflow for literature review, technical writing, data analysis, presentations, proposals, coding, and AI/ML tools.",
+      "description": "用于文献综述、技术写作、数据分析、演示、提案、编码和人工智能/机器学习工具的热流体机械工程研究工作流程。",
       "icon": "./plugins/hanhuark/mechanical-engineering-research-skill/assets/icon.svg"
     },
     {
@@ -2717,7 +2717,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Turn Codex token usage into Sail Power for a local-first fishing, fleet, and harbor-building companion game.",
+      "description": "将Codex代币的使用转化为Sail Power ，为本地首创的钓鱼、船队和港口建设配套游戏。",
       "icon": "./plugins/NickHOI/Token-Harbor/assets/icon.svg"
     },
     {
@@ -2732,7 +2732,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Search and install AI assets from TokRepo with a bundled skill and MCP server for Codex."
+      "description": "使用捆绑的技能和Codex的MCP服务器从TokRepo搜索和安装AI资产。"
     },
     {
       "name": "unified-ai-system",
@@ -2746,7 +2746,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Self-hosted AI gateway for Codex with provider-free prompt enhancement, nine governed MCP tools, and a credential-free Docker path.",
+      "description": "用于Codex的自托管AI网关，具有免提供商提示增强功能、九个受管理的MCP工具和免凭证的Docker路径。",
       "icon": "./plugins/happy520ai/unified-ai-system/assets/icon.png"
     },
     {
@@ -2761,7 +2761,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Strip AI writing patterns from text output — removes filler phrases, hedging language, and generic constructs to produce cleaner written content. Install: `npm install -g unslop`."
+      "description": "从文本输出中去除AI写作模式—删除填充短语、对冲语言和通用构造，以产生更干净的书面内容。Install: `npm install -g unslop`."
     },
     {
       "name": "upwork-autopilot",
@@ -2775,7 +2775,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Controlled Upwork job search, qualification, and proposal submission sessions through a dedicated Chrome profile."
+      "description": "通过专门的Chrome个人资料控制Upwork求职、资格认证和提交提案的会话。"
     },
     {
       "name": "vals",
@@ -2789,7 +2789,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "工具与集成",
-      "description": "（英文原文）Build and deploy serverless TypeScript on Val Town from Codex — hosted MCP server plus skills for HTTP vals, cron, SQLite, email, OAuth, and React UI.",
+      "description": "在Codex的Val Town上构建和部署无服务器TypeScript —托管的MCP服务器以及HTTP VALS、CRON、SQLite、电子邮件、OAuth和React UI的技能。",
       "icon": "./plugins/val-town/plugins/assets/icon.svg"
     },
     {
