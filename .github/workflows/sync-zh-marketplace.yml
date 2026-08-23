@@ -1,0 +1,36 @@
+name: Sync upstream and refresh Chinese marketplace
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Configure upstream
+        run: |
+          git remote add upstream https://github.com/hashgraph-online/awesome-codex-plugins.git || true
+          git fetch upstream main
+      - name: Merge upstream marketplace
+        run: git merge --no-edit upstream/main
+      - name: Generate Chinese marketplace
+        run: python scripts/build_zh_marketplace.py --refresh-source
+      - name: Open update pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: automation/sync-upstream-and-zh
+          delete-branch: true
+          title: "chore: sync upstream and refresh Chinese marketplace"
+          commit-message: "chore: sync upstream and refresh Chinese marketplace"
+          body: |
+            Automated upstream sync plus Chinese marketplace refresh.
+            Plugin sources, installation policies, and identifiers are preserved.

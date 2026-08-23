@@ -4,6 +4,30 @@
   <br>
 </p>
 
+<h1 align="center">精选 Codex 插件（中文）</h1>
+
+> 这是 [awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) 的社区中文 fork：插件源、版本与安装策略跟随上游；市场名称、分类和简介以中文展示。上游版权与 Apache-2.0 许可保持不变。
+
+## 在 Codex 中添加中文市场
+
+```bash
+codex plugin marketplace add \
+  'https://github.com/jiusimeng8-cmd/awesome-codex-plugins-zh.git' \
+  --ref 'main' \
+  --sparse '.agents/plugins' \
+  --sparse 'plugins'
+```
+
+随后在 Codex 的 Plugins 页面选择 `awesome-codex-plugins-zh`，或执行：
+
+```bash
+codex plugin list --source awesome-codex-plugins-zh
+```
+
+中文市场每日自动拉取上游，并提交更新 PR；欢迎通过 Issue/PR 修正术语翻译。
+
+---
+
 <h1 align="center">Awesome Codex & ChatGPT Plugins</h1>
 
 <p align="center">A curated list of awesome plugins, skills, and resources for OpenAI Codex and ChatGPT.</p>
