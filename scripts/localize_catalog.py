@@ -20,6 +20,7 @@ PLUGINS_INDEX = ROOT / "plugins.json"
 SOURCE_MARKETPLACE = ROOT / "translations" / "source-marketplace.json"
 SOURCE_PLUGINS_INDEX = ROOT / "translations" / "source-plugins.json"
 CACHE = ROOT / "translations" / "zh-CN.json"
+UNLISTED_MANIFESTS = ROOT / "translations" / "unlisted-manifest-zh.json"
 
 CATEGORY_TRANSLATIONS = {
     "Development & Workflow": "开发与工作流",
@@ -147,6 +148,26 @@ def find_entry(path: Path, entries: list[tuple[str, dict[str, str]]]) -> dict[st
     return None
 
 
+def manifest_override_entry(path: Path, overrides: dict[str, str]) -> tuple[str, dict[str, str]] | None:
+    try:
+        manifest = read_json(path)
+    except json.JSONDecodeError:
+        return None
+    if not isinstance(manifest, dict):
+        return None
+    description = overrides.get(str(manifest.get("name", "")))
+    if not description:
+        return None
+    interface = manifest.get("interface")
+    brand = (
+        str(interface.get("displayName"))
+        if isinstance(interface, dict) and interface.get("displayName")
+        else str(manifest.get("name") or "Codex 插件")
+    )
+    prefix = path.parent.parent.relative_to(ROOT).as_posix()
+    return prefix, {"description": description, "brand": brand, "category": ""}
+
+
 def localize_manifest(path: Path, entry: dict[str, str]) -> bool:
     try:
         manifest = read_json(path)
@@ -217,10 +238,13 @@ def main() -> None:
     source_marketplace = read_json(SOURCE_MARKETPLACE)
     source_index = read_json(SOURCE_PLUGINS_INDEX)
     cache = read_json(CACHE)
+    overrides = read_json(UNLISTED_MANIFESTS)
     if not isinstance(source_marketplace, dict) or not isinstance(source_index, dict):
         raise RuntimeError("Source marketplace/index files must be JSON objects.")
     if not isinstance(cache, dict):
         raise RuntimeError("Translation cache must be a JSON object.")
+    if not isinstance(overrides, dict):
+        raise RuntimeError("Unlisted manifest translations must be a JSON object.")
 
     localized_marketplace = build_marketplace(source_marketplace, cache)
     localized_index = build_index(source_index, cache)
@@ -228,10 +252,17 @@ def main() -> None:
     write_json(PLUGINS_INDEX, localized_index)
 
     entries = source_entries(source_marketplace, cache)
+    all_entries = list(entries)
+    for path in ROOT.glob("plugins/**/.codex-plugin/plugin.json"):
+        if find_entry(path, entries) is None:
+            override = manifest_override_entry(path, overrides)
+            if override is not None:
+                all_entries.append(override)
+    all_entries.sort(key=lambda pair: len(pair[0]), reverse=True)
     manifests_seen = 0
     manifests_changed = 0
     for path in ROOT.glob("plugins/**/.codex-plugin/plugin.json"):
-        entry = find_entry(path, entries)
+        entry = find_entry(path, all_entries)
         if entry is None:
             continue
         manifests_seen += 1
@@ -239,7 +270,7 @@ def main() -> None:
     cards_seen = 0
     cards_changed = 0
     for path in ROOT.glob("plugins/**/agents/openai.yaml"):
-        entry = find_entry(path, entries)
+        entry = find_entry(path, all_entries)
         if entry is None:
             continue
         cards_seen += 1
