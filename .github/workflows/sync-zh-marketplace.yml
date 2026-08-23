@@ -20,17 +20,20 @@ jobs:
         run: |
           git remote add upstream https://github.com/hashgraph-online/awesome-codex-plugins.git || true
           git fetch upstream main
-      - name: Merge upstream marketplace
-        run: git merge --no-edit upstream/main
+      - name: Sync installable plugins and source marketplace
+        run: |
+          git checkout upstream/main -- plugins plugins.json
+          git show upstream/main:.agents/plugins/marketplace.json > translations/source-marketplace.json
       - name: Generate Chinese marketplace
-        run: python scripts/build_zh_marketplace.py --refresh-source
-      - name: Open update pull request
-        uses: peter-evans/create-pull-request@v7
-        with:
-          branch: automation/sync-upstream-and-zh
-          delete-branch: true
-          title: "chore: sync upstream and refresh Chinese marketplace"
-          commit-message: "chore: sync upstream and refresh Chinese marketplace"
-          body: |
-            Automated upstream sync plus Chinese marketplace refresh.
-            Plugin sources, installation policies, and identifiers are preserved.
+        run: python scripts/build_zh_marketplace.py
+      - name: Commit synchronized marketplace
+        run: |
+          if git diff --quiet; then
+            echo "No upstream changes to publish."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add plugins plugins.json translations .agents/plugins/marketplace.json
+          git commit -m "chore: sync upstream and refresh Chinese marketplace"
+          git push origin HEAD:main
