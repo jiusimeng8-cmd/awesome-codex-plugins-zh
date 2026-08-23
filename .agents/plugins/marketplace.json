@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "a-team",
-      "displayName": "A Team",
+      "displayName": "A Team · 通用多代理基础设施",
       "source": {
         "source": "local",
         "path": "./plugins/RBraga01/a-team"
@@ -20,7 +20,7 @@
     },
     {
       "name": "aegis",
-      "displayName": "Aegis",
+      "displayName": "Aegis · 有效的代理技能框架和软件开发方法",
       "source": {
         "source": "local",
         "path": "./plugins/GanyuanRan/Aegis"
@@ -35,7 +35,7 @@
     },
     {
       "name": "agency-continuity-audit",
-      "displayName": "Agency Continuity Audit",
+      "displayName": "Agency Continuity Audit · 只读审核",
       "source": {
         "source": "local",
         "path": "./plugins/revertcreations/agency-continuity-audit"
@@ -50,7 +50,7 @@
     },
     {
       "name": "agent-deck",
-      "displayName": "Agent Deck",
+      "displayName": "Agent Deck · 一个用于上下文管理的MCP",
       "source": {
         "source": "local",
         "path": "./plugins/not-so-fat/agent-deck"
@@ -65,7 +65,7 @@
     },
     {
       "name": "agent-guard",
-      "displayName": "Agent Guard",
+      "displayName": "Agent Guard · AI编码代理（",
       "source": {
         "source": "local",
         "path": "./plugins/JeongJaeSoon/agent-guard"
@@ -80,7 +80,7 @@
     },
     {
       "name": "agent-harness-skills",
-      "displayName": "Agent Harness Skills",
+      "displayName": "Agent Harness Skills · 设计具有入口点",
       "source": {
         "source": "local",
         "path": "./plugins/yfge/agent-harness-skills"
@@ -95,7 +95,7 @@
     },
     {
       "name": "agent-workflow-system",
-      "displayName": "Agent Workflow System",
+      "displayName": "Agent Workflow System · 一套中文AI工作流系统",
       "source": {
         "source": "local",
         "path": "./plugins/1139030773-cmd/agent-workflow-system"
@@ -110,7 +110,7 @@
     },
     {
       "name": "codiris-agentizer",
-      "displayName": "Agentizer",
+      "displayName": "Agentizer · 使用分割窗格",
       "source": {
         "source": "local",
         "path": "./plugins/Humiris/wwa-transform"
@@ -125,7 +125,7 @@
     },
     {
       "name": "agentops",
-      "displayName": "AgentOps",
+      "displayName": "AgentOps · DevOps层",
       "source": {
         "source": "local",
         "path": "./plugins/boshu2/agentops"
@@ -139,7 +139,7 @@
     },
     {
       "name": "agentpack",
-      "displayName": "AgentPack",
+      "displayName": "AgentPack · 在编辑之前",
       "source": {
         "source": "local",
         "path": "./plugins/vishal2612200/agentpack"
@@ -154,7 +154,7 @@
     },
     {
       "name": "agentry",
-      "displayName": "Agentry Observability",
+      "displayName": "Agentry Observability · 通过一个HTTP",
       "source": {
         "source": "local",
         "path": "./plugins/fr33dr4g0n/agentry-public"
@@ -169,7 +169,7 @@
     },
     {
       "name": "agiflow-ai-plugin",
-      "displayName": "AgiFlow",
+      "displayName": "AgiFlow · 针对AI编码代理的项目管理工作流程",
       "source": {
         "source": "local",
         "path": "./plugins/AgiFlow/ai-plugin"
@@ -184,7 +184,7 @@
     },
     {
       "name": "aiboarding",
-      "displayName": "AIBoarding",
+      "displayName": "AIBoarding · 使用AGENTS.md",
       "source": {
         "source": "local",
         "path": "./plugins/gustavo-meilus/aiboarding"
@@ -199,7 +199,7 @@
     },
     {
       "name": "alcove",
-      "displayName": "Alcove",
+      "displayName": "Alcove · 本地首个MCP服务器",
       "source": {
         "source": "local",
         "path": "./plugins/epicsagas/alcove"
@@ -213,7 +213,7 @@
     },
     {
       "name": "anchor",
-      "displayName": "Anchor",
+      "displayName": "Anchor · 适用于Claude",
       "source": {
         "source": "local",
         "path": "./plugins/biefan/anchor"
@@ -228,7 +228,7 @@
     },
     {
       "name": "repobrain",
-      "displayName": "Antigravity Workspace Template",
+      "displayName": "Antigravity Workspace Template · 具有上下文感知规划和自动范围管理的多…",
       "source": {
         "source": "local",
         "path": "./plugins/study8677/antigravity-workspace-template"
@@ -243,7 +243,7 @@
     },
     {
       "name": "archcore",
-      "displayName": "Archcore",
+      "displayName": "Archcore · 通过技能",
       "source": {
         "source": "local",
         "path": "./plugins/archcore-ai/plugin"
@@ -258,7 +258,7 @@
     },
     {
       "name": "armorcodex",
-      "displayName": "ArmorCodex",
+      "displayName": "ArmorCodex · 针对Codex的基于意图的安全性",
       "source": {
         "source": "local",
         "path": "./plugins/armoriq/armorCodex"
@@ -273,7 +273,7 @@
     },
     {
       "name": "babok_analyst",
-      "displayName": "BABOK Analyst",
+      "displayName": "BABOK Analyst · BABOK",
       "source": {
         "source": "local",
         "path": "./plugins/GSkuza/BABOK_ANALYST"
@@ -288,7 +288,7 @@
     },
     {
       "name": "bgs-modding-superpowers",
-      "displayName": "BGS Modding Superpowers",
+      "displayName": "BGS Modding Superpowers · Agentic",
       "source": {
         "source": "local",
         "path": "./plugins/BB-84C/bgs-modding-superpowers"
@@ -302,7 +302,7 @@
     },
     {
       "name": "boss",
-      "displayName": "Boss",
+      "displayName": "Boss · BMAD管道插件",
       "source": {
         "source": "local",
         "path": "./plugins/echoVic/boss-skill"
@@ -317,7 +317,7 @@
     },
     {
       "name": "bringyour-migration-auditor",
-      "displayName": "Bring Your AI Migration Auditor",
+      "displayName": "Bring Your AI Migration Auditor · 只读Codex插件",
       "source": {
         "source": "local",
         "path": "./plugins/unitedideas/bringyour-mcp"
@@ -331,7 +331,7 @@
     },
     {
       "name": "brooks-lint",
-      "displayName": "Brooks Lint",
+      "displayName": "Brooks Lint · 基于六本经典工程书籍的人工智能代码审…",
       "source": {
         "source": "local",
         "path": "./plugins/hyhmrright/brooks-lint"
@@ -346,7 +346,7 @@
     },
     {
       "name": "casefile",
-      "displayName": "Casefile",
+      "displayName": "Casefile · 持续跟踪漏洞赏金",
       "source": {
         "source": "local",
         "path": "./plugins/x4cc3/casefile"
@@ -361,7 +361,7 @@
     },
     {
       "name": "claude-code",
-      "displayName": "Claude Code Codex Plugin",
+      "displayName": "Claude Code Codex Plugin · 以安全为中心的Codex插件",
       "source": {
         "source": "local",
         "path": "./plugins/davidq888/claude-code-codex-plugin"
@@ -376,7 +376,7 @@
     },
     {
       "name": "cc",
-      "displayName": "Claude Code for Codex",
+      "displayName": "Claude Code for Codex · 反转OpenAI的官方Claude托…",
       "source": {
         "source": "local",
         "path": "./plugins/sendbird/cc-plugin-codex"
@@ -391,7 +391,7 @@
     },
     {
       "name": "claude-code-harness",
-      "displayName": "Claude Code Harness",
+      "displayName": "Claude Code Harness · 利用蓝图技能",
       "source": {
         "source": "local",
         "path": "./plugins/dadwadw233/claude-code-harness"
@@ -406,7 +406,7 @@
     },
     {
       "name": "claude-code-skills",
-      "displayName": "Claude Code Skills",
+      "displayName": "Claude Code Skills · 跨9个领域的223项生产就绪技能",
       "source": {
         "source": "local",
         "path": "./plugins/alirezarezvani/claude-skills"
@@ -421,7 +421,7 @@
     },
     {
       "name": "claude-octopus",
-      "displayName": "Claude Octopus",
+      "displayName": "Claude Octopus · Multi-LLM业务流程分派给8家…",
       "source": {
         "source": "local",
         "path": "./plugins/nyldn/claude-octopus"
@@ -436,7 +436,7 @@
     },
     {
       "name": "clean-room",
-      "displayName": "Clean Room",
+      "displayName": "Clean Room · 规范第一的洁净室工作流程",
       "source": {
         "source": "local",
         "path": "./plugins/whit3rabbit/clean-room-skill"
@@ -451,7 +451,7 @@
     },
     {
       "name": "codebase-recon",
-      "displayName": "Codebase Recon",
+      "displayName": "Codebase Recon · 在阅读任何代码之前",
       "source": {
         "source": "local",
         "path": "./plugins/yujiachen-y/codebase-recon-skill"
@@ -465,7 +465,7 @@
     },
     {
       "name": "codetruss",
-      "displayName": "CodeTruss",
+      "displayName": "CodeTruss · 本地优先验收门",
       "source": {
         "source": "local",
         "path": "./plugins/DeliriumPulse/codetruss-plugins"
@@ -480,7 +480,7 @@
     },
     {
       "name": "ateam",
-      "displayName": "Codex Agenteam",
+      "displayName": "Codex Agenteam · 专业人工智能代理（研究人员",
       "source": {
         "source": "local",
         "path": "./plugins/yimwoo/codex-agenteam"
@@ -495,7 +495,7 @@
     },
     {
       "name": "full-stack-development",
-      "displayName": "Codex Full-Stack Workflow",
+      "displayName": "Codex Full-Stack Workflow · 将粗略的产品请求转化为具有持久要求",
       "source": {
         "source": "local",
         "path": "./plugins/kevin592/codex-full-stack-workflow"
@@ -510,7 +510,7 @@
     },
     {
       "name": "codex-howto",
-      "displayName": "Codex How To",
+      "displayName": "Codex How To · 具有9项技能的工程第一Codex课程…",
       "source": {
         "source": "local",
         "path": "./plugins/Phelan164/codex-howto"
@@ -525,7 +525,7 @@
     },
     {
       "name": "codex-multi-auth",
-      "displayName": "Codex Multi Auth",
+      "displayName": "Codex Multi Auth · 具有切换",
       "source": {
         "source": "local",
         "path": "./plugins/ndycode/codex-multi-auth"
@@ -540,7 +540,7 @@
     },
     {
       "name": "codex-process-jobs",
-      "displayName": "Codex Process Jobs",
+      "displayName": "Codex Process Jobs · 运行长时间的本地构建",
       "source": {
         "source": "local",
         "path": "./plugins/joelfarthing/codex-process-jobs"
@@ -555,7 +555,7 @@
     },
     {
       "name": "codex-reviewer",
-      "displayName": "Codex Reviewer",
+      "displayName": "Codex Reviewer · 对Claude驱动的计划和实施进行二…",
       "source": {
         "source": "local",
         "path": "./plugins/schuettc/codex-reviewer"
@@ -569,7 +569,7 @@
     },
     {
       "name": "codex-rg-guard",
-      "displayName": "Codex rg Guard",
+      "displayName": "Codex rg Guard · Codex的预算“rg”/“grep…",
       "source": {
         "source": "local",
         "path": "./plugins/Rycen7822/codex-rg-guard"
@@ -583,7 +583,7 @@
     },
     {
       "name": "codex-skin-pack-installer",
-      "displayName": "Codex Skin Pack Installer",
+      "displayName": "Codex Skin Pack Installer · Codex插件和Skill",
       "source": {
         "source": "local",
         "path": "./plugins/ChannelerH/codex-skin-packs"
@@ -597,7 +597,7 @@
     },
     {
       "name": "codex-tui-proof",
-      "displayName": "Codex TUI Proof",
+      "displayName": "Codex TUI Proof · 使用屏幕截图和会话证据",
       "source": {
         "source": "local",
         "path": "./plugins/bnc4vk/codex-tui-proof"
@@ -612,7 +612,7 @@
     },
     {
       "name": "codex-usage-and-resets",
-      "displayName": "Codex Usage and Resets",
+      "displayName": "Codex Usage and Resets · 将Codex的使用转化为具有线性节奏",
       "source": {
         "source": "local",
         "path": "./plugins/joelfarthing/codex-usage-and-resets"
@@ -627,7 +627,7 @@
     },
     {
       "name": "context-guard",
-      "displayName": "Context Guard",
+      "displayName": "Context Guard · 在长期运行的Codex任务和上下文压…",
       "source": {
         "source": "local",
         "path": "./plugins/GreenLv/codex-context-guard"
@@ -642,7 +642,7 @@
     },
     {
       "name": "debt-ops",
-      "displayName": "debt-ops",
+      "displayName": "debt-ops · 在写入时捕获人工智能引入的技术债务",
       "source": {
         "source": "local",
         "path": "./plugins/bcanfield/agentic-tech-debt"
@@ -657,7 +657,7 @@
     },
     {
       "name": "deepseek-minimal-anchor",
-      "displayName": "DeepSeek Mini-Router",
+      "displayName": "DeepSeek Mini-Router · 任务感知规范/反应/闪存工作合同插件",
       "source": {
         "source": "local",
         "path": "./plugins/hccccc01333/codex-deepseek-mini-router"
@@ -672,7 +672,7 @@
     },
     {
       "name": "designer-skill",
-      "displayName": "Designer Skill",
+      "displayName": "Designer Skill · 即插即用的MCP",
       "source": {
         "source": "local",
         "path": "./plugins/Pythoughts-labs/designer-skill"
@@ -687,7 +687,7 @@
     },
     {
       "name": "dev-skills",
-      "displayName": "Dev Skills",
+      "displayName": "Dev Skills · 规格",
       "source": {
         "source": "local",
         "path": "./plugins/Jason-chen-coder/dev-skills"
@@ -702,7 +702,7 @@
     },
     {
       "name": "development-skills",
-      "displayName": "Development Skills",
+      "displayName": "Development Skills · Codex和Claude",
       "source": {
         "source": "local",
         "path": "./plugins/reidemeister94/development-skills"
@@ -717,7 +717,7 @@
     },
     {
       "name": "emulo",
-      "displayName": "Ditto",
+      "displayName": "Ditto · 将从本地编码代理会话中选择的证据挖掘…",
       "source": {
         "source": "local",
         "path": "./plugins/ohad6k/ditto"
@@ -732,7 +732,7 @@
     },
     {
       "name": "docflow",
-      "displayName": "Docflow",
+      "displayName": "Docflow · AI编码代理的轻量级文档内存",
       "source": {
         "source": "local",
         "path": "./plugins/MedAdemBHA/docflow"
@@ -747,7 +747,7 @@
     },
     {
       "name": "ejentum",
-      "displayName": "ejentum-mcp",
+      "displayName": "ejentum-mcp · MCP服务器公开了Codex的推理",
       "source": {
         "source": "local",
         "path": "./plugins/ejentum/ejentum-mcp"
@@ -762,7 +762,7 @@
     },
     {
       "name": "epic",
-      "displayName": "Epic Harness",
+      "displayName": "Epic Harness · 自动触发质量技能+自我进化代理利用…",
       "source": {
         "source": "local",
         "path": "./plugins/epicsagas/epic-harness"
@@ -776,7 +776,7 @@
     },
     {
       "name": "espresso",
-      "displayName": "Espresso",
+      "displayName": "Espresso · 在一个插件中完全保存令牌堆栈-输出压…",
       "source": {
         "source": "local",
         "path": "./plugins/mirkobozzetto/espresso"
@@ -790,7 +790,7 @@
     },
     {
       "name": "falsegreen-skill",
-      "displayName": "falsegreen-skill",
+      "displayName": "falsegreen-skill · 查找在其覆盖的代码损坏时保持绿色的测…",
       "source": {
         "source": "local",
         "path": "./plugins/vinicq/falsegreen-skill"
@@ -805,7 +805,7 @@
     },
     {
       "name": "frappe-agent",
-      "displayName": "Frappe Agent",
+      "displayName": "Frappe Agent · Frappe和ERPNext为Cod…",
       "source": {
         "source": "local",
         "path": "./plugins/Dkm0315/frappe-agent"
@@ -820,7 +820,7 @@
     },
     {
       "name": "gcf-proxy",
-      "displayName": "GCF Proxy",
+      "displayName": "GCF Proxy · 通过使用GCF编码",
       "source": {
         "source": "local",
         "path": "./plugins/blackwell-systems/gcf-codex-plugin"
@@ -835,7 +835,7 @@
     },
     {
       "name": "generative-media-skills",
-      "displayName": "Generative Media Skills",
+      "displayName": "Generative Media Skills · 使用100多种型号（",
       "source": {
         "source": "local",
         "path": "./plugins/SamurAIGPT/Generative-Media-Skills"
@@ -850,7 +850,7 @@
     },
     {
       "name": "graymatter",
-      "displayName": "GrayMatter",
+      "displayName": "GrayMatter · Codex和OpenClaw代理的持…",
       "source": {
         "source": "local",
         "path": "./plugins/ValkyrLabs/GrayMatter"
@@ -865,7 +865,7 @@
     },
     {
       "name": "hera-godot",
-      "displayName": "Hera Agent Godot",
+      "displayName": "Hera Agent Godot · 通过低代币Hera",
       "source": {
         "source": "local",
         "path": "./plugins/NotNull92/hera-agent-godot"
@@ -879,7 +879,7 @@
     },
     {
       "name": "hera-unity",
-      "displayName": "Hera Agent Unity",
+      "displayName": "Hera Agent Unity · 通过低代币CLI控制和验证实时Uni…",
       "source": {
         "source": "local",
         "path": "./plugins/NotNull92/hera-agent-unity"
@@ -894,7 +894,7 @@
     },
     {
       "name": "hol-guard-plugin",
-      "displayName": "HOL Guard Plugin",
+      "displayName": "HOL Guard Plugin · 用于Codex",
       "source": {
         "source": "local",
         "path": "./plugins/hashgraph-online/hol-guard-plugin"
@@ -909,7 +909,7 @@
     },
     {
       "name": "codex-honcho",
-      "displayName": "Honcho",
+      "displayName": "Honcho · 由Honcho提供支持的Codex的…",
       "source": {
         "source": "local",
         "path": "./plugins/plastic-labs/codex-honcho"
@@ -924,7 +924,7 @@
     },
     {
       "name": "hotl",
-      "displayName": "HOTL Plugin",
+      "displayName": "HOTL Plugin · 用于Codex",
       "source": {
         "source": "local",
         "path": "./plugins/yimwoo/hotl-plugin"
@@ -939,7 +939,7 @@
     },
     {
       "name": "krypton",
-      "displayName": "Krypton",
+      "displayName": "Krypton · 针对Codex和Claude",
       "source": {
         "source": "local",
         "path": "./plugins/jturntdev/krypton"
@@ -954,7 +954,7 @@
     },
     {
       "name": "llm-transpile",
-      "displayName": "LLM Transpile",
+      "displayName": "LLM Transpile · 通过PostToolUse钩子自动压…",
       "source": {
         "source": "local",
         "path": "./plugins/epicsagas/llm-transpile"
@@ -969,7 +969,7 @@
     },
     {
       "name": "lvtd-skills",
-      "displayName": "LVTD Skills",
+      "displayName": "LVTD Skills · 可重复使用的代理技能",
       "source": {
         "source": "local",
         "path": "./plugins/LVTD-LLC/skills"
@@ -984,7 +984,7 @@
     },
     {
       "name": "maestro",
-      "displayName": "Maestro",
+      "displayName": "Maestro · 选择加入本地多CLI融合引擎和编排原…",
       "source": {
         "source": "local",
         "path": "./plugins/mbanderas/maestro"
@@ -999,7 +999,7 @@
     },
     {
       "name": "mailagent",
-      "displayName": "MailAgent",
+      "displayName": "MailAgent · Codex的临时收件箱—一次性密码",
       "source": {
         "source": "local",
         "path": "./plugins/Alex0nder/MailAgent"
@@ -1014,7 +1014,7 @@
     },
     {
       "name": "memoire",
-      "displayName": "memi",
+      "displayName": "memi · 通过UI审计",
       "source": {
         "source": "local",
         "path": "./plugins/sarveshsea/memi"
@@ -1028,7 +1028,7 @@
     },
     {
       "name": "ontoly",
-      "displayName": "Ontoly",
+      "displayName": "Ontoly · Codex的确定性软件图形工作流程",
       "source": {
         "source": "local",
         "path": "./plugins/0xsarwagya/ontoly-codex-plugin"
@@ -1042,7 +1042,7 @@
     },
     {
       "name": "odw",
-      "displayName": "Open Dynamic Workflows",
+      "displayName": "Open Dynamic Workflows · 本地第一个针对Codex",
       "source": {
         "source": "local",
         "path": "./plugins/Suraj1235/open-dynamic-workflows"
@@ -1057,7 +1057,7 @@
     },
     {
       "name": "personal-data-protection",
-      "displayName": "Personal Data Protection",
+      "displayName": "Personal Data Protection · 面向工程师的个人数据保护合规性参考…",
       "source": {
         "source": "local",
         "path": "./plugins/AltByteSG/personal-data-protection-skill"
@@ -1072,7 +1072,7 @@
     },
     {
       "name": "praxis",
-      "displayName": "Praxis",
+      "displayName": "Praxis · 针对编码代理的意图驱动工作流程技能",
       "source": {
         "source": "local",
         "path": "./plugins/ouonet/praxis"
@@ -1087,7 +1087,7 @@
     },
     {
       "name": "codex-project-autopilot",
-      "displayName": "Project Autopilot",
+      "displayName": "Project Autopilot · 将创意转化为具有规划",
       "source": {
         "source": "local",
         "path": "./plugins/AlexMi64/codex-project-autopilot"
@@ -1102,7 +1102,7 @@
     },
     {
       "name": "quality-engineering-skills",
-      "displayName": "Quality Engineering Skills",
+      "displayName": "Quality Engineering Skills · 22项汽车和制造业结构化质量工程技能",
       "source": {
         "source": "local",
         "path": "./plugins/RBraga01/Quality-Engineering-Skills"
@@ -1117,7 +1117,7 @@
     },
     {
       "name": "rag-reviewer",
-      "displayName": "RAG Reviewer",
+      "displayName": "RAG Reviewer · 代理公关审核",
       "source": {
         "source": "local",
         "path": "./plugins/mimfort/rag_for_git"
@@ -1132,7 +1132,7 @@
     },
     {
       "name": "registry-broker-codex-plugin",
-      "displayName": "Registry Broker",
+      "displayName": "Registry Broker · 通过HOL注册表将任务委派给专业AI…",
       "source": {
         "source": "local",
         "path": "./plugins/hashgraph-online/registry-broker-codex-plugin"
@@ -1147,7 +1147,7 @@
     },
     {
       "name": "reviewable-html-workbench",
-      "displayName": "Reviewable HTML Workbench",
+      "displayName": "Reviewable HTML Workbench · 生成可审核的HTML文档",
       "source": {
         "source": "local",
         "path": "./plugins/u-ichi/reviewable-html-workbench"
@@ -1161,7 +1161,7 @@
     },
     {
       "name": "river-review",
-      "displayName": "River Review",
+      "displayName": "River Review · 由基于视角的审核代理（代码",
       "source": {
         "source": "local",
         "path": "./plugins/s977043/river-review"
@@ -1175,7 +1175,7 @@
     },
     {
       "name": "roadmapsmith",
-      "displayName": "RoadmapSmith",
+      "displayName": "RoadmapSmith · 适用于AI编码代理的循证ROADMA…",
       "source": {
         "source": "local",
         "path": "./plugins/PapiScholz/roadmapsmith"
@@ -1190,7 +1190,7 @@
     },
     {
       "name": "runtype-skills",
-      "displayName": "Runtype Skills",
+      "displayName": "Runtype Skills · 为AI产品开发增强您的编码代理—在R…",
       "source": {
         "source": "local",
         "path": "./plugins/runtypelabs/skills"
@@ -1205,7 +1205,7 @@
     },
     {
       "name": "sealos",
-      "displayName": "Sealos",
+      "displayName": "Sealos · 通过准备情况检查",
       "source": {
         "source": "local",
         "path": "./plugins/labring/sealos-skills"
@@ -1220,7 +1220,7 @@
     },
     {
       "name": "session-orchestrator",
-      "displayName": "Session Orchestrator",
+      "displayName": "Session Orchestrator · Claude",
       "source": {
         "source": "local",
         "path": "./plugins/Kanevry/session-orchestrator"
@@ -1235,7 +1235,7 @@
     },
     {
       "name": "simple-man",
-      "displayName": "Simple Man",
+      "displayName": "Simple Man · Codex代理的高压缩通信模式",
       "source": {
         "source": "local",
         "path": "./plugins/Maksim-Burtsev/simple-man"
@@ -1250,7 +1250,7 @@
     },
     {
       "name": "skill-sync-publisher",
-      "displayName": "skill-sync-publisher",
+      "displayName": "skill-sync-publisher · 在公共代理技能注册表之间安全地同步此…",
       "source": {
         "source": "local",
         "path": "./plugins/liuyewang/skill-sync-publisher"
@@ -1265,7 +1265,7 @@
     },
     {
       "name": "spec-driven",
-      "displayName": "Spec-Driven Development",
+      "displayName": "Spec-Driven Development · Claude",
       "source": {
         "source": "local",
         "path": "./plugins/Habib0x0/spec-driven-plugin"
@@ -1280,7 +1280,7 @@
     },
     {
       "name": "spec-superflow",
-      "displayName": "spec-superflow",
+      "displayName": "spec-superflow · 具有九项技能的规范第一工作流程",
       "source": {
         "source": "local",
         "path": "./plugins/MageByte-Zero/spec-superflow"
@@ -1295,7 +1295,7 @@
     },
     {
       "name": "spellbook-skills",
-      "displayName": "Spellbook Skills",
+      "displayName": "Spellbook Skills · 适用于工作树",
       "source": {
         "source": "local",
         "path": "./plugins/yyykf/spellbook-skills"
@@ -1310,7 +1310,7 @@
     },
     {
       "name": "staff-engineer-mode",
-      "displayName": "Staff Engineer Mode",
+      "displayName": "Staff Engineer Mode · 将工程设计",
       "source": {
         "source": "local",
         "path": "./plugins/sirmarkz/staff-engineer-mode"
@@ -1325,7 +1325,7 @@
     },
     {
       "name": "stark",
-      "displayName": "Stark",
+      "displayName": "Stark · 面向AI编码代理的UI/UX设计插件",
       "source": {
         "source": "local",
         "path": "./plugins/f0d010c/stark"
@@ -1339,7 +1339,7 @@
     },
     {
       "name": "superloopy",
-      "displayName": "Superloopy",
+      "displayName": "Superloopy · 具有专业技能的循证门控Codex循环…",
       "source": {
         "source": "local",
         "path": "./plugins/beefiker/superloopy"
@@ -1354,7 +1354,7 @@
     },
     {
       "name": "superpipelines",
-      "displayName": "Superpipelines",
+      "displayName": "Superpipelines · 跨Codex",
       "source": {
         "source": "local",
         "path": "./plugins/gustavo-meilus/superpipelines"
@@ -1369,7 +1369,7 @@
     },
     {
       "name": "tailtest",
-      "displayName": "tailtest",
+      "displayName": "tailtest · Hook-powered测试生成…",
       "source": {
         "source": "local",
         "path": "./plugins/avansaber/tailtest-codex"
@@ -1384,7 +1384,7 @@
     },
     {
       "name": "tandem-codex-plugin",
-      "displayName": "Tandem Workflow Architect",
+      "displayName": "Tandem Workflow Architect · 在Codex中规划Tandem工作流…",
       "source": {
         "source": "local",
         "path": "./plugins/frumu-ai/tandem-codex-plugin"
@@ -1399,7 +1399,7 @@
     },
     {
       "name": "tartinerlabs",
-      "displayName": "Tartiner Labs",
+      "displayName": "Tartiner Labs · Git工作流程",
       "source": {
         "source": "local",
         "path": "./plugins/tartinerlabs/skills"
@@ -1414,7 +1414,7 @@
     },
     {
       "name": "team-skills-platform",
-      "displayName": "Team Skills Platform",
+      "displayName": "Team Skills Platform · 基于角色的团队交付框架—技术主管为C…",
       "source": {
         "source": "local",
         "path": "./plugins/Colin4k1024/tsp"
@@ -1428,7 +1428,7 @@
     },
     {
       "name": "token-optimizer",
-      "displayName": "token-optimizer",
+      "displayName": "token-optimizer · 使用缓存",
       "source": {
         "source": "local",
         "path": "./plugins/ooples/token-optimizer-mcp"
@@ -1442,7 +1442,7 @@
     },
     {
       "name": "tool-advisor",
-      "displayName": "Tool Advisor",
+      "displayName": "Tool Advisor · 只读元技能",
       "source": {
         "source": "local",
         "path": "./plugins/dragon1086/claude-skills"
@@ -1456,7 +1456,7 @@
     },
     {
       "name": "tree-ring-memory",
-      "displayName": "Tree Ring Memory",
+      "displayName": "Tree Ring Memory · 针对Codex代理的本地优先内存生命…",
       "source": {
         "source": "local",
         "path": "./plugins/TerminallyLazy/tree-ring-memory-codex-plugin"
@@ -1471,7 +1471,7 @@
     },
     {
       "name": "uizze",
-      "displayName": "UIZZE",
+      "displayName": "UIZZE · 停止UI",
       "source": {
         "source": "local",
         "path": "./plugins/uizze/uizze"
@@ -1486,7 +1486,7 @@
     },
     {
       "name": "unforgit",
-      "displayName": "Unforgit",
+      "displayName": "Unforgit · 通过MCP为Codex和其他编码代理…",
       "source": {
         "source": "local",
         "path": "./plugins/MiguelMedeiros/unforgit-codex-plugin"
@@ -1501,7 +1501,7 @@
     },
     {
       "name": "unity-agent-workflows",
-      "displayName": "Unity Agent Workflows",
+      "displayName": "Unity Agent Workflows · Unity",
       "source": {
         "source": "local",
         "path": "./plugins/AUN-PN/unity-agent-workflows"
@@ -1516,7 +1516,7 @@
     },
     {
       "name": "universal-design-principles",
-      "displayName": "Universal Design Principles",
+      "displayName": "Universal Design Principles · 跨代理用户体验和产品设计市场",
       "source": {
         "source": "local",
         "path": "./plugins/HDeibler/universal-design-principles"
@@ -1530,7 +1530,7 @@
     },
     {
       "name": "velith",
-      "displayName": "Velith",
+      "displayName": "Velith · AI原生发布系统",
       "source": {
         "source": "local",
         "path": "./plugins/epicsagas/Velith"
@@ -1545,7 +1545,7 @@
     },
     {
       "name": "vibe-portrait",
-      "displayName": "VibePortrait",
+      "displayName": "VibePortrait · 开发人员个性肖像生成器—分析AI对话…",
       "source": {
         "source": "local",
         "path": "./plugins/dadwadw233/VibePortrait"
@@ -1559,7 +1559,7 @@
     },
     {
       "name": "villagesql",
-      "displayName": "VillageSQL Skills",
+      "displayName": "VillageSQL Skills · VillageSQL的技能",
       "source": {
         "source": "local",
         "path": "./plugins/villagesql/villagesql-skills"
@@ -1574,7 +1574,7 @@
     },
     {
       "name": "waggle",
-      "displayName": "Waggle",
+      "displayName": "Waggle · Codex的持久图形支持会话记忆",
       "source": {
         "source": "local",
         "path": "./plugins/Abhigyan-Shekhar/Waggle-mcp"
@@ -1589,7 +1589,7 @@
     },
     {
       "name": "wingman",
-      "displayName": "Wingman",
+      "displayName": "Wingman · 代理编辑代码之前",
       "source": {
         "source": "local",
         "path": "./plugins/lsshym/wingman.ai"
@@ -1604,7 +1604,7 @@
     },
     {
       "name": "workflow-kit",
-      "displayName": "Workflow Kit",
+      "displayName": "Workflow Kit · 适用于Claude",
       "source": {
         "source": "local",
         "path": "./plugins/Le-Xuan-Thang/workflow-kit"
@@ -1618,7 +1618,7 @@
     },
     {
       "name": "writers-loop",
-      "displayName": "Writer's Loop",
+      "displayName": "Writer's Loop · 用于规划",
       "source": {
         "source": "local",
         "path": "./plugins/xxsang/writers-loop"
@@ -1632,7 +1632,7 @@
     },
     {
       "name": "zagrosi-forge",
-      "displayName": "Zagrosi Forge",
+      "displayName": "Zagrosi Forge · 将广泛的项目简介分解为研究计划",
       "source": {
         "source": "local",
         "path": "./plugins/zagrosi-code/zagrosi-forge"
@@ -1647,7 +1647,7 @@
     },
     {
       "name": "amq-cli",
-      "displayName": "Agent Message Queue",
+      "displayName": "Agent Message Queue · 基于文件的代理间消息传递",
       "source": {
         "source": "local",
         "path": "./plugins/avivsinai/agent-message-queue"
@@ -1662,7 +1662,7 @@
     },
     {
       "name": "agent-vision",
-      "displayName": "Agent Vision",
+      "displayName": "Agent Vision · 仅限macOS的本地摄像头插件",
       "source": {
         "source": "local",
         "path": "./plugins/zfifteen/agent-vision"
@@ -1677,7 +1677,7 @@
     },
     {
       "name": "agentgram",
-      "displayName": "Agentgram",
+      "displayName": "Agentgram · 通过Telegram机器人令牌和聊天…",
       "source": {
         "source": "local",
         "path": "./plugins/jerryfane/agentgram"
@@ -1692,7 +1692,7 @@
     },
     {
       "name": "agentguards-codex",
-      "displayName": "AgentGuards",
+      "displayName": "AgentGuards · 用于Codex的LLM安全护栏",
       "source": {
         "source": "local",
         "path": "./plugins/alelaguard/agentguards-plugins"
@@ -1707,7 +1707,7 @@
     },
     {
       "name": "aient",
-      "displayName": "Aient",
+      "displayName": "Aient · 用于Codex的AI操作插件",
       "source": {
         "source": "local",
         "path": "./plugins/aient-ai/aient-codex-plugin"
@@ -1722,7 +1722,7 @@
     },
     {
       "name": "antigravity-2",
-      "displayName": "Antigravity 2.0",
+      "displayName": "Antigravity 2.0 · 用于Antigravity桌面的本地…",
       "source": {
         "source": "local",
         "path": "./plugins/comprono/antigravity-2-codex-plugin"
@@ -1737,7 +1737,7 @@
     },
     {
       "name": "apple-calendar",
-      "displayName": "Apple Productivity",
+      "displayName": "Apple Productivity · 使用Codex插件适配器的macOS…",
       "source": {
         "source": "local",
         "path": "./plugins/matk0shub/apple-productivity-mcp"
@@ -1751,7 +1751,7 @@
     },
     {
       "name": "autocad-tianzheng-tools",
-      "displayName": "AutoCAD Tianzheng Tools",
+      "displayName": "AutoCAD Tianzheng Tools · 通过本地MCP服务器将Codex连接…",
       "source": {
         "source": "local",
         "path": "./plugins/summer521521/AutoCAD_Tianzheng_plugin"
@@ -1766,7 +1766,7 @@
     },
     {
       "name": "axonflow",
-      "displayName": "AxonFlow",
+      "displayName": "AxonFlow · Codex的运行时治理",
       "source": {
         "source": "local",
         "path": "./plugins/getaxonflow/axonflow-codex-plugin"
@@ -1780,7 +1780,7 @@
     },
     {
       "name": "bkt",
-      "displayName": "Bitbucket CLI",
+      "displayName": "Bitbucket CLI · 管理数据中心和云的Bitbucket…",
       "source": {
         "source": "local",
         "path": "./plugins/avivsinai/bitbucket-cli"
@@ -1795,7 +1795,7 @@
     },
     {
       "name": "calle",
-      "displayName": "Call-E",
+      "displayName": "Call-E · 通过CALLE",
       "source": {
         "source": "local",
         "path": "./plugins/CALLE-AI/call-e-integrations"
@@ -1810,7 +1810,7 @@
     },
     {
       "name": "canvas-apps-plugin-codex",
-      "displayName": "Canvas Apps Plugin Codex",
+      "displayName": "Canvas Apps Plugin Codex · 使用自然语言和Canvas",
       "source": {
         "source": "local",
         "path": "./plugins/Ratnam-Mishra/canvas-apps-plugin-codex"
@@ -1824,7 +1824,7 @@
     },
     {
       "name": "carsxe",
-      "displayName": "CarsXE",
+      "displayName": "CarsXE · 通过CarsXE",
       "source": {
         "source": "local",
         "path": "./plugins/carsxe/carsxe-codex-plugin"
@@ -1839,7 +1839,7 @@
     },
     {
       "name": "chrome-devtools",
-      "displayName": "Chrome DevTools",
+      "displayName": "Chrome DevTools · Chrome-devtools-mc…",
       "source": {
         "source": "local",
         "path": "./plugins/win4r/chrome-devtools-codex-plugin"
@@ -1854,7 +1854,7 @@
     },
     {
       "name": "claude-math",
-      "displayName": "claude-math",
+      "displayName": "claude-math · 将数学作为复制和搜索安全的内联Uni…",
       "source": {
         "source": "local",
         "path": "./plugins/vladimirrott/claude-math"
@@ -1868,7 +1868,7 @@
     },
     {
       "name": "be-serious",
-      "displayName": "Codex Be Serious",
+      "displayName": "Codex Be Serious · 在所有代理输出中强制执行正式的教科书…",
       "source": {
         "source": "local",
         "path": "./plugins/lulucatdev/codex-be-serious"
@@ -1883,7 +1883,7 @@
     },
     {
       "name": "codex-mem",
-      "displayName": "Codex Mem",
+      "displayName": "Codex Mem · 自动捕获",
       "source": {
         "source": "local",
         "path": "./plugins/2kDarki/codex-mem"
@@ -1897,7 +1897,7 @@
     },
     {
       "name": "codex-obsidian",
-      "displayName": "Codex Obsidian",
+      "displayName": "Codex Obsidian · 通过官方桌面“黑曜石”",
       "source": {
         "source": "local",
         "path": "./plugins/greg-asher/codex-obsidian"
@@ -1912,7 +1912,7 @@
     },
     {
       "name": "codex-seo",
-      "displayName": "Codex SEO",
+      "displayName": "Codex SEO · 针对Codex的全栈SEO审计",
       "source": {
         "source": "local",
         "path": "./plugins/BestLemoon/codex-seo"
@@ -1927,7 +1927,7 @@
     },
     {
       "name": "codex-usage-tracker",
-      "displayName": "Codex Usage Tracker",
+      "displayName": "Codex Usage Tracker · 使用MCP工具从本地会话日志跟踪汇总…",
       "source": {
         "source": "local",
         "path": "./plugins/douglasmonsky/codex-usage-tracker"
@@ -1941,7 +1941,7 @@
     },
     {
       "name": "computer-usage-summary-skill",
-      "displayName": "Computer Usage Summary",
+      "displayName": "Computer Usage Summary · 隐私为先的本地ActivityWat…",
       "source": {
         "source": "local",
         "path": "./plugins/liuyewang/computer-usage-summary-skill"
@@ -1956,7 +1956,7 @@
     },
     {
       "name": "contam-tools",
-      "displayName": "CONTAM Tools",
+      "displayName": "CONTAM Tools · 通过具有项目保护",
       "source": {
         "source": "local",
         "path": "./plugins/summer521521/CONTAM_plugin"
@@ -1971,7 +1971,7 @@
     },
     {
       "name": "context-pack",
-      "displayName": "Context Pack",
+      "displayName": "Context Pack · 在深入探索之前",
       "source": {
         "source": "local",
         "path": "./plugins/Rothschildiuk/context-pack"
@@ -1986,7 +1986,7 @@
     },
     {
       "name": "coolify",
-      "displayName": "Coolify",
+      "displayName": "Coolify · 通过API感知工作流程技能和本地工具…",
       "source": {
         "source": "local",
         "path": "./plugins/Sevi-py/coolify-codex-plugin"
@@ -2001,7 +2001,7 @@
     },
     {
       "name": "dataproduct-builder-dbt",
-      "displayName": "Data Product Builder for dbt",
+      "displayName": "Data Product Builder for dbt · 熵数据的dbt完整数据产品生命周期",
       "source": {
         "source": "local",
         "path": "./plugins/entropy-data/dataproduct-builder-dbt"
@@ -2015,7 +2015,7 @@
     },
     {
       "name": "digital-marketing-pro",
-      "displayName": "Digital Marketing Pro",
+      "displayName": "Digital Marketing Pro · 面向机构的开源人工智能营销插件",
       "source": {
         "source": "local",
         "path": "./plugins/indranilbanerjee/digital-marketing-pro"
@@ -2030,7 +2030,7 @@
     },
     {
       "name": "dodopayments",
-      "displayName": "Dodo Payments",
+      "displayName": "Dodo Payments · 使用实时API和带浏览器OAuth的…",
       "source": {
         "source": "local",
         "path": "./plugins/dodopayments/dodo-agent-plugin"
@@ -2045,7 +2045,7 @@
     },
     {
       "name": "droplinked-codex-plugin",
-      "displayName": "Droplinked",
+      "displayName": "Droplinked · 通过托管的MCP服务器进行经过验证的…",
       "source": {
         "source": "local",
         "path": "./plugins/droplinked/droplinked-codex-plugin"
@@ -2060,7 +2060,7 @@
     },
     {
       "name": "education-agent-skills",
-      "displayName": "Education Agent Skills",
+      "displayName": "Education Agent Skills · 131基于证据的教育技能",
       "source": {
         "source": "local",
         "path": "./plugins/GarethManning/education-agent-skills"
@@ -2075,7 +2075,7 @@
     },
     {
       "name": "exa",
-      "displayName": "Exa Web Search",
+      "displayName": "Exa Web Search · 使用浏览器OAuth通过官方Exa",
       "source": {
         "source": "local",
         "path": "./plugins/zlsbksdxl/codex-exa"
@@ -2090,7 +2090,7 @@
     },
     {
       "name": "feishu2codex",
-      "displayName": "Feishu to Codex",
+      "displayName": "Feishu to Codex · 通过官方Lark",
       "source": {
         "source": "local",
         "path": "./plugins/zlsbksdxl/codex-lark"
@@ -2105,7 +2105,7 @@
     },
     {
       "name": "flowstudio-power-automate",
-      "displayName": "Flow Studio Power Automate",
+      "displayName": "Flow Studio Power Automate · 通过FlowStudio",
       "source": {
         "source": "local",
         "path": "./plugins/ninihen1/power-automate-mcp-skills"
@@ -2119,7 +2119,7 @@
     },
     {
       "name": "gh-project-plugin",
-      "displayName": "GH Project",
+      "displayName": "GH Project · 使用推断默认值",
       "source": {
         "source": "local",
         "path": "./plugins/zfifteen/gh-project-plugin"
@@ -2133,7 +2133,7 @@
     },
     {
       "name": "hermes-tweet",
-      "displayName": "Hermes Tweet",
+      "displayName": "Hermes Tweet · Hermes",
       "source": {
         "source": "local",
         "path": "./plugins/Xquik-dev/hermes-tweet"
@@ -2148,7 +2148,7 @@
     },
     {
       "name": "jk",
-      "displayName": "Jenkins CLI",
+      "displayName": "Jenkins CLI · Jenkins控制器的GitHub",
       "source": {
         "source": "local",
         "path": "./plugins/avivsinai/jenkins-cli"
@@ -2163,7 +2163,7 @@
     },
     {
       "name": "kachilu-browser",
-      "displayName": "Kachilu Browser",
+      "displayName": "Kachilu Browser · 具有MCP工具",
       "source": {
         "source": "local",
         "path": "./plugins/kachilu-inc/kachilu-browser"
@@ -2177,7 +2177,7 @@
     },
     {
       "name": "kicad-happy",
-      "displayName": "KiCad Happy",
+      "displayName": "KiCad Happy · KiCad",
       "source": {
         "source": "local",
         "path": "./plugins/aklofas/kicad-happy"
@@ -2191,7 +2191,7 @@
     },
     {
       "name": "crawlberg",
-      "displayName": "Kreuzberg",
+      "displayName": "Kreuzberg · 91种以上格式的本地文档提取",
       "source": {
         "source": "local",
         "path": "./plugins/kreuzberg-dev/plugins/plugins/crawlberg"
@@ -2206,7 +2206,7 @@
     },
     {
       "name": "crawlberg",
-      "displayName": "Kreuzberg Cloud",
+      "displayName": "Kreuzberg Cloud · 使用API密钥设置",
       "source": {
         "source": "local",
         "path": "./plugins/kreuzberg-dev/plugins/plugins/crawlberg"
@@ -2221,7 +2221,7 @@
     },
     {
       "name": "crawlberg",
-      "displayName": "Kreuzcrawl",
+      "displayName": "Kreuzcrawl · 使用单页抓取",
       "source": {
         "source": "local",
         "path": "./plugins/kreuzberg-dev/plugins/plugins/crawlberg"
@@ -2236,7 +2236,7 @@
     },
     {
       "name": "lacuna-music",
-      "displayName": "Lacuna Music",
+      "displayName": "Lacuna Music · 通过Lacuna",
       "source": {
         "source": "local",
         "path": "./plugins/JOYLINK-LTD/lacuna-plugin"
@@ -2251,7 +2251,7 @@
     },
     {
       "name": "langfuse",
-      "displayName": "Langfuse Observability",
+      "displayName": "Langfuse Observability · 通过MCP工具查询跟踪",
       "source": {
         "source": "local",
         "path": "./plugins/avivsinai/langfuse-mcp"
@@ -2266,7 +2266,7 @@
     },
     {
       "name": "launchfast",
-      "displayName": "Launch Fast",
+      "displayName": "Launch Fast · 正式推出用于快速SaaS部署的快速插…",
       "source": {
         "source": "local",
         "path": "./plugins/BlockchainHB/launchfast_codex_plugin"
@@ -2281,7 +2281,7 @@
     },
     {
       "name": "linkedin-skills",
-      "displayName": "LinkedIn Skills",
+      "displayName": "LinkedIn Skills · 支持Codex的LinkedIn营销…",
       "source": {
         "source": "local",
         "path": "./plugins/sergebulaev/linkedin-skills"
@@ -2296,7 +2296,7 @@
     },
     {
       "name": "costguard",
-      "displayName": "Maestro: Costguard",
+      "displayName": "Maestro: Costguard · Codex的成本审计师通过只读提供程…",
       "source": {
         "source": "local",
         "path": "./plugins/mbanderas/costguard"
@@ -2311,7 +2311,7 @@
     },
     {
       "name": "matlab-simulink-tools",
-      "displayName": "MATLAB Simulink Tools",
+      "displayName": "MATLAB Simulink Tools · 通过本地MCP服务器将Codex连接…",
       "source": {
         "source": "local",
         "path": "./plugins/summer521521/MATLAB_Simulink_plugin"
@@ -2326,7 +2326,7 @@
     },
     {
       "name": "mobazha",
-      "displayName": "Mobazha",
+      "displayName": "Mobazha · 去中心化电子商务技能—部署自托管商店",
       "source": {
         "source": "local",
         "path": "./plugins/mobazha/mobazha-skills"
@@ -2340,7 +2340,7 @@
     },
     {
       "name": "morning-ai",
-      "displayName": "MorningAI",
+      "displayName": "MorningAI · 人工智能新闻跟踪技能",
       "source": {
         "source": "local",
         "path": "./plugins/octo-patch/MorningAI"
@@ -2354,7 +2354,7 @@
     },
     {
       "name": "nullcost-catalog",
-      "displayName": "Nullcost",
+      "displayName": "Nullcost · 通过捆绑的技能和MCP工具",
       "source": {
         "source": "local",
         "path": "./plugins/johnvouros/nullcost-plugin"
@@ -2369,7 +2369,7 @@
     },
     {
       "name": "oc-codex-multi-auth",
-      "displayName": "OC ChatGPT Multi Auth",
+      "displayName": "OC ChatGPT Multi Auth · 用于ChatGPT",
       "source": {
         "source": "local",
         "path": "./plugins/ndycode/oc-chatgpt-multi-auth"
@@ -2384,7 +2384,7 @@
     },
     {
       "name": "openproject-codex",
-      "displayName": "OpenProject Codex",
+      "displayName": "OpenProject Codex · OpenProject",
       "source": {
         "source": "local",
         "path": "./plugins/varaprasadreddy9676/openproject-codex-plugin"
@@ -2398,7 +2398,7 @@
     },
     {
       "name": "ophis",
-      "displayName": "Ophis",
+      "displayName": "Ophis · Onchain代币通过托管的Ophi…",
       "source": {
         "source": "local",
         "path": "./plugins/ophis-fi/skills"
@@ -2413,7 +2413,7 @@
     },
     {
       "name": "orgx-codex-plugin",
-      "displayName": "OrgX",
+      "displayName": "OrgX · 组织工作流程的MCP访问和主动意识技…",
       "source": {
         "source": "local",
         "path": "./plugins/useorgx/orgx-codex-plugin"
@@ -2428,7 +2428,7 @@
     },
     {
       "name": "panews",
-      "displayName": "PANews Agent Toolkit",
+      "displayName": "PANews Agent Toolkit · 加密和区块链新闻发现",
       "source": {
         "source": "local",
         "path": "./plugins/panewslab/skills"
@@ -2442,7 +2442,7 @@
     },
     {
       "name": "papersflow-codex-plugin",
-      "displayName": "PapersFlow",
+      "displayName": "PapersFlow · 论文发现",
       "source": {
         "source": "local",
         "path": "./plugins/papersflow-ai/papersflow-codex-plugin"
@@ -2457,7 +2457,7 @@
     },
     {
       "name": "plori",
-      "displayName": "plori",
+      "displayName": "plori · 通过OAuth自动发现",
       "source": {
         "source": "local",
         "path": "./plugins/plori-ai/codex-plugin"
@@ -2471,7 +2471,7 @@
     },
     {
       "name": "prompt-to-asset",
-      "displayName": "prompt-to-asset",
+      "displayName": "prompt-to-asset · 通过单个MCP界面将图像生成提示路由…",
       "source": {
         "source": "local",
         "path": "./plugins/MohamedAbdallah-14/prompt-to-asset"
@@ -2485,7 +2485,7 @@
     },
     {
       "name": "pronounce",
-      "displayName": "Pronounce",
+      "displayName": "Pronounce · 大声说出开发人员的行话",
       "source": {
         "source": "local",
         "path": "./plugins/anzy-renlab-ai/pronounce"
@@ -2500,7 +2500,7 @@
     },
     {
       "name": "omnimodal",
-      "displayName": "Read Image",
+      "displayName": "Read Image · 通过Doubao",
       "source": {
         "source": "local",
         "path": "./plugins/ZXY1240/read-image"
@@ -2515,7 +2515,7 @@
     },
     {
       "name": "remotion",
-      "displayName": "Remotion Plugin",
+      "displayName": "Remotion Plugin · 使用官方Remotion文档MCP",
       "source": {
         "source": "local",
         "path": "./plugins/tim-osterhus/codex-remotion-plugin"
@@ -2530,7 +2530,7 @@
     },
     {
       "name": "ru-text",
-      "displayName": "ru-text",
+      "displayName": "ru-text · 俄语文本质量—约1,044条排版",
       "source": {
         "source": "local",
         "path": "./plugins/talkstream/ru-text"
@@ -2545,7 +2545,7 @@
     },
     {
       "name": "rust-reverse-engineering",
-      "displayName": "Rust Reverse Engineering",
+      "displayName": "Rust Reverse Engineering · 对Rust二进制文件和库进行逆向工程",
       "source": {
         "source": "local",
         "path": "./plugins/jingjing2222/rust-reverse-engineering-skill"
@@ -2559,7 +2559,7 @@
     },
     {
       "name": "just-scrape",
-      "displayName": "ScrapeGraph AI",
+      "displayName": "ScrapeGraph AI · 基于AI的Web抓取CLI",
       "source": {
         "source": "local",
         "path": "./plugins/ScrapeGraphAI/just-scrape"
@@ -2574,7 +2574,7 @@
     },
     {
       "name": "shots",
-      "displayName": "Shots",
+      "displayName": "Shots · 通过托管的Shots",
       "source": {
         "source": "local",
         "path": "./plugins/hitSlop/shots"
@@ -2589,7 +2589,7 @@
     },
     {
       "name": "solidworks-gpt-plugin",
-      "displayName": "SolidWorks GPT Plugin",
+      "displayName": "SolidWorks GPT Plugin · 基于知识的SolidWorks设计和…",
       "source": {
         "source": "local",
         "path": "./plugins/Erfouni/solidworks-GPT-plugin"
@@ -2604,7 +2604,7 @@
     },
     {
       "name": "storyflo-codex-plugin",
-      "displayName": "Storyflo",
+      "displayName": "Storyflo · 代理新闻编辑室位于托管的MCP服务器…",
       "source": {
         "source": "local",
         "path": "./plugins/droplinked/storyflo-codex-plugin"
@@ -2619,7 +2619,7 @@
     },
     {
       "name": "n8n-mcp-synta-codex",
-      "displayName": "Synta MCP",
+      "displayName": "Synta MCP · 使用Synta",
       "source": {
         "source": "local",
         "path": "./plugins/Synta-ai/n8n-mcp-codex-plugin-synta"
@@ -2634,7 +2634,7 @@
     },
     {
       "name": "sysknife",
-      "displayName": "SysKnife",
+      "displayName": "SysKnife · Linux",
       "source": {
         "source": "local",
         "path": "./plugins/lacs-project/sysknife"
@@ -2649,7 +2649,7 @@
     },
     {
       "name": "taisly-agent-kit",
-      "displayName": "Taisly Agent Kit",
+      "displayName": "Taisly Agent Kit · 使用Taisly",
       "source": {
         "source": "local",
         "path": "./plugins/taisly/agent"
@@ -2663,7 +2663,7 @@
     },
     {
       "name": "talivia-agent-kit",
-      "displayName": "Talivia Agent Kit",
+      "displayName": "Talivia Agent Kit · 安装并验证Codex的收入第一网站分…",
       "source": {
         "source": "local",
         "path": "./plugins/talivia-group/agent"
@@ -2677,7 +2677,7 @@
     },
     {
       "name": "task-scheduler",
-      "displayName": "Task Scheduler",
+      "displayName": "Task Scheduler · OpenAI",
       "source": {
         "source": "local",
         "path": "./plugins/6Delta9/task-scheduler-codex-plugin"
@@ -2692,7 +2692,7 @@
     },
     {
       "name": "thermal-fluid-research-workflow",
-      "displayName": "Thermal-Fluid Research Workflow",
+      "displayName": "Thermal-Fluid Research Workflow · 用于文献综述",
       "source": {
         "source": "local",
         "path": "./plugins/hanhuark/mechanical-engineering-research-skill"
@@ -2707,7 +2707,7 @@
     },
     {
       "name": "token-harbor",
-      "displayName": "Token Harbor",
+      "displayName": "Token Harbor · 将Codex代币的使用转化为Sail",
       "source": {
         "source": "local",
         "path": "./plugins/NickHOI/Token-Harbor"
@@ -2722,7 +2722,7 @@
     },
     {
       "name": "tokrepo-search",
-      "displayName": "TokRepo Search",
+      "displayName": "TokRepo Search · 使用捆绑的技能和Codex的MCP服…",
       "source": {
         "source": "local",
         "path": "./plugins/henu-wang/tokrepo-codex-plugin"
@@ -2736,7 +2736,7 @@
     },
     {
       "name": "unified-ai-system",
-      "displayName": "Unified AI System",
+      "displayName": "Unified AI System · 用于Codex的自托管AI网关",
       "source": {
         "source": "local",
         "path": "./plugins/happy520ai/unified-ai-system"
@@ -2751,7 +2751,7 @@
     },
     {
       "name": "unslop",
-      "displayName": "unslop",
+      "displayName": "unslop · 从文本输出中去除AI写作模式—删除填…",
       "source": {
         "source": "local",
         "path": "./plugins/MohamedAbdallah-14/unslop"
@@ -2765,7 +2765,7 @@
     },
     {
       "name": "upwork-autopilot",
-      "displayName": "Upwork Autopilot",
+      "displayName": "Upwork Autopilot · 通过专门的Chrome个人资料控制U…",
       "source": {
         "source": "local",
         "path": "./plugins/klajdikkolaj/upwork-autopilot"
@@ -2779,7 +2779,7 @@
     },
     {
       "name": "vals",
-      "displayName": "Val Town",
+      "displayName": "Val Town · 在Codex的Val",
       "source": {
         "source": "local",
         "path": "./plugins/val-town/plugins"
@@ -2794,7 +2794,7 @@
     },
     {
       "name": "vidseeds",
-      "displayName": "VidSeeds.ai",
+      "displayName": "VidSeeds.ai · 用于预上传视频搜索引擎优化",
       "source": {
         "source": "local",
         "path": "./plugins/CarrotGamesStudios/vidseeds-mcp"
@@ -2809,7 +2809,7 @@
     },
     {
       "name": "wakewire",
-      "displayName": "WakeWire",
+      "displayName": "WakeWire · 将来自GitHub",
       "source": {
         "source": "local",
         "path": "./plugins/glenncalleja/wakewire"
@@ -2823,7 +2823,7 @@
     },
     {
       "name": "x-skills",
-      "displayName": "X (Twitter) Skills",
+      "displayName": "X (Twitter) Skills · 具有原生.codex插件清单的Cod…",
       "source": {
         "source": "local",
         "path": "./plugins/sergebulaev/x-skills"
@@ -2837,7 +2837,7 @@
     },
     {
       "name": "x-twitter-scraper",
-      "displayName": "X Twitter Scraper",
+      "displayName": "X Twitter Scraper · X/Twitter数据",
       "source": {
         "source": "local",
         "path": "./plugins/Xquik-dev/x-twitter-scraper"
@@ -2852,7 +2852,7 @@
     },
     {
       "name": "yandex-direct-for-all",
-      "displayName": "Yandex Direct",
+      "displayName": "Yandex Direct · 适用于Yandex",
       "source": {
         "source": "local",
         "path": "./plugins/nebelov/yandex-direct-for-all"
@@ -2867,7 +2867,7 @@
     },
     {
       "name": "youtube-skills",
-      "displayName": "YouTube Skills by TranscriptAPI",
+      "displayName": "YouTube Skills by TranscriptAPI · 通过TranscriptAPI服务进…",
       "source": {
         "source": "local",
         "path": "./plugins/ZeroPointRepo/youtube-skills"
@@ -2882,7 +2882,7 @@
     },
     {
       "name": "zotero-research-tools",
-      "displayName": "Zotero Research Tools",
+      "displayName": "Zotero Research Tools · 将Codex连接到Zotero",
       "source": {
         "source": "local",
         "path": "./plugins/summer521521/Zotero_Research_plugin"

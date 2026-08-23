@@ -67,6 +67,17 @@ def translate(text: str, cache: dict[str, str]) -> str:
     return translated
 
 
+def chinese_label(description: str) -> str:
+    """Make a compact Chinese purpose label for the marketplace list view."""
+    text = description.removeprefix("（英文原文）").strip()
+    for separator in ("。", "；", "，", "：", "、", " "):
+        text = text.split(separator, 1)[0]
+    text = text.strip(" ，。；：、-—")
+    if len(text) > 18:
+        text = text[:18].rstrip(" ，。；：、-—") + "…"
+    return text or "中文插件说明"
+
+
 def main() -> None:
     if "--refresh-source" in sys.argv:
         SOURCE.parent.mkdir(parents=True, exist_ok=True)
@@ -82,6 +93,10 @@ def main() -> None:
             plugin.get("category", ""), plugin.get("category", "")
         )
         plugin["description"] = translate(plugin.get("description", ""), cache)
+        # Keep the vendor/product brand searchable, while making its purpose
+        # understandable to Chinese users without changing the plugin ID.
+        brand = plugin.get("displayName") or plugin.get("name", "")
+        plugin["displayName"] = f"{brand} · {chinese_label(plugin['description'])}"
 
     save_cache(cache)
     MARKETPLACE.write_text(
