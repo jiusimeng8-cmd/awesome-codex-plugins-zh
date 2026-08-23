@@ -23,9 +23,9 @@ jobs:
       - name: Sync installable plugins and source marketplace
         run: |
           git checkout upstream/main -- plugins plugins.json
-          git show upstream/main:.agents/plugins/marketplace.json > translations/source-marketplace.json
-      - name: Generate Chinese marketplace
-        run: python scripts/build_zh_marketplace.py
+          git checkout upstream/main -- .agents/plugins/marketplace.json
+      - name: Generate the Chinese catalog and plugin metadata
+        run: python scripts/localize_catalog.py --refresh-source
       - name: Commit synchronized marketplace
         run: |
           if git diff --quiet; then
