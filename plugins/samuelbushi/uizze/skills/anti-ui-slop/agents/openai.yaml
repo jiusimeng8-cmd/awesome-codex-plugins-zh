@@ -1,4 +1,4 @@
 interface:
-  display_name: "UIZZE — STOP UI SLOP"
-  short_description: "Kill generic UI before it reaches users"
-  default_prompt: "Use $anti-ui-slop to kill generic UI, ground this interface in real product evidence, and run a hard finish gate before shipping."
+  display_name: "UIZZE · 在通用化界面上线前"
+  short_description: "在通用化界面上线前"
+  default_prompt: "使用 UIZZE 帮我：在通用化界面上线前"

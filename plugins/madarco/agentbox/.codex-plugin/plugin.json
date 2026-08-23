@@ -1,18 +1,26 @@
 {
   "name": "agentbox",
   "version": "0.1.0",
-  "description": "Drive AgentBox from Codex on the host: create isolated sandboxes for coding agents, run them in parallel, queue background jobs, and push commits safely through the host relay.",
+  "description": "在宿主机上从 Codex 操作 AgentBox：为编程智能体创建隔离沙箱、并行运行、排队后台任务，并通过宿主中继安全推送提交。",
   "author": {
     "name": "Marco D'Alia"
   },
   "homepage": "https://github.com/madarco/agentbox",
   "repository": "https://github.com/madarco/agentbox",
   "license": "MIT",
-  "keywords": ["codex", "agentbox", "sandbox", "docker", "hetzner", "daytona"],
+  "keywords": [
+    "codex",
+    "agentbox",
+    "sandbox",
+    "docker",
+    "hetzner",
+    "daytona"
+  ],
   "interface": {
-    "displayName": "AgentBox",
-    "shortDescription": "Run coding agents in parallel, each in its own sandboxed box.",
-    "composerIcon": "./assets/icon.svg"
+    "displayName": "AgentBox · 在宿主机上从 Codex 操作 Ag…",
+    "shortDescription": "在宿主机上从 Codex 操作 Ag…",
+    "composerIcon": "./assets/icon.svg",
+    "longDescription": "在宿主机上从 Codex 操作 AgentBox：为编程智能体创建隔离沙箱、并行运行、排队后台任务，并通过宿主中继安全推送提交。"
   },
   "skills": "./skills/"
 }

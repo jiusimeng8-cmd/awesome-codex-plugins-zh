@@ -1,7 +1,7 @@
 {
   "name": "citadel",
   "version": "1.0.0",
-  "description": "Codex-native agent orchestration harness for durable campaigns, skills, hooks, telemetry, and parallel work.",
+  "description": "原生 Codex 智能体编排框架，支持长期任务、技能、Hooks、遥测和并行协作。",
   "author": {
     "name": "Citadel",
     "url": "https://github.com/SethGammon/Citadel"
@@ -24,28 +24,22 @@
   "mcpServers": "./.mcp.json",
   "hooks": "./hooks/hooks.json",
   "interface": {
-    "displayName": "Citadel Harness",
+    "displayName": "Citadel Harness · 原生 Codex 智能体编排框架",
     "composerIcon": "./assets/icon.svg",
     "logo": "./assets/icon.svg",
     "websiteURL": "https://sethgammon.github.io/Citadel/",
-    "screenshots": ["./assets/citadel-overview.png"],
-    "shortDescription": "Codex-native orchestration: 46 skills, campaigns, fleet coordination, quality gates",
-    "longDescription": "Citadel adds durable planning state, reusable skills, lifecycle hooks, telemetry, PR triage, and coordinated multi-agent workflows to Codex.",
+    "screenshots": [
+      "./assets/citadel-overview.png"
+    ],
+    "shortDescription": "原生 Codex 智能体编排框架",
+    "longDescription": "原生 Codex 智能体编排框架，支持长期任务、技能、Hooks、遥测和并行协作。",
     "developerName": "Citadel",
     "category": "Developer Tools",
     "capabilities": [
-      "orchestration",
-      "campaigns",
-      "parallel-agents",
-      "quality-gates",
-      "telemetry",
-      "intent-routing",
-      "mcp",
-      "codex-hooks"
+      "适用场景：原生 Codex 智能体编排框架"
     ],
     "defaultPrompt": [
-      "Use Citadel to route this task through the right skill and verification loop.",
-      "Use Citadel to continue the active campaign and report current state."
+      "使用 Citadel Harness 帮我：原生 Codex 智能体编排框架"
     ]
   }
 }

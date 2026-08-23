@@ -1,7 +1,7 @@
 {
   "name": "mailagent",
   "version": "0.2.5",
-  "description": "Temporary inboxes for Codex OTP, magic links, and signup QA flows.",
+  "description": "为 Codex 提供临时邮箱，用于接收一次性验证码、魔法登录链接和注册流程测试。",
   "author": {
     "name": "MailAgent",
     "url": "https://webmailagent.com"
@@ -9,24 +9,30 @@
   "homepage": "https://webmailagent.com/docs/agents.html",
   "repository": "https://github.com/Alex0nder/MailAgent",
   "license": "MIT",
-  "keywords": ["email", "verification", "otp", "mcp", "testing", "agents"],
+  "keywords": [
+    "email",
+    "verification",
+    "otp",
+    "mcp",
+    "testing",
+    "agents"
+  ],
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "MailAgent",
-    "shortDescription": "Temporary inboxes for OTP and magic link QA.",
-    "longDescription": "Create disposable inboxes, wait for signup messages, extract OTPs or magic links, and clean up test inboxes from Codex.",
+    "displayName": "MailAgent · 为 Codex 提供临时邮箱",
+    "shortDescription": "为 Codex 提供临时邮箱",
+    "longDescription": "为 Codex 提供临时邮箱，用于接收一次性验证码、魔法登录链接和注册流程测试。",
     "developerName": "MailAgent",
     "category": "Productivity",
-    "capabilities": ["MCP", "Skills"],
+    "capabilities": [
+      "适用场景：为 Codex 提供临时邮箱"
+    ],
     "websiteURL": "https://webmailagent.com/",
     "privacyPolicyURL": "https://webmailagent.com/privacy.html",
     "termsOfServiceURL": "https://webmailagent.com/terms.html",
     "defaultPrompt": [
-      "Verify a signup flow with a temporary inbox.",
-      "Create an inbox and wait for an OTP email.",
-      "Extract a magic link from a signup email.",
-      "Simulate a test OTP email when staging mail is unavailable."
+      "使用 MailAgent 帮我：为 Codex 提供临时邮箱"
     ],
     "brandColor": "#2563EB",
     "composerIcon": "./assets/icon.svg"

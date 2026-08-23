@@ -1,7 +1,7 @@
 {
   "name": "honeydew-ai",
   "version": "1.0.3",
-  "description": "Skills and tools powered by the Honeydew MCP that help coding agents query data and build semantic models",
+  "description": "由 Honeydew MCP 驱动的技能和工具，帮助编程智能体查询数据并构建语义模型。",
   "author": {
     "name": "Honeydew AI",
     "email": "support@honeydew.ai",
@@ -21,19 +21,19 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Honeydew AI",
-    "shortDescription": "Query data and build Honeydew semantic models from Codex.",
-    "longDescription": "Honeydew AI provides Codex skills for exploring semantic models, querying governed data, creating entities, attributes, metrics, relations, and domains, and validating modeling changes through the Honeydew MCP.",
+    "displayName": "Honeydew AI · 由 Honeydew MCP 驱动的…",
+    "shortDescription": "由 Honeydew MCP 驱动的…",
+    "longDescription": "由 Honeydew MCP 驱动的技能和工具，帮助编程智能体查询数据并构建语义模型。",
     "developerName": "Honeydew AI",
     "category": "Productivity",
-    "capabilities": ["Interactive", "Write"],
+    "capabilities": [
+      "适用场景：由 Honeydew MCP 驱动的…"
+    ],
     "websiteURL": "https://honeydew.ai",
     "privacyPolicyURL": "https://honeydew.ai/privacy-policy",
     "termsOfServiceURL": "https://honeydew.ai/terms-of-service",
     "defaultPrompt": [
-      "Show me revenue by region for last quarter.",
-      "Create an orders entity from my warehouse table.",
-      "Validate the metric I just added."
+      "使用 Honeydew AI 帮我：由 Honeydew MCP 驱动的…"
     ],
     "brandColor": "#04B8A6",
     "logo": "./assets/logo.svg"

@@ -1,7 +1,7 @@
 {
   "name": "separateweb-capture",
   "version": "1.1.2",
-  "description": "Website screenshot and UI crop extraction for Codex using Playwright and Sharp.",
+  "description": "使用 Playwright 和 Sharp 为 Codex 截取网页全图并提取界面裁切。",
   "author": {
     "name": "AUN-PN",
     "email": "",
@@ -20,19 +20,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "SeparateWeb Capture",
-    "shortDescription": "Capture website screenshots and UI crops.",
-    "longDescription": "Adds a Codex skill for web page capture with Playwright, saving full-page screenshots, cropped UI items, and manifest JSON for visual QA and frontend reference work.",
+    "displayName": "SeparateWeb Capture · 使用 Playwright 和 Sh…",
+    "shortDescription": "使用 Playwright 和 Sh…",
+    "longDescription": "使用 Playwright 和 Sharp 为 Codex 截取网页全图并提取界面裁切。",
     "developerName": "AUN-PN",
     "category": "Productivity",
     "capabilities": [
-      "Capture",
-      "Write"
+      "适用场景：使用 Playwright 和 Sh…"
     ],
     "defaultPrompt": [
-      "separateweb capture https://example.com",
-      "Capture this page into UI crops",
-      "Take a full-page screenshot and manifest"
+      "使用 SeparateWeb Capture 帮我：使用 Playwright 和 Sh…"
     ],
     "brandColor": "#2563EB",
     "composerIcon": "./assets/icon.png",

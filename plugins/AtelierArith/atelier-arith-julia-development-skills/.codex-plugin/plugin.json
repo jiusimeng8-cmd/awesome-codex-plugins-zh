@@ -1,7 +1,7 @@
 {
   "name": "aa-jl",
   "version": "0.2.0",
-  "description": "Codex skills for Julia installation, package creation, app creation, and test workflows.",
+  "description": "为 Julia 安装、包创建、应用开发和测试流程提供 Codex 技能。",
   "author": {
     "name": "Atelier Arith",
     "url": "https://github.com/AtelierArith"
@@ -18,19 +18,17 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Atelier Arith Julia Development Skills",
-    "shortDescription": "Julia development workflows for Codex.",
-    "longDescription": "A collection of Codex skills for installing Julia, generating Julia packages, creating Julia apps, creating test environments, and running Julia tests.",
+    "displayName": "Atelier Arith Julia Development Skills · 为 Julia 安装",
+    "shortDescription": "为 Julia 安装",
+    "longDescription": "为 Julia 安装、包创建、应用开发和测试流程提供 Codex 技能。",
     "developerName": "Atelier Arith",
     "category": "Developer Tools",
     "capabilities": [
-      "Write"
+      "适用场景：为 Julia 安装"
     ],
     "websiteURL": "https://github.com/AtelierArith/atelier-arith-julia-development-skills",
     "defaultPrompt": [
-      "Create a Julia package in this directory.",
-      "Add a Julia test environment.",
-      "Run the Julia test workflow."
+      "使用 Atelier Arith Julia Development Skills 帮我：为 Julia 安装"
     ],
     "brandColor": "#9558B2"
   }

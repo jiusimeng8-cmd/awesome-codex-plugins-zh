@@ -1,7 +1,7 @@
 {
   "name": "socraticode",
   "version": "1.8.4",
-  "description": "Codebase intelligence: semantic search workflows, dependency graph analysis, and context artifact exploration for SocratiCode",
+  "description": "为 SocratiCode 提供代码库智能：语义搜索工作流、依赖图分析和上下文工件探索。",
   "author": {
     "name": "Giancarlo Erra",
     "email": "giancarlo@altaire.com",
@@ -21,20 +21,19 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "SocratiCode",
-    "shortDescription": "Codebase intelligence: semantic search, dependency graphs, and context artifacts",
-    "longDescription": "SocratiCode provides codebase intelligence through semantic search workflows, dependency graph analysis, and context artifact exploration. Index your codebase, search with hybrid semantic + keyword search, visualize module dependencies, and manage context artifacts.",
+    "displayName": "SocratiCode · 为 SocratiCode 提供代码…",
+    "shortDescription": "为 SocratiCode 提供代码…",
+    "longDescription": "为 SocratiCode 提供代码库智能：语义搜索工作流、依赖图分析和上下文工件探索。",
     "developerName": "Giancarlo Erra",
     "category": "Development",
     "capabilities": [
-      "Read"
+      "适用场景：为 SocratiCode 提供代码…"
     ],
     "websiteURL": "https://github.com/giancarloerra/socraticode",
     "privacyPolicyURL": "https://github.com/giancarloerra/socraticode/blob/main/SECURITY.md",
     "termsOfServiceURL": "https://github.com/giancarloerra/socraticode/blob/main/LICENSE",
     "defaultPrompt": [
-      "Use SocratiCode to search the codebase for authentication handling.",
-      "Use SocratiCode to visualize the dependency graph of this project."
+      "使用 SocratiCode 帮我：为 SocratiCode 提供代码…"
     ]
   }
 }

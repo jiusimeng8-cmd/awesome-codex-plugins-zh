@@ -1,7 +1,7 @@
 {
   "name": "mantis",
   "version": "0.1.0",
-  "description": "Mantis offensive-security daemon — autonomous bug bounty hunter with 7-phase FSM (RECON → AUTH → HUNT → CHAIN → VERIFY → GRADE → REPORT), parallel hunter sub-agents, cryptographic scope enforcement, and BLAKE3/Ed25519 Merkle event logs. Use only against assets you own or have explicit written authorization to test.",
+  "description": "Mantis 进攻安全守护进程与自动漏洞赏金助手，包含七阶段状态机、并行子智能体、密码学范围控制及 BLAKE3/Ed25519 Merkle 事件日志；仅可用于您拥有或已获书面授权测试的资产。",
   "author": {
     "name": "Deon Menezes",
     "url": "https://github.com/deonmenezes"
@@ -19,15 +19,13 @@
   ],
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "Mantis",
-    "shortDescription": "Autonomous bug bounty hunting for authorized engagements.",
-    "longDescription": "Mantis runs a 7-phase finite-state machine — RECON → AUTH → HUNT → CHAIN → VERIFY → GRADE → REPORT — with parallel hunter sub-agents, cryptographic scope enforcement, and BLAKE3/Ed25519 Merkle event logs. Generates disclosure-ready reports in Markdown, PDF, HackerOne, Bugcrowd, SARIF, and OpenVEX formats. AUTHORIZED USE ONLY — never run against assets you do not own or have explicit written authorization to test.",
+    "displayName": "Mantis · 进攻安全守护进程与自动漏洞赏金助手",
+    "shortDescription": "进攻安全守护进程与自动漏洞赏金助手",
+    "longDescription": "Mantis 进攻安全守护进程与自动漏洞赏金助手，包含七阶段状态机、并行子智能体、密码学范围控制及 BLAKE3/Ed25519 Merkle 事件日志；仅可用于您拥有或已获书面授权测试的资产。",
     "developerName": "Deon Menezes",
     "category": "Security",
     "capabilities": [
-      "Interactive",
-      "MCP",
-      "Security"
+      "适用场景：进攻安全守护进程与自动漏洞赏金助手"
     ],
     "composerIcon": "./assets/icon.svg",
     "logo": "./assets/icon.svg",
@@ -35,9 +33,7 @@
     "privacyPolicyURL": "https://github.com/deonmenezes/mantishack/blob/main/SECURITY.md",
     "termsOfServiceURL": "https://github.com/deonmenezes/mantishack/blob/main/DISCLAIMER_BOB_STYLE.md",
     "defaultPrompt": [
-      "Start a Mantis hunt for example.com",
-      "Show Mantis status for the latest run",
-      "Generate a disclosure-ready report for the latest finding"
+      "使用 Mantis 帮我：进攻安全守护进程与自动漏洞赏金助手"
     ],
     "brandColor": "#0F1419"
   }

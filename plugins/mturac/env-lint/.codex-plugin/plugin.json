@@ -1,7 +1,7 @@
 {
   "name": "env-lint",
   "version": "0.1.0",
-  "description": ".env vs .env.example key parity (never prints values).",
+  "description": "检查 .env 与 .env.example 的键一致性，且绝不输出变量值。",
   "author": {
     "name": "Mehmet Turac",
     "url": "https://github.com/mturac"
@@ -16,20 +16,19 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Env Lint",
-    "shortDescription": ".env vs .env.example key parity (never prints values).",
-    "longDescription": "Compares .env vs .env.example key parity without ever printing values.",
+    "displayName": "Env Lint · 检查 .env 与 .env.exa…",
+    "shortDescription": "检查 .env 与 .env.exa…",
+    "longDescription": "检查 .env 与 .env.example 的键一致性，且绝不输出变量值。",
     "developerName": "Mehmet Turac",
     "category": "Productivity",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：检查 .env 与 .env.exa…"
     ],
     "websiteURL": "https://github.com/mturac/pluginpool-env-lint",
     "privacyPolicyURL": "https://github.com/mturac/pluginpool-env-lint/blob/main/LICENSE",
     "termsOfServiceURL": "https://github.com/mturac/pluginpool-env-lint/blob/main/LICENSE",
     "defaultPrompt": [
-      "Use Env Lint to .env vs .env.example key parity (never prints values)."
+      "使用 Env Lint 帮我：检查 .env 与 .env.exa…"
     ],
     "brandColor": "#7c3aed",
     "composerIcon": "./assets/icon.svg"

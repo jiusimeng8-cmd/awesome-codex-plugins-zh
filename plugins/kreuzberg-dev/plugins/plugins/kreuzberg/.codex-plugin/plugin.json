@@ -1,7 +1,7 @@
 {
   "name": "kreuzberg",
   "version": "0.2.2",
-  "description": "Local document extraction: text, tables, metadata, images from 91+ formats with optional OCR.",
+  "description": "从 91 种以上格式中本地提取文档文本、表格、元数据和图像，并支持可选 OCR。",
   "author": {
     "name": "Kreuzberg, Inc.",
     "email": "support@kreuzberg.dev",
@@ -19,18 +19,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Kreuzberg",
-    "shortDescription": "Local document extraction for 91+ formats",
-    "longDescription": "Extract text, tables, metadata, and images from PDFs, Office files, images, HTML, email, archives, and academic formats. Runs locally via the kreuzberg CLI and an auto-registered MCP server. Plugin ships skills covering the CLI surface, OCR backends, table extraction, and output-format selection.",
+    "displayName": "Kreuzberg · 从 91 种以上格式中本地提取文档文…",
+    "shortDescription": "从 91 种以上格式中本地提取文档文…",
+    "longDescription": "从 91 种以上格式中本地提取文档文本、表格、元数据和图像，并支持可选 OCR。",
     "developerName": "Kreuzberg, Inc.",
     "category": "document-intelligence",
     "capabilities": [
-      "Read"
+      "适用场景：从 91 种以上格式中本地提取文档文…"
     ],
     "defaultPrompt": [
-      "Extract text from this PDF",
-      "OCR a scanned image",
-      "List supported formats"
+      "使用 Kreuzberg 帮我：从 91 种以上格式中本地提取文档文…"
     ],
     "websiteURL": "https://kreuzberg.dev",
     "privacyPolicyURL": "https://kreuzberg.dev/privacy",

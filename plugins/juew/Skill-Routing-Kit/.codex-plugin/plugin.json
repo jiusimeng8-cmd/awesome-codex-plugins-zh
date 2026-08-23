@@ -1,7 +1,7 @@
 {
   "name": "skill-routing-kit",
   "version": "0.1.0+codex.20260604032338",
-  "description": "Local-first skill and plugin routing guard, registry, and diagnostics for Codex.",
+  "description": "面向 Codex 的本地优先技能与插件路由守卫、注册表和诊断工具。",
   "author": {
     "name": "Zhonghao"
   },
@@ -17,9 +17,9 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Skill Routing Kit",
-    "shortDescription": "Local-first skill routing guard and diagnostics.",
-    "longDescription": "Improve Codex skill and plugin hit rate with an always-on AGENTS routing guard, a local capability registry, and explicit diagnostic scripts.",
+    "displayName": "Skill Routing Kit · 面向 Codex 的本地优先技能与插…",
+    "shortDescription": "面向 Codex 的本地优先技能与插…",
+    "longDescription": "面向 Codex 的本地优先技能与插件路由守卫、注册表和诊断工具。",
     "defaultPrompt": "Use Skill Routing Kit to diagnose which Codex skill or plugin should handle a request, refresh the local capability registry, or improve skill routing hit rate.",
     "developerName": "Zhonghao",
     "category": "Productivity",
@@ -27,10 +27,7 @@
     "composerIcon": "./assets/icon.png",
     "logo": "./assets/logo.png",
     "capabilities": [
-      "Skill routing guard",
-      "Local capability registry",
-      "Routing diagnostics",
-      "Registry maintenance"
+      "适用场景：面向 Codex 的本地优先技能与插…"
     ]
   }
 }

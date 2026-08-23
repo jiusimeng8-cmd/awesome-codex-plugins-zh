@@ -1,7 +1,7 @@
 {
   "name": "standup-gen",
   "version": "0.1.0",
-  "description": "Daily standup notes from git activity.",
+  "description": "根据 Git 活动生成每日站会记录。",
   "author": {
     "name": "Mehmet Turac",
     "url": "https://github.com/mturac"
@@ -16,20 +16,19 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Standup Generator",
-    "shortDescription": "Daily standup notes from git activity.",
-    "longDescription": "Generates daily standup notes from git activity across one or many repositories.",
+    "displayName": "Standup Generator · 根据 Git 活动生成每日站会记录",
+    "shortDescription": "根据 Git 活动生成每日站会记录",
+    "longDescription": "根据 Git 活动生成每日站会记录。",
     "developerName": "Mehmet Turac",
     "category": "Productivity",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：根据 Git 活动生成每日站会记录"
     ],
     "websiteURL": "https://github.com/mturac/pluginpool-standup-gen",
     "privacyPolicyURL": "https://github.com/mturac/pluginpool-standup-gen/blob/main/LICENSE",
     "termsOfServiceURL": "https://github.com/mturac/pluginpool-standup-gen/blob/main/LICENSE",
     "defaultPrompt": [
-      "Use Standup Generator to daily standup notes from git activity."
+      "使用 Standup Generator 帮我：根据 Git 活动生成每日站会记录"
     ],
     "brandColor": "#7c3aed",
     "composerIcon": "./assets/icon.svg"

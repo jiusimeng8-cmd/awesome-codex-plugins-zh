@@ -1,7 +1,7 @@
 {
   "name": "kreuzcrawl",
   "version": "0.2.2",
-  "description": "Web crawling and scraping with HTML→Markdown and headless-Chrome fallback.",
+  "description": "网页爬取与抓取工具，支持 HTML 转 Markdown 和无头 Chrome 回退。",
   "author": {
     "name": "Kreuzberg, Inc.",
     "email": "support@kreuzberg.dev",
@@ -18,19 +18,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Kreuzcrawl",
-    "shortDescription": "Crawl and scrape sites to clean markdown",
-    "longDescription": "Scrape single pages, crawl entire sites, or map a domain's URLs through the local kreuzcrawl CLI. Every page is converted to clean Markdown via the built-in HTML→Markdown engine. WAF-blocked or JS-heavy pages transparently fall back to a headless Chrome backend.",
+    "displayName": "Kreuzcrawl · 网页爬取与抓取工具",
+    "shortDescription": "网页爬取与抓取工具",
+    "longDescription": "网页爬取与抓取工具，支持 HTML 转 Markdown 和无头 Chrome 回退。",
     "developerName": "Kreuzberg, Inc.",
     "category": "web-scraping",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：网页爬取与抓取工具"
     ],
     "defaultPrompt": [
-      "Crawl this site to markdown",
-      "Scrape a single page",
-      "Fall back to headless mode"
+      "使用 Kreuzcrawl 帮我：网页爬取与抓取工具"
     ],
     "websiteURL": "https://kreuzberg.dev",
     "privacyPolicyURL": "https://kreuzberg.dev/privacy",

@@ -1,7 +1,7 @@
 {
   "name": "openproject",
   "version": "0.1.0",
-  "description": "Codex plugin for browsing OpenProject projects and managing work packages through the API v3.",
+  "description": "通过 OpenProject API v3 浏览项目并管理工作包的 Codex 插件。",
   "author": {
     "name": "Sai",
     "email": "",
@@ -19,23 +19,19 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "OpenProject",
-    "shortDescription": "Inspect projects and manage work packages in OpenProject.",
-    "longDescription": "Connect Codex to an OpenProject instance so it can find projects, inspect work packages, create new work packages, update existing ones, and add comments through the OpenProject API v3.",
+    "displayName": "OpenProject · 通过 OpenProject API…",
+    "shortDescription": "通过 OpenProject API…",
+    "longDescription": "通过 OpenProject API v3 浏览项目并管理工作包的 Codex 插件。",
     "developerName": "Sai",
     "category": "Productivity",
     "capabilities": [
-      "Read",
-      "Write",
-      "Interactive"
+      "适用场景：通过 OpenProject API…"
     ],
     "websiteURL": "https://www.openproject.org/docs/api/",
     "privacyPolicyURL": "https://www.openproject.org/legal/privacy-policy/",
     "termsOfServiceURL": "https://www.openproject.org/legal/terms-of-service/",
     "defaultPrompt": [
-      "List my OpenProject projects and recent work packages.",
-      "Create an OpenProject task in the right project.",
-      "Update an OpenProject work package and add a comment."
+      "使用 OpenProject 帮我：通过 OpenProject API…"
     ],
     "brandColor": "#1A67A3",
     "composerIcon": "./assets/openproject-icon.svg",

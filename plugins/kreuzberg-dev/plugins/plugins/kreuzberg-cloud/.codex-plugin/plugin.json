@@ -1,7 +1,7 @@
 {
   "name": "kreuzberg-cloud",
   "version": "0.2.2",
-  "description": "Managed Kreuzberg document intelligence on api.kreuzberg.dev — async extraction with OCR, URL crawling, presigned uploads, document versioning and diffing, signed webhooks, and usage tracking.",
+  "description": "Kreuzberg 托管文档智能服务：异步 OCR 提取、URL 爬取、预签名上传、文档版本与差异、签名 Webhook 和用量追踪。",
   "author": {
     "name": "Kreuzberg, Inc.",
     "email": "support@kreuzberg.dev",
@@ -21,20 +21,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Kreuzberg Cloud",
-    "shortDescription": "Managed extraction, document versioning, and diffing",
-    "longDescription": "Managed Kreuzberg document intelligence at api.kreuzberg.dev. Authenticate with a bearer API key; submit documents or URL crawls for async extraction with OCR, push large files through presigned uploads, poll job status or receive signed webhook callbacks, retrieve stored documents and diff their versions, and track per-project usage against your quota. Sandbox keys are available for evaluation without signup. An MCP server lands in plugin v0.2.0.",
+    "displayName": "Kreuzberg Cloud · 托管文档智能服务",
+    "shortDescription": "托管文档智能服务",
+    "longDescription": "Kreuzberg 托管文档智能服务：异步 OCR 提取、URL 爬取、预签名上传、文档版本与差异、签名 Webhook 和用量追踪。",
     "developerName": "Kreuzberg, Inc.",
     "category": "document-intelligence",
     "capabilities": [
-      "Read",
-      "Write"
+      "适用场景：托管文档智能服务"
     ],
     "defaultPrompt": [
-      "Extract this PDF in the cloud",
-      "Check my usage",
-      "Get this job's result",
-      "Diff the last two versions of this document"
+      "使用 Kreuzberg Cloud 帮我：托管文档智能服务"
     ],
     "websiteURL": "https://kreuzberg.dev",
     "privacyPolicyURL": "https://kreuzberg.dev/privacy",

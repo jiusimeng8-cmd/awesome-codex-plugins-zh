@@ -1,7 +1,7 @@
 {
   "name": "pdf-monster",
   "version": "0.1.0",
-  "description": "Analyze PDFs as agent-readable text, OCR text, page render images, and embedded image files without polluting the working directory.",
+  "description": "将 PDF 解析为智能体可读文本、OCR 文本、页面渲染图像和内嵌图像文件，同时不污染工作目录。",
   "author": {
     "name": "Johnny Bae",
     "url": "https://github.com/jbaehova"
@@ -19,18 +19,17 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "PDF Monster",
-    "shortDescription": "Read PDFs through text, OCR, page images, and extracted figures",
-    "longDescription": "PDF Monster helps Codex inspect PDFs by converting them into structured, agent-readable evidence: per-page text, optional OCR text, rendered page images, and extracted embedded images. It keeps generated artifacts out of the user's working directory unless persistence is explicitly requested.",
+    "displayName": "PDF Monster · 将 PDF 解析为智能体可读文本",
+    "shortDescription": "将 PDF 解析为智能体可读文本",
+    "longDescription": "将 PDF 解析为智能体可读文本、OCR 文本、页面渲染图像和内嵌图像文件，同时不污染工作目录。",
     "developerName": "Johnny Bae",
     "category": "Research",
     "capabilities": [
-      "Read"
+      "适用场景：将 PDF 解析为智能体可读文本"
     ],
     "websiteURL": "https://github.com/jbaehova/pdf-monster",
     "defaultPrompt": [
-      "Analyze this PDF with PDF Monster",
-      "Extract PDF text, OCR, and visual evidence"
+      "使用 PDF Monster 帮我：将 PDF 解析为智能体可读文本"
     ],
     "brandColor": "#DC2626",
     "composerIcon": "./assets/pdf-monster.svg",

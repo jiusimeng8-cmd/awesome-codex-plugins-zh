@@ -1,7 +1,7 @@
 {
   "name": "changelog-forge",
   "version": "0.1.0",
-  "description": "Conventional commits \u2192 CHANGELOG + semver bump.",
+  "description": "根据 Conventional Commits 生成 CHANGELOG 并进行语义化版本升级。",
   "author": {
     "name": "Mehmet Turac",
     "url": "https://github.com/mturac"
@@ -16,20 +16,19 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Changelog Forge",
-    "shortDescription": "Conventional commits \u2192 CHANGELOG + semver bump.",
-    "longDescription": "Converts conventional commits into a CHANGELOG section with a semver bump suggestion.",
+    "displayName": "Changelog Forge · 根据 Conventional Co…",
+    "shortDescription": "根据 Conventional Co…",
+    "longDescription": "根据 Conventional Commits 生成 CHANGELOG 并进行语义化版本升级。",
     "developerName": "Mehmet Turac",
     "category": "Productivity",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：根据 Conventional Co…"
     ],
     "websiteURL": "https://github.com/mturac/pluginpool-changelog-forge",
     "privacyPolicyURL": "https://github.com/mturac/pluginpool-changelog-forge/blob/main/LICENSE",
     "termsOfServiceURL": "https://github.com/mturac/pluginpool-changelog-forge/blob/main/LICENSE",
     "defaultPrompt": [
-      "Use Changelog Forge to conventional commits \u2192 changelog + semver bump."
+      "使用 Changelog Forge 帮我：根据 Conventional Co…"
     ],
     "brandColor": "#7c3aed",
     "composerIcon": "./assets/icon.svg"

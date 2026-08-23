@@ -1,4 +1,4 @@
 interface:
-  display_name: "PDF Monster"
-  short_description: "Analyze PDFs via text, OCR, and page images"
-  default_prompt: "Use $pdf-monster to analyze this PDF without leaving generated files in the working directory."
+  display_name: "PDF Monster · 将 PDF 解析为智能体可读文本"
+  short_description: "将 PDF 解析为智能体可读文本"
+  default_prompt: "使用 PDF Monster 帮我：将 PDF 解析为智能体可读文本"

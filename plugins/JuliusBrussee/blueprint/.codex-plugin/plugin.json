@@ -1,7 +1,7 @@
 {
   "name": "ck",
   "version": "2.0.0",
-  "description": "Cavekit Framework for Codex and Claude Code. Draft kits, architect build sites, and execute adaptive build waves with validation and peer review.",
+  "description": "面向 Codex 和 Claude Code 的 Cavekit 框架：起草工作包、设计站点并以自适应构建波次执行、验证和同行评审。",
   "author": {
     "name": "Julius Brussee",
     "url": "https://github.com/JuliusBrussee"
@@ -20,14 +20,13 @@
   "agents": "./agents/",
   "commands": "./commands/",
   "interface": {
-    "displayName": "Cavekit",
-    "shortDescription": "Cavekit-driven software delivery for coding agents",
-    "longDescription": "Turn natural language into kits, kits into build sites, and build sites into validated code with adaptive parallel execution.",
+    "displayName": "Cavekit · 面向 Codex 和 Claude…",
+    "shortDescription": "面向 Codex 和 Claude…",
+    "longDescription": "面向 Codex 和 Claude Code 的 Cavekit 框架：起草工作包、设计站点并以自适应构建波次执行、验证和同行评审。",
     "developerName": "Julius Brussee",
     "category": "Productivity",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：面向 Codex 和 Claude…"
     ],
     "composerIcon": "./.codex-plugin/icon.svg",
     "logo": "./.codex-plugin/logo.svg",
@@ -36,9 +35,7 @@
     "termsOfServiceURL": "./.codex-plugin/TERMS.md",
     "websiteURL": "https://github.com/JuliusBrussee/cavekit",
     "defaultPrompt": [
-      "Draft kits for a feature from my repo context.",
-      "Architect the current kits into a build site.",
-      "Build the current site with adaptive parallel work packets."
+      "使用 Cavekit 帮我：面向 Codex 和 Claude…"
     ],
     "brandColor": "#1F4B99"
   }

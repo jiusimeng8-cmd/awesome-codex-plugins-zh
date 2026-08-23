@@ -1,7 +1,7 @@
 {
   "name": "pr-storyteller",
   "version": "0.1.0",
-  "description": "PR title + body + test plan from commits and diff vs base.",
+  "description": "根据提交记录和相对基线的差异生成 PR 标题、正文和测试计划。",
   "author": {
     "name": "Mehmet Turac",
     "url": "https://github.com/mturac"
@@ -17,20 +17,19 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "PR Storyteller",
-    "shortDescription": "PR title + body + test plan from commits and diff vs base.",
-    "longDescription": "Generates a complete PR description (title, body, test plan) from commits and the diff vs base branch.",
+    "displayName": "PR Storyteller · 根据提交记录和相对基线的差异生成 P…",
+    "shortDescription": "根据提交记录和相对基线的差异生成 P…",
+    "longDescription": "根据提交记录和相对基线的差异生成 PR 标题、正文和测试计划。",
     "developerName": "Mehmet Turac",
     "category": "Productivity",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：根据提交记录和相对基线的差异生成 P…"
     ],
     "websiteURL": "https://github.com/mturac/pluginpool-pr-storyteller",
     "privacyPolicyURL": "https://github.com/mturac/pluginpool-pr-storyteller/blob/main/LICENSE",
     "termsOfServiceURL": "https://github.com/mturac/pluginpool-pr-storyteller/blob/main/LICENSE",
     "defaultPrompt": [
-      "Use PR Storyteller to pr title + body + test plan from commits and diff vs base."
+      "使用 PR Storyteller 帮我：根据提交记录和相对基线的差异生成 P…"
     ],
     "brandColor": "#7c3aed",
     "composerIcon": "./assets/icon.svg"

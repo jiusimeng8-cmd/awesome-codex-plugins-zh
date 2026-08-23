@@ -1,7 +1,7 @@
 {
   "name": "epic",
   "version": "0.4.5",
-  "description": "Auto-trigger skills + self-evolving agent harness. Orbit (spec-to-ship pipeline), evolve (skill mutation engine), team (multi-agent org design), TDD, check, ship, simplify, debug, perf, secure, and more — triggered by context, not commands.",
+  "description": "按上下文而非命令自动触发的技能与自进化智能体框架，覆盖需求到交付、技能演化、多智能体组织、测试、调试、性能和安全流程。",
   "author": {
     "name": "epicsagas",
     "url": "https://github.com/epicsagas"
@@ -24,8 +24,9 @@
     "team"
   ],
   "interface": {
-    "displayName": "Epic Harness",
-    "shortDescription": "Auto-trigger quality skills + self-evolving agent harness — orbit, evolve, team, TDD, check, ship.",
-    "composerIcon": "../assets/icon.png"
+    "displayName": "Epic Harness · 按上下文而非命令自动触发的技能与自进…",
+    "shortDescription": "按上下文而非命令自动触发的技能与自进…",
+    "composerIcon": "../assets/icon.png",
+    "longDescription": "按上下文而非命令自动触发的技能与自进化智能体框架，覆盖需求到交付、技能演化、多智能体组织、测试、调试、性能和安全流程。"
   }
 }

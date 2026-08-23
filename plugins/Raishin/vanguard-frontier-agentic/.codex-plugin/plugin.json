@@ -1,7 +1,7 @@
 {
   "name": "vanguard-frontier-agentic",
   "version": "2.10.1",
-  "description": "Cloud and zero-trust agentic workflow marketplace for skills, agents, rules, MCP references, and compliance-aware architecture.",
+  "description": "面向技能、智能体、规则、MCP 参考与合规架构的云端零信任智能体工作流市场。",
   "author": {
     "name": "Raishin",
     "url": "https://github.com/Raishin"
@@ -27,15 +27,13 @@
     "codex"
   ],
   "interface": {
-    "displayName": "Vanguard Frontier Agentic",
-    "shortDescription": "Cloud, zero-trust, and compliance-aware agentic workflow marketplace.",
-    "longDescription": "Vanguard Frontier Agentic is an enterprise-grade ecosystem of AI-agent workflows for cloud, security, compliance, ERP, and platform operations. It provides specialist agents, skills, rules, MCP references, routing patterns, and live-mutation guardrails for high-stakes agentic work across Codex and other coding agents.",
+    "displayName": "Vanguard Frontier Agentic · 面向技能",
+    "shortDescription": "面向技能",
+    "longDescription": "面向技能、智能体、规则、MCP 参考与合规架构的云端零信任智能体工作流市场。",
     "developerName": "Raishin",
     "category": "Coding",
     "capabilities": [
-      "Interactive",
-      "Read",
-      "Write"
+      "适用场景：面向技能"
     ],
     "composerIcon": "./assets/logos/vanguard-frontier-agentic.svg",
     "websiteURL": "https://github.com/Raishin/vanguard-frontier-agentic",

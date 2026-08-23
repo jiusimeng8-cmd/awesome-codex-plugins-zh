@@ -1,7 +1,7 @@
 {
   "name": "seo-dungeon",
   "version": "2.2.16",
-  "description": "SEO Dungeon skill suite with a gamified local audit UI. 25 sub-skills (21 core + 1 orchestrator + 1 framework integration + 2 extension mirrors), 18 sub-agents, and 23 Codex agent profiles backed by the v2.2 SEO engine.",
+  "description": "带游戏化本地审计界面的 SEO 技能套件，包含 25 个子技能、18 个子智能体和 23 个由 v2.2 SEO 引擎支持的 Codex 智能体配置。",
   "author": {
     "name": "Avalon Reset",
     "email": "avalonreset@users.noreply.github.com",
@@ -43,20 +43,17 @@
   "skills": "./skills/",
   "hooks": "./hooks/hooks.json",
   "interface": {
-    "displayName": "SEO Dungeon",
-    "shortDescription": "Run SEO Dungeon audits and SEO workflows in Codex.",
-    "longDescription": "SEO Dungeon is a gamified SEO analysis suite with Codex-compatible skills, Codex agent profiles, portable agent prompts, shared cache artifacts, optional SEO data integrations, and a dungeon crawler UI.",
+    "displayName": "SEO Dungeon · 带游戏化本地审计界面的 SEO 技能…",
+    "shortDescription": "带游戏化本地审计界面的 SEO 技能…",
+    "longDescription": "带游戏化本地审计界面的 SEO 技能套件，包含 25 个子技能、18 个子智能体和 23 个由 v2.2 SEO 引擎支持的 Codex 智能体配置。",
     "developerName": "Avalon Reset",
     "category": "Productivity",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：带游戏化本地审计界面的 SEO 技能…"
     ],
     "websiteURL": "https://github.com/avalonreset/seo-dungeon",
     "defaultPrompt": [
-      "Audit this website for SEO issues.",
-      "Check schema and Core Web Vitals for this URL.",
-      "Build an SEO action plan for this business."
+      "使用 SEO Dungeon 帮我：带游戏化本地审计界面的 SEO 技能…"
     ],
     "brandColor": "#D4AF37",
     "composerIcon": "./assets/icon.svg"

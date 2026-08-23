@@ -1,7 +1,7 @@
 {
   "name": "agenttrace",
   "version": "0.3.48",
-  "description": "Audit local AI coding-agent sessions for cost, token waste, failures, latency, anomalies, health, diffs, and CI gate signals.",
+  "description": "审计本地 AI 编程智能体会话的成本、Token 浪费、失败、延迟、异常、健康度、差异和 CI 门禁信号。",
   "author": {
     "name": "luoyuctl",
     "url": "https://github.com/luoyuctl"
@@ -20,22 +20,19 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "agenttrace",
-    "shortDescription": "Audit local AI agent sessions",
-    "longDescription": "Use agenttrace to inspect local Claude Code, Codex CLI, Gemini CLI, Qwen Code, Aider, Cursor, OpenCode, Oh My Pi, Kimi, Copilot-style, and generic JSON/JSONL sessions for spend, token use, tool failures, latency, health, anomalies, diffs, and CI-ready gate signals.",
+    "displayName": "agenttrace · 审计本地 AI 编程智能体会话的成本",
+    "shortDescription": "审计本地 AI 编程智能体会话的成本",
+    "longDescription": "审计本地 AI 编程智能体会话的成本、Token 浪费、失败、延迟、异常、健康度、差异和 CI 门禁信号。",
     "developerName": "luoyuctl",
     "category": "Developer Tools",
     "capabilities": [
-      "Interactive",
-      "Read"
+      "适用场景：审计本地 AI 编程智能体会话的成本"
     ],
     "websiteURL": "https://luoyuctl.github.io/agenttrace/",
     "privacyPolicyURL": "https://github.com/luoyuctl/agenttrace/blob/master/PRIVACY.md",
     "termsOfServiceURL": "https://github.com/luoyuctl/agenttrace/blob/master/LICENSE",
     "defaultPrompt": [
-      "Audit my latest AI coding-agent session with agenttrace.",
-      "Summarize local agent session health and token waste.",
-      "Create a Markdown overview report for agent sessions."
+      "使用 agenttrace 帮我：审计本地 AI 编程智能体会话的成本"
     ],
     "brandColor": "#54FF00",
     "composerIcon": "./assets/plugin-icon.svg",

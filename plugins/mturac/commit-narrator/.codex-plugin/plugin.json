@@ -1,7 +1,7 @@
 {
   "name": "commit-narrator",
   "version": "0.1.0",
-  "description": "Generate semantic commit message from staged diff.",
+  "description": "根据暂存区差异生成语义化提交信息。",
   "author": {
     "name": "Mehmet Turac",
     "url": "https://github.com/mturac"
@@ -17,20 +17,19 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Commit Narrator",
-    "shortDescription": "Generate semantic commit message from staged diff.",
-    "longDescription": "Generates conventional commit messages from `git diff --cached`, including the *why* behind changes. Deterministic Python helper (stdlib only) wrapped as a slash command.",
+    "displayName": "Commit Narrator · 根据暂存区差异生成语义化提交信息",
+    "shortDescription": "根据暂存区差异生成语义化提交信息",
+    "longDescription": "根据暂存区差异生成语义化提交信息。",
     "developerName": "Mehmet Turac",
     "category": "Productivity",
     "capabilities": [
-      "Interactive",
-      "Write"
+      "适用场景：根据暂存区差异生成语义化提交信息"
     ],
     "websiteURL": "https://github.com/mturac/pluginpool-commit-narrator",
     "privacyPolicyURL": "https://github.com/mturac/pluginpool-commit-narrator/blob/main/LICENSE",
     "termsOfServiceURL": "https://github.com/mturac/pluginpool-commit-narrator/blob/main/LICENSE",
     "defaultPrompt": [
-      "Use Commit Narrator to generate semantic commit message from staged diff."
+      "使用 Commit Narrator 帮我：根据暂存区差异生成语义化提交信息"
     ],
     "brandColor": "#7c3aed",
     "composerIcon": "./assets/icon.svg"
