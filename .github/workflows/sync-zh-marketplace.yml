@@ -28,6 +28,8 @@ jobs:
         run: python scripts/localize_catalog.py --refresh-source
       - name: Apply Chinese documentation overlays
         run: python scripts/apply_doc_overlays.py
+      - name: Validate Chinese documentation overlays
+        run: python scripts/validate_doc_overlays.py HEAD
       - name: Commit synchronized marketplace
         run: |
           if git diff --quiet; then
@@ -36,6 +38,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add plugins plugins.json translations .agents/plugins/marketplace.json
+          git add plugins plugins.json translations scripts .agents/plugins/marketplace.json
           git commit -m "chore: sync upstream and refresh Chinese marketplace"
           git push origin HEAD:main
