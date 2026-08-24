@@ -26,6 +26,8 @@ jobs:
           git checkout upstream/main -- .agents/plugins/marketplace.json
       - name: Generate the Chinese catalog and plugin metadata
         run: python scripts/localize_catalog.py --refresh-source
+      - name: Apply Chinese documentation overlays
+        run: python scripts/apply_doc_overlays.py
       - name: Commit synchronized marketplace
         run: |
           if git diff --quiet; then
